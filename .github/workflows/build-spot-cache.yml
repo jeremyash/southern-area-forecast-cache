@@ -1,34 +1,23 @@
-name: Build spot forecast cache
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
 
-on:
-  schedule:
-    - cron: "7,37 * * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-concurrency:
-  group: build-spot-cache
-  cancel-in-progress: false
-
-jobs:
-  build-spot-cache:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Check out main branch
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          path: main-repo
-
-      - name: Check out cache-data branch
-        uses: actions/checkout@v4
-        with:
-          ref: cache-data
-          path: cache-repo
-
-      - name: Placeholder
+      - name: Run spot cache build
         run: |
-          echo "Spot cache workflow shell created."
+          Rscript main-repo/scripts/build_spot_superfog_cache.R
+        env:
+          CACHE_OUT_DIR: cache-repo/cache
+
+      - name: Commit cache output
+        run: |
+          cd cache-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add cache/superfog_cache.rds
+
+          if git diff --cached --quiet; then
+            echo "No spot cache changes to commit."
+          else
+            git commit -m "Update spot forecast superfog cache"
+            git push origin cache-data
+          fi
