@@ -22,33 +22,83 @@ jobs:
         with:
           ref: main
           path: main-repo
+          fetch-depth: 0
 
       - name: Check out cache-data branch
         uses: actions/checkout@v4
         with:
           ref: cache-data
           path: cache-repo
+          fetch-depth: 0
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
 
-      - name: Run spot cache build
+      - name: Install system libraries
         run: |
-          Rscript main-repo/scripts/build_spot_superfog_cache.R
-        env:
-          CACHE_OUT_DIR: cache-repo/cache
+          sudo apt-get update
+          sudo apt-get install -y \
+            libgdal-dev \
+            libgeos-dev \
+            libproj-dev \
+            libudunits2-dev \
+            libcurl4-openssl-dev \
+            libssl-dev \
+            libxml2-dev
 
-      - name: Commit cache output
+      - name: Install R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 1
+          packages: |
+            any::tidyverse
+            any::lubridate
+            any::lutz
+            any::httr2
+            any::jsonlite
+            any::sf
+
+      - name: Run spot cache builder
+        working-directory: main-repo
+        env:
+          FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && 'true' || 'false' }}
+          CACHE_OUT_DIR: ../cache-repo/cache
         run: |
-          cd cache-repo
+          Rscript scripts/build_spot_superfog_cache.R
+
+      - name: Verify cache file exists and show timestamp
+        working-directory: cache-repo
+        run: |
+          echo "Working directory:"
+          pwd
+
+          echo "Contents of cache directory:"
+          ls -la cache || true
+
+          if [ ! -f cache/spot_superfog_cache.rds ]; then
+            echo "ERROR: cache/spot_superfog_cache.rds was not created"
+            exit 1
+          fi
+
+          Rscript -e 'x <- readRDS("cache/spot_superfog_cache.rds"); cat("cache timestamp:", as.character(x$last_refresh), "\n")'
+
+      - name: Show git status
+        working-directory: cache-repo
+        run: |
+          git status
+          git diff -- cache/spot_superfog_cache.rds || true
+
+      - name: Commit updated cache
+        working-directory: cache-repo
+        run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add cache/spot_superfog_cache.rds
 
-          if git diff --cached --quiet; then
+          if git diff --staged --quiet; then
             echo "No spot cache changes to commit."
           else
-            git commit -m "Update spot forecast superfog cache"
+            git commit -m "Update spot superfog cache"
             git push origin cache-data
           fi
