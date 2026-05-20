@@ -1,0 +1,36 @@
+name: Build NDFD superfog cache
+
+on:
+  schedule:
+    - cron: "0,30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-ndfd-superfog-cache
+  cancel-in-progress: false
+
+jobs:
+  build-ndfd-superfog-cache:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main-repo
+          fetch-depth: 0
+
+      - name: Check out cache-data branch
+        uses: actions/checkout@v4
+        with:
+          ref: cache-data
+          path: cache-repo
+          fetch-depth: 0
+
+      - name: Placeholder
+        run: |
+          echo "NDFD superfog cache workflow shell created."
