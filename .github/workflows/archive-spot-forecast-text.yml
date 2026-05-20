@@ -1,0 +1,86 @@
+name: Archive spot forecast text
+
+on:
+  schedule:
+    - cron: "23 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-spot-forecast-text
+  cancel-in-progress: false
+
+jobs:
+  archive-text:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main-repo
+          fetch-depth: 0
+
+      - name: Check out cache-data branch
+        uses: actions/checkout@v4
+        with:
+          ref: cache-data
+          path: cache-repo
+          fetch-depth: 0
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install system libraries
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libgdal-dev \
+            libgeos-dev \
+            libproj-dev \
+            libudunits2-dev \
+            libcurl4-openssl-dev \
+            libssl-dev \
+            libxml2-dev
+
+      - name: Install R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 1
+          packages: |
+            any::tidyverse
+            any::sf
+            any::lubridate
+            any::fs
+
+      - name: Build text archive
+        working-directory: main-repo
+        env:
+          SPOT_CACHE_PATH: ../cache-repo/cache/spot_superfog_cache.rds
+          TEXT_ARCHIVE_OUT_DIR: ../cache-repo/text-archive
+        run: |
+          Rscript scripts/archive_spot_forecast_text.R
+
+      - name: Verify text archive
+        working-directory: cache-repo
+        run: |
+          echo "Contents of text-archive:"
+          find text-archive -type f | head -50 || true
+
+      - name: Commit archived text files
+        working-directory: cache-repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add text-archive/
+
+          if git diff --staged --quiet; then
+            echo "No archived text changes to commit."
+          else
+            git commit -m "Archive spot forecast text files"
+            git push origin cache-data
+          fi
