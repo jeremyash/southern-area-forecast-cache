@@ -1,0 +1,176 @@
+
+000
+FNUS74 KLIX 201034
+FWSLIX
+
+Spot Forecast for Desoto Block 0250 South...USFS
+National Weather Service New Orleans LA
+534 AM CDT Wed May 20 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+Fire weather concerns continue to be limited as moisture
+continues to move back into the area leading to gradually
+increasing rain chances. Showers and thunderstorms will become
+more area-wide Wednesday through the weekend. Over the next
+7 days forecast rainfall totals vary from 4 to 7 inches across
+northwestern areas to less than an inch for extreme southeast
+Louisiana and much of the Mississippi coast. For most of the
+area, for most of the week, minimum humidities are likely to be
+60 percent or higher every day.
+
+.QUESTIONS...
+What is the chance for dense fog post ignition and will we see any
+chance of a sea-breeze set up during ignitions?
+
+Can't rule out patchy areas of fog, however, will be fully 
+dependent on if the area sees rain today. If so, chances for 
+patchy fog will be higher. But regardless, not anticipating 
+widespread dense fog concerns. 
+
+Doesn't appear to be a well-defined seabreeze today thanks to 
+persistent/breezy SE winds. Rather, winds pick up mid/late morning
+and remain out of the southeast through the afternoon/evening 
+without any significant wind shift. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (65-75 percent). Slight chance of 
+                    showers and thunderstorms late in the morning. 
+                    Chance of showers and thunderstorms in the 
+                    afternoon. 
+Chance of pcpn......30 percent. 
+Max temperature.....Around 88. 
+Min humidity........59 percent. 
+Dewpoint............71. 
+Max apparent temp...93. 
+Wind (20 ft)........Light winds becoming south 5 to 7 mph in the 
+                    late morning and afternoon. Gusty and erratic 
+                    winds expected near thunderstorms late in the 
+                    morning. Gusty and erratic winds expected near 
+                    thunderstorms in the afternoon. 
+Mixing height (m)...701-1311 meters AGL. 
+Transport winds.....South 8 to 12 mph. 
+Transport winds m/s.South 4 to 5 meters/second. 
+LVORI...............2. 
+Rainfall amount.....0.02 inches. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........74     60     56     55     76     
+Weather cov.....       S CHC  S CHC  CHANCE S CHC  
+Weather type....NONE   RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........       S CHC  S CHC  CHANCE S CHC  
+Chc of pcpn (%).10     20     20     30     20     
+Temp............79     84     86     86     85     
+Dewpoint........72     72     71     71     72     
+RH..............79     67     61     61     65     
+Aparnt tmp (F)..79     90     91     91     91     
+20 FT wind dir..SSE    SSE    S      S      S      
+20 FT wind spd..3      6      7      8      7      
+20 FT wind gust.7      9      13     13     12     
+Mix hgt (m).....700    980    1310   1130   850    
+Transp wind dir.SSE    S      S      S      S      
+Transp wind spd.10     12     9      8      9      
+Trans wind dir..SSE    S      S      S      S      
+Trans spd (m/s).4      5      4      4      4      
+LVORI...........3      1      1      1      3      
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Slight chance of 
+                    showers and thunderstorms early in the evening. 
+                    Slight chance of showers and thunderstorms 
+                    after 3 am. 
+Chance of pcpn......20 percent. 
+Min temperature.....Around 71. 
+Max humidity........90 percent. 
+Dewpoint............70. 
+Max apparent temp...90. 
+Wind (20 ft)........South winds around 6 mph early in the evening 
+                    becoming light. Gusty and erratic winds 
+                    expected near thunderstorms early in the 
+                    evening. Gusty and erratic winds expected near 
+                    thunderstorms after 3 am. 
+Mixing height (m)...122-701 meters AGL. 
+Transport winds.....South 5 to 9 mph. 
+Transport winds m/s.South 2 to 4 meters/second. 
+LVORI...............5. 
+Rainfall amount.....0.03 inches. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........72     70     73     72     75     71     
+Weather cov.....S CHC  S CHC                       S CHC  
+Weather type....RNSHWR RNSHWR NONE   NONE   NONE   RNSHWR 
+Tstm cov........S CHC  S CHC                       S CHC  
+Chc of pcpn (%).20     20     10     10     10     20     
+Temp............84     77     75     74     73     72     
+Dewpoint........72     72     71     71     70     69     
+RH..............67     85     87     90     90     90     
+Aparnt tmp (F)..90     77     75     74     73     72     
+20 FT wind dir..S      S      N      N      N      N      
+20 FT wind spd..6      2      0      0      0      0      
+20 FT wind gust.9      5      3      2      2      3      
+Mix hgt (m).....700    210    150    150    120    150    
+Transp wind dir.S      SSW    S      S      S      SSE    
+Transp wind spd.9      7      6      6      5      5      
+Trans wind dir..S      SSW    S      S      S      SSE    
+Trans spd (m/s).4      3      3      3      2      2      
+LVORI...........3      5      6      7      7      7      
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent) then becoming 
+                    partly sunny (50-60 percent). Chance of showers 
+                    and thunderstorms through the day. 
+Chance of pcpn......50 percent. 
+Max temperature.....Around 86. 
+Min humidity........65 percent. 
+Dewpoint............70. 
+Max apparent temp...91. 
+Wind (20 ft)........Light winds becoming south 6 to 9 mph late in 
+                    the morning. Gusty and erratic winds expected 
+                    near thunderstorms early in the morning. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    in the late morning and afternoon. 
+Mixing height (m)...152-1250 meters AGL. 
+Transport winds.....South 5 to 13 mph. 
+Transport winds m/s.South 2 to 6 meters/second. 
+LVORI...............4. 
+Rainfall amount.....0.21 inches. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........48     71     64     55     50     38     
+Weather cov.....S CHC  S CHC  CHANCE S CHC  CHANCE S CHC  
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........S CHC         CHANCE S CHC  CHANCE S CHC  
+Chc of pcpn (%).20     20     50     20     30     20     
+Temp............72     73     81     83     84     84     
+Dewpoint........69     71     72     72     72     72     
+RH..............90     93     74     70     67     67     
+Aparnt tmp (F)..72     73     85     88     90     90     
+20 FT wind dir..E      ESE    SSE    S      S      S      
+20 FT wind spd..1      1      3      7      9      12     
+20 FT wind gust.3      3      6      12     15     16     
+Mix hgt (m).....150    300    760    980    1250   1130   
+Transp wind dir.SSE    S      SE     S      S      S      
+Transp wind spd.5      5      8      9      12     12     
+Trans wind dir..SSE    S      SE     S      S      S      
+Trans spd (m/s).2      2      4      4      5      5      
+LVORI...........6      6      3      3      1      1      
+
+$$
+Forecaster...GILMORE
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2614079.0/LIX
+.DELDT 05/20/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

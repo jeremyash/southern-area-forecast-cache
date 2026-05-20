@@ -1,0 +1,164 @@
+
+000
+FNUS74 KMOB 201015
+FWSMOB
+
+Spot Forecast for Desoto Block 8301 South...USFS
+National Weather Service Mobile AL
+515 AM CDT Wed May 20 2026
+
+Forecast is based on ignition time of 0900 CDT on May 20. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...Rain chances will gradually increase over the next
+couple of days. There is a 30% chance of rain today and a 60% 
+chance of rain Thursday. Afternoon minimum relative humidity
+values will range around 55% this afternoon with transport winds 
+mostly southerly to south-southeasterly. Afternoon dispersion 
+values will be generally good. For Thursday, the minimum relative 
+humidity value will be around 65%. Transport winds will be mostly
+southerly to south-southeasterly, and dispersion values will be 
+generally good.
+
+
+Fog potential and other remarks...Fog is not expected either
+night. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (55-65 percent). Slight chance of 
+                    showers early in the afternoon. Slight chance 
+                    of thunderstorms in the afternoon. Chance of 
+                    showers late in the afternoon. 
+Chance of pcpn......30 percent. 
+Max temperature.....Around 89. 
+Min humidity........55 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms in the afternoon. 
+Mixing height.......4500 ft AGL. 
+Mixing height (m)...701-1372 meters AGL. 
+Transport winds.....South 8 to 12 mph. 
+Transport winds m/s.South 4 to 5 meters/second. 
+Dispersion index....28 increasing to 43 in the late morning and 
+                    early afternoon, then decreasing to 39 late in 
+                    the afternoon. 
+LVORI...............3. 
+Stability class.....2. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........79     62     51     49     61     
+Weather cov.....              S CHC  S CHC  CHANCE 
+Weather type....NONE   NONE   RNSHWR RNSHWR RNSHWR 
+Tstm cov........              S CHC  S CHC  S CHC  
+Chc of pcpn (%).0      10     20     20     30     
+Temp............76     83     87     88     87     
+RH..............87     67     57     55     57     
+20 FT wind dir..SSE    SSE    S      S      S      
+20 FT wind spd..2      3      5      5      5      
+20 FT wind gust.6      8      10     12     10     
+Mix hgt (ft)....2300   3300   4300   3800   4200   
+Mix hgt (m).....700    1010   1310   1160   1280   
+Transp wind dir.SSE    S      S      S      S      
+Transp wind spd.9      10     9      8      8      
+Trans wind dir..SSE    S      S      S      S      
+Trans spd (m/s).4      4      4      4      4      
+Dispersion idx..28     42     43     37     40     
+LVORI...........4      1      1      1      1      
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    partly cloudy (45-55 percent) then becoming 
+                    mostly cloudy (50-60 percent) then becoming 
+                    partly cloudy (45-55 percent). Chance of 
+                    showers and slight chance of thunderstorms 
+                    early in the evening, then slight chance of 
+                    showers early in the evening. Slight chance of 
+                    showers after 3 am. Patchy fog after 3 am. 
+Chance of pcpn......30 percent. 
+Min temperature.....Around 70. 
+Max humidity........97 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms early in the evening. 
+Mixing height.......400 ft AGL. 
+Mixing height (m)...122-1280 meters AGL. 
+Transport winds.....South 3 to 8 mph. 
+Transport winds m/s.South 1 to 4 meters/second. 
+Dispersion index....39 decreasing to 3. 
+LVORI...............5. 
+Stability class.....4. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........62     71     66     49     53     48     
+Weather cov.....CHANCE S CHC                       S CHC  
+Weather type....RNSHWR RNSHWR NONE   NONE   NONE   RN/FG  
+Tstm cov........S CHC                                     
+Chc of pcpn (%).30     20     10     10     10     20     
+Temp............85     77     74     72     72     71     
+RH..............61     82     87     93     90     90     
+20 FT wind dir..SSW    SSW    N      N      N      N      
+20 FT wind spd..3      1      0      0      0      0      
+20 FT wind gust.10     6      5      3      2      2      
+Mix hgt (ft)....4200   500    500    500    400    400    
+Mix hgt (m).....1280   150    150    150    120    120    
+Transp wind dir.S      SW     SSW    SSW    S      SSE    
+Transp wind spd.8      6      6      6      5      5      
+Trans wind dir..S      SW     SSW    SSW    S      SSE    
+Trans spd (m/s).4      3      3      3      2      2      
+Dispersion idx..39     3      2      3      2      2      
+LVORI...........3      5      6      6      7      7      
+
+.THURSDAY...
+
+Sky/weather.........Partly sunny (55-65 percent). Patchy fog early 
+                    in the morning. Chance of showers in the 
+                    morning. Chance of thunderstorms through the 
+                    day. Showers likely in the afternoon. 
+Chance of pcpn......60 percent. 
+Max temperature.....Around 88. 
+Min humidity........63 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph in the 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms in the late morning and 
+                    afternoon. 
+Mixing height.......5300 ft AGL. 
+Mixing height (m)...122-1615 meters AGL. 
+Transport winds.....South 3 to 12 mph increasing to around 13 mph 
+                    late in the afternoon. 
+Transport winds m/s.South 1 to 5 meters/second increasing to around 
+                    6 meters/second late in the afternoon. 
+Dispersion index....4 increasing to 60. 
+LVORI...............5. 
+Stability class.....2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........60     67     65     71     57     59     
+Weather cov.....S CHC  CHANCE CHANCE CHANCE LIKELY LIKELY 
+Weather type....RN/FG  RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........              CHANCE CHANCE CHANCE CHANCE 
+Chc of pcpn (%).20     30     40     40     60     60     
+Temp............71     72     79     84     85     84     
+RH..............90     93     79     67     65     67     
+20 FT wind dir..N      N      SSE    SSE    SSE    S      
+20 FT wind spd..0      0      2      5      6      7      
+20 FT wind gust.3      3      7      12     14     15     
+Mix hgt (ft)....400    900    2400   3900   5300   4200   
+Mix hgt (m).....120    270    730    1190   1620   1280   
+Transp wind dir.SSE    S      S      S      S      S      
+Transp wind spd.3      5      8      9      12     12     
+Trans wind dir..SSE    S      S      S      S      S      
+Trans spd (m/s).1      2      4      4      5      5      
+Dispersion idx..2      5      22     33     52     44     
+LVORI...........7      6      3      3      1      1      
+
+$$
+Forecaster...8
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2614081.0/MOB
+.DELDT 05/20/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

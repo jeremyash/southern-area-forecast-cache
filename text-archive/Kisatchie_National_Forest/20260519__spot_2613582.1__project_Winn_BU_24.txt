@@ -1,0 +1,92 @@
+
+000
+FNUS74 KSHV 190656
+FWSSHV
+
+Spot Forecast for Winn BU-24...uSDA Forest Service
+National Weather Service Shreveport LA
+156 AM CDT Tue May 19 2026
+
+Forecast is based on ignition time of 0800 CDT on May 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Showers and thunderstorm chances really begin increasing after 
+4pm with the possibility of strong and damaging wind gusts 
+with the storms late this afternoon into the evening hours. 
+In advance of the storms, expect south winds sustained near
+5 to 10 mph with gusts as high as 20 mph possible.  Look for
+an afternoon minimum relative humidity value near 55-60 
+percent. 
+
+.REST OF TODAY...
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........73  72  67  70  59  68  64  52  42  53  
+Weather cov.....                    SCH SCH SCH CHC CHC 
+Weather type....                    RW  RW  RW  RW  RW  
+Tstm cov........                    SCH SCH SCH CHC CHC 
+CWR.............10  10  10  10  10  20  20  20  50  50  
+Temp............77  78  81  85  86  87  89  88  88  87  
+RH..............85  85  77  67  65  61  57  59  59  61  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..5   5   6   6   6   6   6   6   5   5   
+20 FT wind gust.17  18  17  17  16  16  15  15  14  13  
+Mix hgt (kft)...1.6 1.8 2.5 3.3 3.7 3.4 4.1 3.8 4.4 3.2 
+Mix hgt (km)....0.5 0.5 0.8 1.0 1.1 1.0 1.2 1.2 1.3 1.0 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.14  15  16  18  18  15  14  14  14  12  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).6   7   7   8   8   7   6   6   6   5   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........68  60  69  72  84  75  64  83  55  59  57  66  
+Weather cov.....CHC DEF DEF DEF CHC CHC CHC CHC CHC CHC CHC CHC 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........CHC CHC CHC CHC SCH SCH SCH SCH SCH SCH         
+CWR.............50  80  80  80  50  50  50  30  30  30  30  30  
+Temp............85  82  78  75  74  73  73  72  72  72  72  72  
+RH..............67  74  79  87  87  90  90  93  93  93  93  93  
+20 FT wind dir..S   N   N   N   NE  NE  NE  SE  SE  SE  N   N   
+20 FT wind mph..5   2   2   2   1   1   1   1   1   1   0   0   
+20 FT wind gust.13  12  12  10  9   9   9   9   9   8   8   7   
+Mix hgt (kft)...2.2 0.9 0.5 0.8 0.9 0.8 0.7 0.7 0.7 0.5 0.5 0.8 
+Mix hgt (km)....0.7 0.3 0.2 0.2 0.3 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.SW  N   NE  N   N   E   SE  E   SE  SE  SE  SE  
+Transp wind spd.8   9   9   7   8   8   8   8   9   8   8   6   
+Trans wind dir..SW  N   NE  N   N   E   SE  E   SE  SE  SE  SE  
+Trans spd (m/s).4   4   4   3   4   4   4   4   4   4   4   3   
+
+.WEDNESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........69  82  66  74  76  70  61  68  80  82  82  72  
+Weather cov.....CHC CHC CHC CHC CHC CHC CHC LKY LKY LKY LKY LKY 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........    SCH SCH SCH CHC CHC CHC LKY LKY LKY LKY LKY 
+CWR.............30  30  30  30  50  50  50  70  70  70  70  70  
+Temp............72  71  72  73  76  78  79  81  82  82  83  81  
+RH..............93  97  97  97  90  88  85  79  77  77  74  77  
+20 FT wind dir..N   E   E   E   SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind mph..0   1   1   1   1   1   1   1   1   1   2   2   
+20 FT wind gust.7   6   6   7   7   7   7   7   7   7   8   8   
+Mix hgt (kft)...0.4 0.9 0.8 1.0 1.4 1.6 2.3 3.1 1.2 1.2 2.4 1.1 
+Mix hgt (km)....0.1 0.3 0.2 0.3 0.4 0.5 0.7 0.9 0.4 0.4 0.7 0.3 
+Transp wind dir.SW  SW  E   E   SE  SE  E   E   NE  E   E   NE  
+Transp wind spd.5   5   6   7   8   8   7   7   7   7   7   9   
+Trans wind dir..SW  SW  E   E   SE  SE  E   E   NE  E   E   NE  
+Trans spd (m/s).2   2   3   3   4   4   3   3   3   3   3   4   
+
+$$
+Forecaster...BERRY
+Requested by...Charles Davis
+Type of request...PRESCRIBED
+.TAG 2613582.1/SHV
+.DELDT 05/19/26
+.FormatterVersion 2.0.0
+.EMAIL charles.g.davis@usda.gov
+

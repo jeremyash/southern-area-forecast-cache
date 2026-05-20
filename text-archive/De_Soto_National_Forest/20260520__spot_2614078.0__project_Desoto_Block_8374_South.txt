@@ -1,0 +1,159 @@
+
+000
+FNUS74 KLIX 201033
+FWSLIX
+
+Spot Forecast for Desoto Block 8374 South...USFS
+National Weather Service New Orleans LA
+533 AM CDT Wed May 20 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+Fire weather concerns continue to be limited as moisture
+continues to move back into the area leading to gradually
+increasing rain chances. Showers and thunderstorms will become
+more area-wide Wednesday through the weekend. Over the next
+7 days forecast rainfall totals vary from 4 to 7 inches across
+northwestern areas to less than an inch for extreme southeast
+Louisiana and much of the Mississippi coast. For most of the
+area, for most of the week, minimum humidities are likely to be
+60 percent or higher every day.
+
+.QUESTIONS...
+What is the chance for dense fog post ignition and will we see any
+chance of a sea-breeze set up during ignitions?
+
+Can't rule out patchy areas of fog, however, will be fully 
+dependent on if the area sees rain today. If so, chances for 
+patchy fog will be higher. But regardless, not anticipating 
+widespread dense fog concerns. 
+
+Doesn't appear to be a well-defined seabreeze today thanks to 
+persistent/breezy SE winds. Rather, winds pick up mid/late morning
+and remain out of the southeast through the afternoon/evening 
+without any significant wind shift. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    partly sunny (55-65 percent). 
+Chance of pcpn......30 percent. 
+Max temperature.....Around 88. 
+Min humidity........57 percent. 
+Dewpoint............71. 
+Max apparent temp...93. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph in the 
+                    late morning and afternoon. 
+Mixing height (m)...762-1341 meters AGL. 
+Transport winds.....South 8 to 12 mph. 
+Transport winds m/s.South 4 to 5 meters/second. 
+LVORI...............2. 
+Rainfall amount.....0.02 inches. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........78     63     49     59     71     
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Chc of pcpn (%).10     20     20     20     20     
+Temp............79     84     87     87     86     
+Dewpoint........72     71     70     71     71     
+RH..............79     65     57     59     61     
+Aparnt tmp (F)..79     89     92     93     91     
+20 FT wind dir..SE     SSE    S      S      S      
+20 FT wind spd..3      6      7      7      7      
+20 FT wind gust.7      9      13     13     12     
+Mix hgt (m).....760    1040   1340   1190   910    
+Transp wind dir.SSE    S      S      S      S      
+Transp wind spd.10     12     9      8      8      
+Trans wind dir..SSE    S      S      S      S      
+Trans spd (m/s).4      5      4      4      4      
+LVORI...........3      1      1      1      2      
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent). 
+Chance of pcpn......20 percent. 
+Min temperature.....Around 71. 
+Max humidity........90 percent. 
+Dewpoint............70. 
+Max apparent temp...90. 
+Wind (20 ft)........South winds 5 to 6 mph early in the evening 
+                    becoming light. 
+Mixing height (m)...122-732 meters AGL. 
+Transport winds.....South 5 to 9 mph. 
+Transport winds m/s.South 2 to 4 meters/second. 
+LVORI...............5. 
+Rainfall amount.....0.01 inches. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........70     71     74     73     74     64     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).10     20     10     10     10     20     
+Temp............85     78     75     75     73     72     
+Dewpoint........71     71     71     71     70     69     
+RH..............63     79     87     87     90     90     
+Aparnt tmp (F)..90     78     75     75     73     72     
+20 FT wind dir..S      S      N      N      N      N      
+20 FT wind spd..6      2      0      0      0      0      
+20 FT wind gust.10     6      3      2      2      2      
+Mix hgt (m).....730    240    150    150    150    150    
+Transp wind dir.S      S      SW     S      S      SSE    
+Transp wind spd.9      7      6      6      5      5      
+Trans wind dir..S      S      SW     S      S      SSE    
+Trans spd (m/s).4      3      3      3      2      2      
+LVORI...........2      4      6      6      7      7      
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent). 
+Chance of pcpn......50 percent. 
+Max temperature.....Around 86. 
+Min humidity........65 percent. 
+Dewpoint............70. 
+Max apparent temp...91. 
+Wind (20 ft)........Light winds becoming south 6 to 9 mph late in 
+                    the morning. 
+Mixing height (m)...122-1311 meters AGL. 
+Transport winds.....South 5 to 13 mph. 
+Transport winds m/s.South 2 to 6 meters/second. 
+LVORI...............4. 
+Rainfall amount.....0.14 inches. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........51     57     62     61     51     37     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).20     20     50     20     30     20     
+Temp............72     73     81     84     84     84     
+Dewpoint........69     71     72     72     72     71     
+RH..............90     93     74     67     67     65     
+Aparnt tmp (F)..72     73     85     90     90     89     
+20 FT wind dir..N      N      SSE    SSE    S      S      
+20 FT wind spd..0      0      3      7      8      10     
+20 FT wind gust.2      3      6      12     15     16     
+Mix hgt (m).....120    300    790    1040   1310   1160   
+Transp wind dir.SSE    S      S      S      S      S      
+Transp wind spd.5      5      8      9      12     12     
+Trans wind dir..SSE    S      S      S      S      S      
+Trans spd (m/s).2      2      4      4      5      5      
+LVORI...........6      6      3      3      1      1      
+
+$$
+Forecaster...GILMORE
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2614078.0/LIX
+.DELDT 05/20/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+
