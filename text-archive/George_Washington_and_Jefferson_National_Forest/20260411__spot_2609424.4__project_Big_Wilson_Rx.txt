@@ -1,0 +1,143 @@
+
+000
+FNUS71 KRNK 110802
+FWSRNK
+
+Spot Forecast for Big Wilson Rx...USFS
+National Weather Service Blacksburg VA
+402 AM EDT Sat Apr 11 2026
+
+Forecast is based on ignition time of 0600 EDT on April 11. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Any cloud cover will be gone between 8-10am, with mostly
+sunny skies the rest of the day. Northwest winds are expected
+to be 5 to 10 mph and a few gusts to 20-25 mph around midday. 
+
+Winds do shift to the east and southeast Saturday night into 
+Sunday morning, but speeds will be light, then picking up
+4 to 8 mph after 8am Sunday, so may be a smoke issue heading
+toward the town of Hot Springs and Warm Springs.
+
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 69. 
+Min humidity........26 percent. 
+Wind (20 ft)........Northwest winds 5 to 8 mph. Gusts up to 23 mph 
+                    in the late morning and early afternoon. 
+Mixing height.......4400 ft AGL. 
+Mixing winds........Northwest 3 to 10 mph increasing to around 8 
+                    mph late in the afternoon. 
+Smoke dispersal.....Poor (500 knot-ft) early in the morning 
+                    increasing to excellent (66200 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................3 early in the morning increasing to 91 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........63  63  64  52  40  35  31  13  7   6   4   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............53  53  53  56  59  63  64  66  67  68  68  68  
+RH..............55  61  62  56  46  43  37  30  33  30  28  26  
+20 FT wind dir..NW  W   NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..6   6   6   7   8   8   8   7   6   6   6   6   
+20 FT wind gust.14  14  14  17  18  18  18  17  17  16  14  14  
+Mix hgt (kft)...0.2 0.2 0.2 1.5 2.8 3.6 3.9 4.1 4.2 4.4 4.4 4.4 
+Mixng wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Mixng wind spd..3   3   6   10  15  18  18  15  13  12  9   8   
+LVORI...........4   5   5   3   1   1   1   1   1   1   1   1   
+ADI.............3   3   4   21  57  87  91  80  66  59  51  46  
+VRate mph-ft/1K.1   1   2   16  45  72  76  67  56  51  44  36  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+CWR (0.01 in).......10 percent. 
+Min temperature.....Around 45. 
+Max humidity........71 percent. 
+Wind (20 ft)........Northwest winds around 5 mph shifting to the 
+                    east late in the evening, then shifting to the 
+                    southeast early in the morning. 
+Mixing height.......100 ft AGL. 
+Mixing winds........Northwest 2 to 6 mph shifting to the northeast 
+                    2 to 3 mph overnight, then shifting to the east 
+                    around 3 mph overnight. 
+Smoke dispersal.....Fair (19100 knot-ft) early in the evening 
+                    decreasing to poor (200 knot-ft) late in the 
+                    night. 
+LVORI...............3. 
+ADI.................1 to 28. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   5   4   9   10  10  12  13  23  21  16  18  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   10  
+Temp............66  64  59  57  55  53  51  50  49  47  47  46  
+RH..............28  31  39  42  45  49  52  56  59  64  65  66  
+20 FT wind dir..NW  NW  NW  NW  N   NE  E   E   E   E   E   SE  
+20 FT wind spd..5   5   5   5   5   5   5   5   5   5   5   5   
+20 FT wind gust.13  13  11  11  11  12  11  11  11  10  10  10  
+Mix hgt (kft)...3.7 1.3 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Mixng wind dir..NW  W   W   NW  NW  N   N   NE  E   E   E   E   
+Mixng wind spd..6   3   2   2   2   2   2   3   3   3   3   3   
+LVORI...........2   2   2   2   2   2   2   3   3   3   3   3   
+ADI.............28  2   1   1   1   1   1   1   2   2   2   2   
+VRate mph-ft/1K.22  7   1   0   0   1   1   1   1   1   1   1   
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+CWR (0.01 in).......10 percent. 
+Max temperature.....Around 69. 
+Min humidity........44 percent. 
+Wind (20 ft)........Southeast winds 5 to 7 mph with gusts to around 
+                    18 mph shifting to the south 7 to 8 mph with 
+                    gusts to around 18 mph in the afternoon. 
+Mixing height.......3300 ft AGL. 
+Mixing winds........Southeast 3 to 9 mph shifting to the south 10 
+                    to 13 mph in the afternoon. 
+Smoke dispersal.....Poor (500 knot-ft) early in the morning 
+                    increasing to good (36700 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................2 early in the morning increasing to 52 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........27  39  35  41  39  37  39  42  44  44  43  43  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............10  10  0   0   0   0   0   0   0   0   0   0   
+Temp............46  46  48  50  53  57  60  63  66  67  68  68  
+RH..............71  70  69  68  65  61  58  54  48  46  45  45  
+20 FT wind dir..SE  SE  SE  S   S   S   S   S   S   S   S   S   
+20 FT wind spd..5   5   5   5   6   7   7   8   8   8   8   8   
+20 FT wind gust.10  10  10  12  14  17  18  18  18  18  18  18  
+Mix hgt (kft)...0.2 0.2 0.3 0.9 1.2 1.5 1.9 2.2 2.5 2.8 3.0 3.3 
+Mixng wind dir..SE  SE  SE  SE  S   S   S   S   S   S   S   S   
+Mixng wind spd..3   3   5   6   8   9   10  12  12  12  13  12  
+LVORI...........3   3   3   3   3   2   2   1   1   1   1   1   
+ADI.............2   4   4   7   13  22  29  35  40  45  49  52  
+VRate mph-ft/1K.1   1   2   6   10  17  23  28  32  36  40  42  
+
+$$
+Forecaster...Perry
+Requested by...Adam Christie
+Type of request...PRESCRIBED
+.TAG 2609424.4/RNK
+.DELDT 04/11/26
+.FormatterVersion 2.0.0
+.EMAIL adam.christie@usda.gov,daniel.martin@tnc.org,eric.homan@TNC.org,brent.foltz@usda.gov
+

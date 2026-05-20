@@ -1,0 +1,117 @@
+
+000
+FNUS74 KMRX 110921
+FWSMRX
+
+Spot Forecast for CNF_NZ_Jackson Farm Pile...usfs
+National Weather Service Morristown TN
+521 AM EDT Sat Apr 11 2026
+
+Forecast is based on ignition time of 0700 EDT on April 11. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+Another afternoon of low relative humidity but light winds is 
+expected today. A period of mid to upper level clouds may help
+limit the effectiveness of atmospheric mixing, with slightly
+improved RHs in comparison to yesterday afternoon. 
+
+Dry and warm conditions will remain the theme through the forecast
+period, with very limited chances for precipitation over the next
+7 days. Fire weather concerns will further elevate Sunday and 
+into the new work week as southwesterly winds amplify between 
+10-20mph with potential gusts 25+mph. Fire weather interests
+should stay aware of these conditions setting up for at least
+Sunday and Monday, and potentially the rest of next week. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Max temperature.....Around 77. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds becoming northwest around 5 mph 
+                    early in the afternoon, then becoming light 
+                    late in the afternoon. 
+Mixing height.......6200 ft AGL. 
+Transport winds.....Southwest 7 to 8 mph shifting to the northwest 
+                    9 to 12 mph late in the morning. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........21  28  24  33  33  31  29  14  18  18  18  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Temp............52  53  58  64  68  71  73  74  75  75  77  
+RH..............59  61  57  50  45  41  41  41  41  40  36  
+20 FT wind dir..SW  SW  SW  W   W   W   W   W   NW  NW  NW  
+20 FT wind spd..1   1   1   2   2   3   4   5   5   4   3   
+20 FT wind gust.4   4   5   5   6   7   10  10  8   8   7   
+Mix hgt (kft)...0.9 0.9 1.2 1.9 3.4 4.3 5.6 5.9 6.2 6.1 6.0 
+Transp wind dir.SW  SW  W   W   W   NW  NW  NW  NW  NW  NW  
+Transp wind spd.8   7   7   7   9   10  12  12  9   9   9   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Min temperature.....Around 56. 
+Max humidity........75 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......900 ft AGL. 
+Transport winds.....North 5 to 8 mph shifting to the east 5 to 6 
+                    mph late in the evening, then shifting to the 
+                    southeast 5 to 12 mph overnight. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........28  19  23  18  11  20  15  13  20  18  26  24  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............75  75  71  67  65  63  63  61  60  60  58  58  
+RH..............41  43  51  59  60  65  65  67  69  69  75  72  
+20 FT wind dir..NW  NW  N   E   E   SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..2   2   1   1   1   1   1   1   1   2   2   2   
+20 FT wind gust.6   4   4   2   4   4   4   4   4   4   5   6   
+Mix hgt (kft)...4.1 2.0 1.0 1.0 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 
+Transp wind dir.NW  N   N   E   E   E   SE  SE  SE  S   SE  SE  
+Transp wind spd.8   6   5   5   6   5   5   6   7   8   9   12  
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny (20-30 percent). 
+Max temperature.....Around 82. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 8 mph in the 
+                    afternoon. 
+Mixing height.......8300 ft AGL. 
+Transport winds.....South 10 to 16 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........14  14  13  10  11  12  22  32  42  41  41  40  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............58  57  58  63  69  75  79  81  82  82  82  80  
+RH..............72  72  72  60  51  38  31  28  26  26  26  28  
+20 FT wind dir..SE  SE  SE  SE  S   S   S   S   S   S   S   S   
+20 FT wind spd..2   2   2   2   2   4   5   6   7   8   8   8   
+20 FT wind gust.6   6   6   6   7   6   7   10  12  13  13  13  
+Mix hgt (kft)...0.9 0.9 0.9 1.8 3.2 4.8 6.4 7.6 8.3 8.2 7.4 6.1 
+Transp wind dir.SE  SE  SE  SE  S   S   S   S   S   S   S   S   
+Transp wind spd.12  14  13  10  10  12  13  15  16  16  15  15  
+
+$$
+Forecaster...Kyle Snowdin
+Requested by...C. Wilson
+Type of request...PRESCRIBED
+.TAG 2609790.2/MRX
+.DELDT 04/11/26
+.FormatterVersion 2.0.0
+.EMAIL christopher.wilson@usda.gov
+

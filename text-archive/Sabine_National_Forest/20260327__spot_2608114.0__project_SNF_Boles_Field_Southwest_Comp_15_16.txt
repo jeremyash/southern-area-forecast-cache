@@ -1,0 +1,95 @@
+
+000
+FNUS74 KSHV 271207
+FWSSHV
+
+Spot Forecast for SNF Boles Field Southwest Comp 15 16...USFS
+National Weather Service Shreveport LA
+707 AM CDT Fri Mar 27 2026
+
+Forecast is based on ignition time of 0700 CDT on March 27. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have 
+questions or concerns with this forecast.
+
+.DISCUSSION...
+
+Sustained south to southwest winds today near 5-7 mph with higher 20ft
+gusts will prevail ahead of a cold front that should begin moving over
+the prescribed burn unit by mid to late afternoon. Minimum RH values
+this afternoon will be near 40 to 45 percent. Winds should increase
+this evening into the overnight hours from the north behind the cold
+front with sustained speeds near 10 to 15 mph with higher gusts. 
+Those same wind speeds and gusts will hold on through the morning 
+hours on Saturday before winds decrease in speed and gusts by the
+afternoon. Expect very low afternoon humidity values on Saturday 
+near 30 percent.
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........44  55  46  42  30  16  12  16  25  27  22  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   10  10  
+Temp............62  64  67  71  76  79  81  84  84  84  84  
+RH..............93  90  87  76  62  56  51  46  48  46  46  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  W   W   W   N   N   
+20 FT wind mph..3   3   3   6   6   6   5   5   5   6   6   
+20 FT wind gust.10  7   13  13  12  10  8   9   10  9   9   
+Mix hgt (kft)...0.6 0.6 1.7 2.6 2.9 3.3 3.7 4.5 5.1 5.5 5.3 
+Mix hgt (km)....0.2 0.2 0.5 0.8 0.9 1.0 1.1 1.4 1.6 1.7 1.6 
+Transp wind dir.S   SW  SW  SW  SW  W   W   NW  N   N   N   
+Transp wind spd.9   5   10  13  12  10  7   7   7   7   7   
+Trans wind dir..S   SW  SW  SW  SW  W   W   NW  N   N   N   
+Trans spd (m/s).4   2   4   6   5   4   3   3   3   3   3   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........18  39  44  53  80  85  82  74  76  70  65  49  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............10  10  10  10  10  10  10  0   0   0   0   0   
+Temp............83  79  72  67  65  63  61  60  58  56  55  53  
+RH..............48  56  61  68  68  65  60  55  55  55  53  50  
+20 FT wind dir..N   N   N   N   N   N   N   NE  NE  NE  NE  NE  
+20 FT wind mph..6   10  10  10  14  14  14  10  10  10  10  10  
+20 FT wind gust.13  16  21  22  26  26  26  26  26  26  25  25  
+Mix hgt (kft)...4.0 2.0 2.7 2.5 2.4 2.3 2.4 2.6 2.5 2.3 2.2 2.4 
+Mix hgt (km)....1.2 0.6 0.8 0.8 0.7 0.7 0.7 0.8 0.8 0.7 0.7 0.7 
+Transp wind dir.N   N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.9   14  24  26  28  29  28  26  25  26  23  26  
+Trans wind dir..N   N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Trans spd (m/s).4   6   11  12  13  13  13  12  11  12  10  12  
+
+.SATURDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........52  46  49  51  39  30  34  37  35  30  28  25  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............52  52  50  52  54  57  60  63  64  66  67  66  
+RH..............48  48  50  46  43  40  36  31  31  29  29  32  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind mph..10  9   9   9   10  10  10  8   8   8   5   5   
+20 FT wind gust.25  24  23  22  22  20  18  17  16  14  13  13  
+Mix hgt (kft)...2.6 2.6 2.5 2.8 2.8 2.9 3.0 3.0 3.3 3.4 3.3 2.6 
+Mix hgt (km)....0.8 0.8 0.8 0.9 0.9 0.9 0.9 0.9 1.0 1.0 1.0 0.8 
+Transp wind dir.NE  NE  NE  NE  NE  E   E   E   E   E   E   E   
+Transp wind spd.26  26  25  25  23  21  18  17  16  14  13  12  
+Trans wind dir..NE  NE  NE  NE  NE  E   E   E   E   E   E   E   
+Trans spd (m/s).12  12  11  11  10  9   8   8   7   6   6   5   
+
+$$
+Forecaster...HEMINGWAY
+Requested by...Ben Joppa
+Type of request...PRESCRIBED
+.TAG 2608114.0/SHV
+.DELDT 03/27/26
+.FormatterVersion 2.0.0
+.EMAIL dustin.morris@usda.gov,benjamin.joppa@usda.gov,joey.silva@usda.gov
+

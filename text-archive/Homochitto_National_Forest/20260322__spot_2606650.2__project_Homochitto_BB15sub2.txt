@@ -1,0 +1,115 @@
+
+000
+FNUS74 KJAN 220815
+FWSJAN
+
+Spot Forecast for Homochitto BB15sub2...USFS
+National Weather Service Jackson MS
+315 AM CDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 0900 CDT on March 22. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Dense fog development is not expected at the site this morning,  
+however some patchy fog near the site cannot be ruled out.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Temperature.........64 at ignition...Max 84. 
+RH..................93 percent at ignition...Min 43 percent. 
+Wind (20 ft)........Winds southwest at 7 mph at 
+                    ignition...otherwise Southwest winds 6 to 8 
+                    mph. 
+Mixing height (m)...549 meters AGL at ignition...otherwise 549-1311 
+                    meters AGL. 
+Transport winds.....Southwest 18 to 21 mph. 
+Transport winds m/s.Southwest 8 to 9 meters/second. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  PC  PC  MCR MCR CLR CLR CLR CLR 
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............64  69  73  77  81  82  83  84  83  
+RH..............93  81  68  60  51  47  46  43  43  
+20 ft wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 ft wind spd..6   7   8   8   8   8   8   8   8   
+20 ft wind gust.17  18  18  20  20  20  20  20  20  
+Mix hgt (km)....0.5 0.6 0.7 0.9 1.0 1.1 1.2 1.3 1.3 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.18  18  18  18  20  20  20  20  21  
+Trans wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Trans spd (m/s).8   8   8   8   9   9   9   9   9   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Temperature.........Min 59. 
+RH..................Max 100 percent. 
+Wind (20 ft)........Southwest winds 5 to 8 mph with gusts to around 
+                    20 mph in the evening and overnight becoming 
+                    light. 
+Mixing height (m)...183-853 meters AGL. 
+Transport winds.....Southwest 10 to 18 mph. 
+Transport winds m/s.Southwest 4 to 8 meters/second. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR PC  PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............81  78  72  69  68  67  65  63  63  62  61  61  
+RH..............47  52  61  68  70  73  81  90  90  93  97  97  
+20 ft wind dir..SW  S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+20 ft wind spd..8   6   6   6   5   5   5   5   3   3   3   3   
+20 ft wind gust.20  17  17  17  17  16  15  15  14  13  13  12  
+Mix hgt (km)....0.9 0.3 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.SW  S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.18  16  17  16  15  15  15  15  14  14  13  10  
+Trans wind dir..SW  S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Trans spd (m/s).8   7   8   7   7   7   7   7   6   6   6   4   
+
+.MONDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+Temperature.........Max 82. 
+RH..................Min 44 percent. 
+Wind (20 ft)........Light winds becoming northwest around 5 mph 
+                    early in the afternoon, then becoming light 
+                    late in the afternoon. 
+Mixing height (m)...152-1433 meters AGL. 
+Transport winds.....West 6 to 13 mph shifting to the northwest 5 to 
+                    6 mph late in the afternoon. 
+Transport winds m/s.West around 5 meters/second shifting to the 
+                    northwest 2 to 3 meters/second late in the 
+                    afternoon. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  MC  PC  PC  PC  PC  PC  MCR MCR MCR MCR PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............60  59  61  65  69  73  77  79  81  82  82  80  
+RH..............100 100 100 90  81  71  60  54  49  46  44  47  
+20 ft wind dir..SW  SW  SW  W   W   W   NW  NW  NW  NW  NW  NW  
+20 ft wind spd..3   3   3   3   3   3   5   5   5   5   3   3   
+20 ft wind gust.10  10  10  10  12  12  12  12  12  12  10  9   
+Mix hgt (km)....0.2 0.2 0.2 0.4 0.7 0.9 1.0 1.1 1.3 1.4 1.4 1.1 
+Transp wind dir.W   W   W   W   W   W   NW  NW  NW  NW  NW  NW  
+Transp wind spd.12  10  9   10  13  12  9   7   6   6   5   5   
+Trans wind dir..W   W   W   W   W   W   NW  NW  NW  NW  NW  NW  
+Trans spd (m/s).5   4   4   4   6   5   4   3   3   3   2   2   
+
+$$
+Forecaster...Rainer
+Requested by...Charles Bolt
+Type of request...PRESCRIBED
+.TAG 2606650.2/JAN
+.DELDT 03/22/26
+.FormatterVersion 2.0.0
+.EMAIL charles.bolt@usda.gov
+

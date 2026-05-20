@@ -1,0 +1,88 @@
+
+000
+FNUS74 KMRX 211901
+FWSMRX
+
+Spot Forecast for Grandfather Knob...USFS
+National Weather Service Morristown TN
+301 PM EDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 0600 EDT on March 22. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+...Widely Scattered to Scattered Storms This Evening...
+
+Spring-like temperatures will continue through Sunday along with 
+Smoky conditions. Widely scattered showers and thunderstorms this 
+evening with dry and unseasonably warm conditions Sunday.
+
+A weak frontal boundary will move across the region Sunday night 
+into early Monday morning producing a chance of rain showers mainly 
+north of interstate 40. Seasonally cooler and dry conditions for 
+early next week.
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........54  55  55  42  44  43  41  30  20  20  16  36  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+
+.SUNDAY NIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent) then becoming 
+                    mostly cloudy (65-75 percent). Chance of 
+                    showers overnight. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........28  33  23  14  19  24  29  35  40  56  71  87  
+Weather cov.....                                CHC CHC CHC CHC 
+Weather type....                                RW  RW  RW  RW  
+Tstm cov........                                                
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent) then becoming 
+                    sunny (20-30 percent). Chance of rain showers 
+                    early in the morning. 
+Max temperature.....Around 61. 
+Min humidity........40 percent. 
+Wind (20 ft)........West winds 6 to 7 mph with gusts to around 17 
+                    mph shifting to the northwest around 6 mph in 
+                    the late morning and afternoon. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....Northwest 15 to 20 mph shifting to the north 12 
+                    to 14 mph in the late morning and afternoon. 
+Rainfall amount.....0.03 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........88  89  90  85  80  75  59  43  27  20  14  7   
+Weather cov.....CHC CHC                                         
+Weather type....RW  RW                                          
+Tstm cov........                                                
+Temp............60  58  57  56  57  57  57  58  59  59  60  59  
+RH..............87  93  93  93  86  80  75  64  55  49  44  42  
+20 FT wind dir..W   W   W   NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..7   7   6   6   6   6   6   6   6   6   6   6   
+20 FT wind gust.17  14  14  13  13  13  13  12  12  12  12  12  
+Mix hgt (kft)...2.4 2.2 2.0 2.1 2.3 2.6 3.0 3.4 3.8 4.2 4.4 4.3 
+Transp wind dir.W   NW  NW  N   N   N   N   N   N   N   N   N   
+Transp wind spd.20  17  15  14  13  12  12  13  13  13  13  13  
+
+$$
+Forecaster...David Hotz
+Requested by...Maxwell White
+Type of request...PRESCRIBED
+.TAG 2606875.1/MRX
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL maxwell.white@usda.gov
+

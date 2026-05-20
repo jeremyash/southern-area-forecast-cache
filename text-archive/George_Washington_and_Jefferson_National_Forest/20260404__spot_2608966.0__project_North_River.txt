@@ -1,0 +1,150 @@
+
+000
+FNUS71 KLWX 041014
+FWSLWX
+
+Spot Forecast for North River...USFS
+National Weather Service Baltimore MD/Washington DC
+614 AM EDT Sat Apr 4 2026
+
+Forecast is based on ignition time of 0600 EDT on April 04. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Mostly sunny skies are expected to start the day, with just some
+thin passing high clouds at times. Temperatures are expected to 
+climb to near record highs for early April, reaching the mid to 
+upper 70s even at the high elevation of the site. Odds favor
+conditions staying precipitation free through the day, but there
+is around a 20 percent chance for an afternoon shower or storm. 
+Winds today may start out light out of the west, but will pick up
+out of the south over the course of the day, and could gust to
+around 20-30 mph during the afternoon. Minimum RH values will be
+around 50 percent today, before rebounding to close to 100 percent
+tonight. Winds will remain gusty out of the south tonight.
+
+A cold front will move in from the northwest tomorrow morning, 
+bringing what will likely be a few hour long period of rain. A 
+wetting rain appears highly likely. Conditions gradually clear out
+and winds pick up out of the west behind the front during the 
+afternoon hours. Minimum RH values Sunday afternoon will be around
+60 percent, and winds may gust to around 30 mph out of the west. 
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). Slight chance of 
+                    showers and thunderstorms late in the 
+                    afternoon. 
+CWR.................20 percent 
+Chance of thunder...18 percent. 
+Max temperature.....Around 76. 
+Min humidity........50 percent. 
+Wind (20 ft)........West winds 6 to 8 mph shifting to the south 9 
+                    to 14 mph with gusts to around 26 mph in the 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms late in the afternoon. 
+Mixing height.......5500 ft AGL. 
+Transport winds.....West 9 to 10 mph shifting to the south 13 to 20 
+                    mph in the afternoon. 
+Smoke dispersal.....Poor (1600 knot-ft) early in the morning 
+                    increasing to excellent (89300 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........37  39  23  17  25  31  45  32  40  39  42  41  
+Weather cov.....                                            SCH 
+Weather type....                                            RW  
+Tstm cov........                                            SCH 
+CWR.............0   0   0   0   10  10  10  10  10  10  10  20  
+Chc of thdr (%).0   0   0   0   0   10  10  10  10  10  10  20  
+Temp............58  58  59  63  68  71  74  75  75  76  74  74  
+RH..............75  77  83  75  63  55  50  46  46  45  48  48  
+20 FT wind dir..W   W   W   W   W   SW  S   S   S   S   S   S   
+20 FT wind spd..7   7   6   6   6   8   9   10  12  13  14  14  
+20 FT wind gust.15  15  15  15  16  18  21  23  25  25  26  26  
+Mix hgt (kft)...0.2 0.2 0.2 0.5 1.6 2.9 4.3 4.9 5.2 5.5 5.3 4.5 
+Transp wind dir.W   W   W   W   SW  SW  S   S   S   S   S   S   
+Transp wind spd.10  10  10  10  9   9   13  16  17  17  20  20  
+Vrate kt-ft/1K..2   2   2   5   13  23  47  68  78  83  89  77  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  FR  GD  GD  GD  GD  GD  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (40-50 percent) then becoming 
+                    mostly cloudy (65-75 percent). Slight chance of 
+                    showers and thunderstorms.
+CWR.................20 percent. 
+Chance of thunder...20 percent. 
+Min temperature.....Around 53. 
+Max humidity........100 percent. 
+Wind (20 ft)........Southwest winds 14 to 15 mph with gusts to 
+                    around 32 mph. Gusty and erratic winds expected 
+                    near thunderstorms early in the evening. 
+Mixing height.......600 ft AGL. 
+Transport winds.....Southwest 20 to 26 mph. 
+Smoke dispersal.....Excellent (62400 knot-ft) early in the evening 
+                    decreasing to poor (10500 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........49     49     54     71     71     85     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............10     10     0      0      10     10     
+Chc of thdr (%).10     10     0      0      10     10     
+Temp............72     66     63     61     60     58     
+RH..............51     65     78     84     87     93     
+20 ft wind......S 14   S 14   SW 14  SW 15  SW 15  SW 15  
+20 ft wind gust.28     30     31     31     31     32     
+Mix hgt (ft)....3700   1000   700    600    700    700    
+Transport wind..S 20   SW 21  SW 21  SW 21  SW 22  SW 21  
+Vrate kt-ft/1K..62     18     13     11     13     12     
+Ventrate Cat....GOOD   POOR   POOR   POOR   POOR   POOR   
+
+.SUNDAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent) then becoming 
+                    mostly sunny (45-55 percent). Rain showers
+    during the morning. 
+CWR.................90 percent. 
+Chance of thunder...15 percent. 
+Max temperature.....Around 60. 
+Min humidity........53 percent. 
+Wind (20 ft)........West winds 12 to 15 mph becoming 12 to 14 mph 
+                    in the afternoon. Gusts up to 32 mph. 
+Mixing height.......3700 ft AGL. 
+Transport winds.....West 20 to 25 mph. 
+Smoke dispersal.....Poor (12100 knot-ft) early in the morning 
+                    increasing to excellent (70100 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........87        91        91        65        
+Weather cov.....CHANCE    DEFNTE    DEFNTE              
+Weather type....RNSHWR    RNSHWR    RNSHWR    NONE      
+Tstm cov........                                        
+CWR.............50        90        90        10        
+Chc of thdr (%).20        10        0         0         
+Temp............55        55        58        57        
+RH..............100       96        72        57        
+20 FT wind......SW 15G32  W 14G31   W 12G28   W 13G28   
+Mix hgt (ft)....700       1100      2100      3500      
+Transport wind..SW 21     W 20      W 25      W 23      
+Vrate kt-ft/1K..12        19        46        69        
+Ventrate Cat....POOR      POOR      FAIR      GOOD      
+
+$$
+Forecaster...Pallozzi
+Requested by...Collett
+Type of request...PRESCRIBED
+.TAG 2608966.0/LWX
+.DELDT 04/04/26
+.FormatterVersion 2.0.0
+.EMAIL aaron.p.strobel@usda.gov,jay.collett@usad.gov
+

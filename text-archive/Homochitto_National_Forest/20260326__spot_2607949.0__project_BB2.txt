@@ -1,0 +1,108 @@
+
+000
+FNUS74 KJAN 260640
+FWSJAN
+
+Spot Forecast for BB2...USFS
+National Weather Service Jackson MS
+140 AM CDT Thu Mar 26 2026
+
+Forecast is based on ignition time of 0900 CDT on March 26. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+.TODAY...Patchy dense fog development is possible this morning and
+again Friday morning. Maximum LVORI is 9. 
+
+Sky/weather.........Partly sunny (50-60 percent) then becoming 
+                    sunny (10-20 percent). Patchy fog early in the 
+                    morning. 
+Temperature.........65 at ignition...Max 85. 
+RH..................97 percent at ignition...Min 45 percent. 
+Wind (20 ft)........Winds south at 5 mph at ignition...otherwise 
+                    Light winds becoming south 5 to 6 mph in the 
+                    late morning and afternoon. 
+Mixing height (m)...122 meters AGL at ignition...otherwise 122-1554 
+                    meters AGL. 
+Transport winds.....South 8 to 15 mph. 
+Transport winds m/s.South 4 to 7 meters/second. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky cover.......MCldy  PCldy  MClear MClear MClear 
+Weather cov.....                                   
+Weather type....None   None   None   None   None   
+Tstm cov........                                   
+Temp............65     74     80     84     85     
+RH..............97     76     58     48     45     
+20 ft wind dir..S      S      S      S      S      
+20 ft wind spd..3      5      6      6      5      
+20 ft wind gust.13     14     15     15     14     
+Mix hgt (m).....430    820    1370   1520   1430   
+Transport wind..S 12   S 13   S 15   S 14   S 15   
+Tran wind (m/s).S 5    S 6    S 7    S 6    S 7    
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). 
+Temperature.........Min 59. 
+RH..................Max 100 percent. 
+Wind (20 ft)........South winds around 5 mph early in the evening 
+                    becoming light, then becoming south around 5 
+                    mph in the late evening and overnight becoming 
+                    light. 
+Mixing height (m)...122-884 meters AGL. 
+Transport winds.....South 10 to 15 mph. 
+Transport winds m/s.South 4 to 7 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear MClear MClear MClear PCldy  MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............82     75     70     67     64     61     
+RH..............49     62     73     81     90     100    
+20 ft wind dir..S      S      S      S      S      SW     
+20 ft wind spd..5      3      5      5      3      3      
+20 ft wind gust.13     13     15     15     14     13     
+Mix hgt (m).....880    120    180    210    210    180    
+Transport wind..S 14   S 10   S 14   S 14   S 15   S 13   
+Tran wind (m/s).S 6    S 4    S 6    S 6    S 7    S 6    
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Temperature.........Max 84. 
+RH..................Min 44 percent. 
+Wind (20 ft)........Light winds becoming west around 5 mph late in 
+                    the morning, then becoming light late in the 
+                    afternoon. 
+Mixing height (m)...183-1494 meters AGL. 
+Transport winds.....Southwest 8 to 10 mph shifting to the west 7 to 
+                    9 mph in the afternoon. 
+Transport winds m/s.West 3 to 4 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......PCldy  PCldy  PCldy  MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............61     61     71     78     83     84     
+RH..............100    100    81     60     48     44     
+20 ft wind dir..S      SW     SW     W      W      W      
+20 ft wind spd..2      2      3      5      5      5      
+20 ft wind gust.10     10     12     13     13     13     
+Mix hgt (m).....180    270    790    1040   1340   1490   
+Transport wind..SW 10  SW 9   W 9    W 9    W 7    NW 7   
+Tran wind (m/s).SW 4   SW 4   W 4    W 4    W 3    NW 3   
+
+$$
+Forecaster...Edmonston
+Requested by...Charles Bolt
+Type of request...PRESCRIBED
+.TAG 2607949.0/JAN
+.DELDT 03/26/26
+.FormatterVersion 2.0.0
+.EMAIL charles.bolt@usda.gov
+

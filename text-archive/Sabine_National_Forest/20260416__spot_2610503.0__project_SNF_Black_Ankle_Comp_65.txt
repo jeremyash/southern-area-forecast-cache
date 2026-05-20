@@ -1,0 +1,87 @@
+
+000
+FNUS74 KSHV 161053
+FWSSHV
+
+Spot Forecast for SNF Black Ankle Comp 65...US Forest Service
+National Weather Service Shreveport LA
+553 AM CDT Thu Apr 16 2026
+
+Forecast is based on ignition time of 0600 CDT on April 16. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Very warm and dry conditions will continue today, with the morning low clouds 
+giving way to a mix of clouds and sun for the afternoon. Look for min RH's 
+to fall to 50-55% this afternoon, with southerly 20ft winds increasing to 
+6-10 mph by mid-morning through the afternoon. Winds will quickly decouple 
+after sunset, with good RH recovery expected tonight. No patchy fog is 
+expected, but low clouds will again redevelop late and shift north over the 
+area. Slightly lower min RH's are expected Friday, with southerly 20ft winds 
+increasing to around 10 mph with occasional higher gusts Friday.
+
+.TODAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........68  76  72  59  61  48  34  32  36  45  35  28  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   10  10  10  0   0   
+Temp............67  66  67  70  75  78  81  83  84  85  85  86  
+RH..............97  100 97  93  82  74  67  61  57  54  53  53  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..2   2   3   4   7   8   8   8   8   7   7   6   
+20 FT wind gust.                13  15  15  15  15  14  14  14  
+Mix hgt (kft)...0.8 0.7 1.2 2.0 2.6 3.3 3.9 4.5 5.2 5.5 5.6 4.2 
+Mix hgt (km)....0.2 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.7 1.7 1.3 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.15  13  14  15  15  15  15  14  14  14  14  14  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).7   6   6   7   7   7   7   6   6   6   6   6   
+
+.TONIGHT...
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........31     23     3      15     40     52     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............84     79     73     70     68     66     
+RH..............57     67     81     87     93     97     
+20 ft wind......S 5    S 3    S 3    S 2    S 2    S 2    
+20 ft wind gust.10          
+Mix hgt (ft)....2100   500    500    500    600    600    
+Mix hgt (m).....640    150    150    150    180    180    
+Transport wind..S 14   S 12   S 15   S 13   S 12   S 12   
+Tran wind (m/s).S 6    S 5    S 7    S 6    S 5    S 5    
+
+.FRIDAY...
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........62     58     31     21     17     18     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............65     64     75     82     85     87     
+RH..............100    100    76     58     51     46     
+20 ft wind......S 2    S 3    S 7    S 9    S 9    S 9    
+20 ft wind gust.              16     18     21     21     
+Mix hgt (ft)....600    1300   2500   4000   5300   5800   
+Mix hgt (m).....180    400    760    1220   1620   1770   
+Transport wind..S 10   S 15   S 17   S 18   S 20   S 20   
+Tran wind (m/s).S 4    S 7    S 8    S 8    S 9    S 9    
+
+$$
+
+Forecaster...HANSFORD
+Requested by...Joey Silva
+Type of request...PRESCRIBED
+.TAG 2610503.0/SHV
+.DELDT 04/16/26
+.FormatterVersion 2.0.0
+.EMAIL joey.silva@usda.gov
+

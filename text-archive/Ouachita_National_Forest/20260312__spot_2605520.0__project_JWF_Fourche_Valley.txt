@@ -1,0 +1,102 @@
+
+000
+FNUS74 KLZK 121630
+FWSLZK
+
+Spot Forecast for JWF Fourche Valley...USFS
+National Weather Service Little Rock AR
+1130 AM CDT Thu Mar 12 2026
+
+Forecast is based on ignition time of 1600 CDT on March 12. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Drier and cooler air is expected through the rest of this
+afternoon in the wake of a cold front. Quiet conditions will
+continue through rest of this week with severe weather possible
+Sunday.
+
+.REST OF TODAY...
+
+Max temperature.....60 at ignition...Max 62. 
+Min humidity........24 percent at ignition...Min 25 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Sunny (0-5 percent). 
+Category Day........2. 
+
+TIME (CDT)      4PM 5PM 
+Sky cover.......CLR CLR 
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+Temp............60  62  
+RH..............24  24  
+20 FT wind dir..S   S   
+20 FT wind spd..2   3   
+20 FT wind gust.10  10  
+MixHgtAGL (kft).4.4 3.4 
+Transp wind dir.S   S   
+Transp wind spd.6   7   
+Chc of pcpn (%).0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 43. 
+Max humidity........Max 64 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Clear (0-10 percent). 
+Category Day........2. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............60  57  55  51  49  48  47  46  46  46  45  45  
+RH..............28  33  37  44  50  52  52  55  57  56  58  58  
+20 FT wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..3   3   3   5   5   5   5   5   5   6   6   5   
+20 FT wind gust.10  11  11  12  12  13  13  14  14  16  16  14  
+MixHgtAGL (kft).2.0 0.8 0.5 0.6 0.9 0.9 0.9 0.9 1.0 0.9 0.9 0.8 
+Transp wind dir.S   S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.9   10  12  12  12  12  13  13  13  14  14  13  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.FRIDAY...
+
+Max temperature.....Max 72. 
+Min humidity........Min 33 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Sunny (5-15 percent). 
+Category Day........3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR CLR CLR CLR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............45  44  45  48  54  59  62  67  68  70  72  70  
+RH..............59  62  61  59  51  45  42  37  35  34  32  36  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  S   S   
+20 FT wind spd..5   5   5   5   5   5   3   3   3   3   3   2   
+20 FT wind gust.14  13  12  12  12  11  10  10  10  10  10  10  
+MixHgtAGL (kft).0.7 0.7 0.9 1.3 1.7 2.3 2.9 3.4 4.0 4.3 4.3 3.3 
+Transp wind dir.SW  SW  SW  SW  W   W   SW  SW  SW  SW  SW  SW  
+Transp wind spd.12  12  14  16  18  17  15  13  10  8   7   7   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...J Condry
+Requested by...Brandon Hankla
+Type of request...PRESCRIBED
+.TAG 2605520.0/LZK
+.DELDT 03/12/26
+.FormatterVersion 2.0.0
+.EMAIL brandon.hankla@usda.gov
+

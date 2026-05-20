@@ -1,0 +1,135 @@
+
+000
+FNUS71 KLWX 201306
+FWSLWX
+
+Spot Forecast for North River Black Lining...USFS
+National Weather Service Baltimore MD/Washington DC
+906 AM EDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 1500 EDT on March 20. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Milder today with a clipper system bringing some rain showers to the 
+area late in the day. Southwesterly winds increase today with 
+mountain gusts to around 25 to 35 mph.  
+
+Continued above average temperatures this weekend with another 
+chance for rain late in the weekend with a cold frontal passage. 
+Cooler weather returns by early next week as Canadian high pressure 
+approaches from the west.
+
+.REST OF TODAY...
+
+Sky/weather.........Cloudy (85-95 percent). Slight chance of rain 
+                    showers early in the afternoon. Chance of rain 
+                    showers late in the afternoon. 
+CWR.................10 percent increasing to 30 percent. 
+Chance of thunder...3 percent. 
+Max temperature.....Around 61. 
+Min humidity........42 percent. 
+Wind (20 ft)........Southwest winds 8 to 16 mph with gusts to 
+                    around 32 mph. 
+Mixing height.......4600 ft AGL. 
+Transport winds.....Southwest 30 to 32 mph. 
+Smoke dispersal.....Excellent (104900 knot-ft). 
+
+TIME (EDT)      3 PM   5 PM   
+Sky (%).........88     91     
+Weather cov.....       CHANCE 
+Weather type....NONE   RNSHWR 
+Tstm cov........              
+CWR.............10     30     
+Chc of thdr (%).0      0      
+Temp............60     59     
+RH..............44     49     
+20 ft wind......SW 16  SW 16  
+20 ft wind gust.32     32     
+Mix hgt (ft)....4500   4000   
+Transport wind..SW 31  SW 30  
+Vrate kt-ft/1K..120    105    
+Ventrate Cat....VYGD   VYGD   
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Chance of rain 
+                    showers during the evening, then slight chance
+                    of showers overnight. 
+CWR.................40 percent during the evening, then decreasing
+                    to 20 percent overnight. 
+Chance of thunder...15 percent. 
+Min temperature.....Around 45. 
+Max humidity........100 percent. 
+Wind (20 ft)........West winds 8 to 16 mph with gusts to around 32 
+                    mph shifting to the northwest 6 to 12 mph with 
+                    gusts to around 22 mph overnight. 
+Mixing height.......300 ft AGL. 
+Transport winds.....West 13 to 26 mph shifting to the northwest 15 
+                    mph after 3 am. 
+Smoke dispersal.....Good (52700 knot-ft) early in the evening 
+                    decreasing to poor (3900 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........93     58     65     68     57     54     
+Weather cov.....CHANCE S CHC  CHANCE CHANCE               
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR NONE   NONE   
+Tstm cov........                                          
+CWR.............40     20     40     40     10     0      
+Chc of thdr (%).0      10     10     10     10     0      
+Temp............56     52     51     50     49     48     
+RH..............55     74     80     83     93     96     
+20 ft wind......SW 15  W 16   W 12   W 10   NW 9   NW 8   
+20 ft wind gust.30     31     26     24     22     20     
+Mix hgt (ft)....2800   600    400    300    400    300    
+Transport wind..SW 22  SW 20  W 20   W 17   W 17   NW 16  
+Vrate kt-ft/1K..53     9      7      5      6      4      
+Ventrate Cat....FAIR   POOR   POOR   POOR   POOR   POOR   
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 65. 
+Min humidity........40 percent. 
+Wind (20 ft)........Northwest winds 4 to 8 mph shifting to the 
+                    southwest around 6 mph late in the afternoon. 
+Mixing height.......5100 ft AGL. 
+Transport winds.....Northwest 8 to 16 mph decreasing to around 6 
+                    mph early in the afternoon, then shifting to 
+                    the west 5 to 10 mph late in the afternoon. 
+Smoke dispersal.....Poor (3100 knot-ft) early in the morning 
+                    increasing to good (42800 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........59        59        34        27        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+CWR.............0         0         0         0         
+Chc of thdr (%).0         0         0         0         
+Temp............46        47        59        65        
+RH..............96        93        55        40        
+20 FT wind......NW 7G18   NW 6G15   NW 6G15   W 6G14    
+Mix hgt (ft)....300       600       2300      4900      
+Transport wind..NW 16     N 12      N 6       W 7       
+Vrate kt-ft/1K..4         6         12        30        
+Ventrate Cat....POOR      POOR      POOR      POOR      
+
+$$
+Forecaster...Witt
+Requested by...Aaron Strobel
+Type of request...PRESCRIBED
+.TAG 2606714.1/LWX
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL james.collett@usda.gov,aaron.p.strobel@usda.gov
+

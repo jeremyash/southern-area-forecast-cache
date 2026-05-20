@@ -1,0 +1,113 @@
+
+000
+FNUS71 KRNK 101022
+FWSRNK
+
+Spot Forecast for Morris Hill/Coles...USFS
+National Weather Service Blacksburg VA
+622 AM EDT Tue Mar 10 2026
+
+Forecast is based on ignition time of 0700 EDT on March 10. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Cloud cover will increase today with a few isolated afternoon
+downpours. Winds will remain relatively light out of the 
+west-southwest. Min RH around 45 percent.
+
+A good chance for a wetting rain will come late Wednesday into 
+Wednesday night as a cold front crosses the area. Breezy 
+conditions are possible during the day as the cold front 
+approaches the region.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent) then becoming mostly sunny 
+                    (45-55 percent). Chance of rain showers late in 
+                    the afternoon. Slight chance of thunderstorms 
+                    late in the afternoon.
+CWR (0.01 in).......10 percent, then increasing to 40 percent 
+                    late in the afternoon decreasing to 20 percent. 
+Max temperature.....Around 75. 
+Min humidity........52 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms late in the afternoon. 
+Mixing height.......5900 ft AGL. 
+Mixing winds........West 3 to 10 mph shifting to the southwest 12 
+                    to 13 mph late in the afternoon. 
+Smoke dispersal.....Poor (1700 knot-ft) early in the morning 
+                    increasing to good (53100 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................3 early in the morning increasing to 59 in the 
+                    afternoon. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........20  7   5   3   5   6   11  54  57  51  43  
+Weather cov.....                            CHC CHC CHC SCH 
+Weather type....                            RW  RW  RW  RW  
+Tstm cov........                            SCH SCH SCH SCH 
+CWR.............0   0   0   0   0   0   10  30  40  30  20  
+Temp............50  50  52  60  66  70  73  75  75  75  74  
+RH..............76  82  83  72  63  59  55  52  53  52  55  
+20 FT wind dir..NW  SE  SW  SW  W   W   SW  SW  SW  SW  SW  
+20 FT wind spd..1   1   1   1   2   2   3   4   4   3   3   
+20 FT wind gust.4   4   5   6   6   7   10  10  10  10  10  
+Mix hgt (kft)...0.7 0.7 1.2 1.8 2.5 3.7 4.8 5.9 5.5 4.9 3.9 
+Mixng wind dir..W   W   W   W   W   W   W   SW  SW  SW  SW  
+Mixng wind spd..3   3   6   8   10  10  10  10  12  13  13  
+LVORI...........4   5   4   3   1   1   1   1   1   1   1   
+ADI.............3   3   9   20  33  48  59  34  36  50  59  
+VRate mph-ft/1K.2   2   7   15  26  40  50  61  61  59  49  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    mostly cloudy (50-60 percent). Slight chance of 
+                    showers and thunderstorms early in the evening. 
+                    Slight chance of showers and thunderstorms 
+                    early in the morning. 
+CWR (0.01 in).......20 percent. 
+Min temperature.....Around 56. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms early in the evening. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    early in the morning. 
+Mixing height.......700 ft AGL. 
+Mixing winds........Southwest 5 to 13 mph shifting to the west 2 to 
+                    3 mph overnight. 
+Smoke dispersal.....Good (31200 knot-ft) early in the evening 
+                    decreasing to poor (1700 knot-ft) late in the 
+                    night. 
+LVORI...............6. 
+ADI.................45 early in the evening decreasing to 1 late in 
+                    the night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........41     36     32     25     37     58     
+Weather cov.....S CHC                                     
+Weather type....RNSHWR NONE   NONE   NONE   NONE   NONE   
+Tstm cov........S CHC                                     
+CWR.............20     10     0      0      0      10     
+Temp............72     66     62     60     57     57     
+RH..............59     75     83     89     95     97     
+20 ft wind......SW 2   SW 1   S 1    S 1    S 1    S 1    
+20 ft wind gust.10     6      5      5      5      5      
+Mix hgt (ft)....2900   700    700    700    800    900    
+Mixing wind......SW 13  SW 10  SW 7   SW 3   SW 2   W 3    
+LVORI...........1      4      5      7      8      8      
+ADI.............45     5      3      2      1      1      
+VRate mph-ft/1K.36     7      4      2      2      3      
+
+$$
+Forecaster...Gruver
+Requested by...Joe Jarrells
+Type of request...PRESCRIBED
+.TAG 2605280.0/RNK
+.DELDT 03/10/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.jarrells@usda.gov
+

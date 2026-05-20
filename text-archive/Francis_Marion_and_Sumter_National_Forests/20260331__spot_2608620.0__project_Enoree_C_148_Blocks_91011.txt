@@ -1,0 +1,137 @@
+
+000
+FNUS72 KCAE 310800
+FWSCAE
+
+Spot Forecast for Enoree C-148 Blocks 91011...USDA Forest Service
+National Weather Service Columbia SC
+400 AM EDT Tue Mar 31 2026
+
+Forecast is based on ignition time of 0800 EDT on March 31. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Mostly sunny with temperatures well above average at the burn site
+today. Light and variable winds this morning are expected to give
+way to generally southwesterly winds around 5-8 mph or so after 
+the inversion breaks. Afternoon RH values are expected to drop to 
+around 40-45% with good recovery overnight. A rogue shower cannot
+be ruled out today. A slightly better chance for showers or 
+storms arrives tomorrow afternoon. The potential for fog tonight  
+is low, but can't be ruled out near the river. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 80. 
+Min humidity........45 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the afternoon. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....Southwest 7 to 13 mph. 
+LVORI...............4. 
+ADI.................7 early in the morning increasing to 73 in the 
+                    afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........47  41  37  33  37  44  45  43  43  36  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   10  0   0   10  10  10  10  10  10  
+Temp............57  59  64  68  71  74  77  78  79  79  
+RH..............93  93  81  73  66  59  54  52  49  49  
+Aparnt tmp (F)..57  59  64  68  71  74  77  78  79  79  
+20 FT wind dir..S   SW  SW  SW  SW  SW  SW  SW  SW  S   
+20 FT wind dir..180 210 210 220 220 220 220 220 210 200 
+20 FT wind spd..1   2   2   3   5   6   6   6   6   6   
+20 FT wind gust.6   6   8   9   12  12  13  13  13  12  
+Mix hgt (kft)...0.6 0.9 1.6 2.3 2.9 3.6 4.5 4.5 5.0 4.8 
+Transp wind dir.S   SW  SW  SW  SW  SW  SW  SW  S   SW  
+Transp wind dir.200 210 220 220 210 210 220 210 200 220 
+Transp wind spd.7   10  10  12  12  12  13  12  13  13  
+LVORI...........6   5   3   3   1   1   1   1   1   1   
+ADI.............7   13  22  33  42  51  67  61  73  71  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 60. 
+Max humidity........93 percent. 
+Wind (20 ft)........South winds around 5 mph or less. 
+Mixing height.......500 ft AGL. 
+Transport winds.....South 9 to 14 mph. 
+LVORI...............3. 
+ADI.................71 early in the evening decreasing to 4 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........17  17  17  27  17  18  10  13  9   14  26  23  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).10  10  10  0   0   0   0   0   0   0   0   0   
+Temp............80  78  74  70  69  67  67  66  65  64  62  62  
+RH..............45  48  57  66  68  73  73  75  78  81  87  87  
+Aparnt tmp (F)..80  78  74  70  69  67  67  66  65  64  62  62  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind dir..200 190 180 170 180 180 180 190 190 190 190 190 
+20 FT wind spd..5   3   2   2   2   3   3   3   5   3   3   2   
+20 FT wind gust.10  9   7   8   9   9   10  12  12  12  10  9   
+Mix hgt (kft)...4.3 0.8 0.6 0.5 0.5 0.6 0.7 0.6 0.6 0.6 0.6 0.5 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind dir.200 190 190 190 190 180 180 180 190 190 190 200 
+Transp wind spd.14  10  10  9   9   12  13  14  13  12  10  10  
+LVORI...........1   2   3   3   3   3   3   4   4   4   5   5   
+ADI.............71  5   5   4   4   5   6   6   6   5   5   5   
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent). Chance of showers 
+                    and slight chance of thunderstorms late in the 
+                    afternoon. 
+Chance of pcpn......30 percent. 
+Max temperature.....Around 84. 
+Min humidity........44 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the afternoon. Gusty and erratic winds expected 
+                    near thunderstorms late in the afternoon. 
+Mixing height.......5600 ft AGL. 
+Transport winds.....Southwest 8 to 12 mph. 
+LVORI...............4. 
+ADI.................4 early in the morning increasing to 73 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........30  49  43  46  49  52  54  57  59  57  56  54  
+Weather cov.....                                CHC CHC CHC CHC 
+Weather type....                                RW  RW  RW  RW  
+Tstm cov........                                SCH SCH SCH SCH 
+Chc of pcpn (%).10  10  10  10  10  10  10  10  30  30  30  30  
+Temp............61  60  61  64  68  73  77  80  82  84  84  84  
+RH..............90  93  93  87  78  68  60  54  51  46  46  44  
+Aparnt tmp (F)..61  60  61  64  68  73  77  81  83  84  84  84  
+20 FT wind dir..S   S   S   SW  SW  SW  SW  SW  SW  SW  S   S   
+20 FT wind dir..180 180 190 210 210 210 210 210 210 210 200 200 
+20 FT wind spd..2   2   2   2   2   3   5   5   6   6   6   6   
+20 FT wind gust.9   8   8   8   8   9   10  10  12  12  13  12  
+Mix hgt (kft)...0.6 0.6 0.6 1.3 2.0 2.7 3.7 4.7 5.6 5.2 4.8 4.3 
+Transp wind dir.S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  S   
+Transp wind dir.200 200 200 220 230 230 230 220 220 220 210 200 
+Transp wind spd.9   9   8   10  10  10  10  12  12  12  12  12  
+LVORI...........6   6   6   4   3   3   1   1   1   1   1   1   
+ADI.............4   10  8   18  27  35  46  63  73  69  64  59  
+
+$$
+Forecaster...Carlberg
+Requested by...Todd Bennett
+Type of request...PRESCRIBED
+.TAG 2608620.0/CAE
+.DELDT 03/31/26
+.FormatterVersion 2.0.0
+.EMAIL jeffery.bennett@usda.gov
+

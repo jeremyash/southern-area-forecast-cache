@@ -1,0 +1,147 @@
+
+000
+FNUS71 KLWX 012031
+FWSLWX
+
+Spot Forecast for Trout Pond Day Use...USFS
+National Weather Service Baltimore MD/Washington DC
+431 PM EDT Wed Apr 1 2026
+
+Forecast is based on ignition time of 1700 EDT on April 01. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+As of 420 PM there is a thunderstorm located a few miles to the south
+of the spot forecast location. As of now, it looks like the bulk of 
+the storm should pass just to the south of the location, but a brief
+period of light rain may be possible, along with a brief surge in 
+southerly winds as the outflow from the storm moves toward the 
+location. An brief decrease in temperature and uptick in RH may also 
+accompany the storm's outflow. After that storm passes, it looks there
+may be a lull in activity through much of the evening, with another
+round of showers or a few thunderstorms potentially moving in around
+or shortly after midnight. There will be additional chances for showers
+and thunderstorms tomorrow, especially during the afternoon hours.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (75-85 percent). Widespread 
+                    showers and scattered thunderstorms. 
+CWR.................80 percent. 
+Chance of thunder...32 percent. 
+Max temperature.....Around 77. 
+Min humidity........37 percent. 
+Wind (20 ft)........Southwest winds around 7 mph. Gusty and erratic 
+                    winds expected near thunderstorms. 
+Mixing height.......3900 ft AGL. 
+Transport winds.....Southwest around 15 mph. 
+Smoke dispersal.....Good (50800 knot-ft). 
+
+TIME (EDT)      5PM 
+Sky (%).........81  
+Weather cov.....WID 
+Weather type....RW  
+Tstm cov........SCT 
+CWR.............50  
+Chc of thdr (%).30  
+Temp............77  
+RH..............37  
+20 FT wind dir..SW  
+20 FT wind spd..7   
+20 FT wind gust.17  
+Mix hgt (kft)...3.9 
+Transp wind dir.SW  
+Transp wind spd.15  
+Vrate kt-ft/1K..51  
+Ventrate Cat....FR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Isolated to 
+scattered showers and potentially a thunderstorm. 
+Patchy fog early in the morning. 
+CWR.................30 percent in the evening, increasing to 50 percent
+around midnight, decreasing to 10 percent later in the
+night. 
+Chance of thunder...30 percent. 
+Min temperature.....Around 59. 
+Max humidity........90 percent. 
+Wind (20 ft)........Southwest winds 5 to 7 mph in the evening 
+                    becoming light. Gusty and erratic winds 
+                    expected near thunderstorms in the evening. 
+                    Gusty and erratic winds expected near 
+                    thunderstorms late in the evening. 
+Mixing height.......100 ft AGL. 
+Transport winds.....Southwest 5 to 12 mph. 
+Smoke dispersal.....Fair (20900 knot-ft) early in the evening 
+                    decreasing to poor (300 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........84     67     70     76     68     64     
+Weather cov.....SCTTRD SCTTRD SCTTRD SCTTRD ISOLTD ISOLTD 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........SCTTRD SCTTRD SCTTRD ISOLTD               
+CWR.............30     30     60     50     20     20     
+Chc of thdr (%).30     30     30     20     0      0      
+Temp............72     66     64     63     61     60     
+RH..............44     58     65     70     84     84     
+20 ft wind......SW 7   SW 6   SW 6   SW 5   NW 3   SW 3   
+20 ft wind gust.16     14     12     10     9      8      
+Mix hgt (ft)....2100   200    200    200    300    100    
+Transport wind..SW 12  SW 9   SW 10  SW 9   W 7    W 6    
+Vrate kt-ft/1K..21     2      2      2      2      1      
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   POOR   
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent) then becoming 
+                    mostly cloudy (70-80 percent). Patchy fog early 
+                    in the morning. Slight chance of rain showers 
+                    early in the afternoon. Rain showers likely and 
+                    chance of thunderstorms late in the afternoon. 
+CWR.................10 percent increasing to 60 to 70 percent in the
+afternoon. 
+Chance of thunder...35 percent. 
+Max temperature.....Around 76. 
+Min humidity........59 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 8 mph in the 
+                    late morning and afternoon. Gusty and erratic 
+                    winds expected near thunderstorms late in the 
+                    afternoon. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....Southwest 5 to 14 mph shifting to the south 16 
+                    to 18 mph late in the afternoon. 
+Smoke dispersal.....Poor (400 knot-ft) early in the morning 
+                    increasing to excellent (61500 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........61        45        27        78        
+Weather cov.....PATCHY    PATCHY    S CHC     LIKELY    
+Weather type....FOG       FOG       RNSHWR    RNSHWR    
+Tstm cov........                              CHANCE    
+CWR.............10        0         20        70        
+Chc of thdr (%).0         0         10        40        
+Temp............59        61        71        75        
+RH..............87        87        66        60        
+20 FT wind......SW 3G8    S 3G9     S 6G15    S 8G18    
+Mix hgt (ft)....100       700       2900      4000      
+Transport wind..S 6       SW 8      SW 12     S 17      
+Vrate kt-ft/1K..0         5         29        60        
+Ventrate Cat....POOR      POOR      POOR      FAIR      
+
+$$
+Forecaster...Pallozzi
+Requested by...Collett
+Type of request...PRESCRIBED
+.TAG 2608825.0/LWX
+.DELDT 04/01/26
+.FormatterVersion 2.0.0
+.EMAIL aaron.p.strobel@usda.gov,jay.collett@usda.gov
+

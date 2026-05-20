@@ -1,0 +1,111 @@
+
+000
+FNUS72 KCHS 210721
+FWSCHS
+
+Spot Forecast for FMF C186...USFS
+National Weather Service Charleston SC
+321 AM EDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 1000 EDT on March 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+The burn site will remain between high pressure centered over the Gulf
+and a broad area of low pressure over western North Carolina. This
+pattern will support steady west winds across the burn site today. 
+A sprinkle or light shower may reach the South Carolina Lowcountry 
+this evening before dissipating. Transport winds and mixing heights 
+will decrease tonight, yielding poor dispersion. The risk of fog 
+tonight is low.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 83. 
+Min humidity........41 percent. 
+Wind (20 ft)........Light winds becoming west around 5 mph early in 
+                    the afternoon. 
+Mixing Height.......Max 4800 ft AGL. 
+Transport winds.....West 12 to 14 mph. 
+Max ADI.............70. 
+Inversion End.......0900
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........10  12  4   11  8   13  15  27  
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............64  70  75  79  81  82  82  82  
+RH..............54  49  43  42  41  41  43  43  
+20 FT wind dir..W   W   W   W   W   W   W   W   
+20 FT wind spd..4   4   5   4   4   5   5   5   
+20 FT wind gust.13  13  13  11  11  11  11  11  
+Mix hgt (kft)...1.3 1.6 1.9 2.5 3.4 4.3 4.8 4.0 
+Transp wind dir.W   W   W   W   W   W   W   W   
+Transp wind spd.14  14  12  12  12  12  12  12  
+LVORI...........2   2   1   1   1   1   1   1   
+ADI.............24  30  34  40  48  64  70  61  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy then becoming mostly cloudy. 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 60. 
+Max humidity........81 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........6. 
+Min ADI.............1. 
+Inversion Begin.....1900 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........38     47     55     47     38     12     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      10     10     10     0      0      
+Temp............80     73     67     66     64     62     
+RH..............47     59     70     70     75     81     
+20 ft wind......W 3    SW 2   SW 2   W 2    W 2    W 2    
+20 ft wind gust.9      9      9      9      9      9      
+Mix hgt (ft)....2600   400    400    400    400    400    
+Transport wind..SW 6   SW 6   SW 4   W 2    W 2    W 2    
+LVORI...........2      3      3      4      4      6      
+ADI.............1      2      2      1      1      1      
+
+.SUNDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 86. 
+Min humidity........41 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph with 
+                    gusts to around 16 mph in the afternoon. 
+Mixing Height.......Max 3800 ft AGL. 
+Transport winds.....Light winds becoming southwest around 18 mph. 
+Max ADI.............75. 
+Inversion End.......1000
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........5         5         1         2         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............61        65        80        86        
+RH..............81        73        52        42        
+20 FT wind......W 2G9     W 2G9     W 4G13    SW 6G14   
+Mix hgt (ft)....500       800       2300      3600      
+Transport wind..W 2       W 8       W 14      SW 18     
+LVORI...........5         3         1         1         
+ADI.............2         4         41        75        
+
+$$
+Forecaster...Dixon
+Requested by...Mike Leslie
+Type of request...PRESCRIBED
+.TAG 2606852.0/CHS
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL michael.c.leslie@usda.gov
+

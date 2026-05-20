@@ -1,0 +1,143 @@
+
+000
+FNUS72 KGSP 230701
+FWSGSP
+
+Spot Forecast for Farmer Mountain Rx...USFS
+National Weather Service Greenville-Spartanburg SC
+301 AM EDT Mon Mar 23 2026
+
+Forecast is based on ignition time of 0500 EDT on March 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry and windy today.  Expect afternoon RH in the mid-20s.  Around a 
+25% chance of seeing RH fall below 20% in the afternoon, but if this
+happens it will only be brief.
+
+Day shift briefed me that 25mph is a critical threshold for your 
+operations, so...currently expect a window in the morning, between
+0900 and 1200, during which gusts could indeed get to 25-27mph, though
+only sporadically, as a cold front crosses overhead.  Critically, 
+**this window will be at the same time as the wind direction shifting 
+from the W to the NNW**...so once you see the prevailing wind stay 
+reliably out of the NNW, the period of max gusts is likely over, and 
+the 25mph threshold is unlikely to be met thereafter.
+
+In case this 25mph threshold requires overlap with low RH, it currently
+looks very unlikely that RH will fall below 40% during the period when
+gusts may reach 25mph.
+
+If you'd like clarification on this, or want a real-time update as the
+day progresses, call the office and the mets there can help.
+
+During the afternoon, gusts are only expected in the 15-20mph range, 
+while winds will stay out of the N/NW.  It is during the mid to late 
+afternoon, likely after 3PM, when RH is most likely to crater to values
+below 30%.
+
+Won't dwell too much on Tuesday.  Expect even drier RH, but ligher winds, 
+with sporadic gusts expected to remain below 20mph.
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Chance of thunder...0 percent. 
+Max temperature.....Around 80. 
+Min humidity........26 percent. 
+Wind (20 ft)........West winds around 10 mph shifting to the 
+                    northwest 9 to 10 mph in the afternoon. 
+Mixing height.......4700 ft AGL. 
+Transport winds.....West 15 to 22 mph shifting to the north 15 to 
+                    20 mph in the afternoon. 
+Smoke dispersal.....Poor (7480 mph-ft) early in the morning 
+                    increasing to excellent (75266 mph-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........44  45  19  53  53  46  33  23  13  4   3   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............66  65  65  68  70  73  76  78  79  79  79  79  
+RH..............68  70  70  65  62  57  51  45  41  36  30  27  
+20 FT wind dir..W   W   W   W   W   NW  NW  NW  NW  NW  NW  N   
+20 FT wind spd..10  10  10  10  10  10  9   9   9   9   10  10  
+20 FT wind gust.20  20  18  20  20  20  20  18  18  20  20  20  
+Mix hgt (kft)...0.5 0.5 0.7 1.8 2.9 3.3 3.8 4.2 4.6 4.7 4.4 4.1 
+Transp wind dir.W   W   W   W   NW  NW  N   N   N   N   N   N   
+Transp wind spd.15  15  15  20  22  22  20  17  15  16  15  16  
+VRate mph-ft/1k.7   7   10  36  64  72  74  72  69  75  66  66  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent) then becoming 
+                    mostly cloudy (55-65 percent). 
+Chance of thunder...0 percent. 
+Min temperature.....Around 45. 
+Max humidity........47 percent. 
+Wind (20 ft)........North winds 6 to 10 mph shifting to the 
+                    northeast 6 to 7 mph overnight. 
+Mixing height.......500 ft AGL. 
+Transport winds.....North 8 to 16 mph shifting to the east 6 to 13 
+                    mph overnight. 
+Smoke dispersal.....Good (54090 mph-ft) early in the evening 
+                    decreasing to poor (2877 mph-ft) late in the 
+                    night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........3   2   6   6   6   12  14  16  25  19  29  59  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............77  72  67  63  59  56  54  53  51  50  49  47  
+RH..............26  27  31  34  38  40  42  43  45  44  45  46  
+20 FT wind dir..N   N   N   N   N   N   NE  NE  NE  NE  NE  E   
+20 FT wind spd..10  10  9   9   7   6   6   6   6   6   6   7   
+20 FT wind gust.20  20  18  17  14  13  12  10  10  12  13  14  
+Mix hgt (kft)...3.4 2.0 0.7 0.7 0.6 0.5 0.5 0.6 0.6 0.5 0.6 0.5 
+Transp wind dir.N   N   N   N   N   N   NE  E   E   E   E   E   
+Transp wind spd.16  15  15  13  10  8   6   7   10  10  12  13  
+VRate mph-ft/1k.54  30  11  9   6   4   3   4   6   5   7   6   
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent). 
+Chance of thunder...0 percent. 
+Max temperature.....Around 61. 
+Min humidity........24 percent. 
+Wind (20 ft)........East winds 7 to 9 mph. 
+Mixing height.......3300 ft AGL. 
+Transport winds.....East 9 to 18 mph decreasing to around 8 mph 
+                    late in the afternoon. 
+Smoke dispersal.....Poor (7250 mph-ft) early in the morning 
+                    increasing to good (47300 mph-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........55  44  23  32  41  50  50  51  51  56  61  66  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............46  45  45  46  48  51  54  57  59  60  61  61  
+RH..............47  47  47  46  41  36  33  30  26  25  24  25  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   E   E   E   
+20 FT wind spd..7   8   8   9   9   9   9   8   8   8   8   7   
+20 FT wind gust.15  15  16  17  18  18  18  17  16  15  15  14  
+Mix hgt (kft)...0.5 0.8 1.1 2.0 2.6 2.8 3.0 3.2 3.2 3.3 3.3 3.2 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.14  14  15  18  18  16  14  13  10  9   8   8   
+VRate mph-ft/1k.7   11  17  38  47  45  42  40  33  30  27  25  
+
+$$
+Forecaster...MPR
+Requested by...Greg Cohen
+Type of request...PRESCRIBED
+.TAG 2607105.2/GSP
+.DELDT 03/23/26
+.FormatterVersion 2.0.0
+

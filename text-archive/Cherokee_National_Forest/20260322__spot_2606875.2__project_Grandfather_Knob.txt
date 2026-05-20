@@ -1,0 +1,122 @@
+
+000
+FNUS74 KMRX 220927
+FWSMRX
+
+Spot Forecast for Grandfather Knob...USFS
+National Weather Service Morristown TN
+527 AM EDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 0600 EDT on March 22. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+Dry weather is forecast for today and tonight. A weak cold front
+will move through during the overnight hours tonight, increasing 
+the chance of showers and possible thunderstorms Monday morning 
+into the early afternoon. A wind shift will occur following the 
+cold front Monday morning. Current west to southwest flow will 
+eventually turn out of the north.
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+Max temperature.....Around 78. 
+Min humidity........42 percent. 
+Wind (20 ft)........Light winds becoming west 5 to 8 mph with gusts 
+                    to around 16 mph in the late morning and 
+                    afternoon. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....West 9 to 17 mph increasing to 20 to 21 mph 
+                    late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........62  62  57  41  39  41  31  34  43  31  20  18  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............58  58  57  60  63  67  69  72  75  76  77  77  
+RH..............80  83  90  84  78  73  68  61  54  50  45  43  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  W   W   W   W   W   W   
+20 FT wind spd..4   4   4   4   5   5   6   6   7   7   8   7   
+20 FT wind gust.8   10  10  10  10  11  13  13  14  16  16  14  
+Mix hgt (kft)...1.2 1.2 1.2 1.6 2.0 2.6 2.9 3.6 4.2 4.4 4.4 4.2 
+Transp wind dir.W   SW  W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.10  10  9   13  14  15  16  17  20  20  21  21  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    mostly cloudy (70-80 percent). Slight chance of 
+                    showers after 3 am. Chance of showers and 
+                    slight chance of thunderstorms early in the 
+                    morning. 
+Min temperature.....Around 53. 
+Max humidity........96 percent. 
+Wind (20 ft)........Southwest winds 5 to 8 mph. Gusts up to 21 mph 
+                    overnight. Gusty and erratic winds expected 
+                    near thunderstorms early in the morning. 
+Mixing height.......1500 ft AGL. 
+Transport winds.....West 13 to 21 mph. 
+Rainfall amount.....0.03 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........17  17  25  19  18  21  26  36  41  65  76  86  
+Weather cov.....                                        SCH CHC 
+Weather type....                                        RW  RW  
+Tstm cov........                                            SCH 
+Temp............78  76  73  69  69  67  67  66  65  65  64  63  
+RH..............42  43  48  57  57  59  59  63  65  68  73  75  
+20 FT wind dir..W   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  W   
+20 FT wind spd..6   6   5   5   5   5   6   6   7   7   8   8   
+20 FT wind gust.14  14  14  12  13  14  14  16  16  16  17  17  
+Mix hgt (kft)...3.8 1.8 1.5 1.5 1.8 1.8 1.9 2.0 1.8 2.0 2.2 1.8 
+Transp wind dir.W   W   SW  SW  SW  SW  W   W   W   W   W   W   
+Transp wind spd.21  14  13  13  15  18  17  18  17  18  20  18  
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (75-85 percent) then becoming 
+                    mostly sunny (25-35 percent). Chance of rain 
+                    showers and slight chance of thunderstorms 
+                    early in the morning, then slight chance of 
+                    rain showers early in the morning. 
+Max temperature.....Around 60. 
+Min humidity........37 percent. 
+Wind (20 ft)........West winds 7 to 8 mph with gusts to around 16 
+                    mph shifting to the north around 6 mph early in 
+                    the morning. Gusty and erratic winds expected 
+                    near thunderstorms early in the morning. 
+Mixing height.......4500 ft AGL. 
+Transport winds.....West 17 to 18 mph shifting to the north 13 to 
+                    18 mph early in the morning. 
+Rainfall amount.....0.03 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........93  88  89  88  84  80  62  44  26  21  16  11  
+Weather cov.....CHC CHC SCH SCH SCH SCH SCH SCH                 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW                  
+Tstm cov........SCH SCH                                         
+Temp............60  58  57  54  55  57  57  58  58  58  59  58  
+RH..............81  90  86  96  90  75  67  60  53  47  42  40  
+20 FT wind dir..W   W   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..8   7   6   6   6   6   6   6   6   6   6   6   
+20 FT wind gust.16  14  14  14  14  13  13  12  12  12  12  12  
+Mix hgt (kft)...2.1 1.8 2.0 2.1 2.4 2.7 3.1 3.5 3.8 4.3 4.5 4.4 
+Transp wind dir.W   W   N   N   N   N   N   N   N   N   N   N   
+Transp wind spd.18  17  17  13  13  15  15  15  15  16  18  18  
+
+$$
+Forecaster...Kerrie Simmons
+Requested by...Maxwell White
+Type of request...PRESCRIBED
+.TAG 2606875.2/MRX
+.DELDT 03/22/26
+.FormatterVersion 2.0.0
+.EMAIL maxwell.white@usda.gov
+

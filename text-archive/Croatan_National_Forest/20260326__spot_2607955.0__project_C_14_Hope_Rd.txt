@@ -1,0 +1,129 @@
+
+000
+FNUS72 KMHX 260802
+FWSMHX
+
+Spot Forecast for C 14 Hope Rd...USFS
+National Weather Service Newport/Morehead City NC
+402 AM EDT Thu Mar 26 2026
+
+Forecast is based on ignition time of 0900 EDT on March 26. 
+If conditions become unrepresentative, or if you have questions 
+or concerns about this forecast, contact the National Weather 
+Service in Newport at (252)223-2328.
+
+.DISCUSSION...
+With high pressure offshore, expecting light and variable winds 
+early today, strengthening to SW 10-15 kts with gusts 15-20 kts in
+the afternoon, strongest gusts over the Coastal Plain. Winds 
+start out a little stronger tomorrow SW 5-10 kt early, but will 
+see similar strengthening in the afternoon. RHs dip into the 
+35-45% range both afternoons, higher along the coast and OBX. Next
+chance of rain late Friday afternoon into early Saturday morning.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny. 
+Max temperature.....Around 74. 
+Min humidity........55 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 10 mph in 
+                    the late morning and afternoon. 
+Mixing Height.......Max 4600 ft AGL. 
+Transport winds.....Southwest 8 to 17 mph increasing to 18 to 20 
+                    mph late in the afternoon. 
+Vent Rate...........Max 71875 mph-ft. 
+LVORI...............Max 5. 
+ADI.................Max 70. 
+Stability class.....2. 
+Sfc pressure........30.07 to 30.21 inHg. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........43  39  38  37  35  34  35  36  36  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............58  64  68  71  73  73  73  73  72  
+RH..............90  78  65  59  55  55  55  55  57  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  S   
+20 FT wind spd..3   4   6   6   7   8   9   10  10  
+20 FT wind gust.5   5   9   14  14  14  18  18  18  
+Mix hgt (kft)...0.7 1.3 2.7 3.8 4.3 4.6 4.2 3.5 2.7 
+Transp wind dir.SW  SW  W   W   W   SW  SW  SW  SW  
+Transp wind spd.8   9   14  15  14  15  17  18  20  
+LVORI...........5   4   1   1   1   1   1   1   1   
+ADI.............8   16  47  68  70  60  66  65  59  
+Vrate mph-ft/1K.6   12  37  56  59  69  72  65  53  
+Sfc pres (in)...021 021 020 018 016 013 011 009 007 
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear. 
+Min temperature.....Around 60. 
+Max humidity........90 percent. 
+Wind (20 ft)........Southwest winds 9 to 10 mph. 
+Mixing Height.......Min 500 ft AGL. 
+Transport winds.....Southwest 16 to 20 mph. 
+Vent Rate...........Min 8510 mph-ft. 
+LVORI...............Max 5. 
+ADI.................Min 11. 
+Stability class.....4. 
+Sfc pressure........29.99 to 30.07 inHg. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........33  26  22  20  15  12  12  13  9   8   11  8   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............72  68  65  63  62  62  61  62  61  62  62  62  
+RH..............57  65  70  75  81  81  84  81  87  84  87  84  
+20 FT wind dir..S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..10  10  9   9   9   9   9   9   9   9   9   9   
+20 FT wind gust.14  14  14  14  14  14  14  14  14  14  14  14  
+Mix hgt (kft)...2.2 0.5 0.6 0.5 0.6 0.6 0.6 0.6 0.6 0.7 0.7 0.7 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.20  17  17  16  17  17  18  18  18  17  17  17  
+LVORI...........1   3   3   4   4   4   4   4   4   4   5   4   
+ADI.............51  12  12  11  12  12  12  12  12  12  12  12  
+Vrate mph-ft/1K.42  9   10  9   10  10  11  11  12  11  11  12  
+Sfc pres (in)...006 006 007 006 006 005 004 002 001 000 999 999 
+
+.FRIDAY...
+
+Sky/weather.........Sunny. 
+Max temperature.....Around 81. 
+Min humidity........56 percent. 
+Wind (20 ft)........Southwest winds 9 to 12 mph. Gusts up to 25 mph 
+                    in the late morning and afternoon. 
+Mixing Height.......Max 3800 ft AGL. 
+Transport winds.....Southwest 16 to 24 mph. 
+Vent Rate...........Max 70495 mph-ft. 
+LVORI...............Max 5. 
+ADI.................Max 73. 
+Stability class.....4. 
+Sfc pressure........29.89 to 30.04 inHg. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........13     24     26     15     12     16     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Temp............61     62     70     76     80     79     
+RH..............90     87     73     64     56     58     
+20 ft wind......SW 9   SW 9   SW 10  SW 10  SW 10  SW 10  
+20 ft wind gust.14     14     18     18     23     23     
+Mix hgt (ft)....700    800    2100   3200   3800   2300   
+Transport wind..SW 17  SW 16  W 22   W 22   W 17   SW 18  
+LVORI...........5      4      3      1      1      1      
+ADI.............12     12     56     73     63     49     
+Vrate mph-ft/1K.12     12     46     70     65     41     
+Sfc pres (in)...30.00  30.03  30.04  30.01  29.95  29.90  
+
+$$
+Forecaster...Kearns
+Requested by...David Nelson
+Type of request...PRESCRIBED
+.TAG 2607955.0/MHX
+.DELDT 03/26/26
+.FormatterVersion 2.0.0
+.EMAIL david.l.nelson@usda.gov
+

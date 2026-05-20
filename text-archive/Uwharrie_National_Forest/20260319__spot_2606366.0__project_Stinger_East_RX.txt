@@ -1,0 +1,102 @@
+
+000
+FNUS72 KRAH 190630
+FWSRAH
+
+Spot Forecast for Stinger East RX...USFS
+National Weather Service Raleigh NC
+230 AM EDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 0900 EDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact this NWS office if you have questions or
+concerns with this forecast.
+
+.DISCUSSION...
+Canadian high pressure will gradually weaken over the Carolinas 
+through Thursday night, then drift offshore on Friday. 
+
+A marginally steep morning inversion may be slower to mix due to 
+light flow through the boundary layer. As temperatures rise into 
+the 60s, mixing heights are expected to increase to 4,000 to
+5,000 ft. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Chance of pcpn......0 percent. 
+Temperature.........38 at ignition...Max 65. 
+RH..................57 percent at ignition...Min 28 percent. 
+Wind (20 ft)........Winds west at 1 mph at ignition...otherwise 
+                    Light winds becoming west around 5 mph late in 
+                    the morning, then becoming light in the 
+                    afternoon. 
+Mixing height.......700 ft AGL at ignition...otherwise 5000 ft AGL. 
+Transport winds.....Northwest 3 to 7 mph. 
+LVORI...............2. 
+ADI.................3 to 32. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........16  26  24  24  14  21  26  25  21  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............38  45  52  55  59  61  63  64  65  
+RH..............57  43  33  32  30  29  29  29  28  
+20 FT wind dir..W   W   W   W   W   W   W   NW  NW  
+20 FT wind spd..1   2   5   3   3   2   2   2   2   
+20 FT wind gust.2   6   7   7   6   6   7   7   7   
+Mix hgt (kft)...0.7 1.4 2.2 2.8 3.6 4.5 4.8 5.0 5.0 
+Transp wind dir.W   W   W   NW  NW  NW  NW  NW  W   
+Transp wind spd.3   6   7   7   7   6   6   6   6   
+LVORI...........3   3   2   2   2   1   1   1   2   
+ADI.............3   3   24  24  24  32  32  32  19  
+Visibility (sm).10  10  10  10  10  10  10  10  10  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Chance of pcpn......0 percent. 
+Temperature.........Min 39. 
+RH..................Max 79 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....West 3 to 6 mph shifting to the southwest in 
+                    the late evening and overnight. 
+LVORI...............4. 
+ADI.................2 to 19. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10 decreasing to 7 overnight. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........24  24  26  14  6   2   4   3   7   4   4   5   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............64  62  57  51  49  48  46  45  44  42  41  41  
+RH..............30  33  43  56  58  60  65  68  70  76  79  79  
+20 FT wind dir..W   W   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..2   2   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.7   5   2   2   2   2   2   2   2   2   2   2   
+Mix hgt (kft)...4.0 0.5 0.4 0.3 0.3 0.4 0.4 0.4 0.4 0.3 0.3 0.3 
+Transp wind dir.NW  W   W   SW  S   S   SW  SW  S   S   SW  SW  
+Transp wind spd.6   3   5   5   3   5   5   6   6   5   5   5   
+LVORI...........2   2   2   2   2   3   3   3   4   4   4   5   
+ADI.............19  19  2   2   2   2   2   2   2   2   2   2   
+Visibility (sm).10  10  10  10  10  10  10  10  7   7   7   7   
+
+$$
+Forecaster...SWIGGETT
+Requested by...Bart Cagle
+Type of request...PRESCRIBED
+.TAG 2606366.0/RAH
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL andrew.cagle@usda.gov,sergio.olvera@usda.gov,robert.jefferson@usda.gov,jeffery.greene@usda.gov
+

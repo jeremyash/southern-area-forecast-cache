@@ -1,0 +1,101 @@
+
+000
+FNUS72 KRAH 100906
+FWSRAH
+
+Spot Forecast for Correll Road/Mt Carmel RX...USFS
+National Weather Service Raleigh NC
+506 AM EDT Tue Mar 10 2026
+
+Forecast is based on ignition time of 0600 EDT on March 10. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact this NWS office if you have questions or
+concerns with this forecast.
+
+.DISCUSSION...
+High pressure will build over the area through Wednesday. A strong 
+cold front will sweep through the Carolinas late Wednesday night 
+through Thursday. Cool high pressure will build in from the north 
+Thurday evening and night, then push off the Mid Atlantic coast 
+Friday, bringing a return to warmer temperatures for the weekend.
+
+.TODAY...
+
+Sky/weather.........Partly sunny (45-55 percent) then becoming 
+                    mostly sunny (30-40 percent). A chance of 
+                    showers in the afternoon. 
+Chance of pcpn......40 percent. 
+Max temperature.....Around 80. 
+Min humidity........45 percent. 
+Wind (20 ft)........SW winds 5 to 10 mph. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....Southwest 5 to 12 mph. 
+LVORI...............3. 
+ADI.................3 early in the morning increasing to 47 in the 
+                    afternoon. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........76  71  70  54  43  43  28  13  16  48  57  55  
+Weather cov.....SCH SCH SCH SCH SCH SCH SCH         SCH CHC SCT 
+Weather type....RN  RN  RN  RN  RN  RN  RN          RN  RN  RW  
+Tstm cov........                                            ISO 
+Chc of pcpn (%).20  20  20  20  20  20  20  10  10  20  40  30  
+Temp............57  55  56  59  65  69  72  75  77  78  79  80  
+RH..............75  83  80  80  70  63  59  55  54  52  49  49  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..1   1   1   2   2   2   3   5   5   5   5   5   
+20 FT wind gust.3   5   5   6   7   8   9   10  12  12  12  10  
+Mix hgt (kft)...0.1 0.2 0.1 0.4 0.8 1.3 2.3 3.3 4.3 4.0 3.5 2.9 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.8   7   6   5   6   8   8   7   8   10  12  13  
+LVORI...........4   4   4   4   4   2   2   2   1   1   1   2   
+ADI.............3   3   6   6   6   22  22  22  47  47  47  23  
+Visibility (sm).10  10  10  10  10  10  10  10  10  10  10  10  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). Isolated showers 
+                    and thunderstorms early in the evening. 
+Chance of pcpn......20 percent. 
+Min temperature.....Around 62. 
+Max humidity........93 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms early in the evening. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southwest 8 to 12 mph. 
+LVORI...............4. 
+ADI.................4 to 23. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10 decreasing to 7 overnight. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........35  28  21  19  27  20  14  9   22  22  27  26  
+Weather cov.....ISO ISO                                         
+Weather type....RW  RW                                          
+Tstm cov........ISO ISO                                         
+Chc of pcpn (%).20  20  10  0   0   0   0   0   0   10  10  10  
+Temp............78  76  74  70  68  67  67  66  66  65  64  64  
+RH..............54  58  64  76  81  84  84  87  87  90  93  93  
+20 FT wind dir..SW  SW  S   S   S   S   SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.9   7   7   7   7   8   8   8   8   8   8   8   
+Mix hgt (kft)...1.9 0.6 0.5 0.5 0.5 0.6 0.5 0.5 0.5 0.5 0.4 0.4 
+Transp wind dir.SW  SW  SW  S   SW  SW  SW  SW  SW  SW  W   W   
+Transp wind spd.10  8   8   9   9   10  9   9   9   9   12  10  
+LVORI...........2   2   3   3   3   5   5   5   6   6   6   6   
+ADI.............23  23  4   4   4   4   4   4   4   4   4   4   
+Visibility (sm).10  10  10  10  10  10  10  10  7   7   7   7   
+
+$$
+Forecaster...BADGETT
+Requested by...Sergio Olvera
+Type of request...PRESCRIBED
+.TAG 2605204.0/RAH
+.DELDT 03/10/26
+.FormatterVersion 2.0.0
+.EMAIL andrew.cagle@usda.gov,robert.jefferson@usda.gov,sergio.olvera@usda.gov,jason.perryman@usda.gov,jeffery.greene@usda.gov
+

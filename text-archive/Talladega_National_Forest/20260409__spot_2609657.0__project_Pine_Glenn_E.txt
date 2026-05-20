@@ -1,0 +1,117 @@
+
+000
+FNUS74 KBMX 090746
+FWSBMX
+
+Spot Forecast for Pine Glenn E...usfs
+National Weather Service Birmingham AL
+246 AM CDT Thu Apr 9 2026
+
+Forecast is based on ignition time of 0600 CDT on April 09. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+While MinRH values will remain very low today, winds will be
+slightly calmer than yesterday, but not by much. Winds will
+generally be sustained between 5-10 MPH, with gusts just over 15
+MPH possible. Little to no rainfall is expected over the next
+seven days. 
+
+.TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 73. 
+Min humidity........23 percent. 
+Wind (20 ft)........East winds 5 to 6 mph in the morning and early 
+                    afternoon becoming light. 
+Mixing height.......4700 ft AGL. 
+Transport winds.....East 9 to 18 mph decreasing to 8 to 9 mph late 
+                    in the afternoon. 
+Dispersion index....7 increasing to 47 late in the morning. 
+LVORI...............2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........47     22     6      4      3      2      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............48     50     60     67     71     73     
+RH..............54     50     36     28     26     23     
+20 FT wind......E 5    E 5    E 6    E 5    E 5    E 3    
+20 FT wind gust.14     14     14     12     11     10     
+20 FT wind dir..100    100    100    110    100    100    
+Mix hgt (ft)....400    1200   2200   3400   4300   4700   
+Transport wind..E 12   E 17   E 15   E 10   E 8    E 8    
+Dispersion idx..8      8      7      45     44     47     
+LVORI...........2      2      1      1      1      1      
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 47. 
+Max humidity........71 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....East 8 to 12 mph. 
+Dispersion index....31 decreasing to 4. 
+LVORI...............2. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........2      3      2      3      3      3      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............71     60     56     53     51     49     
+RH..............27     42     47     52     56     63     
+20 FT wind......E 2    E 2    E 3    E 3    E 2    E 3    
+20 FT wind gust.8      8      10     10     10     10     
+20 FT wind dir..100    100    110    110    100    100    
+Mix hgt (ft)....2600   300    300    300    300    300    
+Transport wind..E 9    E 9    E 12   E 12   E 10   E 12   
+Dispersion idx..31     3      3      5      5      5      
+LVORI...........1      2      2      2      3      3      
+
+.FRIDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 79. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6000 ft AGL. 
+Transport winds.....East 3 to 12 mph shifting to the northeast 
+                    around 2 mph late in the afternoon. 
+Dispersion index....4 increasing to 23 late in the morning, then 
+                    decreasing to 12 late in the afternoon. 
+LVORI...............3. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........4      4      4      7      12     17     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............49     52     65     73     78     79     
+RH..............66     63     48     37     29     28     
+20 FT wind......E 2    SE 2   SE 2   SE 2   E 2    E 2    
+20 FT wind gust.8      8      8      6      6      6      
+20 FT wind dir..110    130    130    120    110    070    
+Mix hgt (ft)....300    1000   2500   4100   5500   5800   
+Transport wind..E 10   SE 12  SE 7   E 5    E 3    NE 3   
+Dispersion idx..5      5      3      24     24     25     
+LVORI...........3      3      2      2      2      2      
+
+$$
+Forecaster...ADavis
+Requested by...will holt
+Type of request...PRESCRIBED
+.TAG 2609657.0/BMX
+.DELDT 04/09/26
+.FormatterVersion 2.0.0
+

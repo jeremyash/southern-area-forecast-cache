@@ -1,0 +1,146 @@
+
+000
+FNUS71 KLWX 131807
+FWSLWX
+
+Spot Forecast for North River RX...USFS
+National Weather Service Baltimore MD/Washington DC
+207 PM EDT Fri Mar 13 2026
+
+Forecast is based on ignition time of 1500 EDT on March 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+...WIND ADVISORY IN EFFECT UNTIL 8 PM EDT THIS EVENING...
+
+.DISCUSSION...
+
+Windy conditions will continue ahead of a cold front which will 
+cross the area tonight. Minimum RH values will be around 20 to 
+30 percent with wind gusts 40 to 50 mph expected. Gusty winds 
+continue overnight as overnight lows drop into the low 30s. 
+Relative humidity values recover slightly overnight and will be
+around 60 percent. 
+
+Saturday will be the driest day region wide, behind the frontal 
+passage from tonight. RH values could drop into the upper teens to 
+20s across much of the area. Winds will be lower compared to Friday, 
+but will remain somewhat elevated, especially along/north of the 
+Interstate 66 corridor, where 20-35 mph wind gusts can be expected. 
+A Special Weather Statement may be needed.
+
+Gusty winds but increasing RHs are forecast Sunday ahead of another 
+front, which looks to bring wetting rains Sunday evening/night. 
+There is less of a threat Sunday, but any ongoing fires could feel 
+the impacts of some gusty southeasterly flow (20-30 mph gusts). 
+Showers and thunderstorms look likely on Monday before strong west-
+northwesterly winds overspread the area Monday evening into Tuesday.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 51. 
+Min humidity........36 percent. 
+Wind (20 ft)........Breezy. Southwest winds 28 to 29 mph with gusts 
+                    to around 55 mph. 
+Mixing height.......4500 ft AGL. 
+Transport winds.....Southwest 40 to 44 mph. 
+Smoke dispersal.....Excellent (138700 knot-ft). 
+
+TIME (EDT)      3 PM   5 PM   
+Sky (%).........15     8      
+Weather cov.....              
+Weather type....NONE   NONE   
+Tstm cov........              
+CWR.............0      0      
+Chc of thdr (%).0      0      
+Temp............48     51     
+RH..............37     36     
+20 ft wind......SW 29  SW 28  
+20 ft wind gust.55     52     
+Mix hgt (ft)....4000   4500   
+Transport wind..SW 40  SW 43  
+Vrate kt-ft/1K..139    166    
+Ventrate Cat....VYGD   EXNT   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 33. 
+Max humidity........61 percent. 
+Wind (20 ft)........Breezy. West winds 22 to 26 mph with gusts to 
+                    around 51 mph shifting to the northwest 18 to 
+                    20 mph with gusts to around 40 mph after 3 am. 
+Mixing height.......2200 ft AGL. 
+Transport winds.....Southwest around 39 mph becoming west 24 to 26 
+                    mph. 
+Smoke dispersal.....Excellent (149200 knot-ft) early in the evening 
+                    decreasing to good (51600 knot-ft) late in the 
+                    night decreasing to good (47100 knot-ft) early 
+                    in the morning. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........10     7      14     7      5      4      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Chc of thdr (%).0      0      0      0      0      0      
+Temp............49     47     44     42     39     36     
+RH..............40     47     53     53     54     61     
+20 ft wind......W 26   W 24   W 22   W 22   W 23   NW 20  
+20 ft wind gust.51     47     45     44     43     40     
+Mix hgt (ft)....4400   2500   3700   3600   3000   2500   
+Transport wind..SW 39  W 24   W 25   W 25   W 25   W 24   
+Vrate kt-ft/1K..149    52     82     78     65     52     
+Ventrate Cat....VYGD   FAIR   GOOD   GOOD   GOOD   FAIR   
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 52. 
+Min humidity........23 percent. 
+Wind (20 ft)........Northwest winds 12 to 18 mph. Gusts up to 36 
+                    mph decreasing to 25 mph late in the afternoon. 
+Mixing height.......3500 ft AGL. 
+Transport winds.....Northwest 21 to 22 mph increasing to 23 to 31 
+                    mph in the late morning and early afternoon, 
+                    then shifting to the west 17 to 20 mph late in 
+                    the afternoon. 
+Smoke dispersal.....Good (35900 knot-ft) early in the morning 
+                    increasing to excellent (77700 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........7         8         28        51        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+CWR.............0         0         0         0         
+Chc of thdr (%).0         0         0         0         
+Temp............35        35        45        51        
+RH..............54        43        27        23        
+20 FT wind......W 18G35   NW 18G36  NW 17G33  NW 13G24  
+Mix hgt (ft)....2000      2400      3100      3400      
+Transport wind..W 22      NW 31     NW 28     NW 23     
+Vrate kt-ft/1K..39        64        75        69        
+Ventrate Cat....POOR      GOOD      GOOD      GOOD      
+
+$$
+Forecaster...Stuck
+Requested by...Aaron Strobel
+Type of request...PRESCRIBED
+.TAG 2605652.0/LWX
+.DELDT 03/13/26
+.FormatterVersion 2.0.0
+.EMAIL ted.docev@usda.gov,aaron.p.strobel@usda.gov,james.collett@usda.gov
+

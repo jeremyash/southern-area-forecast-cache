@@ -1,0 +1,90 @@
+
+000
+FNUS74 KSHV 061338
+FWSSHV
+
+Spot Forecast for ANF Oilwell Rx Blocks CD...USFS
+National Weather Service Shreveport LA
+838 AM CDT Mon Apr 6 2026
+
+Forecast is based on ignition time of 0900 CDT on April 06. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Some morning clouds across the region, but no fog. Clouds should
+clear, with afternoon highs climbing into the low to mid 70s. But,
+it will be breezy. Expect 20 ft winds near 10 mph, with gusts
+15-19 mph. Afternoon mixing heights will climb above 4000 ft, with
+min RH values ranging from 30 to 35 percent. 
+
+.REST OF TODAY...
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........53  50  46  39  35  30  19  14  13  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+CWR.............0   0   0   0   0   0   0   0   0   
+Temp............56  60  65  68  70  72  73  74  74  
+RH..............62  55  46  40  38  35  33  32  33  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind mph..5   8   8   8   8   8   8   6   6   
+20 FT wind gust.16  17  18  18  17  17  17  16  15  
+Mix hgt (kft)...1.8 2.6 3.3 3.9 4.1 4.4 4.6 4.9 4.8 
+Mix hgt (km)....0.5 0.8 1.0 1.2 1.2 1.3 1.4 1.5 1.5 
+Transp wind dir.NE  NE  NE  E   E   E   E   E   E   
+Transp wind spd.20  21  20  20  17  15  14  14  14  
+Trans wind dir..NE  NE  NE  E   E   E   E   E   E   
+Trans spd (m/s).9   9   9   9   8   7   6   6   6   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........10  9   11  14  14  18  26  30  33  40  43  55  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............73  69  63  59  55  54  52  51  50  49  49  47  
+RH..............34  40  50  60  69  71  77  77  83  83  83  89  
+20 FT wind dir..NE  NE  NE  NE  E   E   E   E   E   E   E   E   
+20 FT wind mph..6   3   3   3   2   2   2   2   2   2   2   2   
+20 FT wind gust.13  12  10  9   9   8   9   9   9   9   9   9   
+Mix hgt (kft)...4.0 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mix hgt (km)....1.2 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.E   NE  NE  E   E   E   E   E   E   E   E   E   
+Transp wind spd.14  10  9   9   9   10  10  9   8   8   8   8   
+Trans wind dir..E   NE  NE  E   E   E   E   E   E   E   E   E   
+Trans spd (m/s).6   4   4   4   4   4   4   4   4   4   4   4   
+
+.TUESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........54  52  73  68  63  60  54  51  53  56  58  60  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............46  46  47  52  60  66  70  72  74  76  76  75  
+RH..............93  93  89  77  60  47  41  37  34  32  32  34  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   E   E   E   
+20 FT wind mph..2   3   3   3   6   6   6   6   6   6   5   5   
+20 FT wind gust.9   9   10  12  13  14  15  15  15  15  15  14  
+Mix hgt (kft)...0.4 0.4 0.6 1.6 2.4 3.1 3.8 4.4 5.3 5.8 5.7 4.3 
+Mix hgt (km)....0.1 0.1 0.2 0.5 0.7 0.9 1.2 1.3 1.6 1.8 1.7 1.3 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.8   9   10  15  17  16  14  13  13  14  15  14  
+Trans wind dir..E   E   E   E   E   E   E   E   E   E   E   E   
+Trans spd (m/s).4   4   4   7   8   7   6   6   6   6   7   6   
+
+$$
+Forecaster...HILL
+Requested by...Kye Kartye
+Type of request...PRESCRIBED
+.TAG 2609091.0/SHV
+.DELDT 04/06/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.kartye@usda.gov,joey.silva@usda.gov
+

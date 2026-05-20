@@ -1,0 +1,156 @@
+
+000
+FNUS72 KCAE 150822
+FWSCAE
+
+Spot Forecast for Enoree C-148 Blocks 8&4...US Forest Service
+National Weather Service Columbia SC
+422 AM EDT Sun Mar 15 2026
+
+Forecast is based on ignition time of 0800 EDT on March 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+A stray shower cannot be ruled out near the burn site this morning,
+but mostly dry weather is expected until this afternoon. Winds pick 
+up to 7-10 mph out of the southeast after 9-11 AM where a couple 
+gusts near 15 mph cannot be ruled out, but stronger gusts are not expected.
+Minimum RH values this afternoon are expected to rise to around 55-65%
+as moisture increases ahead of a strong cold front that will move in on 
+Monday. Isolated to scattered showers and storms are expected to develop 
+after 1-3 PM this afternoon, continuing until around 6-8 PM this evening.
+Tonight, winds turn a bit more southerly, but remain around 10 mph before
+the strong cold front moves in Monday with strong to severe thunderstorms
+expected during the late morning and into the afternoon. This front will 
+also bring strong southerly winds that could gust to 35-40 mph Monday 
+morning before turning out of the west behind the front Monday evening, 
+slightly weakening.
+    
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (60-70 percent). Slight chance of 
+                    rain showers early in the afternoon. Chance of 
+                    rain showers and slight chance of thunderstorms 
+                    late in the afternoon. 
+Chance of pcpn......50 percent. 
+Max temperature.....Around 74. 
+Min humidity........64 percent. 
+Wind (20 ft)........Light winds becoming southeast 6 to 7 mph late 
+                    in the morning. Gusty and erratic winds 
+                    expected near thunderstorms late in the 
+                    afternoon. 
+Mixing height.......3500 ft AGL. 
+Transport winds.....Southeast 8 to 17 mph. 
+LVORI...............4. 
+ADI.................8 early in the morning increasing to 68 in the 
+                    afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........67  76  65  53  50  68  69  73  68  81  
+Weather cov.....                    SCH CHC CHC CHC CHC 
+Weather type....                    RW  RW  RW  RW  RW  
+Tstm cov........                        SCH SCH SCH SCH 
+Chc of pcpn (%).0   0   0   0   10  20  40  50  50  30  
+Temp............50  53  60  65  68  70  72  72  72  73  
+RH..............93  89  81  73  68  66  64  64  66  66  
+Aparnt tmp (F)..50  53  60  65  68  70  72  72  72  73  
+20 FT wind dir..NE  E   E   E   SE  SE  SE  SE  SE  E   
+20 FT wind dir..060 070 100 110 120 120 120 120 120 110 
+20 FT wind spd..2   2   3   6   6   7   8   8   7   6   
+20 FT wind gust.7   8   10  12  14  15  16  16  15  15  
+Mix hgt (kft)...0.5 0.8 1.5 2.4 3.1 3.3 3.5 3.1 2.7 2.4 
+Transp wind dir.E   E   SE  SE  SE  SE  SE  SE  SE  SE  
+Transp wind dir.100 110 120 120 130 130 140 140 130 120 
+Transp wind spd.8   8   12  14  17  16  16  17  15  13  
+LVORI...........6   5   3   3   1   1   1   1   1   3   
+ADI.............8   9   23  42  67  65  68  66  51  38  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (70-80 percent). Chance of 
+                    showers and slight chance of thunderstorms. 
+Chance of pcpn......40 percent. 
+Min temperature.....Around 56. 
+Max humidity........100 percent. 
+Wind (20 ft)........Southeast winds 5 to 6 mph early in the evening 
+                    becoming light, then becoming south 5 to 6 mph 
+                    with gusts to around 21 mph in the late evening 
+                    and overnight. Gusty and erratic winds expected 
+                    near thunderstorms early in the evening. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    overnight. 
+Mixing height.......600 ft AGL. 
+Transport winds.....South 9 to 16 mph increasing to 16 to 17 mph 
+                    overnight. 
+LVORI...............5. 
+ADI.................4 to 28. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........72  74  67  71  72  74  74  64  79  80  81  82  
+Weather cov.....CHC SCH CHC CHC                 SCH CHC CHC     
+Weather type....RW  RW  RW  RW                  RW  RW  RW      
+Tstm cov........SCH SCH SCH SCH                 SCH SCH SCH     
+Chc of pcpn (%).30  20  30  30  10  0   10  10  20  40  40  10  
+Temp............72  70  68  65  63  63  63  63  63  62  62  62  
+RH..............68  73  78  90  97  93  93  93  93  97  97  100 
+Aparnt tmp (F)..72  70  68  65  63  63  63  63  63  62  62  62  
+20 FT wind dir..E   SE  SE  SE  S   S   S   S   S   S   S   S   
+20 FT wind dir..110 130 130 140 160 170 170 180 180 190 190 190 
+20 FT wind spd..6   5   3   3   5   5   6   6   6   7   7   7   
+20 FT wind gust.13  12  9   10  12  13  15  16  17  20  20  21  
+Mix hgt (kft)...1.9 1.1 0.6 0.7 0.8 1.1 1.0 0.9 0.7 0.9 0.9 0.9 
+Transp wind dir.SE  SE  S   S   S   S   S   S   S   S   SW  S   
+Transp wind dir.130 140 160 160 170 180 180 180 200 190 210 200 
+Transp wind spd.12  12  9   10  10  14  14  16  17  16  16  17  
+LVORI...........3   3   4   6   6   6   6   5   5   7   7   7   
+ADI.............28  8   4   5   7   9   9   11  12  11  11  12  
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (80-90 percent). Rain showers and 
+                    slight chance of thunderstorms through the day. 
+Chance of pcpn......100 percent. 
+Max temperature.....Around 70. 
+Min humidity........57 percent. 
+Wind (20 ft)........Southwest winds 7 to 13 mph with gusts to 
+                    around 32 mph shifting to the west around 14 
+                    mph with gusts to around 33 mph late in the 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms. 
+Mixing height.......4100 ft AGL. 
+Transport winds.....Southwest 20 to 28 mph shifting to the west 
+                    around 29 mph late in the afternoon. 
+LVORI...............3. 
+ADI.................22 early in the morning increasing to 81 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........86  76  97  97  97  97  97  97  91  84  77  70  
+Weather cov.....    CHC DEF DEF DEF DEF DEF DEF LKY LKY LKY LKY 
+Weather type....    RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........    SCH SCH SCH SCH SCH SCH SCH SCH SCH SCH SCH 
+Chc of pcpn (%).10  50  100 100 100 100 100 100 60  60  60  60  
+Temp............59  64  64  65  66  68  66  66  61  58  57  54  
+RH..............100 93  93  90  87  81  84  78  78  77  72  66  
+Aparnt tmp (F)..59  64  64  65  66  68  66  66  61  58  57  54  
+20 FT wind dir..S   S   S   S   S   SW  SW  SW  SW  SW  W   W   
+20 FT wind dir..190 190 190 190 200 220 230 240 240 240 250 250 
+20 FT wind spd..8   9   12  13  14  16  16  16  16  16  17  17  
+20 FT wind gust.22  22  28  29  30  31  32  32  32  32  33  33  
+Mix hgt (kft)...1.4 1.8 2.2 2.5 2.8 3.0 3.2 3.3 3.5 3.8 4.0 4.1 
+Transp wind dir.S   S   S   S   SW  SW  SW  SW  SW  W   W   W   
+Transp wind dir.200 200 200 200 220 230 230 240 240 250 260 270 
+Transp wind spd.20  22  21  25  26  26  26  26  26  28  29  29  
+LVORI...........5   4   4   4   4   4   3   3   3   1   1   1   
+ADI.............22  49  54  73  81  63  65  67  68  74  80  81  
+
+$$
+Forecaster...Hickok
+Requested by...Todd Bennett
+Type of request...PRESCRIBED
+.TAG 2605813.0/CAE
+.DELDT 03/15/26
+.FormatterVersion 2.0.0
+.EMAIL jeffery.bennett@usda.gov
+

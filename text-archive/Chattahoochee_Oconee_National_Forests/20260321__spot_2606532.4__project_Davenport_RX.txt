@@ -1,0 +1,189 @@
+
+000
+FNUS72 KFFC 211856
+FWSFFC
+
+Spot Forecast for Davenport RX...USFS
+National Weather Service Peachtree City GA
+256 PM EDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 1500 EDT on March 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Good afternoon. Dry conditions are expected to persist at the burn 
+site for much of the afternoon, though isolated showers and 
+thunderstorms (10-20% chance) will be possible this evening after 7 
+PM. However, the majority of the precipitation will remain north and 
+east of the state. RH values this afternoon will be under 40 
+percent, dropping to a minimum of 35 percent around 4-5 PM. 20 ft 
+winds this afternoon will be W at 6-7 mph with gusts up to 15 mph. 
+Transport winds will be similarly W at around 17 mph. These 
+transport winds and mixing heights between 5000-5500 ft will 
+contribute to ADI over 100 and good smoke dispersal. 
+
+Winds will begin to diminish after sunset, shifting to SW at 1-3 
+mph. Transport winds will remain W and also diminish, down to 10 mph 
+by midnight and 7-9 mph in the early morning. With mostly clear 
+skies and light winds, along with RH values between 95-98 percent in 
+the early morning hours, patchy fog will be possible at the burn 
+site between 5-9 AM on Sunday. After the fog dissipates, skies are 
+expected to be mostly sunny on Sunday. RH values will drop below 60 
+percent by noon and down to a minimum of 38 percent by 5 PM. W to SW 
+winds will increase through the morning and early afternoon, 
+becoming SW at 7-9 mph with gusts of 15-20 mph by 1 PM. Transport 
+winds will remain W, between 6-9 mph and increasing to 14-21 mph in 
+the afternoon on Sunday. Mixing heights will peak just below 5000 
+ft, with good smoke dispersal anticipated in the afternoon once 
+again. Please feel free to contact us if you have any further 
+questions or concerns.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+CWR.................10 percent. 
+Chance of thunder...14 percent. 
+Max temperature.....Around 81. 
+Min humidity........35 percent. 
+Dewpoint............50. 
+Wind (20 ft)........West winds around 6 mph. 
+Mixing height.......5300 ft AGL. 
+Transport winds.....West around 17 mph. 
+Smoke dispersal.....Excellent (75300 knot-ft). 
+LVORI...............1. 
+ADI.................100 to 106. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......10. 
+
+TIME (EDT)      3PM 4PM 5PM 
+Sky (%).........5   17  30  
+Weather cov.....            
+Weather type....            
+Tstm cov........            
+CWR.............10  10  10  
+Chc of thdr (%).10  10  10  
+Temp............80  80  80  
+Dewpoint........51  50  50  
+RH..............37  35  35  
+20 FT wind dir..W   W   W   
+20 FT wind spd..6   6   6   
+20 FT wind gust.14  15  15  
+Mix hgt (kft)...5.0 5.2 5.3 
+Transp wind dir.W   W   W   
+Transp wind spd.17  17  17  
+LVORI...........1   1   1   
+ADI.............100 106 105 
+Vrate kt-ft/1K..75  81  80  
+Ventrate Cat....GD  GD  GD  
+Ceiling (kft)...10  12  10  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). Slight chance of 
+                    showers and thunderstorms in the evening. 
+                    Patchy fog early in the morning. 
+CWR.................20 percent decreasing to 10 percent late in the 
+                    evening. 
+Chance of thunder...19 percent. 
+Min temperature.....Around 54. 
+Max humidity........98 percent. 
+Dewpoint............53. 
+Wind (20 ft)........West winds 5 to 6 mph early in the evening 
+                    becoming light. Gusty and erratic winds 
+                    expected near thunderstorms in the evening. 
+Mixing height.......500 ft AGL. 
+Transport winds.....West 9 to 17 mph decreasing to around 7 mph 
+                    early in the morning. 
+Smoke dispersal.....Excellent (72400 knot-ft) early in the evening 
+                    decreasing to poor (2800 knot-ft) late in the 
+                    night. 
+LVORI...............4. 
+ADI.................104 early in the evening decreasing to 3 late 
+                    in the night. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......6.0 increasing to 10. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........31  34  36  35  34  33  30  25  22  18  14  13  
+Weather cov.....SCH SCH SCH SCH SCH                         PTY 
+Weather type....RW  RW  RW  RW  RW                          FOG 
+Tstm cov........SCH SCH SCH SCH SCH                             
+CWR.............20  20  20  20  20  10  10  10  0   0   0   0   
+Chc of thdr (%).20  20  20  20  20  10  10  10  0   0   0   0   
+Temp............79  77  72  69  66  64  63  61  60  58  57  56  
+Dewpoint........51  51  52  52  53  54  54  54  54  55  54  55  
+RH..............37  40  49  56  63  71  74  79  83  88  90  94  
+20 FT wind dir..W   W   SW  SW  SW  SW  SW  W   SW  SW  SW  SW  
+20 FT wind spd..6   5   3   2   2   2   1   1   1   1   1   1   
+20 FT wind gust.15  14  12  10  9   8   8   7   6   5   5   5   
+Mix hgt (kft)...4.7 1.4 0.8 0.7 0.7 0.6 0.6 0.6 0.6 0.6 0.6 0.5 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.17  14  14  12  12  10  10  12  10  9   9   7   
+LVORI...........1   2   2   3   3   3   3   4   4   5   6   6   
+ADI.............104 6   6   5   5   5   5   5   5   4   4   3   
+Vrate kt-ft/1K..72  17  9   7   6   6   5   6   6   5   4   3   
+Ventrate Cat....GD  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...6.0 6.0 6.0 7.0 10  12  12  12  12  12  12  12  
+
+.SUNDAY...
+
+Sky/weather.........Sunny (15-25 percent). Patchy fog early in the 
+                    morning, then areas of fog early in the 
+                    morning. Patchy fog early in the morning. 
+CWR.................0 percent. 
+Chance of thunder...1 percent. 
+Max temperature.....Around 82. 
+Min humidity........38 percent. 
+Dewpoint............55 increasing to 56 late in the morning, then 
+                    decreasing to 53 late in the afternoon. 
+Wind (20 ft)........Light winds becoming southwest 5 to 9 mph in 
+                    the afternoon. 
+Mixing height.......4900 ft AGL. 
+Transport winds.....West 5 to 14 mph increasing to 16 to 21 mph 
+                    late in the afternoon. 
+Smoke dispersal.....Poor (2200 knot-ft) early in the morning 
+                    increasing to excellent (85000 knot-ft) in the 
+                    afternoon. 
+LVORI...............5. 
+ADI.................3 early in the morning increasing to 114 in the 
+                    afternoon. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......10 decreasing to 8.0 early in the morning, then 
+                    decreasing to 7.0 early in the morning 
+                    decreasing to 6.0 late in the morning 
+                    decreasing to 5.0 increasing to 6.0 late in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........16  23  28  23  21  26  21  13  11  13  12  14  
+Weather cov.....PTY ARS PTY PTY                                 
+Weather type....FOG FOG FOG FOG                                 
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............55  54  54  56  62  68  72  76  79  80  80  81  
+Dewpoint........54  54  53  55  57  58  57  56  56  54  53  53  
+RH..............96  98  96  94  83  68  59  50  45  41  40  38  
+20 FT wind dir..S   N   SW  SW  W   W   W   SW  SW  SW  SW  SW  
+20 FT wind spd..1   0   1   2   2   3   5   7   8   8   9   9   
+20 FT wind gust.5   3   5   7   7   10  13  15  17  18  18  20  
+Mix hgt (kft)...0.5 0.5 0.5 0.7 1.4 2.1 2.8 3.5 4.2 4.5 4.7 4.9 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.6   7   6   5   8   9   9   14  16  18  20  21  
+LVORI...........8   8   7   6   4   3   1   1   1   1   1   1   
+ADI.............3   6   5   5   15  24  34  59  79  99  107 114 
+Vrate kt-ft/1K..3   3   2   3   10  16  23  42  58  73  80  85  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  FR  FR  GD  GD  GD  
+Ceiling (kft)...10  8.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 5.0 6.0 6.0 
+
+$$
+Forecaster...King
+Requested by...Barberi
+Type of request...PRESCRIBED
+.TAG 2606532.4/FFC
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL james.e.barberi@usda.gov
+

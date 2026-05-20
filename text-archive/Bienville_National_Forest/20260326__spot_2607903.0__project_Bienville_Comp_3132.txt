@@ -1,0 +1,103 @@
+
+000
+FNUS74 KJAN 260647
+FWSJAN
+
+Spot Forecast for Bienville Comp 3132...USFS
+National Weather Service Jackson MS
+147 AM CDT Thu Mar 26 2026
+
+Forecast is based on ignition time of 0600 CDT on March 26. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+.TODAY...Patchy fog development is possible this morning and 
+again Friday morning. The results of the HYSPLIT run will be
+e-mailed once they become available. 
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Temperature.........62 at ignition...Max 85. 
+RH..................97 percent at ignition...Min 41 percent. 
+Wind (20 ft)........Winds south at 5 mph at ignition...otherwise 
+                    Light winds becoming south 5 to 6 mph in the 
+                    late morning and afternoon. 
+Mixing height (m)...152 meters AGL at ignition...otherwise 152-1615 
+                    meters AGL. 
+Transport winds.....South 8 to 15 mph. 
+Transport winds m/s.South 4 to 7 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MCldy  MCldy  PCldy  MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............62     61     70     78     83     84     
+RH..............97     100    78     58     49     41     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..3      3      5      5      6      6      
+20 ft wind gust.14     14     14     15     16     16     
+Mix hgt (m).....150    340    580    1070   1460   1620   
+Transport wind..S 9    S 12   SW 12  S 13   S 14   S 15   
+Tran wind (m/s).S 4    S 5    SW 5   S 6    S 6    S 7    
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Temperature.........Min 60. 
+RH..................Max 97 percent. 
+Wind (20 ft)........South winds 5 to 6 mph becoming light. 
+Mixing height (m)...122-945 meters AGL. 
+Transport winds.....Southwest 9 to 15 mph. 
+Transport winds m/s.Southwest 4 to 7 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear Clear  MClear MClear MClear PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............83     74     70     68     66     63     
+RH..............42     59     67     77     86     95     
+20 ft wind dir..S      S      S      S      S      SW     
+20 ft wind spd..5      5      5      5      5      5      
+20 ft wind gust.14     13     15     17     17     15     
+Mix hgt (m).....940    120    120    210    180    180    
+Transport wind..S 14   S 10   S 12   S 14   SW 13  SW 13  
+Tran wind (m/s).S 6    S 4    S 5    S 6    SW 6   SW 6   
+
+.FRIDAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Temperature.........Max 84. 
+RH..................Min 39 percent. 
+Wind (20 ft)........Light winds becoming west 5 to 6 mph in the 
+                    late morning and afternoon. 
+Mixing height (m)...152-1402 meters AGL. 
+Transport winds.....West 8 to 13 mph shifting to the northwest 10 
+                    to 12 mph late in the afternoon. 
+Transport winds m/s.West 4 to 6 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......PCldy  MClear MClear MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............62     62     71     78     83     84     
+RH..............95     92     73     54     41     40     
+20 ft wind dir..SW     SW     W      W      W      NW     
+20 ft wind spd..3      3      5      6      6      6      
+20 ft wind gust.13     12     15     15     15     16     
+Mix hgt (m).....150    270    730    940    1220   1400   
+Transport wind..SW 9   W 9    W 13   W 12   W 12   NW 12  
+Tran wind (m/s).SW 4   W 4    W 6    W 5    W 5    NW 5   
+
+$$
+Forecaster...Edmonston
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2607903.0/JAN
+.DELDT 03/26/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+

@@ -1,0 +1,142 @@
+
+000
+FNUS71 KRNK 150906
+FWSRNK
+
+Spot Forecast for Bald Mtn Unit 3...USFS
+National Weather Service Blacksburg VA
+506 AM EDT Sun Mar 15 2026
+
+Forecast is based on ignition time of 0600 EDT on March 15. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Expect inversion to break between 8am-9am, and mixing up to 3000
+feet AGL by this afternoon. Clouds are going to increase this
+afternoon and lower in height. RH values will be elevated in the
+50 to 55 percent range. Southeast winds could start to gust
+over 20 mph after 2pm. A wetting rain seems likely especially
+with a line of showers/few storms Monday. Expecting colder weather
+Monday night into midweek. 
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (40-50 percent) then becoming 
+                    mostly cloudy (75-85 percent). Slight chance of 
+                    rain late in the afternoon. 
+CWR (0.01 in).......10 percent increasing to 20 percent late in the 
+                    afternoon. 
+Max temperature.....Around 55. 
+Min humidity........53 percent. 
+Wind (20 ft)........Southeast winds 6 to 8 mph. Gusts up to 21 mph 
+                    late in the afternoon. 
+Mixing height.......3000 ft AGL. 
+Mixing winds........East 3 to 9 mph. 
+Smoke dispersal.....Poor (1000 knot-ft) early in the morning 
+                    increasing to fair (23300 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................1 to 22. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........28     52     54     64     82     81     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      10     10     10     
+Temp............41     41     44     49     51     52     
+RH..............65     67     62     59     56     62     
+20 ft wind......SE 6   SE 6   SE 6   SE 7   SE 8   SE 8   
+20 ft wind gust.8      8      10     14     20     20     
+Mix hgt (ft)....400    400    1300   1900   2300   3000   
+Mixing wind......E 3    E 3    E 6    SE 7   SE 7   SE 9   
+LVORI...........3      3      3      2      3      3      
+ADI.............1      4      9      13     14     21     
+VRate mph-ft/1K.1      1      7      13     16     26     
+
+.TONIGHT...
+
+Sky/weather.........Cloudy (85-95 percent). Rain in the evening, 
+                    then rain tapering off overnight. Patchy fog. 
+CWR (0.01 in).......30 percent increasing to 80 percent late 
+                    in the evening then decreasing to 30 
+                    percent overnight. 
+Min temperature.....Around 50. 
+Max humidity........96 percent. 
+Wind (20 ft)........Southeast winds 6 to 8 mph. Gusts up to 21 mph 
+                    in the evening then 20 mph overnight. 
+Mixing height.......800 ft AGL. 
+Mixing winds........East 5 to 8 mph shifting to the south 10 to 12 
+                    mph after 3 am. 
+Smoke dispersal.....Fair (21300 knot-ft) early in the evening 
+                    decreasing to poor (4300 knot-ft) late in the 
+                    night. 
+LVORI...............5. 
+ADI.................4 to 15. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........84     91     87     88     100    100    
+Weather cov.....CHANCE LIKELY LIKELY LIKELY CHANCE CHANCE 
+Weather type....RAIN   RAIN   RAIN   RAIN   RAIN   RAIN   
+Tstm cov........                                          
+CWR.............30     70     70     70     50     30     
+Temp............53     53     52     52     53     55     
+RH..............72     80     89     95     91     92     
+20 ft wind......SE 8   SE 8   SE 7   SE 7   S 6    S 7    
+20 ft wind gust.17     17     16     14     10     12     
+Mix hgt (ft)....1800   1100   1200   1100   1000   1700   
+Mixing wind......E 8    E 5    E 5    SE 5   SE 7   S 10   
+LVORI...........3      4      6      7      5      5      
+ADI.............15     4      4      5      6      11     
+VRate mph-ft/1K.15     5      5      6      7      17     
+
+.MONDAY...
+
+Sky/weather.........Cloudy (90-100 percent). Rain showers and 
+                    slight chance of thunderstorms. 
+CWR (0.01 in).......100 percent decreasing to 50 
+                    percent late in the afternoon. 
+Max temperature.....Around 57. 
+Min humidity........65 percent. 
+Wind (20 ft)........South winds 7 to 8 mph with gusts to around 28 
+                    mph shifting to the west 12 to 14 mph with 
+                    gusts to around 29 mph late in the afternoon. 
+                    Gusty and erratic winds expected near 
+                    thunderstorms late in the morning. 
+Mixing height.......2900 ft AGL. 
+Mixing winds........South 13 to 22 mph increasing to west 29 to 35 
+                    mph late in the afternoon. 
+Smoke dispersal.....Fair (22000 knot-ft) early in the morning 
+                    increasing to excellent (85900 knot-ft) in the 
+                    afternoon. 
+LVORI...............4. 
+ADI.................17 early in the morning increasing to 81 in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........100    85     93     100    100    96     
+Weather cov.....CHANCE CHANCE CHANCE DEFNTE DEFNTE LIKELY 
+Weather type....RAIN   RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........                     S CHC                
+CWR.............50     40     50     100    100    60     
+Temp............56     55     56     55     51     44     
+RH..............91     95     96     94     90     84     
+20 ft wind......S 8    S 7    S 7    SW 8   W 9    W 12   
+20 ft wind gust.14     26     28     26     26     26     
+Mix hgt (ft)....2000   1900   2400   2500   2500   2700   
+Mixing wind......S 13   S 14   S 16   S 16   S 17   W 29   
+LVORI...........4      4      4      4      4      4      
+ADI.............17     26     35     36     37     65     
+VRate mph-ft/1K.25     26     40     41     42     78     
+
+$$
+Forecaster...Perry
+Requested by...Brian Theiler
+Type of request...PRESCRIBED
+.TAG 2605208.3/RNK
+.DELDT 03/15/26
+.FormatterVersion 2.0.0
+.EMAIL Jarrett.Thomas@usda.gov,Daniel.Scott3@usda.gov,Bradley.Duncan@usda.gov,Thomas.plumbhinde@usda.gov,brian.theiler@usda.gov
+

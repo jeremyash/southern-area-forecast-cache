@@ -1,0 +1,148 @@
+
+000
+FNUS74 KLIX 200924
+FWSLIX
+
+Spot Forecast for Homochitto BB36...USFS
+National Weather Service New Orleans LA
+424 AM CDT Fri Mar 20 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+High pressure will dominate the region through the forecast
+period and will keep the area dry well into next week. This will
+also lend to light winds and lower humidity values. Minimum RH's
+are expected to be 35 to 55 percent through the middle of next
+week and no rain in the current forecast.
+
+.FOG REMARKS...
+Conditions remain dry enough to prevent fog development this
+morning, but each subsequent morning will have an increasing 
+chance for light to moderate fog into the weekend. Fog development
+will be enhanced closest to water bodies such as rivers and lakes.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 81. 
+Min humidity........42 percent. 
+Dewpoint............57. 
+Max apparent temp...81. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph in 
+                    the late morning and afternoon. 
+Mixing height (m)...305-1463 meters AGL. 
+Transport winds.....Southwest 8 to 14 mph. 
+Transport winds m/s.Southwest 4 to 6 meters/second. 
+LVORI...............3. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........16  14  11  9   3   8   4   7   4   
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............59  66  71  74  78  79  81  81  80  
+Dewpoint........56  59  59  59  59  57  57  56  56  
+RH..............90  78  66  59  52  47  44  42  44  
+Aparnt tmp (F)..59  66  71  74  78  79  81  81  80  
+20 FT wind dir..SSW SW  SSW SSW SSW SSW SSW SSW SSW 
+20 FT wind spd..3   5   6   6   7   7   8   8   7   
+20 FT wind gust.9   12  13  13  14  14  14  15  14  
+Mix hgt (km)....0.3 0.5 0.7 0.9 1.1 1.2 1.4 1.5 1.3 
+Transp wind dir.SW  SW  SW  SSW SSW SSW SSW SSW SSW 
+Transp wind spd.8   9   9   9   10  12  13  14  14  
+Trans wind dir..SW  SW  SW  SSW SSW SSW SSW SSW SSW 
+Trans spd (m/s).4   4   4   4   4   5   6   6   6   
+LVORI...........5   3   3   1   1   1   1   1   1   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 56. 
+Max humidity........100 percent. 
+Dewpoint............57. 
+Max apparent temp...79. 
+Wind (20 ft)........Southwest winds 5 to 6 mph. 
+Mixing height (m)...183-1006 meters AGL. 
+Transport winds.....Southwest 9 to 14 mph. 
+Transport winds m/s.Southwest 4 to 6 meters/second. 
+LVORI...............5. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   6   4   3   5   5   3   1   4   18  21  27  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............79  75  70  67  66  64  63  61  60  59  58  58  
+Dewpoint........56  57  56  56  56  56  57  57  57  57  58  58  
+RH..............45  54  61  68  70  75  81  87  90  93  100 100 
+Aparnt tmp (F)..79  75  70  67  66  64  63  61  60  59  58  58  
+20 FT wind dir..SSW SSW SSW SSW SSW SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..6   6   6   6   6   6   6   6   5   5   5   5   
+20 FT wind gust.14  13  13  14  15  15  14  13  13  13  13  13  
+Mix hgt (km)....1.0 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.SSW SSW SSW SSW SSW SW  SW  SW  SW  SW  WSW WSW 
+Transp wind spd.14  9   10  10  13  14  13  12  12  12  12  12  
+Trans wind dir..SSW SSW SSW SSW SSW SW  SW  SW  SW  SW  WSW WSW 
+Trans spd (m/s).6   4   4   4   6   6   6   5   5   5   5   5   
+LVORI...........1   2   3   3   3   4   4   5   6   6   9   9   
+
+.SATURDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 84. 
+Min humidity........43 percent. 
+Dewpoint............58 increasing to 61 in the late morning and 
+                    afternoon. 
+Max apparent temp...84. 
+Wind (20 ft)........Southwest winds around 5 mph early in the 
+                    morning becoming light, then becoming southwest 
+                    5 to 8 mph early in the morning. 
+Mixing height (m)...183-1250 meters AGL. 
+Transport winds.....Southwest 12 to 15 mph. 
+Transport winds m/s.Southwest 5 to 7 meters/second. 
+LVORI...............5. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........29  31  16  16  22  18  13  9   8   8   7   6   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............57  57  58  63  68  72  76  80  81  83  84  82  
+Dewpoint........57  57  58  60  62  63  62  61  60  59  59  59  
+RH..............100 100 100 90  81  73  62  52  49  44  43  46  
+Aparnt tmp (F)..57  57  58  63  68  72  76  81  82  83  84  82  
+20 FT wind dir..SSW SSW SW  SW  SW  SW  SW  SW  SW  SSW SSW SSW 
+20 FT wind spd..5   3   5   6   6   7   8   8   8   9   9   8   
+20 FT wind gust.12  12  13  14  14  14  14  15  15  16  16  15  
+Mix hgt (km)....0.2 0.2 0.2 0.4 0.6 0.7 0.8 0.9 1.1 1.2 1.2 1.0 
+Transp wind dir.WSW WSW SW  WSW WSW WSW WSW WSW WSW WSW WSW WSW 
+Transp wind spd.12  12  12  12  13  13  13  13  14  15  15  14  
+Trans wind dir..WSW WSW SW  WSW WSW WSW WSW WSW WSW WSW WSW WSW 
+Trans spd (m/s).5   5   5   5   6   6   6   6   6   7   7   6   
+LVORI...........9   7   7   4   3   3   1   1   1   1   1   1   
+
+$$
+Forecaster...STANFIELD
+Requested by...Charles Bolt
+Type of request...PRESCRIBED
+.TAG 2606660.0/LIX
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL charles.bolt@usda.gov
+

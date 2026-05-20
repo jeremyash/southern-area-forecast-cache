@@ -1,0 +1,120 @@
+
+000
+FNUS74 KBMX 231918
+FWSBMX
+
+Spot Forecast for Sherman Hunt Camp north...Usfs
+National Weather Service Birmingham AL
+218 PM CDT Mon Mar 23 2026
+
+Forecast is based on ignition time of 1600 CDT on March 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Winds have already shifted out of the north as the cold 
+front is pushing through the area. A drier air mass will build
+into the area tonight leading to poor overnight RH recovery
+at the Sherman Hunt Camp site. RHs will drop below 30% tomorrow
+afternoon as winds shift out of the east during the early morning
+hours. 20ft winds could gust around 10-15 mph out of the east through
+the afternoon hours tomorrow. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (20-30 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 75. 
+Min humidity........39 percent. 
+Wind (20 ft)........North winds around 7 mph. 
+Mixing height.......3500 ft AGL. 
+Transport winds.....North around 17 mph. 
+Dispersion index....73. 
+LVORI...............1. 
+
+TIME (CDT)      4 PM   
+Sky (%).........24     
+Weather cov.....       
+Weather type....NONE   
+Tstm cov........       
+CWR.............0      
+Temp............75     
+RH..............41     
+20 FT wind......N 7    
+20 FT wind gust.14     
+20 FT wind dir..350    
+Mix hgt (ft)....3500   
+Transport wind..N 17   
+Dispersion idx..74     
+LVORI...........1      
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent) then becoming 
+                    mostly cloudy (50-60 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 45. 
+Max humidity........56 percent. 
+Wind (20 ft)........North winds 5 to 7 mph shifting to the 
+                    northeast around 5 mph after 3 am. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Northeast 13 to 17 mph shifting to the east 12 
+                    to 13 mph after 3 am. 
+Dispersion index....61 decreasing to 9. 
+LVORI...............2. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........36     29     14     15     25     33     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............71     61     57     53     49     47     
+RH..............39     51     51     50     54     56     
+20 FT wind......N 7    N 6    NE 5   NE 5   NE 5   NE 5   
+20 FT wind gust.14     14     14     13     12     12     
+20 FT wind dir..350    010    030    030    040    060    
+Mix hgt (ft)....2800   600    600    800    500    600    
+Transport wind..N 17   N 15   NE 14  NE 14  NE 13  E 12   
+Dispersion idx..61     12     10     6      6      5      
+LVORI...........1      2      2      2      2      3      
+
+.TUESDAY...
+
+Sky/weather.........Partly sunny (60-70 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 69. 
+Min humidity........28 percent. 
+Wind (20 ft)........East winds 5 to 6 mph. 
+Mixing height.......3700 ft AGL. 
+Transport winds.....East 12 to 17 mph decreasing to 9 to 13 mph in 
+                    the afternoon. 
+Dispersion index....12 increasing to 51 late in the morning, then 
+                    decreasing to 43 late in the afternoon. 
+LVORI...............2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........61     48     45     57     70     79     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............47     49     58     64     68     69     
+RH..............56     52     37     31     29     30     
+20 FT wind......E 5    E 5    E 6    E 6    E 5    E 5    
+20 FT wind gust.13     14     14     13     11     10     
+20 FT wind dir..080    090    100    100    110    110    
+Mix hgt (ft)....700    1400   2000   2800   3500   3700   
+Transport wind..E 13   E 17   E 20   E 15   E 12   E 10   
+Dispersion idx..8      12     13     53     49     46     
+LVORI...........3      2      1      1      1      1      
+
+$$
+Forecaster...Owen
+Requested by...Will holt
+Type of request...PRESCRIBED
+.TAG 2607177.1/BMX
+.DELDT 03/23/26
+.FormatterVersion 2.0.0
+

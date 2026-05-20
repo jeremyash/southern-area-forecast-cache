@@ -1,0 +1,73 @@
+
+000
+FNUS74 KSHV 300830
+FWSSHV
+
+Spot Forecast for ANF Turkey Creek Rx Comp 7...USFS
+National Weather Service Shreveport LA
+330 AM CDT Mon Mar 30 2026
+
+Forecast is based on ignition time of 0700 CDT on March 30. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Once the morning inversion breaks...look for sustained south winds near 
+5 to 7 mph with 20ft mixing heights in the middle teens by late morning
+through the afternoon hours. Look for minimum afternoon humidity values
+near 45 percent. Expect similar conditions for Tuesday, maybe a little
+stronger south winds but with higher afternoon humidity. 
+
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........78  80  62  64  47  37  25  19  20  11  14  
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............57  61  65  69  73  76  80  83  84  85  85  
+RH..............100 100 92  86  76  66  58  52  48  47  47  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..1   1   1   5   5   5   6   6   6   5   5   
+20 FT wind gust.7   8   9   12  13  14  15  15  15  15  14  
+Mix hgt (kft)...0.5 0.6 1.3 2.0 2.8 3.4 4.3 5.0 5.2 5.6 5.4 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.12  10  13  13  15  14  15  15  15  16  16  
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........24  27  25  29  18  19  18  23  53  63  72  78  
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............84  80  76  71  70  68  66  65  64  64  63  63  
+RH..............46  54  60  70  73  80  87  90  97  97  100 100 
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..5   3   3   3   3   3   3   2   2   2   2   2   
+20 FT wind gust.14  12  13  13  14  14  13  13  13  12  12  12  
+Mix hgt (kft)...3.7 0.5 0.5 0.5 0.5 0.6 0.6 0.6 0.7 0.7 0.7 0.7 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.16  14  15  14  16  16  14  14  14  14  13  12  
+
+.TUESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........87  90  94  77  60  57  52  49  49  49  49  48  
+CWR.............0   10  10  10  10  10  10  10  10  10  10  10  
+Temp............63  62  64  68  71  74  78  81  82  84  85  83  
+RH..............100 100 100 92  86  76  68  60  58  54  52  56  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..2   2   2   2   6   6   6   7   7   7   7   7   
+20 FT wind gust.10  10  10  12  14  16  17  18  18  18  17  16  
+Mix hgt (kft)...0.7 0.6 0.8 1.5 1.8 2.4 3.2 3.9 4.5 4.9 4.7 3.5 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.12  10  13  14  14  15  17  20  21  21  21  21  
+
+$$
+Forecaster...BERRY
+Requested by...Kye Kartye
+Type of request...PRESCRIBED
+.TAG 2608402.0/SHV
+.DELDT 03/30/26
+.FormatterVersion 2.0.0
+.EMAIL joey.silva@usda.gov,matthew.kartye@usda.gov
+

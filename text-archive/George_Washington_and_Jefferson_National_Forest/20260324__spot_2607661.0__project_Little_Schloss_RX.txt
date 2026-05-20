@@ -1,0 +1,144 @@
+
+000
+FNUS71 KLWX 242051
+FWSLWX
+
+Spot Forecast for Little Schloss RX...USFS
+National Weather Service Baltimore MD/Washington DC
+451 PM EDT Tue Mar 24 2026
+
+Forecast is based on ignition time of 1700 EDT on March 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Canadian high pressure builds over the region through this evening
+before sliding offshore Wednesday. Below normal temperatures today
+will give way to a gradual warming trend midweek. A cold front 
+will approach from the west Thursday before crossing the area 
+Thursday night into Friday bringing the next chance of rain to 
+the region. Cooler weather returns with high pressure this 
+weekend. 
+
+Minimum relative humidity values this afternoon will fall into the 
+20 to 30 percent range with light north to northwest winds expected. 
+These values recover into the 55 to 65 percent range tonight before 
+falling back into the 25 to 35 percent range Wednesday afternoon. 
+Winds will change back to the south with gusts between 15 and 25 mph 
+in the afternoon. By Thursday, humidity values rise back into the 35 
+to 55 percent range with south to southwesterly winds gusting 20 to 25 mph. 
+
+Next wetting rain chance arrives Thursday night into Friday.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 49. 
+Min humidity........25 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3400 ft AGL. 
+Transport winds.....Southwest around 8 mph. 
+Smoke dispersal.....Fair (23500 knot-ft). 
+
+TIME (EDT)      5PM 
+Sky (%).........7   
+Weather cov.....    
+Weather type....    
+Tstm cov........    
+CWR.............0   
+Chc of thdr (%).0   
+Temp............49  
+RH..............27  
+20 FT wind dir..S   
+20 FT wind spd..2   
+20 FT wind gust.10  
+Mix hgt (kft)...3.4 
+Transp wind dir.SW  
+Transp wind spd.8   
+Vrate kt-ft/1K..27  
+Ventrate Cat....PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent) then becoming 
+                    mostly cloudy (70-80 percent) then becoming 
+                    partly cloudy (35-45 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 33. 
+Max humidity........60 percent. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Southwest 6 to 10 mph. 
+Smoke dispersal.....Fair (24600 knot-ft) early in the evening 
+                    decreasing to poor (2300 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........11  16  59  71  71  88  87  79  68  45  38  37  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............49  47  44  42  41  40  39  39  37  37  36  34  
+RH..............28  31  35  39  41  42  44  45  50  51  52  57  
+20 FT wind dir..S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   2   2   2   3   3   3   5   5   5   5   
+20 FT wind gust.9   8   8   9   9   8   9   10  10  12  12  12  
+Mix hgt (kft)...3.0 0.5 0.4 0.4 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 
+Transp wind dir.SW  S   S   S   S   S   SW  SW  SW  SW  SW  SW  
+Transp wind spd.8   6   8   8   8   9   9   9   10  10  10  10  
+Vrate kt-ft/1K..25  4   5   5   4   4   4   5   5   5   5   5   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.WEDNESDAY...
+
+Sky/weather.........Partly sunny (55-65 percent). 
+CWR.................10 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 59. 
+Min humidity........33 percent. 
+Wind (20 ft)........Southwest winds 5 to 6 mph shifting to the 
+                    south 6 to 9 mph with gusts to around 22 mph in 
+                    the afternoon. 
+Mixing height.......4000 ft AGL. 
+Transport winds.....South 9 to 18 mph increasing to around 20 mph 
+                    late in the afternoon. 
+Smoke dispersal.....Poor (2500 knot-ft) early in the morning 
+                    increasing to excellent (73000 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........57  69  76  69  64  63  62  50  48  69  51  48  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   10  10  0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............35  35  36  40  43  47  50  54  57  58  58  59  
+RH..............56  58  58  51  49  45  42  38  36  35  34  33  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  S   S   S   S   S   S   
+20 FT wind spd..5   5   5   5   5   6   6   6   7   8   8   9   
+20 FT wind gust.12  13  13  14  14  15  17  18  20  20  20  22  
+Mix hgt (kft)...0.3 0.3 0.3 0.5 0.9 1.3 1.9 2.9 3.4 3.7 4.0 3.7 
+Transp wind dir.SW  SW  SW  SW  S   S   S   S   S   S   S   S   
+Transp wind spd.10  9   9   9   9   13  13  14  16  16  18  20  
+Vrate kt-ft/1K..5   5   4   8   11  20  26  40  55  59  73  71  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  FR  FR  FR  GD  GD  
+
+$$
+Forecaster...Stuck
+Requested by...Collett
+Type of request...PRESCRIBED
+.TAG 2607661.0/LWX
+.DELDT 03/24/26
+.FormatterVersion 2.0.0
+.EMAIL jay.collett@usda.gov,aaron.p.strobel@usda.gov
+

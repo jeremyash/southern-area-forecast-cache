@@ -1,0 +1,90 @@
+
+000
+FNUS74 KLZK 201307
+FWSLZK
+
+Spot Forecast for Spring Lake P-Burn...USFS
+National Weather Service Little Rock AR
+807 AM CDT Mon Apr 20 2026
+
+Forecast is based on ignition time of 0900 CDT on April 20. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Dry conditions expected today along with light S/SW winds. 
+
+.TODAY...
+
+Max temperature.....56 at ignition...Max 78. 
+Min humidity........61 percent at ignition...Min 28 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............1. 
+Sky/weather.........Sunny (0-10 percent). 
+Dispersion..........28 increasing to 34 late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....73. 
+Peak Category Day...4. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............56  63  67  71  74  76  77  77  78  
+RH..............61  50  42  35  32  30  29  29  28  
+20 FT wind dir..SW  SW  SW  SW  S   S   S   S   S   
+20 FT wind spd..1   1   2   2   3   5   5   5   5   
+20 FT wind gust.4   5   6   8   10  10  11  11  11  
+MixHgtAGL (kft).2.1 3.2 4.2 5.0 5.6 6.0 6.2 6.1 5.8 
+MixHgtMSL (kft).2.6 3.7 4.7 5.5 6.1 6.5 6.7 6.6 6.3 
+Category Day....2   2   3   3   3   4   4   4   4   
+Transp wind dir.SW  SW  SW  SW  S   S   S   S   S   
+Transp wind spd.7   8   9   9   10  12  13  13  13  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 48. 
+Max humidity........Max 77 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............3. 
+Sky/weather.........Partly cloudy (30-40 percent). 
+Dispersion..........31 decreasing to 4 in the late evening and 
+                    overnight. 
+Rainfall amount.....0.00 inches. 
+Peak Category Day...3. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR PC  PC  PC  PC  PC  PC  MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............78  75  71  65  62  60  57  55  53  53  50  49  
+RH..............29  36  38  46  52  53  59  64  69  66  71  74  
+20 FT wind dir..S   S   S   S   SW  SW  SW  S   S   W   SW  SW  
+20 FT wind spd..3   2   2   2   1   1   1   1   1   1   1   1   
+20 FT wind gust.11  10  8   6   6   5   4   5   4   4   4   4   
+MixHgtAGL (kft).5.2 4.2 2.8 1.3 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.4 
+MixHgtMSL (kft).5.6 4.7 3.3 1.8 0.6 0.5 0.5 0.5 0.5 0.5 0.5 0.9 
+Category Day....3   3   2   1   1   0   0   1   0   0   1   1   
+Transp wind dir.S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.12  10  9   9   8   7   7   6   6   6   6   6   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...J Hood
+Requested by...Allen Smith
+Type of request...PRESCRIBED
+.TAG 2610851.0/LZK
+.DELDT 04/20/26
+.FormatterVersion 2.0.0
+.EMAIL william.smith@usda.gov
+

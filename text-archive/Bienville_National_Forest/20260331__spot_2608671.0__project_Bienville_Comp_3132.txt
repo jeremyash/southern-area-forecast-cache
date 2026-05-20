@@ -1,0 +1,119 @@
+
+000
+FNUS74 KJAN 311132
+FWSJAN
+
+Spot Forecast for Bienville Comp 3132...USFS
+National Weather Service Jackson MS
+632 AM CDT Tue Mar 31 2026
+
+Forecast is based on ignition time of 0700 CDT on March 31. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...no significant fog development is anticipated. The
+results of the requested HYSPLIT run will be e-mailed when they
+become available. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (40-50 percent). Showers likely 
+                    and chance of thunderstorms in the afternoon. 
+Temperature.........65 at ignition...Max 82. 
+RH..................97 percent at ignition...Min 56 percent. 
+Wind (20 ft)........Winds south at 5 mph at ignition...otherwise 
+                    Light winds becoming south 5 to 7 mph early in 
+                    the morning. Gusty and erratic winds expected 
+                    near thunderstorms early in the afternoon. 
+                    Gusty and erratic winds expected near 
+                    thunderstorms in the afternoon. 
+Mixing height (m)...274 meters AGL at ignition...otherwise 274-1036 
+                    meters AGL. 
+Transport winds.....South 13 to 17 mph. 
+Transport winds m/s.South 6 to 8 meters/second. 
+
+TIME (CDT)      7 AM   9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky cover.......Cloudy MCldy  MCldy  MCldy  MCldy  PCldy  
+Weather cov.....                     Chance Likely Chance 
+Weather type....None   None   None   Rnshwr Rnshwr Rnshwr 
+Tstm cov........                     Chance Chance Chance 
+Temp............65     67     74     78     80     79     
+RH..............97     97     76     67     62     60     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..3      5      6      7      7      7      
+20 ft wind gust.14     15     17     16     18     17     
+Mix hgt (m).....270    430    700    1040   910    670    
+Transport wind..S 13   S 14   S 16   S 16   S 16   S 16   
+Tran wind (m/s).S 6    S 6    S 7    S 7    S 7    S 7    
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (35-45 percent) then becoming 
+                    mostly cloudy (70-80 percent). Slight chance of 
+                    showers and thunderstorms early in the evening. 
+Temperature.........Min 63. 
+RH..................Max 100 percent. 
+Wind (20 ft)........South winds 5 to 7 mph in the evening and 
+                    overnight becoming light. Gusty and erratic 
+                    winds expected near thunderstorms early in the 
+                    evening. 
+Mixing height (m)...152-610 meters AGL. 
+Transport winds.....South 10 to 15 mph. 
+Transport winds m/s.South 4 to 7 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......PCldy  PCldy  PCldy  PCldy  PCldy  MCldy  
+Weather cov.....S Chc                                     
+Weather type....Rnshwr None   None   None   None   None   
+Tstm cov........S Chc                                     
+Temp............77     70     67     66     65     65     
+RH..............64     81     90     97     97     97     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..7      6      5      5      5      3      
+20 ft wind gust.18     17     17     16     15     14     
+Mix hgt (m).....610    180    150    180    210    180    
+Transport wind..S 14   S 12   S 15   S 15   S 14   S 12   
+Tran wind (m/s).S 6    S 5    S 7    S 7    S 6    S 5    
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (35-45 percent). Slight chance of 
+                    thunderstorms early in the morning. Slight 
+                    chance of showers in the morning, then chance 
+                    of showers and thunderstorms in the afternoon. 
+Temperature.........Max 84. 
+RH..................Min 51 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 8 mph in the 
+                    late morning and afternoon. Gusty and erratic 
+                    winds expected near thunderstorms early in the 
+                    morning. Gusty and erratic winds expected near 
+                    thunderstorms in the afternoon. 
+Mixing height (m)...183-1585 meters AGL. 
+Transport winds.....South 10 to 18 mph. 
+Transport winds m/s.South 4 to 8 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MCldy  MCldy  MCldy  PCldy  PCldy  PCldy  
+Weather cov.....       S Chc  S Chc  S Chc  Chance Chance 
+Weather type....None   Rnshwr Rnshwr Rnshwr Rnshwr Rnshwr 
+Tstm cov........       S Chc                Chance Chance 
+Temp............65     65     73     79     82     83     
+RH..............100    100    81     62     53     51     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..3      3      5      6      8      8      
+20 ft wind gust.13     14     15     16     18     18     
+Mix hgt (m).....210    270    670    1160   1580   820    
+Transport wind..S 10   S 12   S 15   S 18   S 17   S 16   
+Tran wind (m/s).S 4    S 5    S 7    S 8    S 8    S 7    
+
+$$
+Forecaster...Edmonston
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2608671.0/JAN
+.DELDT 03/31/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+

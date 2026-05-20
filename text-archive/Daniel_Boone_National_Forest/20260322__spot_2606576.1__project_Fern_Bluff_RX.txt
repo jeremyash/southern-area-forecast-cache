@@ -1,0 +1,131 @@
+
+000
+FNUS73 KJKL 220945 AAB
+FWSJKL
+
+Spot Forecast for Fern Bluff RX...UPDATED
+National Weather Service Jackson KY
+545 AM EDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 0600 EDT on March 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...The burn area will see a very warm, dry, and breezy
+afternoon with good venting and smoke dispersion. Later on, look 
+for a strong cold front to push into the area from the north this 
+evening and overnight with a potential for showers and 
+thunderstorms, some of which could be strong to severe. This will 
+be followed by noticeably cooler weather on Monday along with a 
+period of northerly to easterly winds. Very dry conditions are 
+anticipated for Tuesday afternoon with light winds and venting 
+issues.
+
+.TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 84. 
+Min humidity........35 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 10 mph 
+                    in the late morning. 
+Mixing height.......4600 ft AGL. 
+Transport winds.....Southwest 5 to 14 mph increasing to around 26 
+                    mph. 
+Vent Rate...........Poor (200 knot-ft) increasing to excellent 
+                    (102000 knot-ft). 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........24  17  15  13  9   28  32  38  18  24  27  41  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............50  52  57  62  68  72  76  79  81  82  83  84  
+RH..............96  100 86  81  73  66  56  49  42  41  38  37  
+20 FT wind dir..SW  SW  S   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   6   6   7   9   9   10  10  12  12  12  
+20 FT wind gust.8   9   10  13  14  15  17  18  18  18  20  20  
+Mix hgt (kft)...0.1 0.1 0.1 0.3 0.8 1.0 1.7 2.9 3.6 3.8 4.4 4.6 
+Transp wind dir.S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.5   5   6   8   10  14  16  20  22  25  26  26  
+Vrate kt-ft/1K..0   0   0   2   7   12  24  50  68  83  102 107 
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  FR  GD  GD  VGD VGD 
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    cloudy (85-95 percent). Chance of thunderstorms 
+                    through the night. Rain showers. 
+Chance of pcpn......100 percent. 
+Min temperature.....Around 41. 
+Max humidity........86 percent. 
+Wind (20 ft)........Southwest winds 6 to 9 mph shifting to the 
+                    north around 8 mph overnight. Gusty and erratic 
+                    winds expected near thunderstorms. 
+Mixing height.......200 ft AGL. 
+Transport winds.....Southwest 15 to 22 mph decreasing to 8 to 9 mph 
+                    early in the evening, then shifting to the 
+                    northwest 9 to 12 mph after 3 am. 
+Vent Rate...........Good (66100 knot-ft) decreasing to poor (1400 
+                    knot-ft). 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........34  22  27  32  29  42  78  100 100 100 100 92  
+Weather cov.....            SCH CHC CHC CHC DEF DEF DEF CHC     
+Weather type....            RW  RW  RW  RW  RW  RW  RW  RW      
+Tstm cov........            SCH SCH CHC CHC CHC SCH SCH SCH     
+Chc of pcpn (%).0   10  10  20  30  40  50  100 100 90  50  10  
+Temp............82  80  78  76  75  73  70  66  60  58  54  51  
+RH..............41  45  48  54  55  62  71  75  84  83  86  86  
+20 FT wind dir..SW  SW  SW  SW  SW  W   NW  N   N   N   N   N   
+20 FT wind spd..10  9   7   8   8   9   9   9   9   9   9   9   
+20 FT wind gust.16  17  13  14  14  15  15  15  15  16  15  15  
+Mix hgt (kft)...3.5 1.3 0.2 0.2 0.2 0.2 0.2 0.4 0.4 0.5 0.6 0.7 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  W   W   NW  N   
+Transp wind spd.22  15  9   8   8   9   9   8   8   8   9   12  
+Vrate kt-ft/1K..66  17  2   2   1   2   2   3   3   4   5   7   
+Ventrate Cat....GD  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.MONDAY...
+
+Sky/weather.........Partly sunny (55-65 percent) then becoming 
+                    sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 53. 
+Min humidity........37 percent. 
+Wind (20 ft)........North winds 5 to 8 mph. 
+Mixing height.......3700 ft AGL. 
+Transport winds.....North 15 to 21 mph. 
+Vent Rate...........Poor (11600 knot-ft) increasing to good 
+                    (52000 knot-ft) in the afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........85  79  73  65  53  50  43  30  16  13  9   5   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............48  45  43  42  43  44  45  48  50  51  53  53  
+RH..............86  86  79  79  73  68  62  54  48  44  39  39  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..9   9   9   8   7   7   7   6   6   6   6   6   
+20 FT wind gust.15  15  15  14  14  14  14  13  13  13  13  13  
+Mix hgt (kft)...0.9 1.3 1.5 1.7 2.1 2.3 2.5 3.0 3.2 3.3 3.6 3.7 
+Transp wind dir.N   N   N   N   N   N   N   N   N   N   N   N   
+Transp wind spd.15  18  21  21  18  17  16  16  16  16  16  16  
+Vrate kt-ft/1K..12  20  27  30  35  35  37  42  44  47  51  52  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  FR  FR  FR  FR  FR  
+
+$$
+Forecaster...GREIF
+Requested by...Brock Campbell
+Type of request...PRESCRIBED
+.TAG 2606576.1/JKL
+.DELDT 03/22/26
+.FormatterVersion 2.0.0
+.EMAIL brock.campbell@usda.gov
+

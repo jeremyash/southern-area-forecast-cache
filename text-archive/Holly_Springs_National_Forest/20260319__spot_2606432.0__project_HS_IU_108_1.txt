@@ -1,0 +1,186 @@
+
+000
+FNUS74 KMEG 190838
+FWSMEG
+
+Spot Forecast for HS IU 108-1...USFS
+National Weather Service Memphis TN
+338 AM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 1100 CDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Southwest winds will continue to slowly advect moisture back into
+the are today raising minimum RH values above 40%. Winds will go
+light and variable overnight with clear skies tonight, which is 
+supportive of radiational fog development. Guidance currently is 
+in favor (low to medium chance) of patchy to locally dense 
+development between 3-8 AM Friday morning.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Chance of thunder...2 percent. 
+Max temperature.....Around 75. 
+Min humidity........38 percent. 
+Dewpoint............48. 
+Wind (20 ft)........Southwest winds around 5 mph late in the 
+                    morning becoming light. 
+Mixing height.......4400 ft AGL. 
+Mixing height (MSL).2000-4400 ft MSL. 
+Mixing height (m)...610-1341 meters AGL. 
+Transport winds.....West 8 to 13 mph. 
+Transport winds m/s.West 4 to 6 meters/second. 
+2000 ft winds.......West 6 to 10 mph shifting to the southwest 5 to 
+                    6 mph late in the afternoon. 
+5000 ft winds.......West 8 to 12 mph shifting to the southwest late 
+                    in the afternoon. 
+Smoke dispersal.....Poor (3400 knot-ft). 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........17  8   13  13  15  15  20  
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+CWR.............0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   
+Temp............63  67  70  72  73  74  75  
+Dewpoint........47  48  48  49  48  48  48  
+RH..............56  50  46  44  41  40  38  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   5   5   5   5   5   2   
+20 FT wind gust.11  11  11  10  10  10  8   
+Mix hgt (kft)...2.0 2.6 3.4 4.1 4.4 4.3 3.8 
+Mx ht msl (kft).2.0 2.6 3.4 4.1 4.4 4.3 3.8 
+Mix hgt (km)....0.6 0.8 1.0 1.2 1.3 1.3 1.2 
+Transp wind dir.W   W   W   W   W   W   W   
+Transp wind spd.13  12  9   10  9   8   8   
+Trans wind dir..W   W   W   W   W   W   W   
+Trans spd (m/s).6   5   4   4   4   4   4   
+2000 ft wnd dir.W   W   W   SW  SW  SW  SW  
+2000 ft wnd spd.10  8   6   5   5   6   6   
+5000 ft wnd dir.W   W   W   W   SW  SW  SW  
+5000 ft wnd spd.12  9   8   7   7   7   7   
+Vrate kt-ft/1K..3   4   4   6   6   5   4   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Chance of thunder...2 percent. 
+Min temperature.....Around 52. 
+Max humidity........93 percent. 
+Dewpoint............49. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Mixing height (MSL).400-2800 ft MSL. 
+Mixing height (m)...122-853 meters AGL. 
+Transport winds.....South 6 to 13 mph. 
+Transport winds m/s.South 3 to 6 meters/second. 
+2000 ft winds.......South 7 to 10 mph increasing to southwest 17 to 
+                    20 mph. 
+5000 ft winds.......Southwest 7 to 10 mph increasing to around 17 
+                    mph. 
+Smoke dispersal.....Poor (300 knot-ft). 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   7   5   3   4   4   5   5   11  18  24  35  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............73  70  66  61  58  57  56  55  54  54  53  53  
+Dewpoint........48  48  49  50  50  50  50  50  50  49  49  49  
+RH..............41  46  54  67  75  77  80  83  86  83  86  86  
+20 FT wind dir..SW  SW  S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..2   1   1   1   2   2   2   2   2   2   2   2   
+20 FT wind gust.6   6   6   6   6   6   6   6   6   6   7   7   
+Mix hgt (kft)...2.8 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mx ht msl (kft).2.8 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mix hgt (km)....0.9 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.SW  SW  S   S   S   S   S   S   S   S   S   SW  
+Transp wind spd.7   6   7   7   8   9   9   10  12  12  13  13  
+Trans wind dir..SW  SW  S   S   S   S   S   S   S   S   S   SW  
+Trans spd (m/s).3   3   3   3   4   4   4   4   5   5   6   6   
+2000 ft wnd dir.S   S   S   S   S   S   S   SW  SW  SW  SW  SW  
+2000 ft wnd spd.7   8   10  12  14  15  16  17  17  18  18  20  
+5000 ft wnd dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+5000 ft wnd spd.7   8   9   10  12  12  12  13  14  16  17  17  
+Vrate kt-ft/1K..3   0   0   0   0   1   1   1   1   1   1   1   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (20-30 percent). 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Chance of thunder...2 percent. 
+Max temperature.....Around 82. 
+Min humidity........39 percent. 
+Dewpoint............50 increasing to 54 in the late morning and 
+                    afternoon. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph late 
+                    in the morning. 
+Mixing height.......5300 ft AGL. 
+Mixing height (MSL).400-5300 ft MSL. 
+Mixing height (m)...122-1615 meters AGL. 
+Transport winds.....Southwest 12 to 20 mph. 
+Transport winds m/s.Southwest 5 to 9 meters/second. 
+2000 ft winds.......Southwest 18 to 21 mph decreasing to 12 to 16 
+                    mph in the late morning and afternoon. 
+5000 ft winds.......Southwest 16 to 20 mph. 
+Smoke dispersal.....Poor (600 knot-ft) early in the morning 
+                    increasing to fair (14100 knot-ft) in the 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........39  43  45  43  41  35  28  22  17  13  8   8   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............53  52  54  59  64  69  73  77  80  81  81  81  
+Dewpoint........49  50  50  52  54  55  55  55  55  54  54  54  
+RH..............86  93  86  78  70  61  53  47  42  39  39  39  
+20 FT wind dir..S   S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   2   3   3   5   5   6   6   6   6   5   
+20 FT wind gust.7   8   8   10  10  11  12  12  12  12  12  11  
+Mix hgt (kft)...0.4 0.4 0.5 0.9 1.0 2.0 3.0 4.0 4.8 5.3 5.1 3.8 
+Mx ht msl (kft).0.4 0.4 0.5 0.9 1.0 2.0 3.0 4.0 4.8 5.3 5.1 3.8 
+Mix hgt (km)....0.1 0.1 0.2 0.3 0.3 0.6 0.9 1.2 1.5 1.6 1.6 1.2 
+Transp wind dir.SW  SW  S   SW  SW  SW  SW  W   W   W   W   W   
+Transp wind spd.12  13  13  17  16  16  16  17  18  20  20  17  
+Trans wind dir..SW  SW  S   SW  SW  SW  SW  W   W   W   W   W   
+Trans spd (m/s).5   6   6   8   7   7   7   8   8   9   9   8   
+2000 ft wnd dir.SW  SW  SW  W   W   W   SW  SW  SW  SW  SW  SW  
+2000 ft wnd spd.21  21  18  15  13  12  12  13  13  14  15  16  
+5000 ft wnd dir.W   W   W   W   W   W   SW  SW  SW  SW  SW  SW  
+5000 ft wnd spd.17  17  16  16  16  16  16  16  16  17  18  20  
+Vrate kt-ft/1K..1   1   1   2   2   4   7   9   12  14  14  9   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...Meadows
+Requested by...Jacob Shuler
+Type of request...PRESCRIBED
+.TAG 2606432.0/MEG
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL ty.cobb@usda.gov,jacob.shuler@usda.gov,john.townsend@usda.gov
+

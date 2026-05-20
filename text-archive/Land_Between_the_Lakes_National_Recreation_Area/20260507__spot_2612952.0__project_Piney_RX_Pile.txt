@@ -1,0 +1,111 @@
+
+000
+FNUS74 KOHX 071215
+FWSOHX
+
+Spot Forecast for Piney RX Pile...US Forest Service
+National Weather Service Nashville TN
+715 AM CDT Thu May 7 2026
+
+Forecast is based on ignition time of 1000 CDT on May 07. 
+Please contact our office at (615)754-8502, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+It looks like a decent soaking rain occurred near the burn site
+over the past couple days, perhaps 1" to 1.5" based off radar
+data. Drier, cooler air is in the area today. Light northerly
+winds are forecasts with little to no gusts in the afternoon.
+Minimum RH values around 35-40% are forecast and will greatly 
+depend on proximity to the lake. 
+
+.REST OF TODAY...
+
+Chance of thunder...0 percent. 
+Max temperature.....Around 65. 
+Min humidity........35 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......North winds around 5 mph in the late morning 
+                    and afternoon becoming light. 
+Mixing height.......5600 ft AGL. 
+Transport winds.....North 7 to 12 mph. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   0   1   1   1   1   1   1   
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   
+Temp............57  59  60  61  62  63  63  64  
+RH..............55  49  46  44  43  41  41  41  
+20 FT wind dir..N   N   N   N   N   N   N   N   
+20 FT wind spd..5   5   5   5   5   5   5   3   
+20 FT wind gust.9   10  12  12  12  10  9   8   
+Mix hgt (kft)...3.4 4.3 5.0 5.1 5.5 5.6 5.3 5.2 
+Transp wind dir.N   N   N   N   N   N   NW  NW  
+Transp wind spd.12  10  10  9   10  9   8   7   
+
+.TONIGHT...
+
+Chance of thunder...0 percent. 
+Min temperature.....Around 48. 
+Max humidity........80 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Northwest 3 to 7 mph shifting to the south 3 to 
+                    8 mph in the late evening and overnight. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........1   1   1   2   3   3   3   1   8   2   3   2   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............65  63  59  55  54  53  52  52  51  50  50  50  
+RH..............41  48  55  64  66  69  71  71  74  77  77  77  
+20 FT wind dir..N   N   N   N   N   SE  S   S   S   S   S   S   
+20 FT wind spd..2   0   0   0   0   1   1   2   2   2   3   3   
+20 FT wind gust.6   3   1   1   2   2   2   3   3   3   5   5   
+Mix hgt (kft)...3.5 0.4 0.4 0.4 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.NW  NW  NW  S   S   S   S   S   S   S   S   S   
+Transp wind spd.7   3   3   3   5   5   7   7   7   7   8   8   
+
+.FRIDAY...
+
+Chance of thunder...0 percent. 
+Max temperature.....Around 71. 
+Min humidity........47 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Light winds becoming south 5 to 7 mph. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....South 8 to 16 mph. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   1   1   0   1   1   1   4   3   2   14  14  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............49  50  53  56  62  65  67  68  69  70  71  71  
+RH..............80  80  77  69  58  52  50  49  49  47  47  47  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..3   5   5   6   6   6   6   6   6   6   7   6   
+20 FT wind gust.7   9   9   10  13  16  16  16  16  16  16  15  
+Mix hgt (kft)...0.4 0.4 1.1 1.6 2.6 3.5 4.3 4.6 4.9 5.0 5.0 4.3 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.8   10  10  12  13  13  13  14  14  15  16  16  
+
+$$
+
+Wind speeds are in MPH unless otherwise noted.
+
+Forecaster...Alex Sizemore
+Requested by...Zachary Buhler
+Type of request...PRESCRIBED
+.TAG 2612952.0/OHX
+.DELDT 05/07/26
+.FormatterVersion 2.0.0
+.EMAIL douglas.phelps@usda.gov,zachary.buhler@usda.gov
+

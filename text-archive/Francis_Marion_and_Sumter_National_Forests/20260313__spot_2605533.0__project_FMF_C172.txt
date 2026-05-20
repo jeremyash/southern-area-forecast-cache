@@ -1,0 +1,109 @@
+
+000
+FNUS72 KCHS 130804
+FWSCHS
+
+Spot Forecast for FMF C172...usfs
+National Weather Service Charleston SC
+400 AM EDT Fri Mar 13 2026
+
+Forecast is based on ignition time of 1000 EDT on March 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+High pressure will prevail through the weekend. Light northeast 
+winds will veer to the south through the day. Speeds will average
+less than 10 mph. Calm winds will occur tonigh with very poor 
+dispersion.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 67. 
+Min humidity........48 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4100 ft AGL. 
+Transport winds.....Southeast around 14 mph shifting to the south 
+                    around 12 mph late in the afternoon. 
+Max ADI.............69. 
+Inversion End.......0930.
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   9   11  17  22  18  12  8   
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............51  57  61  64  65  66  67  67  
+RH..............66  57  51  50  50  48  49  50  
+20 FT wind dir..E   E   SE  SE  S   S   S   S   
+20 FT wind spd..2   3   3   3   3   2   3   2   
+20 FT wind gust.11  11  11  9   9   9   9   9   
+Mix hgt (kft)...2.9 3.7 3.8 4.0 4.1 4.0 3.9 3.7 
+Transp wind dir.E   E   SE  SE  SE  S   S   S   
+Transp wind spd.14  14  14  14  14  12  12  12  
+LVORI...........1   1   1   1   1   1   1   1   
+ADI.............45  67  69  65  62  56  53  46  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 45. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........10. 
+Min ADI.............1. 
+Inversion Begin.....1930.
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........13     7      5      7      8      17     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............66     58     54     52     50     49     
+RH..............52     77     93     100    100    100    
+20 ft wind......SW 2   N 0    N 0    N 0    N 0    N 0    
+20 ft wind gust.7      5      5      5      5      4      
+Mix hgt (ft)....2800   500    600    500    500    400    
+Transport wind..S 4    S 4    N 0    N 0    N 0    N 0    
+LVORI...........2      4      8      10     10     10     
+ADI.............1      1      1      1      1      1      
+
+.SATURDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 75. 
+Min humidity........45 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 3700 ft AGL. 
+Transport winds.....Light winds becoming east 6 to 10 mph in the 
+                    afternoon. 
+Max ADI.............32. 
+Inversion End.......0930.
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........24        17        4         1         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............46        50        69        75        
+RH..............100       100       57        45        
+20 FT wind......N 0G4     N 0G4     NE 1G5    SE 3G9    
+Mix hgt (ft)....300       600       2300      3200      
+Transport wind..N 0       N 2       E 6       SE 10     
+LVORI...........10        10        2         1         
+ADI.............1         1         13        32        
+
+$$
+Forecaster...Taylor
+Requested by...ben kuhn
+Type of request...PRESCRIBED
+.TAG 2605533.0/CHS
+.DELDT 03/13/26
+.FormatterVersion 2.0.0
+.EMAIL benjamin.kuhn@usda.gov,kelly.wetzelwilson@usda.gov
+

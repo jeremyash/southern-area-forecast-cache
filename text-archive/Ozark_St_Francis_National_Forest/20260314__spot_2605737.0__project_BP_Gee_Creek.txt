@@ -1,0 +1,128 @@
+
+000
+FNUS74 KLZK 140706
+FWSLZK
+
+Spot Forecast for BP Gee Creek...USFS
+National Weather Service Little Rock AR
+206 AM CDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 0900 CDT on March 14. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Southerly winds will gradually increase today...with moisture
+levels also increasing. Winds will increase significantly for
+Sunday ahead of an approaching cold front. Winds will switch to
+the northwest and north behind the front Sunday afternoon and
+evening...with very windy conditions expected. Showers and
+thunderstorms will be possible along this front. While winds will
+lessen by Monday...they may still remain elevated enough to create
+an elevated wild fire threat. This will be especially true as very
+dry air will settle across the region by Monday afternoon as 
+well.
+
+
+.REST OF TODAY...
+
+Max temperature.....51 at ignition...Max 73. 
+Min humidity........77 percent at ignition...Min 41 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............1. 
+Sky/weather.........Sunny (5-15 percent). 
+Dispersion..........20 increasing to 50 in the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....68. 
+Category Day........4. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............51  57  61  64  66  69  70  71  72  
+RH..............77  64  60  56  54  49  45  44  41  
+20 FT wind dir..SE  SE  S   S   S   S   S   S   S   
+20 FT wind spd..3   5   5   7   7   8   8   8   8   
+20 FT wind gust.8   10  12  14  16  17  18  18  18  
+MixHgtAGL (kft).0.8 1.2 1.7 2.3 2.9 3.4 3.7 3.8 3.2 
+MixHgtMSL (kft).2.3 2.7 3.2 3.8 4.4 4.9 5.2 5.3 4.7 
+Transp wind dir.S   S   S   S   S   S   S   S   S   
+Transp wind spd.8   9   12  13  15  17  18  20  20  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 54. 
+Max humidity........Max 86 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............3. 
+Sky/weather.........Partly cloudy (30-40 percent) then becoming 
+                    mostly cloudy (50-60 percent). 
+Dispersion..........37 decreasing to 16 in the late evening and 
+                    overnight. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR PC  PC  PC  PC  PC  PC  MC  MC  MC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............70  68  66  63  61  60  59  59  58  57  57  57  
+RH..............44  47  52  58  65  67  72  72  77  80  80  80  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..8   8   8   8   8   8   8   8   10  10  12  12  
+20 FT wind gust.18  18  18  18  18  20  19  19  22  22  23  25  
+MixHgtAGL (kft).2.3 1.6 1.1 0.9 0.8 0.8 0.9 1.0 0.9 0.7 0.7 0.8 
+MixHgtMSL (kft).3.8 3.1 2.6 2.4 2.3 2.3 2.4 2.5 2.4 2.2 2.2 2.3 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.18  17  17  17  17  17  18  18  18  18  20  21  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.SUNDAY...
+
+Max temperature.....Max 64. 
+Min humidity........Min 62 percent. 
+Chance of pcpn......90 percent. 
+Stability class.....4. 
+LVORI...............3 early in the morning. 
+Sky/weather.........Mostly cloudy (80-90 percent). Rain showers in 
+                    the afternoon. 
+Dispersion..........46 increasing to 78. 
+Rainfall amount.....0.26 inches. 
+1700 Ft Mix Temp....58. 
+Category Day........4. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  MC  MC  MC  CDY CDY CDY CDY CDY CDY 
+Weather cov.....                            DEF DEF DEF DEF DEF 
+Weather type....                            RW  RW  RW  RW  RW  
+Tstm cov........                                                
+Temp............57  56  55  56  58  60  62  63  63  61  59  54  
+RH..............83  83  86  86  86  84  81  78  75  75  72  71  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   SW  SW  W   
+20 FT wind spd..12  13  14  14  14  13  12  12  12  12  13  15  
+20 FT wind gust.26  28  30  30  30  29  28  26  26  28  29  30  
+MixHgtAGL (kft).1.0 1.2 1.6 2.1 2.5 2.7 2.8 2.8 2.8 2.8 2.8 2.9 
+MixHgtMSL (kft).2.5 2.7 3.1 3.6 4.0 4.2 4.3 4.3 4.3 4.3 4.3 4.4 
+Transp wind dir.S   S   S   S   S   S   S   S   SW  W   W   NW  
+Transp wind spd.23  24  25  26  28  28  26  26  28  29  31  35  
+Chc of pcpn (%).0   10  10  10  10  10  10  90  90  90  90  90  
+
+$$
+Forecaster...62
+Requested by...FMO
+Type of request...PRESCRIBED
+.TAG 2605737.0/LZK
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL bradley.taylor@usda.gov
+

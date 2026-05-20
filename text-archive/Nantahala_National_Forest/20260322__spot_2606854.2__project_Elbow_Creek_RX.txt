@@ -1,0 +1,117 @@
+
+000
+FNUS74 KMRX 220951
+FWSMRX
+
+Spot Forecast for Elbow Creek RX...USFS
+National Weather Service Morristown TN
+551 AM EDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 0600 EDT on March 22. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+Dry weather can be expected through Monday. A wind shift will
+occur following a weak cold frontal passage Monday morning. 
+Current southeast to southwest flow will eventually turn northerly.
+Winds could gust to near 20 mph through the forecast time period.
+Minimum RH will be around the mid 30s percent both days.
+
+.TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 82. 
+Min humidity........35 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph with 
+                    gusts to around 18 mph in the afternoon. 
+Mixing height.......5300 ft AGL. 
+Transport winds.....Southwest 6 to 15 mph increasing to 16 to 20 
+                    mph late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........22  21  18  14  14  17  18  12  7   3   4   9   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............59  58  57  59  65  69  73  76  79  80  81  82  
+RH..............78  83  86  80  65  61  51  46  41  39  37  35  
+20 FT wind dir..SE  SE  SE  SE  S   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..1   1   2   2   2   4   5   5   6   6   6   6   
+20 FT wind gust.6   6   6   7   8   10  12  13  16  17  17  18  
+Mix hgt (kft)...0.6 0.6 0.6 0.8 1.7 2.5 3.1 3.9 4.3 4.8 5.2 5.3 
+Transp wind dir.SW  SW  S   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.7   7   7   6   8   10  12  15  16  18  20  20  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+Min temperature.....Around 58. 
+Max humidity........83 percent. 
+Wind (20 ft)........Southwest winds 5 to 6 mph with gusts to around 
+                    18 mph shifting to the south around 5 mph with 
+                    gusts to around 17 mph in the late evening and 
+                    overnight, then shifting to the southwest with 
+                    gusts to around 18 mph overnight shifting to 
+                    the west with gusts to around 17 mph early in 
+                    the morning. 
+Mixing height.......800 ft AGL. 
+Transport winds.....Southwest 10 to 18 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........4   14  14  12  17  13  15  16  16  27  63  64  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............80  79  76  71  69  67  65  64  63  63  63  62  
+RH..............36  38  42  49  53  56  60  63  67  65  65  67  
+20 FT wind dir..SW  SW  SW  S   S   S   S   S   SW  W   W   W   
+20 FT wind spd..6   5   5   5   5   5   5   5   5   5   5   5   
+20 FT wind gust.17  17  18  16  14  16  17  17  18  18  18  17  
+Mix hgt (kft)...4.6 1.8 0.8 0.9 0.9 1.1 1.0 1.2 1.2 1.2 1.1 1.1 
+Transp wind dir.W   SW  SW  SW  SW  SW  SW  W   W   W   W   W   
+Transp wind spd.18  15  12  10  10  10  12  12  12  14  13  12  
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (30-40 percent). 
+Max temperature.....Around 69. 
+Min humidity........37 percent. 
+Wind (20 ft)........Northwest winds 5 to 6 mph with gusts to around 
+                    16 mph shifting to the north 6 to 7 mph with 
+                    gusts to around 16 mph late in the morning. 
+Mixing height.......3300 ft AGL. 
+Transport winds.....West 12 to 15 mph shifting to the north 16 to 
+                    21 mph in the late morning and afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........56  72  82  83  80  76  62  48  34  31  29  26  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............61  60  59  61  62  63  64  66  67  67  68  67  
+RH..............70  78  83  78  72  70  65  56  50  45  40  37  
+20 FT wind dir..W   W   W   NW  NW  N   N   N   N   N   N   N   
+20 FT wind spd..5   5   5   5   6   6   7   7   7   7   7   7   
+20 FT wind gust.16  14  14  14  14  16  16  16  16  16  16  16  
+Mix hgt (kft)...0.9 0.8 1.0 1.6 1.8 1.9 2.3 2.7 3.0 3.3 3.3 3.1 
+Transp wind dir.W   W   W   NW  N   N   N   N   N   N   N   N   
+Transp wind spd.12  13  13  15  16  16  17  18  20  21  21  21  
+
+$$
+Forecaster...Kerrie Simmons
+Requested by...Drew Ford
+Type of request...PRESCRIBED
+.TAG 2606854.2/MRX
+.DELDT 03/22/26
+.FormatterVersion 2.0.0
+.EMAIL drew.ford@usda.gov
+

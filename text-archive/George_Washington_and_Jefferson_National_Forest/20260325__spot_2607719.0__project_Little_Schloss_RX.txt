@@ -1,0 +1,162 @@
+
+000
+FNUS71 KLWX 250843
+FWSLWX
+
+Spot Forecast for Little Schloss RX...USFS
+National Weather Service Baltimore MD/Washington DC
+443 AM EDT Wed Mar 25 2026
+
+Forecast is based on ignition time of 0500 EDT on March 25. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Canadian high pressure will slide offshore today. A warming trend
+in our temperatures expected today into Thursday. A cold front 
+will approach from the west Thursday before crossing the area 
+Thursday night into Friday bringing the next chance of rain to the
+region. Cooler weather returns with high pressure this weekend.
+
+.REST OF TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 35. 
+Max humidity........56 percent. 
+Wind (20 ft)........Southwest winds around 5 mph. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Southwest around 8 mph. 
+Smoke dispersal.....Poor (2100 knot-ft). 
+
+TIME (EDT)      5AM 
+Sky (%).........37  
+Weather cov.....    
+Weather type....    
+Tstm cov........    
+CWR.............0   
+Chc of thdr (%).0   
+Temp............36  
+RH..............55  
+20 FT wind dir..SW  
+20 FT wind spd..5   
+20 FT wind gust.12  
+Mix hgt (kft)...0.3 
+Transp wind dir.SW  
+Transp wind spd.8   
+Vrate kt-ft/1K..2   
+Ventrate Cat....PR  
+
+.TODAY...
+
+Sky/weather.........Partly sunny (60-70 percent). 
+CWR.................10 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 57. 
+Min humidity........34 percent. 
+Wind (20 ft)........Southwest winds around 5 mph early in the 
+                    morning becoming light, then becoming south 5 
+                    to 9 mph with gusts to around 22 mph late in 
+                    the morning. 
+Mixing height.......3400 ft AGL. 
+Transport winds.....Southwest 8 to 16 mph shifting to the south 18 
+                    to 21 mph late in the afternoon. 
+Smoke dispersal.....Poor (2100 knot-ft) early in the morning 
+                    increasing to good (59500 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........57     79     81     69     53     58     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      10     10     10     0      0      
+Chc of thdr (%).0      0      0      0      0      0      
+Temp............35     36     42     49     55     57     
+RH..............56     56     50     42     37     34     
+20 ft wind......SW 5   SW 2   SW 3   S 6    S 7    S 8    
+20 ft wind gust.12     10     12     16     20     22     
+Mix hgt (ft)....300    300    600    1500   2900   3400   
+Transport wind..SW 8   SW 8   SW 9   S 13   S 16   S 20   
+Vrate kt-ft/1K..2      2      4      17     41     59     
+Ventrate Cat....POOR   POOR   POOR   POOR   FAIR   FAIR   
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (50-60 percent) then becoming 
+                    partly cloudy (35-45 percent) then becoming 
+                    mostly cloudy (55-65 percent). 
+CWR.................10 percent. 
+Chance of thunder...1 percent. 
+Min temperature.....Around 46. 
+Max humidity........63 percent. 
+Wind (20 ft)........Southwest winds 9 to 12 mph with gusts to 
+                    around 25 mph. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southwest 13 to 20 mph. 
+Smoke dispersal.....Good (43700 knot-ft) early in the evening 
+                    decreasing to poor (4000 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........55        55        42        36        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+CWR.............0         0         10        0         
+Chc of thdr (%).0         0         0         0         
+Temp............56        50        48        47        
+RH..............37        44        47        51        
+20 FT wind......S 9G22    SW 10G22  SW 12G24  SW 12G25  
+Mix hgt (ft)....2600      500       400       400       
+Transport wind..S 20      SW 15     SW 15     SW 14     
+Vrate kt-ft/1K..44        7         5         4         
+Ventrate Cat....FAIR      POOR      POOR      POOR      
+
+.THURSDAY...
+
+Sky/weather.........Partly sunny (60-70 percent). Chance of rain 
+                    early in the morning. 
+CWR.................10 percent increasing to 30 percent early in 
+                    the morning. 
+Chance of thunder...6 percent. 
+Max temperature.....Around 69. 
+Min humidity........51 percent. 
+Wind (20 ft)........Southwest winds 8 to 12 mph with gusts to 
+                    around 24 mph. 
+Mixing height.......2800 ft AGL. 
+Transport winds.....Southwest 12 to 20 mph increasing to 22 to 24 
+                    mph late in the afternoon. 
+Smoke dispersal.....Poor (3400 knot-ft) early in the morning 
+                    increasing to good (59500 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........73           71           68           
+Weather cov.....             CHANCE       CHANCE       
+Weather type....NONE         RAIN         RAIN         
+Tstm cov........                                       
+CWR.............10           30           30           
+Chc of thdr (%).0            0            0            
+Temp............48           55           67           
+RH..............56           59           54           
+20 FT wind......SW 10G22     SW 8G21      SW 9G22      
+Mix hgt (ft)....300          1000         1900         
+Transport wind..SW 13        SW 13        SW 16        
+Vrate kt-ft/1K..4            11           26           
+Ventrate Cat....POOR         POOR         POOR         
+
+$$
+Forecaster...Witt
+Requested by...Collett
+Type of request...PRESCRIBED
+.TAG 2607719.0/LWX
+.DELDT 03/25/26
+.FormatterVersion 2.0.0
+.EMAIL aaron.p.strobel@usda.gov,jay.collett@usda.gov
+

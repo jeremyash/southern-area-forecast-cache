@@ -1,0 +1,121 @@
+
+000
+FNUS74 KMEG 141944
+FWSMEG
+
+Spot Forecast for HS IU 89-1 84-3...USFS
+National Weather Service Memphis TN
+244 PM CDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 1500 CDT on March 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...WIND ADVISORY IN EFFECT FROM 8 AM SUNDAY TO 1 AM CDT MONDAY...
+
+.DISCUSSION...
+
+South winds at 10 to 15 mph with a few higher gusts will continue
+for the rest of the afternoon. Winds will diminish this evening 
+and then begin to increase later tonight and Sunday as a cold 
+front approaches. Relative humidity values of 30 to 35 percent 
+will be common for the remainder of this afternoon. No fog is 
+expected tonight. A strong cold front with a line of strong to 
+severe storms will move through Sunday evening with wetting rains 
+followed by strong northwest winds and much colder temperatures. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 77. 
+Min humidity........32 percent. 
+Dewpoint............45. 
+Wind (20 ft)........South winds around 5 mph. 
+Mixing height.......4400 ft AGL. 
+Mixing height (MSL).3700-4400 ft MSL. 
+Mixing height (m)...1128-1341 meters AGL. 
+Transport winds.....South 15 to 16 mph. 
+Transport winds m/s.South around 7 meters/second. 
+2000 ft winds.......South 10 to 13 mph. 
+Smoke dispersal.....Poor (8100 knot-ft). 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      3 PM   5 PM   
+Sky (%).........3      2      
+Weather cov.....              
+Weather type....NONE   NONE   
+Tstm cov........              
+CWR.............0      0      
+Chc of pcpn (%).0      0      
+Chc of thdr (%).0      0      
+Temp............75     75     
+Dewpoint........46     45     
+RH..............36     34     
+20 ft wind......S 5    S 5    
+20 ft wind gust.11     11     
+Mix hgt (ft)....4200   3700   
+Mx ht msl (ft)..4200   3700   
+Mix hgt (m).....1280   1130   
+Transport wind..S 15   S 16   
+Tran wind (m/s).S 7    S 7    
+2000 ft wind....S 10   S 13   
+Vrate kt-ft/1K..9      8      
+Ventrate Cat....POOR   POOR   
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent) then becoming 
+                    mostly cloudy (50-60 percent). 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 56. 
+Max humidity........87 percent. 
+Dewpoint............46 increasing to 50 overnight. 
+Wind (20 ft)........Light winds becoming south 5 to 7 mph with 
+                    gusts to around 16 mph in the late evening and 
+                    overnight. 
+Mixing height.......400 ft AGL. 
+Mixing height (MSL).400-1500 ft MSL. 
+Mixing height (m)...122-457 meters AGL. 
+Transport winds.....South 12 to 15 mph. 
+Transport winds m/s.South 5 to 7 meters/second. 
+2000 ft winds.......South 15 to 17 mph increasing to 26 to 28 mph. 
+Smoke dispersal.....Poor (600 knot-ft). 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........2      13     33     41     43     50     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Chc of pcpn (%).0      0      0      0      0      0      
+Chc of thdr (%).0      0      0      0      0      0      
+Temp............74     66     62     60     59     58     
+Dewpoint........44     46     47     48     49     51     
+RH..............34     48     58     64     69     77     
+20 ft wind......S 3    S 3    S 5    S 6    S 7    S 7    
+20 ft wind gust.10     10     12     14     14     16     
+Mix hgt (ft)....1500   400    500    500    600    500    
+Mx ht msl (ft)..1500   400    500    500    600    500    
+Mix hgt (m).....460    120    150    150    180    150    
+Transport wind..S 14   S 12   S 14   S 14   S 14   S 15   
+Tran wind (m/s).S 6    S 5    S 6    S 6    S 6    S 7    
+2000 ft wind....S 15   S 21   S 26   S 28   S 28   S 26   
+Vrate kt-ft/1K..3      1      1      1      1      1      
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   POOR   
+
+$$
+Forecaster...McNeil S.
+Requested by...Mississippi Interagency
+Type of request...PRESCRIBED
+.TAG 2605799.0/MEG
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL john.townsend@usda.gov,msmic@firenet.gov
+

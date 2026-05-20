@@ -1,0 +1,111 @@
+
+000
+FNUS74 KFWD 231529
+FWSFWD
+
+Spot Forecast for LBJ RX...USFS
+National Weather Service Fort Worth TX
+1029 AM CDT Mon Mar 23 2026
+
+Forecast is based on ignition time of 1000 CDT on March 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+After a cooler day today, Tuesday will be slightly warmer with
+highs in the 80s. Minimum relative humidity values will be around
+41%. Wind direction in the morning will be out of the
+east/southeast, gradually becoming southerly through the day. 
+Wind speeds will range between 5-10 mph with gusts around 15 mph. 
+Given the overall dry air in place, mixing heights will be around 
+5000 feet.
+
+Tuesday night, relative humidity will recover to around 84% with 
+overnight temperatures in the 60s. Winds will remain out of the
+south/southeast, gradually weakening through the night. 
+
+Wednesday is expected to remain sunny with afternoon temperatures
+in the upper 80s. Minimum relative humidity will be around 40% in
+the afternoon with continued southerly winds at less than 10 mph. 
+
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Max temperature.....Around 80. 
+Min humidity........41 percent. 
+Wind (20 ft)........Southeast winds 5 to 8 mph. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....Southeast 13 to 16 mph. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........55  50  44  38  28  19  9   10  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Temp............63  67  71  75  77  78  80  80  
+RH..............65  59  53  48  45  43  41  41  
+20 FT wind dir..SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..6   6   7   7   8   9   9   9   
+20 FT wind gust.12  13  13  14  15  16  16  16  
+Mix hgt (kft)...1.1 1.6 2.2 2.7 3.5 4.2 5.0 3.8 
+Transp wind dir.SE  SE  SE  SE  S   S   S   S   
+Transp wind spd.15  15  14  13  14  15  16  16  
+
+.TUESDAY NIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Min temperature.....Around 60. 
+Max humidity........84 percent. 
+Wind (20 ft)........Southeast winds 5 to 7 mph in the evening and 
+                    overnight becoming light. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Southeast 15 to 20 mph. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........10  11  11  12  12  13  14  15  15  15  15  13  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............79  79  76  72  69  68  66  65  64  64  63  62  
+RH..............42  42  45  51  55  57  61  63  65  67  70  75  
+20 FT wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..8   7   7   6   6   6   6   6   6   5   5   5   
+20 FT wind gust.15  15  15  14  14  14  13  13  13  13  13  13  
+Mix hgt (kft)...2.6 1.5 1.3 1.0 0.8 0.8 0.7 0.7 0.7 0.6 0.6 0.5 
+Transp wind dir.SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Transp wind spd.17  17  17  18  18  20  20  20  18  17  16  15  
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 87. 
+Min humidity........39 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 8 mph early in 
+                    the morning. 
+Mixing height.......3900 ft AGL. 
+Transport winds.....South 15 to 22 mph. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........11  9   9   9   9   7   4   2   2   1   1   2   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............61  60  63  66  69  73  78  82  84  85  87  86  
+RH..............78  84  81  75  73  64  54  47  44  41  39  39  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..5   5   6   7   8   8   9   9   9   10  10  10  
+20 FT wind gust.12  12  13  14  15  16  16  17  18  18  18  18  
+Mix hgt (kft)...0.5 0.5 0.9 1.2 1.6 2.0 2.4 2.8 3.2 3.5 3.9 3.2 
+Transp wind dir.SE  SE  S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.15  15  17  20  22  22  21  20  20  20  20  20  
+
+$$
+Forecaster...Hernandez
+Requested by...Kyle Olsen
+Type of request...PRESCRIBED
+.TAG 2607326.0/FWD
+.DELDT 03/23/26
+.FormatterVersion 2.0.0
+.EMAIL kyle.olsen@usda.gov
+

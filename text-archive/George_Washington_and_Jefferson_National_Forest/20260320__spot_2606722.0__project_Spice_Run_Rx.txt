@@ -1,0 +1,156 @@
+
+000
+FNUS71 KRNK 201144
+FWSRNK
+
+Spot Forecast for Spice Run Rx...USFS
+National Weather Service Blacksburg VA
+744 AM EDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 0700 EDT on March 20. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Warmer today under mostly clear skies. Temperatures rise into the mid
+to upper 60s with RH values falling into the mid to lower 30 percent
+range. Better mixing today and winds slightly higher, from the southwest. 
+Around 10mph by this afternoon with gusts possibly into the 20 mph range
+at times. Should see winds decrease some after sunset...not as gusty, but
+could remain sustained around 10mph or less on more exposed ridges.
+
+Warmer again on Saturday with winds transitioning from the west.
+Slightly less with gusts around 10mph. Min RH slightly higher, into
+the mid 30 percent range.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (35-45 percent) then becoming 
+                    mostly cloudy (70-80 percent). Isolated rain 
+                    showers late in the afternoon. 
+CWR (0.01 in).......10 percent increasing to 20 percent late in the 
+                    afternoon. 
+Max temperature.....Around 66. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph with 
+                    gusts to around 19 mph in the afternoon. 
+Mixing height.......5100 ft AGL. 
+Mixing winds........West 2 to 8 mph increasing to southwest 25 to 
+                    30 mph. 
+Smoke dispersal.....Poor (600 knot-ft) early in the morning 
+                    increasing to excellent (78300 knot-ft) in the 
+                    afternoon increasing to excellent (102900 
+                    knot-ft) late in the afternoon. 
+LVORI...............3. 
+ADI.................2 early in the morning increasing to 123 in the 
+                    afternoon. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........35  20  26  36  44  60  73  80  82  72  80  
+Weather cov.....                                        ISO 
+Weather type....                                        RW  
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   10  20  
+Temp............37  38  42  50  56  60  62  65  65  65  65  
+RH..............78  75  68  55  49  41  39  36  36  37  37  
+20 FT wind dir..SW  SW  SW  W   SW  SW  W   SW  W   W   W   
+20 FT wind spd..2   2   2   2   4   5   6   6   7   7   6   
+20 FT wind gust.8   10  10  11  12  14  17  18  18  18  19  
+Mix hgt (kft)...0.3 0.3 0.4 0.9 2.0 3.4 4.3 5.1 5.1 5.0 4.1 
+Mixng wind dir..W   W   W   W   SW  SW  W   W   SW  SW  SW  
+Mixng wind spd..2   3   6   8   12  16  21  25  28  30  29  
+LVORI...........4   4   3   2   2   1   1   1   1   1   1   
+ADI.............2   4   6   9   30  67  106 105 115 123 81  
+VRate mph-ft/1K.1   1   2   7   23  55  90  128 141 149 118 
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Scattered rain 
+                    showers through the night. 
+CWR (0.01 in).......20 percent increasing to 30 percent early in 
+                    the evening, then decreasing to 20 percent 
+                    early in the evening increasing to 30 percent 
+                    late in the evening increasing to 50 percent 
+                    decreasing to 40 percent overnight decreasing 
+                    to 20 percent decreasing to 10 percent 
+                    overnight. 
+Min temperature.....Around 51. 
+Max humidity........90 percent. 
+Wind (20 ft)........West winds 5 to 6 mph with gusts to around 19 
+                    mph in the evening and overnight becoming 
+                    light. 
+Mixing height.......500 ft AGL. 
+Mixing winds........Southwest 17 to 25 mph becoming west around 3 
+                    mph. 
+Smoke dispersal.....Good (45200 knot-ft) early in the evening 
+                    decreasing to poor (1700 knot-ft) late in the 
+                    night. 
+LVORI...............3. 
+ADI.................49 early in the evening decreasing to 2 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........78  86  84  58  55  69  65  59  62  61  66  61  
+Weather cov.....ISO SCT ISO SCT SCT SCT SCT ISO                 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW                  
+Tstm cov........                                                
+CWR.............20  30  20  30  30  50  40  20  10  0   0   0   
+Temp............63  61  58  57  57  56  55  55  55  54  54  53  
+RH..............41  44  52  55  58  62  66  72  72  78  80  84  
+20 FT wind dir..SW  W   SW  W   SW  W   W   W   W   W   W   W   
+20 FT wind spd..6   5   5   5   5   5   5   5   4   4   4   4   
+20 FT wind gust.19  18  18  18  17  17  17  16  16  14  14  14  
+Mix hgt (kft)...2.1 0.8 0.7 0.6 0.5 0.5 0.5 0.6 0.6 0.6 0.6 0.6 
+Mixng wind dir..SW  SW  SW  SW  SW  SW  W   W   W   W   W   W   
+Mixng wind spd..25  22  17  14  12  10  9   9   8   7   5   3   
+LVORI...........1   2   2   2   3   3   3   3   3   4   5   5   
+ADI.............49  15  12  9   8   7   6   6   5   5   3   2   
+VRate mph-ft/1K.52  18  12  8   6   5   5   6   5   4   3   2   
+
+.SATURDAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent) then becoming 
+                    mostly sunny (35-45 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 69. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5200 ft AGL. 
+Mixing winds........Northwest 2 to 10 mph increasing to 10 to 13 
+                    mph late in the morning. 
+Smoke dispersal.....Poor (1100 knot-ft) early in the morning 
+                    increasing to good (46600 knot-ft) in the 
+                    afternoon. 
+LVORI...............4. 
+ADI.................1 early in the morning increasing to 62 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........78  75  91  80  74  67  66  64  63  54  46  37  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............53  52  51  53  56  59  62  65  67  68  69  68  
+RH..............87  89  90  85  77  67  57  49  43  39  37  37  
+20 FT wind dir..W   W   W   W   W   NW  NW  NW  NW  NW  W   W   
+20 FT wind spd..3   3   2   2   3   3   4   4   4   4   4   4   
+20 FT wind gust.13  12  12  11  11  11  11  10  10  11  11  11  
+Mix hgt (kft)...0.5 0.5 0.5 1.0 1.4 1.8 2.3 2.9 3.5 4.0 4.6 5.2 
+Mixng wind dir..W   W   W   NW  NW  NW  NW  NW  NW  NW  W   W   
+Mixng wind spd..2   2   3   7   10  13  13  12  10  10  10  10  
+LVORI...........6   7   6   4   3   3   1   1   1   1   1   1   
+ADI.............1   2   4   9   19  29  36  41  36  39  56  62  
+VRate mph-ft/1K.1   1   2   7   15  22  29  33  36  42  48  54  
+
+$$
+Forecaster...Gruver
+Requested by...A Christie
+Type of request...PRESCRIBED
+.TAG 2606722.0/RNK
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL adam.christie@usda.gov,mathias.cuison@usda.gov
+

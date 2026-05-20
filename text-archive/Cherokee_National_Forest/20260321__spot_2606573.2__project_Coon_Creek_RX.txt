@@ -1,0 +1,131 @@
+
+000
+FNUS74 KMRX 210805
+FWSMRX
+
+Spot Forecast for Coon Creek RX...USFS
+National Weather Service Morristown TN
+405 AM EDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 0500 EDT on March 21. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+Dry weather is forecast today through Sunday. Minimum RH will be
+around the mid 30s percent both days. Winds primarily out of the 
+southwest. Gusts Sunday afternoon could reach near 17 mph.
+
+.REST OF TONIGHT...
+
+Sky/weather.........Mostly cloudy (50-60 percent). 
+Min temperature.....Around 55. 
+Max humidity........77 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Southwest around 12 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      5AM 
+Sky (%).........57  
+Weather cov.....    
+Weather type....    
+Tstm cov........    
+Temp............57  
+RH..............67  
+20 FT wind dir..SW  
+20 FT wind spd..3   
+20 FT wind gust.10  
+Mix hgt (kft)...0.3 
+Transp wind dir.SW  
+Transp wind spd.12  
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Max temperature.....Around 80. 
+Min humidity........35 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph late 
+                    in the afternoon. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....Southwest 9 to 18 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........51  52  52  41  32  20  24  17  12  16  16  17  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............56  56  55  58  64  68  71  74  77  78  80  80  
+RH..............69  72  77  72  63  57  51  46  42  39  35  35  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   2   2   2   3   4   4   5   5   6   6   
+20 FT wind gust.10  8   7   8   8   10  10  11  11  12  13  13  
+Mix hgt (kft)...0.2 0.2 0.2 0.3 1.1 1.6 1.8 2.5 3.2 3.8 4.3 4.2 
+Transp wind dir.SW  SW  SW  SW  W   W   W   W   W   W   W   W   
+Transp wind spd.12  10  9   9   13  13  12  13  14  16  17  18  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). 
+Min temperature.....Around 59. 
+Max humidity........87 percent. 
+Wind (20 ft)........Southwest winds around 5 mph early in the 
+                    evening becoming light. 
+Mixing height.......200 ft AGL. 
+Transport winds.....Southwest 12 to 20 mph decreasing to around 10 
+                    mph after 3 am. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........13  23  33  26  26  30  33  41  29  22  22  24  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............78  76  74  69  67  66  66  64  63  62  62  61  
+RH..............38  40  44  55  61  65  68  73  75  78  78  81  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   4   3   3   3   2   2   2   2   2   2   2   
+20 FT wind gust.12  11  10  10  10  10  10  8   8   8   8   8   
+Mix hgt (kft)...3.7 1.1 0.4 0.3 0.4 0.3 0.4 0.3 0.3 0.2 0.2 0.2 
+Transp wind dir.W   SW  SW  SW  SW  W   W   SW  SW  SW  SW  SW  
+Transp wind spd.20  14  12  12  12  13  14  12  12  12  10  10  
+
+.SUNDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 82. 
+Min humidity........34 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph with 
+                    gusts to around 17 mph in the afternoon. 
+Mixing height.......4900 ft AGL. 
+Transport winds.....Southwest 9 to 17 mph increasing to 20 to 24 
+                    mph late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........20  20  13  12  10  7   8   8   9   9   9   9   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............60  60  59  61  65  70  74  77  79  81  82  82  
+RH..............84  84  87  81  70  59  51  45  41  37  35  34  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   2   2   3   4   5   6   6   6   7   7   
+20 FT wind gust.7   7   7   8   10  11  12  14  14  16  17  17  
+Mix hgt (kft)...0.2 0.1 0.1 0.5 1.1 1.9 2.6 3.3 3.8 4.5 4.9 4.8 
+Transp wind dir.S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.10  10  9   9   10  13  15  17  20  22  24  24  
+
+$$
+Forecaster...Kerrie Simmons
+Requested by...Matthew Derstine
+Type of request...PRESCRIBED
+.TAG 2606573.2/MRX
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL cnfsouthzonefire@gmail.com
+

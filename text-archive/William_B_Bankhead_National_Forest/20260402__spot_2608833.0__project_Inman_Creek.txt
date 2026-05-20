@@ -1,0 +1,125 @@
+
+000
+FNUS74 KHUN 020725
+FWSHUN
+
+Spot Forecast for Inman Creek...USFS
+National Weather Service Huntsville AL
+225 AM CDT Thu Apr 2 2026
+
+Forecast is based on ignition time of 0900 CDT on April 02. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry weather is forecast today as mixing heights rise to over 6kft
+this afternoon and southerly transport winds increase to 
+20-25mph. Min RH values should remain above critical thresholds 
+today, falling to near 38% this afternoon.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Temperature.........66 at ignition...Max 84. 
+RH..................84 percent at ignition...Min 38 percent. 
+Wind (20 ft)........Winds south at 6 mph at ignition...otherwise 
+                    South winds 6 to 9 mph with gusts to around 22 
+                    mph. 
+CWR.................0 percent. 
+Chance of pcpn......10 percent. 
+Mixing height.......1700 ft AGL at ignition...otherwise 6200 ft 
+                    AGL. 
+Transport winds.....South 20 to 25 mph. 
+LVORI...............4. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........15  13  24  35  43  34  51  51  49  
+WEATHER COV.....                                    
+WEATHER TYPE....                                    
+TEMP............66  71  75  79  81  82  84  82  82  
+RH..............84  71  58  49  46  43  38  41  43  
+20 FT WIND DIR..170 170 180 180 180 180 180 180 180 
+20 FT WIND SPD..6   7   8   9   10  10  9   8   8   
+20 FT WIND GUST.20  21  22  22  22  22  21  21  20  
+MIX HGT (KFT)...1.7 2.3 3.3 4.3 5.4 5.9 6.2 6.1 5.1 
+TRANSP WIND DIR.180 180 190 190 190 190 190 190 180 
+TRANSP WIND SPD.20  22  24  25  25  25  24  23  22  
+DISPERSION IDX..9   10  97  130 155 167 109 104 129 
+LVORI...........6   1   1   1   1   1   1   1   1   
+CWR.............0   0   0   0   0   10  10  10  10  
+CHC OF PCPN (%).0   0   0   0   0   10  10  10  10  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Slight chance of 
+                    showers after 3 am. 
+Temperature.........Min 64. 
+RH..................Max 88 percent. 
+Wind (20 ft)........South winds 5 to 6 mph in the evening becoming 
+                    light. 
+CWR.................10 percent increasing to 20 percent after 3 am, 
+                    then decreasing to 10 percent early in the 
+                    morning. 
+Chance of pcpn......20 percent. 
+Mixing height.......500 ft AGL. 
+Transport winds.....South 12 to 21 mph. 
+LVORI...............3. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+SKY (%).........62  70  65  62  53  67  53  74  88  87  87  85  
+WEATHER COV.....                                        SCH     
+WEATHER TYPE....                                        RW      
+TEMP............82  77  74  72  71  70  69  68  68  67  66  65  
+RH..............43  52  57  64  66  68  73  76  76  78  85  88  
+20 FT WIND DIR..180 180 160 170 170 170 170 180 180 180 180 180 
+20 FT WIND SPD..6   5   5   5   5   5   3   3   3   3   2   2   
+20 FT WIND GUST.17  16  16  16  16  16  16  16  15  15  14  14  
+MIX HGT (KFT)...3.5 0.6 0.5 0.5 0.5 0.6 0.6 0.7 0.6 0.7 0.7 0.6 
+TRANSP WIND DIR.180 180 180 180 180 180 180 190 190 190 190 180 
+TRANSP WIND SPD.21  14  13  13  13  13  13  12  12  12  13  12  
+DISPERSION IDX..72  4   0   0   0   5   6   5   5   5   6   5   
+LVORI...........1   3   3   3   3   3   3   4   4   4   5   5   
+CWR.............10  10  10  10  10  10  10  10  10  10  20  10  
+CHC OF PCPN (%).10  10  10  10  10  10  10  10  10  10  20  10  
+
+.FRIDAY...
+
+Sky/weather.........Partly sunny (50-60 percent). 
+Temperature.........Max 82. 
+RH..................Min 43 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph in the 
+                    late morning and afternoon. 
+CWR.................10 percent. 
+Chance of pcpn......10 percent. 
+Mixing height.......4600 ft AGL. 
+Transport winds.....South 10 to 18 mph increasing to 16 to 20 mph 
+                    late in the morning. 
+LVORI...............3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........73  57  45  51  56  54  53  51  48  45  42  36  
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............65  64  66  68  71  74  77  79  81  82  82  81  
+RH..............85  86  85  79  71  62  54  48  44  43  43  45  
+20 FT WIND DIR..180 170 170 170 170 170 180 180 180 180 180 180 
+20 FT WIND SPD..2   2   3   5   6   7   7   7   7   7   6   5   
+20 FT WIND GUST.13  13  14  15  16  17  18  18  18  17  16  15  
+MIX HGT (KFT)...0.5 0.5 0.8 1.4 2.0 2.5 3.1 3.5 4.1 4.6 4.5 3.4 
+TRANSP WIND DIR.190 180 180 180 180 180 180 180 180 180 180 180 
+TRANSP WIND SPD.10  10  14  16  18  20  20  20  20  20  18  16  
+DISPERSION IDX..5   5   6   11  12  57  63  68  97  105 104 71  
+LVORI...........5   4   4   4   1   1   1   1   1   1   1   1   
+CWR.............10  10  10  10  10  10  10  0   0   0   0   0   
+CHC OF PCPN (%).10  10  10  10  10  10  10  0   0   0   0   0   
+
+$$
+Forecaster...Ravenscraft
+Requested by...Craig
+Type of request...PRESCRIBED
+.TAG 2608833.0/HUN
+.DELDT 04/02/26
+.FormatterVersion 2.0.0
+.EMAIL kerry.clark@usda.gov,gary.c.moore@usda.gov
+

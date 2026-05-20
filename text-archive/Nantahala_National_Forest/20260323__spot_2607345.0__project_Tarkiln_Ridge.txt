@@ -1,0 +1,86 @@
+
+000
+FNUS74 KMRX 231726
+FWSMRX
+
+Spot Forecast for Tarkiln Ridge...USFS
+National Weather Service Morristown TN
+126 PM EDT Mon Mar 23 2026
+
+Forecast is based on ignition time of 1300 EDT on March 23. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+Dry weather the rest of today and tonight, with clear skies 
+today. Relative humidity forecast the remainder of the day is a 
+little complicated, with arrival of a dry post frontal airmass 
+very important to degree of drying through today. Northerly winds 
+may also lead to downsloping effects and lower RH. Winds won't 
+decrease until tonight. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 59. 
+Min humidity........40 percent. 
+Wind (20 ft)........North winds 11 to 12 mph. 
+Mixing height.......1200 ft AGL. 
+Transport winds.....North around 20 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      1PM 2PM 3PM 4PM 5PM 
+Sky (%).........28  15  15  11  3   
+Weather cov.....                    
+Weather type....                    
+Tstm cov........                    
+Temp............56  58  57  57  56  
+RH..............62  53  51  47  40  
+20 FT wind dir..N   N   N   N   N   
+20 FT wind spd..12  11  11  11  12  
+20 FT wind gust.18  17  18  18  17  
+Mix hgt (kft)...0.9 1.2 1.1 1.2 1.2 
+Transp wind dir.N   N   N   N   N   
+Transp wind spd.20  20  20  20  20  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    mostly cloudy (45-55 percent) then becoming 
+                    partly cloudy (35-45 percent) then becoming 
+                    mostly cloudy (55-65 percent). 
+Min temperature.....Around 36. 
+Max humidity........59 percent. 
+Wind (20 ft)........North winds 8 to 14 mph shifting to the east 
+                    around 6 mph early in the morning. 
+Mixing height.......0 ft AGL. 
+Transport winds.....North 12 to 20 mph shifting to the northeast 8 
+                    to 10 mph after 3 am. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........7   22  23  29  42  36  48  51  36  47  62  55  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............54  52  49  46  44  43  41  41  40  40  39  38  
+RH..............40  41  44  47  51  49  53  48  48  48  50  52  
+20 FT wind dir..N   N   N   N   N   N   N   NE  NE  NE  NE  E   
+20 FT wind spd..13  14  14  13  12  11  11  9   8   7   6   6   
+20 FT wind gust.17  18  18  17  16  14  13  12  10  10  10  8   
+Mix hgt (kft)...0.9 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.N   N   N   N   NE  NE  NE  NE  NE  NE  NE  E   
+Transp wind spd.20  18  17  17  17  16  15  14  12  10  8   8   
+
+$$
+Forecaster...Nathan Wellington
+Requested by...Drew Ford
+Type of request...PRESCRIBED
+.TAG 2607345.0/MRX
+.DELDT 03/23/26
+.FormatterVersion 2.0.0
+.EMAIL drew.ford@usda.gov,chad.cook@usda.gov
+

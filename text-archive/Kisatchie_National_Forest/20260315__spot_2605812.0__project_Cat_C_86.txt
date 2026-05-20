@@ -1,0 +1,101 @@
+
+000
+FNUS74 KSHV 151023
+FWSSHV
+
+Spot Forecast for Cat C-86...USFS
+National Weather Service Shreveport LA
+523 AM CDT Sun Mar 15 2026
+
+Forecast is based on ignition time of 0600 CDT on March 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+...WIND ADVISORY IN EFFECT UNTIL 7 PM CDT MONDAY...
+
+.DISCUSSION...
+
+Not expecting morning fog today, but we will see low clouds push 
+into the area the south this morning. These clouds will likely 
+hang on today until a strong cold front sweeps through the region.
+Afternoon highs today will climb into the lower 80s ahead of the 
+front despite the cloud cover. Mixing heights are still expected 
+to climb above 4000 ft or 1.2 KM, with RH values ahead of the 
+front ranging from 50-55 percent. It will be windy today, with
+20 ft S/SW winds between 15-20 mph, along with gusts 35-40 mph. 
+As the front moves through during the afternoon and evening hours,
+strong to severe storms are expected to develop. RH values will 
+drop in wake of the front, as sustained NW winds near 20 mph, 
+with gusts up to 40 mph, bring in a much colder and drier airmass.
+In fact, overnight lows tonight may drop into the upper 30s. A
+Wind Advisory is in effect through 7 PM Monday evening. 
+
+Expect much cooler temperatures Monday, with highs ranging from 
+the upper 40s to lower 50s. Mixing heights should climb above 4000
+ft or above 1.2 KM, but gusty northwest winds between 15-20 mph, 
+with gusts up to 35 mph will remain. Afternoon RH values will 
+range from the upper teens to lower 20s as well. These low RH 
+values and windy conditions will create elevated fire conditions. 
+Freezing temperatures are expected Tuesday morning. 
+
+
+.TODAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........30  44  50  57  73  70  70  62  55  35  45  59  
+Weather cov.....                                        SCH SCH 
+Weather type....                                        RW  RW  
+Tstm cov........                                        SCH SCH 
+CWR.............0   0   0   0   0   0   0   0   0   0   20  20  
+Temp............59  59  61  64  68  71  75  79  80  81  82  80  
+RH..............96  100 97  93  87  76  66  58  54  53  51  54  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   SW  SW  
+20 FT wind mph..8   12  12  12  14  14  14  17  17  17  17  17  
+20 FT wind gust.25  25  28  30  31  35  37  37  38  39  39  38  
+Mix hgt (km)....0.2 0.2 0.2 0.6 0.9 1.1 1.3 1.5 1.5 1.5 1.7 1.5 
+Trans wind dir..S   S   S   S   S   S   S   S   S   SW  SW  SW  
+Trans spd (m/s).8   7   7   10  13  13  13  14  14  14  14  14  
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........76  70  82  73  71  57  64  65  54  45  62  64  
+Weather cov.....SCH LKY LKY LKY SCH SCH SCH                     
+Weather type....RW  RW  RW  RW  RW  RW  RW                      
+Tstm cov........SCH CHC CHC CHC SCH SCH SCH                     
+CWR.............20  70  70  70  20  20  20  10  10  10  10  10  
+Temp............78  76  69  65  62  57  54  51  49  46  44  43  
+RH..............56  62  70  70  67  67  64  59  58  60  58  55  
+20 FT wind dir..SW  W   W   W   N   N   N   N   N   N   N   N   
+20 FT wind mph..17  9   9   9   15  15  15  16  16  16  15  15  
+20 FT wind gust.38  37  36  36  36  37  38  38  38  39  39  38  
+Mix hgt (km)....1.0 0.5 0.4 0.5 0.3 0.4 0.6 0.8 1.0 0.9 0.9 0.9 
+Trans wind dir..SW  SW  W   NW  N   N   N   N   N   N   N   N   
+Trans spd (m/s).11  9   9   11  10  13  13  14  14  13  13  13  
+
+.MONDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........72  63  46  44  42  39  36  33  34  35  36  39  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............10  0   0   0   0   0   0   0   0   0   0   0   
+Temp............40  40  40  39  43  45  47  49  50  50  51  49  
+RH..............62  55  55  54  43  38  32  29  27  25  23  25  
+20 FT wind dir..N   NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind mph..15  14  14  14  15  15  15  15  15  15  13  13  
+20 FT wind gust.38  37  36  37  37  37  37  37  37  37  36  33  
+Mix hgt (km)....0.8 0.8 0.9 1.0 1.2 1.4 1.7 2.0 2.0 2.0 1.9 1.6 
+Trans wind dir..N   NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Trans spd (m/s).11  11  12  13  13  13  14  14  14  13  13  12  
+
+$$
+Forecaster...HILL
+Requested by...Robert Dintaman
+Type of request...PRESCRIBED
+.TAG 2605812.0/SHV
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL robert.dintaman@usda.gov
+

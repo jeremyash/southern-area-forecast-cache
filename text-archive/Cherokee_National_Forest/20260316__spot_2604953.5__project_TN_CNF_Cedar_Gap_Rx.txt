@@ -1,0 +1,122 @@
+
+000
+FNUS74 KMRX 161008
+FWSMRX
+
+Spot Forecast for TN-CNF Cedar Gap Rx...USFS
+National Weather Service Morristown TN
+608 AM EDT Mon Mar 16 2026
+
+Forecast is based on ignition time of 0730 EDT on March 16. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+...HIGH WIND WARNING IN EFFECT UNTIL 10 AM EDT THIS MORNING...
+
+.DISCUSSION...
+
+Rain will continue through early Monday morning. Strong 
+gusty non-thunderstorm winds are expected in the mountains and 
+foothills, with gusty non-thunderstorm winds in the valley through 
+Monday morning as well. Light snow will be possible on the back side 
+of the system Monday, especially over the higher elevations. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (75-85 percent). Rain showers and 
+                    slight chance of thunderstorms in the morning, 
+                    then rain showers likely and chance of snow 
+                    showers in the afternoon. 
+Max temperature.....Around 58. 
+Min humidity........74 percent. 
+Wind (20 ft)........Southwest winds 8 to 11 mph shifting to the 
+                    west 8 to 13 mph in the late morning and 
+                    afternoon. Gusts up to 31 mph. Gusty and 
+                    erratic winds expected near thunderstorms early 
+                    in the morning. 
+Mixing height.......3400 ft AGL. 
+Transport winds.....Southwest 16 to 24 mph increasing to west 30 to 
+                    32 mph. 
+Rainfall amount.....0.78 inches. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 6PM 7PM 
+Sky (%).........70  79  88  88  91  91  91  92  89  92  91  91  91  
+Weather cov.....DEF DEF LKY LKY LKY DEF LKY LKY LKY CHC CHC CHC CHC 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  SW  SW  SW  SW  
+Tstm cov........SCH SCH SCH SCH                                     
+Temp............53  53  53  50  47  45  42  39  37  35  33  31  30  
+RH..............93  77  89  96  100 100 100 96  96  92  89  85  81  
+20 FT wind dir..SW  SW  SW  W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..11  10  9   8   8   8   8   9   10  11  11  12  13  
+20 FT wind gust.25  24  22  19  18  18  18  18  19  20  20  22  25  
+Mix hgt (kft)...2.2 2.0 1.2 1.4 1.3 1.5 1.6 1.7 2.1 2.5 3.4 3.3 3.2 
+Transp wind dir.SW  SW  SW  W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.24  20  21  18  16  18  17  18  20  22  26  30  32  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (80-90 percent). Chance of snow 
+                    showers in the evening, then slight chance of 
+                    snow showers overnight. 
+Min temperature.....Around 17. 
+Max humidity........92 percent. 
+Wind (20 ft)........West winds 9 to 15 mph with gusts to around 29 
+                    mph. 
+Mixing height.......3100 ft AGL. 
+Transport winds.....West 26 to 35 mph decreasing to 18 to 24 mph 
+                    overnight. 
+Rainfall amount.....0.04 inches. 
+
+TIME (EDT)      8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 6AM 7AM 
+Sky (%).........84  89  86  87  89  90  89  86  89  81  79  80  
+Weather cov.....CHC CHC CHC CHC CHC CHC SCH                     
+Weather type....SW  SW  SW  SW  SW  SW  SW                      
+Tstm cov........                                                
+Temp............28  27  25  23  22  21  21  20  19  19  18  18  
+RH..............78  74  74  74  77  77  74  77  77  77  77  77  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..14  15  15  15  15  14  13  12  11  11  10  9   
+20 FT wind gust.26  29  29  29  29  28  26  25  24  22  22  20  
+Mix hgt (kft)...3.3 3.6 3.6 3.6 3.5 3.6 3.5 3.3 3.3 3.1 3.1 3.1 
+Transp wind dir.W   W   W   NW  NW  NW  W   W   W   W   W   W   
+Transp wind spd.32  33  33  35  30  29  28  26  24  23  20  18  
+
+.TUESDAY...
+
+Sky/weather.........Partly sunny (50-60 percent) then becoming 
+                    sunny (20-30 percent). 
+Max temperature.....Around 28. 
+Min humidity........46 percent. 
+Wind (20 ft)........West winds 7 to 11 mph with gusts to around 21 
+                    mph. 
+Mixing height.......5600 ft AGL. 
+Transport winds.....West 20 to 28 mph increasing to 25 to 31 mph 
+                    late in the afternoon, then becoming northwest 
+                    around 18 mph late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 6PM 7PM 
+Sky (%).........81  79  77  75  70  64  59  52  46  39  31  23  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............18  17  19  21  23  25  26  27  28  28  27  26  
+RH..............77  84  77  71  62  57  52  50  46  46  46  48  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..8   9   10  10  10  11  11  11  11  10  9   7   
+20 FT wind gust.19  21  21  20  20  21  21  21  20  19  18  16  
+Mix hgt (kft)...3.1 3.3 3.6 4.0 4.5 5.0 5.4 5.6 5.6 5.3 4.3 3.1 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   NW  
+Transp wind spd.20  23  24  24  25  26  28  30  31  30  25  18  
+
+$$
+Forecaster...Jeanie Mcdermott
+Requested by...De Graaf
+Type of request...PRESCRIBED
+.TAG 2604953.5/MRX
+.DELDT 03/16/26
+.FormatterVersion 2.0.0
+.EMAIL jordan.degraaf@usda.gov
+

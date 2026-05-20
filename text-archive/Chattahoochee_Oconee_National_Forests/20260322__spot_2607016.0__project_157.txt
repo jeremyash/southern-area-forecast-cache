@@ -1,0 +1,177 @@
+
+000
+FNUS72 KFFC 220851
+FWSFFC
+
+Spot Forecast for 157...USFS
+National Weather Service Peachtree City GA
+451 AM EDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 0800 EDT on March 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Good morning!
+
+Expecting dry and rain free conditions today with only patchy high
+level clouds. RH values currently at ~79-83% according to nearby 
+sites will drop to ~50% at 10-11 am before dropping down to the 
+30-35% range by the afternoon. Light southwesterly winds will 
+prevail through much of today with speeds from 3-7mph. By Monday
+afternoon winds will switch to the northwest with speeds at
+7-10mph behind a passing front. Gusts from 15-20mph are also
+expected Monday afternoon. Transport winds out of the west- 
+southwest are expected to reach 15-20 mph around 3 PM today before
+diminishing overnight and climbing to 15-20mph again on Monday 
+afternoon but from the northwest. Mixing heights are expected to 
+peak at 5000 feet the next two afternoons between around 2 PM and
+5 PM allowing for good dispersal. Fog is not likely Monday 
+morning with RH values expected to be at 80% or less and winds 
+will stay up overnight. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 86. 
+Min humidity........35 percent. 
+Dewpoint............54 increasing to 55 late in the morning. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph in 
+                    the afternoon. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....West 10 to 18 mph. 
+Smoke dispersal.....Poor (4100 knot-ft) early in the morning 
+                    increasing to excellent (80300 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................10 early in the morning increasing to 115 in 
+                    the afternoon. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   1   1   1   1   1   1   2   2   3   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   
+Temp............57  59  66  72  76  79  83  84  85  85  
+Dewpoint........52  54  56  57  57  57  56  55  55  54  
+RH..............85  84  69  60  53  46  40  37  35  35  
+20 FT wind dir..SW  W   W   W   W   SW  SW  SW  SW  SW  
+20 FT wind spd..1   2   2   3   5   5   5   5   5   5   
+20 FT wind gust.13  13  14  14  14  15  16  17  17  17  
+Mix hgt (kft)...0.4 0.6 1.2 1.7 2.7 3.9 4.7 5.0 5.2 5.2 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.10  10  13  13  13  15  16  17  17  18  
+LVORI...........5   5   3   3   1   1   1   1   1   1   
+ADI.............10  10  19  28  46  73  96  107 110 115 
+Vrate kt-ft/1K..4   5   13  19  31  50  66  75  77  80  
+Ventrate Cat....PR  PR  PR  PR  PR  FR  GD  GD  GD  GD  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (0-10 percent). 
+CWR.................0 percent. 
+Chance of thunder...1 percent. 
+Min temperature.....Around 61. 
+Max humidity........80 percent. 
+Dewpoint............54. 
+Wind (20 ft)........Southwest winds around 5 mph early in the 
+                    evening becoming light, then becoming west 
+                    around 5 mph early in the morning. 
+Mixing height.......500 ft AGL. 
+Transport winds.....West 13 to 18 mph. 
+Smoke dispersal.....Excellent (66300 knot-ft) early in the evening 
+                    decreasing to poor (5100 knot-ft) late in the 
+                    night. 
+LVORI...............3. 
+ADI.................97 early in the evening decreasing to 6 late in 
+                    the night. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........2   3   3   3   5   7   3   2   5   11  5   7   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............84  82  78  72  70  68  67  66  66  64  63  62  
+Dewpoint........54  55  54  54  54  54  54  54  53  53  55  55  
+RH..............35  39  45  53  57  62  62  64  65  68  73  76  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  W   W   
+20 FT wind spd..5   3   2   2   2   2   3   3   3   3   3   5   
+20 FT wind gust.17  16  14  15  15  15  16  16  16  16  17  16  
+Mix hgt (kft)...4.1 0.9 0.6 0.5 0.5 0.6 0.6 0.6 0.6 0.6 0.6 0.7 
+Transp wind dir.W   SW  SW  SW  SW  W   W   W   W   W   W   W   
+Transp wind spd.18  14  13  13  13  14  14  15  14  15  15  14  
+LVORI...........1   2   2   3   3   3   3   3   3   3   3   4   
+ADI.............97  6   6   6   6   6   6   7   6   7   7   6   
+Vrate kt-ft/1K..66  10  7   5   5   7   7   7   7   8   8   8   
+Ventrate Cat....GD  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  25  
+
+.MONDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+CWR.................0 percent. 
+Chance of thunder...3 percent. 
+Max temperature.....Around 84. 
+Min humidity........42 percent. 
+Dewpoint............56 increasing to 59 late in the morning. 
+Wind (20 ft)........West winds 5 to 6 mph. Gusts up to 21 mph late 
+                    in the morning. 
+Mixing height.......5500 ft AGL. 
+Transport winds.....West 13 to 21 mph. 
+Smoke dispersal.....Poor (7400 knot-ft) early in the morning 
+                    increasing to excellent (82000 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................6 early in the morning increasing to 117 in the 
+                    afternoon. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......20 decreasing to 15 early in the morning, then 
+                    decreasing to 12 early in the morning 
+                    decreasing to 8.0 late in the morning 
+                    decreasing to 5.0 decreasing to 3.0 late in the 
+                    morning increasing to 5.0 increasing to 6.0 
+                    late in the afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........16  17  15  9   18  26  33  39  45  47  49  51  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............62  62  62  64  68  73  76  80  82  83  84  83  
+Dewpoint........55  55  55  56  58  60  61  61  61  60  59  58  
+RH..............76  79  80  77  71  65  59  53  48  45  43  42  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   NW  NW  
+20 FT wind spd..5   5   5   5   6   6   6   6   6   6   6   5   
+20 FT wind gust.16  16  16  18  21  20  18  16  16  15  15  16  
+Mix hgt (kft)...0.7 0.7 0.7 1.7 2.4 2.8 3.5 4.1 4.6 5.2 5.5 5.3 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   NW  NW  
+Transp wind spd.13  13  13  17  20  21  21  20  20  18  17  15  
+LVORI...........4   4   4   3   3   1   1   1   1   1   1   1   
+ADI.............6   13  13  38  61  75  87  98  110 117 116 101 
+Vrate kt-ft/1K..8   8   7   26  41  50  62  71  76  82  82  71  
+Ventrate Cat....PR  PR  PR  PR  FR  FR  GD  GD  GD  GD  GD  GD  
+Ceiling (kft)...20  15  12  8.0 5.0 3.0 3.0 3.0 5.0 5.0 5.0 6.0 
+
+$$
+Forecaster...Hernandez
+Requested by...Tim Kolnik
+Type of request...PRESCRIBED
+.TAG 2607016.0/FFC
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL stephanie.israel@usda.gov,Michael.Davis1@usda.gov,timothy.kolnik@usda.gov
+

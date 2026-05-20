@@ -1,0 +1,114 @@
+
+000
+FNUS74 KMRX 281003
+FWSMRX
+
+Spot Forecast for TN_CNF_NZ_Brush Creek RX...USFS
+National Weather Service Morristown TN
+603 AM EDT Sat Mar 28 2026
+
+Forecast is based on ignition time of 0631 EDT on March 28. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+Winds will be from the north to northeasterly direction today at
+around 5 to 10 mph with gusts of 15 to 20 mph. Winds will decrease
+some through the afternoon. Very low relative humidity values are
+expected to be in the upper teens and lower 20s during this time.
+Overnight, winds will decrease with relative humidity values
+rising back close to 40 percent. Sunday will be similarly dry but
+with lighter winds from the south. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Max temperature.....Around 57. 
+Min humidity........20 percent. 
+Wind (20 ft)........Northeast winds 5 to 6 mph early in the morning 
+                    becoming around 5 mph, then becoming northeast 
+                    around 5 mph late in the afternoon becoming 
+                    light. 
+Mixing height.......4000 ft AGL. 
+Transport winds.....North 10 to 18 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........42  27  15  8   6   3   1   4   3   3   2   4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............35  34  33  34  37  41  45  49  51  54  55  55  
+RH..............72  69  66  61  52  43  35  29  27  23  20  19  
+20 FT wind dir..N   NE  E   NE  NE  NE  NE  NE  N   NE  NE  NE  
+20 FT wind spd..6   5   5   5   5   5   5   5   5   5   5   4   
+20 FT wind gust.14  14  14  14  13  12  13  12  12  11  10  10  
+Mix hgt (kft)...2.4 2.3 2.4 2.7 2.8 2.9 3.2 3.5 3.6 4.0 4.0 3.9 
+Transp wind dir.N   N   N   N   N   N   N   N   N   NE  NE  NE  
+Transp wind spd.18  17  15  17  16  15  15  15  15  15  14  10  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Min temperature.....Around 36. 
+Max humidity........44 percent. 
+Wind (20 ft)........Light winds becoming southeast around 5 mph 
+                    overnight. 
+Mixing height.......800 ft AGL. 
+Transport winds.....Northeast 6 to 9 mph shifting to the southeast 
+                    7 to 16 mph in the late evening and overnight, 
+                    then increasing to 17 to 18 mph after 3 am. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   7   6   8   7   7   6   8   9   10  7   18  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............56  53  50  46  44  41  42  41  41  39  39  38  
+RH..............20  24  27  32  35  39  38  37  37  40  40  42  
+20 FT wind dir..NE  NE  NE  E   E   E   SE  SE  SE  SE  SE  SE  
+20 FT wind spd..3   2   2   2   2   3   4   5   5   5   5   5   
+20 FT wind gust.10  7   6   7   8   10  10  11  12  12  12  12  
+Mix hgt (kft)...3.4 2.4 0.9 0.8 0.8 0.8 1.0 1.0 1.1 1.0 1.0 1.0 
+Transp wind dir.NE  NE  NE  E   E   E   SE  SE  SE  SE  SE  SE  
+Transp wind spd.9   8   6   6   7   9   13  16  16  18  17  17  
+
+.SUNDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Max temperature.....Around 69. 
+Min humidity........15 percent. 
+Wind (20 ft)........Southeast winds 5 to 6 mph becoming light. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....Southeast 14 to 20 mph shifting to the south 12 
+                    to 13 mph late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........18  11  6   3   5   6   9   13  16  23  29  36  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............37  38  38  40  45  52  58  62  66  68  68  68  
+RH..............44  44  44  42  35  27  21  17  15  15  15  17  
+20 FT wind dir..SE  SE  SE  SE  SE  SE  SE  S   S   S   S   S   
+20 FT wind spd..6   6   6   6   6   5   5   5   5   5   4   4   
+20 FT wind gust.13  13  13  13  13  13  12  12  11  11  10  10  
+Mix hgt (kft)...0.9 0.9 0.9 1.5 2.0 2.6 3.3 4.1 4.7 5.0 5.0 4.5 
+Transp wind dir.SE  SE  SE  SE  SE  SE  S   S   S   S   S   S   
+Transp wind spd.17  17  18  17  18  20  18  17  15  14  13  12  
+
+$$
+Forecaster...Brandon Wasilewski
+Requested by...Maxwell White
+Type of request...PRESCRIBED
+.TAG 2608119.1/MRX
+.DELDT 03/28/26
+.FormatterVersion 2.0.0
+.EMAIL maxwell.white@usda.gov
+

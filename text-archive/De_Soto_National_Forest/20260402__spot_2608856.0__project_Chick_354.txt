@@ -1,0 +1,114 @@
+
+000
+FNUS74 KJAN 021227
+FWSJAN
+
+Spot Forecast for Chick 354...USFS
+National Weather Service Jackson MS
+727 AM CDT Thu Apr 2 2026
+
+Forecast is based on ignition time of 1000 CDT on April 02. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...minimum RH should be near 45 percent; peak wind gust
+about 22 mph this afternoon; max LVORI 9; concerning fog: although
+it's not officially in the forecast here, vsbys could drop to 1 to 3
+miles in patchy fog, but dense fog is not expected as it appears
+the stratus deck expected in the early morning will be mostly off
+the ground in this southerly flow pattern. 
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent). 
+Temperature.........72 at ignition...Max 85. 
+RH..................81 percent at ignition...Min 48 percent. 
+Wind (20 ft)........Winds south at 8 mph at ignition...otherwise 
+                    South winds 7 to 8 mph with gusts to around 20 
+                    mph. 
+Mixing height (m)...762 meters AGL at ignition...otherwise 762-1494 
+                    meters AGL. 
+Transport winds.....South 16 to 18 mph. 
+Transport winds m/s.South 7 to 8 meters/second. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  PC  MC  MC  PC  PC  MC  MC  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Temp............72  75  78  81  83  83  84  83  
+RH..............81  71  64  56  53  51  48  49  
+20 ft wind dir..S   S   S   S   S   S   S   S   
+20 ft wind spd..7   7   8   8   8   8   8   8   
+20 ft wind gust.20  20  20  20  20  20  20  20  
+Mix hgt (km)....0.8 0.9 1.1 1.3 1.5 1.5 1.4 1.1 
+Transp wind dir.S   S   S   S   S   S   S   S   
+Transp wind spd.18  18  18  18  17  17  17  16  
+Trans wind dir..S   S   S   S   S   S   S   S   
+Trans spd (m/s).8   8   8   8   8   8   8   7   
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (75-85 percent). 
+Temperature.........Min 65. 
+RH..................Max 100 percent. 
+Wind (20 ft)........South winds 5 to 7 mph with gusts to around 20 
+                    mph in the evening and overnight becoming 
+                    light. 
+Mixing height (m)...122-518 meters AGL. 
+Transport winds.....South 8 to 15 mph. 
+Transport winds m/s.South 4 to 7 meters/second. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MC  MC  MC  MC  MC  MC  MC  MC  CDY CDY CDY CDY 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............82  79  74  72  70  70  68  68  67  67  67  66  
+RH..............51  58  71  76  84  84  93  93  97  97  97  100 
+20 ft wind dir..S   S   S   S   S   S   S   S   S   SE  SE  SE  
+20 ft wind spd..7   6   6   6   5   5   5   5   3   3   3   3   
+20 ft wind gust.20  18  18  18  17  16  16  15  14  13  12  12  
+Mix hgt (km)....0.5 0.2 0.2 0.1 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.15  13  14  14  14  13  12  12  12  12  8   8   
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).7   6   6   6   6   6   5   5   5   5   4   4   
+
+.FRIDAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent) then becoming 
+                    mostly sunny (40-50 percent). 
+Temperature.........Max 85. 
+RH..................Min 48 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 7 mph in 
+                    the late morning and afternoon. 
+Mixing height (m)...152-1707 meters AGL. 
+Transport winds.....South 8 to 16 mph. 
+Transport winds m/s.South 4 to 7 meters/second. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CDY CDY MC  MC  MC  MC  MC  MC  MC  PC  PC  PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............66  65  67  69  72  75  78  81  83  84  84  83  
+RH..............97  100 97  93  84  76  67  58  53  49  48  49  
+20 ft wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  S   S   S   
+20 ft wind spd..3   3   3   5   5   5   6   6   6   7   7   7   
+20 ft wind gust.12  12  13  14  15  16  16  16  16  17  17  17  
+Mix hgt (km)....0.2 0.2 0.4 0.5 0.7 0.9 1.2 1.3 1.6 1.7 1.7 1.3 
+Transp wind dir.SE  SE  S   SE  S   S   S   S   S   S   S   S   
+Transp wind spd.8   9   12  12  13  15  16  16  15  15  15  15  
+Trans wind dir..SE  SE  S   SE  S   S   S   S   S   S   S   S   
+Trans spd (m/s).4   4   5   5   6   7   7   7   7   7   7   7   
+
+$$
+Forecaster...Carpenter
+Requested by...Rodney Landrum
+Type of request...PRESCRIBED
+.TAG 2608856.0/JAN
+.DELDT 04/02/26
+.FormatterVersion 2.0.0
+.EMAIL rodney.landrum@usda.gov
+

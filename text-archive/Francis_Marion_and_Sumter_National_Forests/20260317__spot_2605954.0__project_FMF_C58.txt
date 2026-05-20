@@ -1,0 +1,110 @@
+
+000
+FNUS72 KCHS 170854
+FWSCHS
+
+Spot Forecast for FMF C58...USDA Forest Service
+National Weather Service Charleston SC
+454 AM EDT Tue Mar 17 2026
+
+Forecast is based on ignition time of 1000 EDT on March 17. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail across the area with relative 
+humidity values dropping to near 25 percent this afternoon. 
+Northwest winds will prevail with no sea breeze expected. Dry 
+weather and warming temperatures are then expected through the 
+rest of the week. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 53. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 5900 ft AGL. 
+Transport winds.....Northwest 12 to 16 mph. 
+Max ADI.............113. 
+Inversion End.......0900. 
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........17  27  23  27  31  24  32  18  
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............39  42  45  47  50  51  51  53  
+RH..............52  44  38  37  31  30  30  28  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..4   4   4   4   4   4   4   4   
+20 FT wind gust.11  11  13  11  11  13  13  13  
+Mix hgt (kft)...3.2 3.8 4.3 4.5 5.0 5.3 5.6 5.9 
+Transp wind dir.NW  NW  NW  NW  NW  W   W   W   
+Transp wind spd.12  12  14  14  14  16  16  16  
+LVORI...........1   1   1   1   1   1   1   1   
+ADI.............50  58  64  68  80  91  109 113 
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 30. 
+Max humidity........66 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........3. 
+Min ADI.............1. 
+Inversion Begin.....1900. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........13     17     5      4      5      12     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............51     47     41     39     35     33     
+RH..............30     40     50     54     59     58     
+20 ft wind......W 3    W 2    NW 1   NW 1   N 2    N 2    
+20 ft wind gust.11     7      5      5      7      9      
+Mix hgt (ft)....5000   700    800    700    700    800    
+Transport wind..W 10   W 10   NW 2   N 2    N 2    N 2    
+LVORI...........2      2      2      2      3      3      
+ADI.............1      1      1      1      1      1      
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny then becoming mostly cloudy. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 55. 
+Min humidity........34 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4600 ft AGL. 
+Transport winds.....Light winds becoming northeast 6 to 10 mph in 
+                    the late morning and early afternoon, then 
+                    becoming light late in the afternoon. 
+Max ADI.............31. 
+Inversion End.......1000. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........7         22        54        67        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............31        34        49        54        
+RH..............63        61        40        35        
+20 FT wind......N 3G11    NE 3G11   NE 3G9    NE 2G7    
+Mix hgt (ft)....800       1600      3200      4500      
+Transport wind..NE 4      NE 10     NE 6      N 4       
+LVORI...........3         2         1         2         
+ADI.............4         22        31        24        
+
+$$
+
+Forecaster...Holloway
+Requested by...kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2605954.0/CHS
+.DELDT 03/17/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+

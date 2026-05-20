@@ -1,0 +1,134 @@
+
+000
+FNUS74 KJAN 150805
+FWSJAN
+
+Spot Forecast for Chick 354...USFS
+National Weather Service Jackson MS
+305 AM CDT Sun Mar 15 2026
+
+Forecast is based on ignition time of 1000 CDT on March 15. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+...WIND ADVISORY IN EFFECT FROM 10 AM THIS MORNING TO NOON CDT
+MONDAY...
+
+.DISCUSSION...
+
+Min RH will be around 50%. Max wind gusts will be around 30 mph
+and will increase towards later afternoon and evening. Fog is not
+anticipated but rain and storms will move through overnight
+tonight, after midnight for the burn site. Winds will shift from
+the south to the northwest Monday morning at the front pushes
+through and will continue to be gusty Monday.
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent). 
+Temperature.........68 at ignition...Max 81. 
+RH..................87 percent at ignition...Min 51 percent. 
+Wind (20 ft)........Winds south at 10 mph at ignition...otherwise 
+                    South winds 8 to 12 mph with gusts to around 32 
+                    mph. 
+Mixing height (m)...884 meters AGL at ignition...otherwise 884-1737 
+                    meters AGL. 
+Transport winds.....South 20 to 28 mph. 
+Transport winds m/s.South 9 to 13 meters/second. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  PC  PC  MC  MC  MC  MC  MC  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Temp............68  72  75  78  79  79  81  79  
+RH..............87  73  66  58  56  56  51  56  
+20 ft wind dir..S   S   S   S   S   S   S   S   
+20 ft wind spd..8   8   8   9   10  10  12  12  
+20 ft wind gust.23  25  28  28  30  31  31  32  
+Mix hgt (km)....0.9 1.2 1.5 1.6 1.7 1.7 1.7 1.5 
+Transp wind dir.S   S   S   S   S   S   S   S   
+Transp wind spd.20  23  24  24  25  26  28  28  
+Trans wind dir..S   S   S   S   S   S   S   S   
+Trans spd (m/s).9   10  11  11  11  12  13  13  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (35-45 percent) then becoming 
+                    mostly cloudy (70-80 percent). Chance of rain 
+                    showers in the evening. Chance of thunderstorms 
+                    through the night. Rain showers overnight. 
+Temperature.........Min 41. 
+RH..................Max 87 percent. 
+Wind (20 ft)........South winds 10 to 12 mph shifting to the 
+                    northwest overnight. Gusts up to 36 mph. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    in the late evening and overnight. Gusty and 
+                    erratic winds expected near thunderstorms after 
+                    3 am. 
+Mixing height (m)...335-884 meters AGL. 
+Transport winds.....Southwest 20 to 23 mph shifting to the 
+                    northwest 20 to 28 mph overnight, then 
+                    increasing to 26 to 28 mph after 3 am. 
+Transport winds m/s.South around 10 meters/second shifting to the 
+                    southwest 9 to 10 meters/second in the evening, 
+                    then shifting to the northwest 9 to 13 
+                    meters/second overnight increasing to 12 to 13 
+                    meters/second after 3 am. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......PC  PC  PC  PC  MC  MC  MC  MC  CDY MC  MC  MC  
+Weather cov.....                CHC CHC LKY DEF DEF DEF DEF LKY 
+Weather type....                RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                CHC CHC CHC CHC CHC CHC SCH SCH 
+Temp............79  75  72  71  70  68  66  63  60  56  52  47  
+RH..............56  66  73  79  81  87  87  84  81  86  80  83  
+20 ft wind dir..S   S   S   S   SW  SW  W   NW  NW  NW  NW  NW  
+20 ft wind spd..12  12  12  12  10  10  10  10  12  12  12  12  
+20 ft wind gust.33  33  33  33  33  33  33  33  33  35  36  36  
+Mix hgt (km)....0.7 0.3 0.4 0.5 0.5 0.5 0.5 0.4 0.5 0.6 0.8 0.9 
+Transp wind dir.S   S   S   SW  SW  SW  W   NW  NW  NW  NW  NW  
+Transp wind spd.23  21  22  21  20  20  20  25  28  26  28  28  
+Trans wind dir..S   S   S   SW  SW  SW  W   NW  NW  NW  NW  NW  
+Trans spd (m/s).10  9   10  9   9   9   9   11  13  12  13  13  
+
+.MONDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). Chance of rain 
+                    showers and slight chance of thunderstorms in 
+                    the morning, then slight chance of sprinkles in 
+                    the afternoon. 
+Temperature.........Max 51. 
+RH..................Min 33 percent. 
+Wind (20 ft)........Northwest winds around 12 mph with gusts to 
+                    around 35 mph. Gusty and erratic winds expected 
+                    near thunderstorms early in the morning. 
+Mixing height (m)...914-2073 meters AGL. 
+Transport winds.....Northwest 23 to 30 mph. 
+Transport winds m/s.Northwest 10 to 13 meters/second. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  MC  PC  PC  PC  PC  MCR MCR MCR MCR 
+Weather cov.....CHC CHC SCH SCH SCH SCH SCH                     
+Weather type....RW  RW  RW  RW  RW  RW  RW                      
+Tstm cov........SCH                                             
+Temp............45  43  41  41  42  44  46  48  49  50  51  50  
+RH..............82  76  76  73  70  60  51  44  39  36  33  33  
+20 ft wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 ft wind spd..12  12  12  12  12  12  12  12  12  12  12  12  
+20 ft wind gust.35  35  35  35  33  33  32  32  32  32  31  31  
+Mix hgt (km)....0.9 0.9 0.9 1.1 1.2 1.4 1.6 1.7 2.0 2.1 2.0 1.6 
+Transp wind dir.NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.26  25  25  24  23  24  26  29  30  30  29  26  
+Trans wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Trans spd (m/s).12  11  11  11  10  11  12  13  13  13  13  12  
+
+$$
+Forecaster...NWS JAN
+Requested by...Rodney Landrum
+Type of request...PRESCRIBED
+.TAG 2605827.0/JAN
+.DELDT 03/15/26
+.FormatterVersion 2.0.0
+.EMAIL rodney.landrum@usda.gov
+

@@ -1,0 +1,100 @@
+
+000
+FNUS72 KRAH 180637
+FWSRAH
+
+Spot Forecast for Parsons Grove...USFS
+National Weather Service Raleigh NC
+237 AM EDT Wed Mar 18 2026
+
+Forecast is based on ignition time of 0900 EDT on March 18. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact this NWS office if you have questions or
+concerns with this forecast.
+
+.DISCUSSION...
+Relative humidity values will remain low today dropping into the 
+20s by this afternoon. Winds will be light and variable from the 
+northeast early this morning veering towards southerly by late 
+this afternoon.  
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Chance of pcpn......0 percent. 
+Temperature.........29 at ignition...Max 51. 
+RH..................53 percent at ignition...Min 23 percent. 
+Wind (20 ft)........Winds northeast at 2 mph at 
+                    ignition...otherwise Light winds. 
+Mixing height.......1900 ft AGL at ignition...otherwise 5300 ft 
+                    AGL. 
+Transport winds.....Light and variable from northeast this morning
+                    becoming southerly by 5 PM. 
+LVORI...............2. 
+ADI.................17 to 27. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........39  21  19  18  29  40  47  52  48  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............29  34  38  41  43  46  48  49  49  
+RH..............53  43  35  31  28  25  24  23  23  
+20 FT wind dir..NE  NE  E   E   E   E   SE  SE  S   
+20 FT wind spd..2   2   2   2   2   2   1   1   0   
+20 FT wind gust.7   7   7   7   6   5   3   3   3   
+Mix hgt (kft)...1.9 2.4 3.0 3.8 4.5 5.1 5.3 5.2 5.3 
+Transp wind dir.E   E   E   E   E   E   SE  SE  S   
+Transp wind spd.13  10  7   6   5   3   2   3   5   
+LVORI...........2   2   2   2   2   2   2   2   2   
+ADI.............27  27  26  26  26  18  18  18  17  
+Visibility (sm).10  10  10  10  10  10  10  10  10  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy to mostly cloudy
+                    (25-55 percent). 
+Chance of pcpn......0 percent. 
+Temperature.........Min 30. 
+RH..................Max 66 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......200 ft AGL. 
+Transport winds.....Southwest 2 to 3 mph shifting to the southeast 
+                    3 to 5 mph in the late evening and overnight. 
+LVORI...............3. 
+ADI.................1 to 17. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10 decreasing to 7 overnight. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........45  52  50  37  29  24  24  19  31  30  29  23  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............50  48  45  40  38  37  35  35  33  32  32  30  
+RH..............23  27  33  44  48  50  54  54  58  61  61  66  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..0   0   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.2   2   2   2   2   1   1   1   1   1   1   1   
+Mix hgt (kft)...4.4 2.4 0.4 0.3 0.3 0.3 0.3 0.3 0.3 0.2 0.2 0.2 
+Transp wind dir.SW  SW  SW  S   SE  E   SE  E   E   SE  SE  SE  
+Transp wind spd.3   2   3   3   3   5   3   3   3   3   3   5   
+LVORI...........2   2   2   2   2   2   2   2   3   3   3   3   
+ADI.............17  17  1   1   1   2   2   2   2   2   2   2   
+Visibility (sm).10  10  10  10  10  10  10  10  7   7   7   7   
+
+$$
+Forecaster...SWIGGETT
+Requested by...Bart Cagle
+Type of request...PRESCRIBED
+.TAG 2606143.0/RAH
+.DELDT 03/18/26
+.FormatterVersion 2.0.0
+.EMAIL andrew.cagle@usda.gov,jeffery.greene@usda.gov,robert.jefferson@usda.gov,sergio.olvera@usda.gov
+

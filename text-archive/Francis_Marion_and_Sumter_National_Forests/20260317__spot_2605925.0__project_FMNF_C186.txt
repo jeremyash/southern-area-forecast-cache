@@ -1,0 +1,112 @@
+
+000
+FNUS72 KCHS 170855
+FWSCHS
+
+Spot Forecast for FMNF C186...USDA Forest Service
+National Weather Service Charleston SC
+455 AM EDT Tue Mar 17 2026
+
+Forecast is based on ignition time of 0900 EDT on March 17. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail across the area with relative 
+humidity values dropping to near 25 percent this afternoon. 
+Northwest winds will prevail with no sea breeze expected. Dry 
+weather and warming temperatures are then expected through the 
+rest of the week. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 54. 
+Min humidity........28 percent. 
+Wind (20 ft)........Northwest winds around 5 mph late in the 
+                    morning becoming light, then becoming northwest 
+                    around 5 mph early in the afternoon becoming 
+                    light. 
+Mixing Height.......Max 5800 ft AGL. 
+Transport winds.....Northwest 12 to 16 mph. 
+Max ADI.............104. 
+Inversion End.......0900. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........11  9   20  14  24  33  33  31  18  
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............37  41  44  46  49  51  52  52  53  
+RH..............61  50  43  38  34  32  29  31  28  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..5   4   4   5   4   4   4   4   4   
+20 FT wind gust.13  13  13  13  11  11  11  13  11  
+Mix hgt (kft)...3.0 3.2 3.8 4.2 4.6 5.0 5.3 5.5 5.8 
+Transp wind dir.NW  NW  NW  NW  NW  NW  W   W   W   
+Transp wind spd.14  14  14  12  12  12  16  16  16  
+LVORI...........1   1   1   1   1   1   1   1   1   
+ADI.............51  55  58  63  69  73  84  101 104 
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 32. 
+Max humidity........66 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........3. 
+Min ADI.............1. 
+Inversion Begin.....1900. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........12     15     15     4      7      13     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............52     47     42     39     36     34     
+RH..............32     42     50     57     59     58     
+20 ft wind......NW 3   NW 2   NW 2   NW 2   N 2    N 3    
+20 ft wind gust.11     9      9      9      9      11     
+Mix hgt (ft)....4700   800    800    700    800    800    
+Transport wind..NW 10  NW 10  NW 4   NW 4   NW 4   N 4    
+LVORI...........2      2      2      3      3      3      
+ADI.............1      2      2      2      2      2      
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 56. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4600 ft AGL. 
+Transport winds.....Northeast 6 to 12 mph in the morning and early 
+                    afternoon becoming light. 
+Max ADI.............37. 
+Inversion End.......1000. 
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........11           36           56           
+Weather type....NONE         NONE         NONE         
+Tstm cov........                                       
+Chc of pcpn (%).0            0            0            
+Temp............33           41           55           
+RH..............61           55           38           
+20 FT wind......N 4G13       NE 4G13      NE 3G9       
+Mix hgt (ft)....800          2000         4600         
+Transport wind..N 6          NE 12        NE 8         
+LVORI...........3            2            1            
+ADI.............6            30           31           
+
+$$
+
+Forecaster...Holloway
+Requested by...M Leslie
+Type of request...PRESCRIBED
+.TAG 2605925.0/CHS
+.DELDT 03/17/26
+.FormatterVersion 2.0.0
+.EMAIL michael.c.leslie@usda.gov
+

@@ -1,0 +1,90 @@
+
+000
+FNUS74 KSHV 110719
+FWSSHV
+
+Spot Forecast for ANF Bullet Creek Rx Comp 27...USFS
+National Weather Service Shreveport LA
+219 AM CDT Sat Apr 11 2026
+
+Forecast is based on ignition time of 0700 CDT on April 11. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Very warm and mostly dry conditions are expected today, with min RH's 
+falling to around 50% this afternoon. Light southeast 20ft winds will 
+increase to 7-10 mph by mid/late morning through the afternoon, with 
+occasional gusts up to 15 mph. Any isolated showers this afternoon 
+should be confined just to the south and west of the prescribed burn 
+location, but an lingering pressure gradient will maintain 5-8 mph winds
+tonight, thus precluding any patchy fog threat. Stronger southerly 20 ft 
+winds are expected Sunday as the pressure gradient tightens further, with 
+12-15 mph sustained wind speeds expected, with higher gusts to 25 mph 
+possible. Widely scattered showers and thunderstorms will increase across 
+the area as well during the afternoon.  
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........59  67  49  33  27  21  14  14  14  25  19  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   10  10  10  10  10  
+Temp............63  66  69  71  74  77  79  80  82  82  81  
+RH..............95  93  87  81  69  62  57  52  49  49  50  
+20 FT wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind mph..2   3   5   6   6   8   8   8   9   9   8   
+20 FT wind gust.            10  13  14  15  15  16  16  16  
+Mix hgt (kft)...0.5 0.8 1.3 1.9 2.5 3.3 4.1 4.7 5.0 5.1 4.3 
+Mix hgt (km)....0.2 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.5 1.6 1.3 
+Transp wind dir.SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Transp wind spd.9   12  10  12  10  12  12  12  12  12  13  
+Trans wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Trans spd (m/s).4   5   4   5   4   5   5   5   5   5   6   
+
+.TONIGHT...
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........12     17     10     26     42     72     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............10     0      0      0      0      0      
+Temp............82     76     72     69     66     67     
+RH..............55     66     79     87     100    97     
+20 ft wind......SE 8   SE 6   S 6    S 6    S 6    S 6    
+20 ft wind gust.15     10     10     10     10     10     
+Mix hgt (ft)....3100   500    500    500    600    600    
+Mix hgt (m).....940    150    150    150    180    180    
+Transport wind..S 13   S 13   S 13   S 15   S 13   S 13   
+Tran wind (m/s).S 6    S 6    S 6    S 7    S 6    S 6    
+
+.SUNDAY...
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........65     77     75     75     79     87     
+Weather cov.....                            CHANCE CHANCE 
+Weather type....NONE   NONE   NONE   NONE   RNSHWR RNSHWR 
+Tstm cov........                            S CHC  CHANCE 
+CWR.............0      10     10     10     40     40     
+Temp............66     67     72     77     80     80     
+RH..............100    97     87     76     69     72     
+20 ft wind......SE 6   S 7    SE 9   S 11   S 12   S 12   
+20 ft wind gust.10     15     17     20     22     22     
+Mix hgt (ft)....700    1500   2700   3400   3800   3600   
+Mix hgt (m).....210    460    820    1040   1160   1100   
+Transport wind..S 13   S 16   S 18   S 21   S 21   S 20   
+Tran wind (m/s).S 6    S 7    S 8    S 9    S 9    S 9    
+
+$$
+
+Forecaster...HANSFORD
+Requested by...Kye Kartye
+Type of request...PRESCRIBED
+.TAG 2610022.0/SHV
+.DELDT 04/11/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.kartye@usda.gov,joey.silva@usda.gov
+

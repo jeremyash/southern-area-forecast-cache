@@ -1,0 +1,129 @@
+
+000
+FNUS73 KPAH 241036
+FWSPAH
+
+Spot Forecast for NWDA Rx...USFS
+National Weather Service Paducah KY
+536 AM CDT Tue Mar 24 2026
+
+Forecast is based on ignition time of 1000 CDT on March 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+High pressure over the Ohio Valley will maintain dry conditions
+today as temperatures rise into the 60s. Afternoon RH's will
+fall into the 15 to 20% range leading to elevated fire weather
+conditions. Winds will be rather light out of the east-southeast 
+though. This will lead to poor dispersion despite mixing above 
+3000 feet. Winds turn southwesterly and increase Wednesday and 
+Thursday leading to much better dispersion those days.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+CWR.................0 percent. 
+Temperature.........50 at ignition...Max 67. 
+RH..................42 percent at ignition...Min 18 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Winds east at 7 mph at ignition...otherwise 
+                    East winds 5 to 6 mph late in the morning 
+                    becoming light. 
+Mixing height.......1700 ft AGL at ignition...otherwise 3900 ft 
+                    AGL. 
+Transport winds.....East 7 to 13 mph. 
+Smoke dispersal.....Poor /18500 knot-ft/ at ignition. Max...poor 
+                    /27200 knot-ft/. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR MCR PC  PC  PC  PC  PC  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+CWR.............0   0   0   0   0   0   0   0   
+Temp............50  55  58  61  64  65  67  65  
+RH..............42  32  28  23  20  19  18  20  
+20 FT wind dir..E   E   E   E   E   E   E   E   
+20 FT wind spd..6   5   3   3   3   3   3   3   
+20 FT wind gust.10  10  9   9   9   8   7   7   
+Mix hgt (kft)...1.7 1.9 2.3 2.8 3.4 3.6 3.8 3.9 
+Transp wind dir.E   E   E   E   E   E   E   E   
+Transp wind spd.13  12  9   8   8   7   8   8   
+Vrate kt-ft/1K..19  19  19  20  24  21  27  27  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (55-65 percent) then becoming 
+                    partly cloudy (45-55 percent). 
+CWR.................0 percent. 
+Temperature.........Min 49. 
+RH..................Max 61 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Light winds. 
+Mixing height.......500 ft AGL. 
+Transport winds.....East 9 to 12 mph shifting to the south around 
+                    12 mph after 3 am. 
+Smoke dispersal.....Poor (4200 knot-ft). 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MC  MC  MC  MC  MC  MC  MC  MC  MC  PC  PC  PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............63  63  60  56  55  53  53  53  52  52  51  51  
+RH..............23  29  33  40  41  43  45  45  46  48  52  54  
+20 FT wind dir..E   E   E   E   E   E   E   SE  SE  SE  SE  SE  
+20 FT wind spd..3   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.7   6   6   6   7   6   7   7   7   7   7   7   
+Mix hgt (kft)...2.3 0.6 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.6 
+Transp wind dir.E   E   E   E   E   E   E   E   SE  SE  S   S   
+Transp wind spd.9   9   10  12  12  12  12  12  12  12  12  12  
+Vrate kt-ft/1K..19  5   4   5   5   5   5   5   5   5   5   6   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+CWR.................0 percent. 
+Temperature.........Max 75. 
+RH..................Min 38 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Light winds becoming southwest around 5 mph in 
+                    the afternoon, then becoming light late in the 
+                    afternoon. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....South 12 to 20 mph. 
+Smoke dispersal.....Poor (5500 knot-ft) early in the morning 
+                    increasing to good (82100 knot-ft) in the 
+                    afternoon. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky cover.......PCLDY  PCLDY  PCLDY  PCLDY  PCLDY  MCLEAR 
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............51     54     62     69     74     75     
+RH..............56     59     50     42     38     40     
+20 FT wind dir..S      S      S      S      SW     SW     
+20 FT wind spd..2      2      3      5      5      5      
+20 FT wind gust.7      8      10     13     13     13     
+Mix hgt (kft)...0.6    0.6    1.7    3.0    4.6    4.8    
+Transp wind dir.S      S      S      S      S      SW     
+Transp wind spd.12     14     16     17     17     20     
+Vrate kt-ft/1K..6      7      24     44     69     82     
+Ventrate Cat....POOR   POOR   POOR   FAIR   GOOD   GOOD   
+
+$$
+Forecaster...POULOS
+Requested by...Brian German
+Type of request...PRESCRIBED
+.TAG 2607476.0/PAH
+.DELDT 03/24/26
+.FormatterVersion 2.0.0
+.EMAIL brian.german@usda.gov
+

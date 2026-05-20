@@ -1,0 +1,115 @@
+
+000
+FNUS74 KMOB 081032
+FWSMOB
+
+Spot Forecast for Desoto BB 8301 Knob Creek...usfs
+National Weather Service Mobile AL
+532 AM CDT Wed Apr 8 2026
+
+Forecast is based on ignition time of 0800 CDT on April 08. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...HIGH DISPERSION INDEX AROUND 88 EXPECTED THIS AFTERNOON OVER THE
+BURN AREA...
+
+...HIGH DISPERSION INDEX AROUND 83 EXPECTED THIS AFTERNOON OVER THE
+BURN AREA...
+
+.DISCUSSION...Generally dry forecast through Thursday, although there 
+is a small chance for an isolated rain shower late this afternoon at 
+the burn site. Relative humidity will fall 33-34% for 2-3 hours this 
+afternoon and should remain above critical thresholds on Thursday. 
+Transport winds remain easterly to east-southeasterly both afternoons. 
+Occasional gusts up to 20 mph are possible this afternoon at the burn 
+site. Afternoon dispersion will be good both days.
+
+Fog potential and other remarks...Fog is not expected.
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 78. 
+Min humidity........34 percent. 
+Wind (20 ft)........East winds 6 to 9 mph. 
+Mixing height.......5900 ft AGL. 
+Transport winds.....East 13 to 18 mph. 
+
+TIME (CDT)      8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........49     53     64     62     67     
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Chc of pcpn (%).0      0      0      0      0      
+Temp............56     67     72     76     78     
+RH..............69     49     38     34     36     
+20 FT wind dir..E      E      E      E      E      
+20 FT wind spd..7      9      10     9      8      
+20 FT wind gust.15     18     20     20     17     
+Mix hgt (ft)....600    2200   3800   5200   5800   
+Transp wind dir.E      E      E      E      E      
+Transp wind spd.13     18     17     16     15     
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (45-55 percent) then becoming 
+                    mostly cloudy (50-60 percent) then becoming 
+                    partly cloudy (25-35 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 56. 
+Max humidity........72 percent. 
+Wind (20 ft)........East winds around 5 mph. 
+Mixing height.......500 ft AGL. 
+Transport winds.....East 8 to 14 mph. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........50     50     43     41     32     10     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............76     67     64     63     61     58     
+RH..............40     61     70     70     70     72     
+20 FT wind dir..E      ESE    E      E      E      ENE    
+20 FT wind spd..6      6      6      6      6      6      
+20 FT wind gust.14     12     14     15     14     14     
+Mix hgt (ft)....5800   600    600    700    600    600    
+Transp wind dir.E      ESE    E      E      E      E      
+Transp wind spd.13     8      12     14     13     10     
+
+.THURSDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 80. 
+Min humidity........39 percent. 
+Wind (20 ft)........East winds 5 to 7 mph. 
+Mixing height.......6100 ft AGL. 
+Transport winds.....East 10 to 16 mph. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........8      8      11     16     17     14     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............57     58     66     73     78     80     
+RH..............69     67     58     51     43     39     
+20 FT wind dir..ENE    E      E      E      E      E      
+20 FT wind spd..6      7      8      7      7      7      
+20 FT wind gust.15     16     17     16     16     14     
+Mix hgt (ft)....500    1300   2400   4200   5700   5800   
+Transp wind dir.E      E      E      E      E      E      
+Transp wind spd.12     15     16     14     13     12     
+
+$$
+Forecaster...7
+Requested by...Jody Rogers
+Type of request...PRESCRIBED
+.TAG 2609408.0/MOB
+.DELDT 04/08/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.rogers@usda.gov
+

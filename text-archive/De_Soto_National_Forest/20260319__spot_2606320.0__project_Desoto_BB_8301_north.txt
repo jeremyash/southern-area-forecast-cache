@@ -1,0 +1,147 @@
+
+000
+FNUS74 KMOB 191118
+FWSMOB
+
+Spot Forecast for Desoto BB 8301 north...usfs
+National Weather Service Mobile AL
+618 AM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 0800 CDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...HIGH DISPERSION INDEX AROUND 79 EXPECTED FRIDAY AFTERNOON OVER
+THE BURN AREA...
+
+.DISCUSSION...Dry weather conditions prevail across the burn area
+through Friday. Afternoon minimum relative humidity values drop to
+around 26% today and 38% Friday. Transport winds remain out of 
+the west today at 5 to 10 mph, shifting out of the southwest this 
+evening. Southwest transport winds persist into Friday. Peak wind
+gusts each afternoon will be around 10 mph. Afternoon dispersions
+are expected to be generally good today and good on Friday.
+
+Fog potential and other remarks...Fog is not expected at the burn
+site.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 75. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6100 ft AGL. 
+Mixing height (m)...91-1859 meters AGL. 
+Transport winds.....West 5 to 8 mph. 
+Transport winds m/s.West 2 to 4 meters/second. 
+Dispersion index....6 increasing to 56. 
+LVORI...............3. 
+Stability class.....2. 
+
+TIME (CDT)      8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........25     21     6      3      4      
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Chc of pcpn (%).0      0      0      0      0      
+Temp............45     59     67     73     74     
+RH..............79     51     33     26     27     
+20 FT wind dir..WSW    WSW    WSW    WSW    W      
+20 FT wind spd..1      1      3      5      5      
+20 FT wind gust.3      5      8      9      9      
+Mix hgt (ft)....300    1300   3600   5200   6100   
+Mix hgt (m).....90     400    1100   1580   1860   
+Transp wind dir.W      W      W      WNW    WNW    
+Transp wind spd.5      5      7      7      8      
+Trans wind dir..W      W      W      WNW    WNW    
+Trans spd (m/s).2      2      3      3      4      
+Dispersion idx..4      8      30     47     58     
+LVORI...........4      3      2      1      1      
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 49. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Mixing height (m)...91-1859 meters AGL. 
+Transport winds.....West around 6 mph shifting to the southwest 5 
+                    to 7 mph, then shifting to the west around 7 
+                    mph early in the morning. 
+Transport winds m/s.West around 3 meters/second shifting to the 
+                    southwest 2 to 3 meters/second, then shifting 
+                    to the west around 3 meters/second early in the 
+                    morning. 
+Dispersion index....48 decreasing to 3. 
+LVORI...............5. 
+Stability class.....4. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........6      3      6      2      0      0      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............72     65     57     55     52     50     
+RH..............34     50     69     77     86     96     
+20 FT wind dir..W      SSW    SSW    SW     SW     WSW    
+20 FT wind spd..2      2      2      2      2      2      
+20 FT wind gust.7      7      8      8      7      6      
+Mix hgt (ft)....6100   300    300    300    300    300    
+Mix hgt (m).....1860   90     90     90     90     90     
+Transp wind dir.WNW    SSW    SW     SW     WSW    WSW    
+Transp wind spd.6      7      7      7      7      7      
+Trans wind dir..WNW    SSW    SW     SW     WSW    WSW    
+Trans spd (m/s).3      3      3      3      3      3      
+Dispersion idx..48     3      3      3      3      3      
+LVORI...........1      2      3      4      6      8      
+
+.FRIDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 81. 
+Min humidity........38 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph late in 
+                    the afternoon. 
+Mixing height.......6300 ft AGL. 
+Mixing height (m)...91-1920 meters AGL. 
+Transport winds.....West 3 to 12 mph. 
+Transport winds m/s.West 1 to 5 meters/second. 
+Dispersion index....8 increasing to 79. 
+LVORI...............5. 
+Stability class.....2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........5      16     6      10     13     16     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............51     53     65     73     78     81     
+RH..............93     89     73     53     42     38     
+20 FT wind dir..WSW    WSW    WSW    SSW    SSW    SSW    
+20 FT wind spd..2      2      2      3      6      7      
+20 FT wind gust.5      5      7      9      12     13     
+Mix hgt (ft)....300    400    1300   3800   5900   6000   
+Mix hgt (m).....90     120    400    1160   1800   1830   
+Transp wind dir.W      W      W      WSW    SW     SW     
+Transp wind spd.7      5      3      5      7      10     
+Trans wind dir..W      W      W      WSW    SW     SW     
+Trans spd (m/s).3      2      1      2      3      4      
+Dispersion idx..3      4      5      24     52     71     
+LVORI...........6      6      3      2      1      1      
+
+$$
+Forecaster...25
+Requested by...Jody Rogers
+Type of request...PRESCRIBED
+.TAG 2606320.0/MOB
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.rogers@usda.gov
+

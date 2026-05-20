@@ -1,0 +1,152 @@
+
+000
+FNUS74 KMOB 181117
+FWSMOB
+
+Spot Forecast for Desoto Block 7310 North...USFS
+National Weather Service Mobile AL
+617 AM CDT Wed Mar 18 2026
+
+Forecast is based on ignition time of 0700 CDT on March 18. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...HIGH DISPERSION INDEX AROUND 81 EXPECTED THURSDAY OVER THE
+BURN AREA...
+
+.DISCUSSION...For the rest of today, the minimum relative
+humidity is near 20%, transport winds will be mostly easterly to
+west-southwesterly, and dispersion values will be fair. For
+Thursday, the minimum relative humidity is near 35%, transport
+winds will be mostly westerly to southwesterly, and dispersion
+values will be good. 
+
+Fog potential and other remarks...Fog is not expected.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (40-50 percent) then becoming 
+                    mostly cloudy (70-80 percent) then becoming 
+                    mostly sunny (25-35 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 65. 
+Min humidity........24 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3700 ft AGL. 
+Mixing height (m)...91-1128 meters AGL. 
+Transport winds.....East 3 to 6 mph shifting to the northeast 
+                    around 3 mph early in the afternoon, then 
+                    shifting to the southwest 3 to 6 mph late in 
+                    the afternoon. 
+Transport winds m/s.East around 1 meters/second increasing to 1 to 
+                    3 meters/second early in the morning, then 
+                    shifting to the northeast around 1 
+                    meters/second early in the afternoon shifting 
+                    to the southwest 1 to 3 meters/second late in 
+                    the afternoon. 
+Dispersion index....8 increasing to 24. 
+LVORI...............3. 
+Stability class.....2. 
+
+TIME (CDT)      7 AM   9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........33     57     74     77     43     18     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............36     44     54     60     64     65     
+RH..............61     45     31     26     24     27     
+20 FT wind dir..E      ESE    E      ESE    S      S      
+20 FT wind spd..1      2      2      2      2      2      
+20 FT wind gust.5      6      7      7      7      7      
+Mix hgt (ft)....300    700    1800   2700   3400   3700   
+Mix hgt (m).....90     210    550    820    1040   1130   
+Transp wind dir.E      E      ESE    NNE    WSW    WSW    
+Transp wind spd.3      5      5      3      3      5      
+Trans wind dir..E      E      ESE    NNE    WSW    WSW    
+Trans spd (m/s).1      2      2      1      1      2      
+Dispersion idx..4      5      11     12     17     23     
+LVORI...........3      2      2      2      2      2      
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 40. 
+Max humidity........93 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Mixing height (m)...91-1128 meters AGL. 
+Transport winds.....Southwest 5 to 8 mph. 
+Transport winds m/s.Southwest 2 to 4 meters/second. 
+Dispersion index....24 decreasing to 3. 
+LVORI...............4. 
+Stability class.....4. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........12     2      3      3      14     10     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............63     55     47     44     42     41     
+RH..............31     47     68     79     86     93     
+20 FT wind dir..S      S      SSW    SSW    SSW    SW     
+20 FT wind spd..2      2      2      2      1      1      
+20 FT wind gust.7      7      7      7      6      5      
+Mix hgt (ft)....3700   400    400    300    300    300    
+Mix hgt (m).....1130   120    120    90     90     90     
+Transp wind dir.SSW    S      SSW    SSW    SSW    SW     
+Transp wind spd.5      7      7      6      6      5      
+Trans wind dir..SSW    S      SSW    SSW    SSW    SW     
+Trans spd (m/s).2      3      3      3      3      2      
+Dispersion idx..24     3      3      3      3      2      
+LVORI...........2      2      3      4      4      5      
+
+.THURSDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 76. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph 
+                    late in the afternoon, then becoming light late 
+                    in the afternoon. 
+Mixing height.......7100 ft AGL. 
+Mixing height (m)...91-2164 meters AGL. 
+Transport winds.....West 5 to 9 mph. 
+Transport winds m/s.West 2 to 4 meters/second. 
+Dispersion index....6 increasing to 80. 
+LVORI...............3. 
+Stability class.....2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........12     2      3      2      8      20     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............41     45     59     68     73     76     
+RH..............89     82     62     47     40     37     
+20 FT wind dir..SW     SW     SW     WSW    WSW    WSW    
+20 FT wind spd..1      2      2      5      6      6      
+20 FT wind gust.5      5      8      10     12     12     
+Mix hgt (ft)....300    600    1700   4000   6300   7000   
+Mix hgt (m).....90     180    520    1220   1920   2130   
+Transp wind dir.SW     SW     WSW    W      W      W      
+Transp wind spd.5      6      9      9      8      9      
+Trans wind dir..SW     SW     WSW    W      W      W      
+Trans spd (m/s).2      3      4      4      4      4      
+Dispersion idx..2      5      19     42     66     81     
+LVORI...........5      4      2      1      1      1      
+
+$$
+Forecaster...13
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2605700.4/MOB
+.DELDT 03/18/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

@@ -1,0 +1,123 @@
+
+000
+FNUS71 KLWX 222004
+FWSLWX
+
+Spot Forecast for Black Line North River...USFS
+National Weather Service Baltimore MD/Washington DC
+404 PM EDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 0500 EDT on March 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+A strong cold front will pass through tonight bringing showers 
+and thunderstorms. Areas with the greatest likelihood to see a 
+wetting rain are along and north of US-50 towards the Mason- 
+Dixon.
+
+Expect gusty northwest winds Monday behind a strong cold front. 
+Gusts of 20 to 25 mph can be expected on the valley floor with 30 to 
+35 mph (locally higher) along the ridges. Cloudy skies in the morning,
+then clearing in the afternoon with highs in the low 60s. Minimum 
+relative humidity values will fall into the 25 to 30 percent range within 
+a well mixed environment.
+
+Cooler (near normal) temperatures will return Tuesday into 
+Wednesday. High pressure shifting offshore will result in southerly 
+return flow by late Tuesday afternoon. After a couple of dry days, 
+relative humidity will fall to 35 to 40 percent each afternoon, with 
+overnight recoveries around 70 percent Tuesday night/early Wednesday 
+morning. The chance for wetting rains is very low - less than 10 
+percent. Wind gusts could approach 20 mph Wednesday afternoon.
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent) then becoming 
+                    mostly cloudy (70-80 percent). Chance of rain 
+                    showers after 3 am. Slight chance of 
+                    thunderstorms after 3 am. Rain showers likely 
+                    early in the morning. 
+CWR.................10 percent increasing to 60 percent. 
+Chance of thunder...21 percent. 
+Temperature.........Min 45. 
+RH..................Max 100 percent. 
+Wind (20 ft)........West winds 12 to 16 mph shifting to the 
+                    northwest 13 to 15 mph after 3 am. Gusts up to 
+                    30 mph. Gusty and erratic winds expected near 
+                    thunderstorms after 3 am. 
+Mixing height.......300 ft AGL. 
+Transport winds.....West 15 to 23 mph shifting to the northwest 15 
+                    to 18 mph after 3 am. 
+Smoke dispersal.....Excellent (86400 knot-ft) early in the evening 
+                    decreasing to poor (3500 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........20        45        45        87        
+Weather cov.....                              CHANCE    
+Weather type....NONE      NONE      NONE      RNSHWR    
+Tstm cov........                              S CHC     
+CWR.............0         0         10        40        
+Chc of thdr (%).0         0         10        20        
+Temp............75        65        62        59        
+RH..............34        56        67        80        
+20 FT wind......SW 16G29  W 13G23   W 13G25   NW 15G29  
+Mix hgt (ft)....4300      300       300       500       
+Transport wind..W 23      W 15      W 16      W 16      
+Vrate kt-ft/1K..86        4         5         7         
+Ventrate Cat....GOOD      POOR      POOR      POOR      
+
+.MONDAY...
+
+Sky/weather.........Partly sunny (60-70 percent) then becoming 
+                    sunny (10-20 percent). Chance of rain showers 
+                    early in the morning. Slight chance of 
+                    thunderstorms early in the morning. Slight 
+                    chance of rain showers early in the morning. 
+CWR.................30 percent decreasing to 10 percent. 
+Chance of thunder...15 percent. 
+Temperature.........Max 53. 
+RH..................Min 44 percent. 
+Wind (20 ft)........Northwest winds 12 to 18 mph with gusts to 
+                    around 32 mph. Gusty and erratic winds expected 
+                    near thunderstorms early in the morning. 
+Mixing height.......3300 ft AGL. 
+Transport winds.....Northwest 15 to 23 mph increasing to 26 to 29 
+                    mph in the afternoon. 
+Smoke dispersal.....Poor (5200 knot-ft) early in the morning 
+                    increasing to excellent (82900 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........85  69  59  53  41  19  20  14  8   6   5   9   
+Weather cov.....CHC SCH                                         
+Weather type....RW  RW                                          
+Tstm cov........SCH SCH                                         
+CWR.............30  20  10  0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).20  20  0   0   0   0   0   0   0   0   0   0   
+Temp............51  50  50  46  48  49  51  50  49  49  48  46  
+RH..............100 100 96  100 86  71  59  52  48  46  44  45  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..12  13  13  15  16  17  18  18  15  15  15  15  
+20 FT wind gust.24  29  26  28  30  31  32  32  32  31  31  32  
+Mix hgt (kft)...0.4 0.7 0.8 1.7 1.9 2.2 2.3 2.4 2.5 2.8 3.1 3.3 
+Transp wind dir.NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.15  15  16  21  22  23  26  28  29  29  29  29  
+Vrate kt-ft/1K..5   10  12  31  37  43  53  57  64  71  78  83  
+Ventrate Cat....PR  PR  PR  PR  PR  FR  FR  FR  GD  GD  GD  GD  
+
+$$
+Forecaster...Rosa
+Requested by...Aaron Strobel
+Type of request...PRESCRIBED
+.TAG 2607006.1/LWX
+.DELDT 03/22/26
+.FormatterVersion 2.0.0
+.EMAIL ted.docev@usda.gov,colten.moor@usda.gov,james.colten@usda.gov,aaron.p.strobel@usda.gov
+

@@ -1,0 +1,114 @@
+
+000
+FNUS72 KCHS 121810
+FWSCHS
+
+Spot Forecast for FMF C180 planning...USDA Forest Service
+National Weather Service Charleston SC
+210 PM EDT Thu Mar 12 2026
+
+Forecast is based on ignition time of 1000 EDT on March 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will build across the region behind a cold front
+starting this afternoon, then will persist across the local area
+Friday into Saturday. Dispersion should be poor Friday night with
+light and/or calm surface winds expected within an hour after sunset.
+Fog is also a possibility after midnight and could persist 1-2 hours
+after sunrise Saturday morning. A weak/dry front could impact the burn
+site Saturday, but confidence remains low in timing/strength of this
+feature. RH values should drop into the upper 30s Saturday afternoon,
+though surface winds will generally be light and variable early morning,
+before becoming southeast 5-10 mph by around 2 PM Saturday afternoon.   
+
+.FRIDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 67. 
+Min humidity........52 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4200 ft AGL. 
+Transport winds.....Southeast around 12 mph shifting to the 
+                    southwest late in the afternoon. 
+Max ADI.............63. 
+Inversion End.......0900 
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   5   6   19  11  6   5   7   
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............50  56  60  63  65  66  67  67  
+RH..............66  59  55  54  54  52  52  52  
+20 FT wind dir..E   E   SE  SE  S   S   S   SW  
+20 FT wind spd..2   2   3   3   3   3   3   3   
+20 FT wind gust.9   9   9   9   9   9   9   9   
+Mix hgt (kft)...2.4 3.4 3.6 3.8 4.0 4.2 4.1 4.1 
+Transp wind dir.E   E   S   S   S   SW  SW  SW  
+Transp wind spd.12  12  12  12  12  12  12  12  
+LVORI...........3   1   1   1   1   1   1   1   
+ADI.............35  57  61  58  56  63  62  62  
+
+.FRIDAY NIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 46. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........10. 
+Min ADI.............1. 
+Inversion Begin.....1900
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........6      7      4      4      8      10     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............65     61     55     53     51     49     
+RH..............58     70     86     93     100    100    
+20 ft wind......SW 2   S 1    S 1    SW 1   SW 1   N 0    
+20 ft wind gust.7      5      5      5      5      4      
+Mix hgt (ft)....3000   400    400    400    400    300    
+Transport wind..SW 6   SW 6   S 2    SW 2   SW 2   W 2    
+LVORI...........3      4      6      8      10     10     
+ADI.............1      1      1      1      1      1      
+
+.SATURDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 75. 
+Min humidity........41 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 3800 ft AGL. 
+Transport winds.....Light winds becoming southeast around 6 mph 
+                    late in the afternoon. 
+Max ADI.............24. 
+Inversion End.......1000 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........16        21        7         2         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............47        53        69        75        
+RH..............100       89        55        41        
+20 FT wind......N 0G4     N 0G4     NE 1G5    SE 3G9    
+Mix hgt (ft)....200       800       2600      3300      
+Transport wind..N 0       N 2       E 4       SE 6      
+LVORI...........10        7         2         2         
+ADI.............1         1         11        23        
+
+$$
+Forecaster...Berry
+Requested by...kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2605523.0/CHS
+.DELDT 03/12/26
+.FormatterVersion 2.0.0
+.EMAIL benjamin.kuhn@usda.gov,kelly.wetzelwilson@usda.gov
+

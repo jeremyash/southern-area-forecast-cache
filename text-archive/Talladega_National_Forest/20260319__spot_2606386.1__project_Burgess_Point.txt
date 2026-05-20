@@ -1,0 +1,118 @@
+
+000
+FNUS74 KBMX 191900
+FWSBMX
+
+Spot Forecast for Burgess Point...usfs
+National Weather Service Birmingham AL
+200 PM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 1600 CDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Fair-weather conditions are expected in the vicinity of the burn
+site for today and Friday. MinRHs today will be near 30% during
+the afternoon and in the lower 30% range Friday afternoon. 
+Overnight RH recovery will place values in the 70% range. Light 
+southwest to west-southwest winds near 5 mph are expected today, 
+becoming calm near sunset, increasing to between 5-10 mph from the
+southwest on Friday.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 66. 
+Min humidity........30 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4800 ft AGL. 
+Transport winds.....West around 7 mph. 
+Dispersion index....39. 
+LVORI...............1. 
+
+TIME (CDT)      4 PM   
+Sky (%).........5      
+Weather cov.....       
+Weather type....NONE   
+Tstm cov........       
+CWR.............0      
+Temp............66     
+RH..............32     
+20 FT wind......W 3    
+20 FT wind gust.7      
+20 FT wind dir..270    
+Mix hgt (ft)....4800   
+Transport wind..W 7    
+Dispersion idx..42     
+LVORI...........1      
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 45. 
+Max humidity........76 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......0 ft AGL. 
+Transport winds.....West 2 to 6 mph shifting to the south 3 to 6 
+                    mph early in the evening. 
+Dispersion index....15 decreasing to 2. 
+LVORI...............3. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........4      3      2      2      2      2      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............64     57     51     49     48     47     
+RH..............35     51     63     66     71     71     
+20 FT wind......W 2    S 2    S 2    S 2    S 2    S 2    
+20 FT wind gust.4             4      4      4      5      
+20 FT wind dir..270    180    170    170    170    190    
+Mix hgt (ft)....2000   BLW100 BLW100 BLW100 BLW100 BLW100 
+Transport wind..W 6    S 3    S 5    S 6    S 5    S 6    
+Dispersion idx..15     0      0      3      2      3      
+LVORI...........1      2      4      4      3      3      
+
+.FRIDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 73. 
+Min humidity........34 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the afternoon. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....Southwest 5 to 9 mph shifting to the west 10 to 
+                    13 mph late in the afternoon. 
+Dispersion index....3 increasing to 61. 
+LVORI...............2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........2      2      3      5      8      5      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............46     48     61     68     72     73     
+RH..............73     74     53     42     37     34     
+20 FT wind......S 2    S 2    SW 3   SW 5   SW 5   SW 6   
+20 FT wind gust.6      6      7      10     10     11     
+20 FT wind dir..190    190    210    220    220    230    
+Mix hgt (ft)....BLW100 BLW100 1300   3300   4200   4300   
+Transport wind..S 6    SW 5   SW 7   SW 8   W 10   SW 13  
+Dispersion idx..3      2      3      34     55     64     
+LVORI...........3      3      2      2      1      1      
+
+$$
+Forecaster...Satterwhite
+Requested by...will holt
+Type of request...PRESCRIBED
+.TAG 2606386.1/BMX
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+

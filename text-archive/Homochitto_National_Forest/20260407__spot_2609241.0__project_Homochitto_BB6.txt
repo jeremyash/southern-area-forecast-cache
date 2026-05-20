@@ -1,0 +1,105 @@
+
+000
+FNUS74 KJAN 071019
+FWSJAN
+
+Spot Forecast for Homochitto BB6...USFS
+National Weather Service Jackson MS
+519 AM CDT Tue Apr 7 2026
+
+Forecast is based on ignition time of 0900 CDT on April 07. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Temperature.........58 at ignition...Max 77. 
+RH..................59 percent at ignition...Min 32 percent. 
+Wind (20 ft)........Winds east at 6 mph at ignition...otherwise 
+                    East winds 5 to 8 mph. Gusts up to 20 mph early 
+                    in the afternoon. 
+Mixing height (m)...305 meters AGL at ignition...otherwise 305-1737 
+                    meters AGL. 
+Transport winds.....East 14 to 20 mph. 
+Transport winds m/s.East 6 to 9 meters/second. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky cover.......MClear MClear MCldy  PCldy  PCldy  
+Weather cov.....                                   
+Weather type....None   None   None   None   None   
+Tstm cov........                                   
+Temp............58     68     73     76     75     
+RH..............59     45     37     33     34     
+20 ft wind dir..E      E      E      E      E      
+20 ft wind spd..5      7      8      7      6      
+20 ft wind gust.16     18     20     18     16     
+Mix hgt (m).....300    980    1460   1710   1680   
+Transport wind..E 14   E 20   E 18   E 16   E 17   
+Tran wind (m/s).E 6    E 9    E 8    E 7    E 8    
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (40-50 percent) then becoming 
+                    mostly cloudy (50-60 percent) then becoming 
+                    partly cloudy (35-45 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+Temperature.........Min 52. 
+RH..................Max 74 percent. 
+Wind (20 ft)........East winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height (m)...91-1067 meters AGL. 
+Transport winds.....East 9 to 13 mph. 
+Transport winds m/s.East 4 to 6 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......PCldy  PCldy  PCldy  MCldy  MCldy  MCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............73     64     59     57     56     54     
+RH..............38     55     64     67     69     71     
+20 ft wind dir..E      E      E      E      E      E      
+20 ft wind spd..5      3      3      3      3      3      
+20 ft wind gust.15     12     12     12     12     13     
+Mix hgt (m).....1070   120    90     120    120    120    
+Transport wind..E 13   E 10   E 9    E 12   E 13   E 12   
+Tran wind (m/s).E 6    E 4    E 4    E 5    E 6    E 5    
+
+.WEDNESDAY...
+
+Sky/weather.........Partly sunny (50-60 percent). 
+Temperature.........Max 77. 
+RH..................Min 36 percent. 
+Wind (20 ft)........Light winds becoming east 5 to 7 mph early in 
+                    the morning. 
+Mixing height (m)...122-1768 meters AGL. 
+Transport winds.....East 12 to 18 mph shifting to the southeast 13 
+                    to 22 mph in the late morning and afternoon. 
+Transport winds m/s.Southeast 5 to 10 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MCldy  MCldy  MCldy  MCldy  PCldy  PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............54     55     66     73     77     77     
+RH..............73     71     55     43     36     36     
+20 ft wind dir..E      E      E      SE     SE     E      
+20 ft wind spd..3      5      6      7      7      6      
+20 ft wind gust.14     15     17     17     17     16     
+Mix hgt (m).....120    210    580    1160   1650   1680   
+Transport wind..E 12   E 14   SE 22  SE 21  SE 17  SE 15  
+Tran wind (m/s).E 5    E 6    SE 10  SE 9   SE 8   SE 7   
+
+$$
+Forecaster...Byrd
+Requested by...Charles Bolt
+Type of request...PRESCRIBED
+.TAG 2609241.0/JAN
+.DELDT 04/07/26
+.FormatterVersion 2.0.0
+.EMAIL charles.bolt@usda.gov
+

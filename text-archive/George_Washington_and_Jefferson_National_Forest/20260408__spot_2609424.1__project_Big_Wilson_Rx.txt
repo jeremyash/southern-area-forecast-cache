@@ -1,0 +1,137 @@
+
+000
+FNUS71 KRNK 081002
+FWSRNK
+
+Spot Forecast for Big Wilson Rx...USFS
+National Weather Service Blacksburg VA
+602 AM EDT Wed Apr 8 2026
+
+Forecast is based on ignition time of 0650 EDT on April 08. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will cover the region through the end of the
+week, with the center passing overhead on Thursday. Mostly sunny
+aside from a few high clouds. The very dry
+airmass overhead will result in minimum RH's dropping into the low
+20% range this afternoon, then gradually rising a bit 
+by the end of the work week. East winds this morning turn southeasterly
+this afternoon. 20 ft winds may gust up to 15 mph. 
+
+
+.TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 52. 
+Min humidity........24 percent. 
+Wind (20 ft)........East winds 5 to 8 mph shifting to the southeast 
+                    in the afternoon. 
+Mixing height.......3300 ft AGL. 
+Mixing winds........East 7 to 12 mph shifting to the southeast 7 to 
+                    9 mph in the afternoon. 
+Smoke dispersal.....Poor (1900 knot-ft) early in the morning 
+                    increasing to fair (26600 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................4 to 38. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   0   0   0   0   0   0   0   0   0   2   0   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............32  31  31  35  38  41  43  45  47  48  50  51  
+RH..............49  51  52  41  36  32  30  28  28  26  26  24  
+20 FT wind dir..E   E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+20 FT wind spd..6   7   7   7   7   6   6   6   6   6   6   6   
+20 FT wind gust.11  10  13  11  12  11  10  11  12  12  12  12  
+Mix hgt (kft)...0.2 0.3 0.5 1.1 1.4 2.0 2.4 2.6 3.1 3.2 3.3 3.3 
+Mixng wind dir..E   E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+Mixng wind spd..9   10  12  10  8   7   7   7   7   7   8   9   
+LVORI...........2   2   2   2   2   2   2   2   2   2   1   1   
+ADI.............4   11  12  15  17  19  21  22  27  30  34  38  
+VRate mph-ft/1K.3   4   8   12  14  14  17  18  22  24  28  31  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 33. 
+Max humidity........65 percent. 
+Wind (20 ft)........South winds 5 to 6 mph. 
+Mixing height.......100 ft AGL. 
+Mixing winds........Southeast 7 to 13 mph shifting to the east 1 to 
+                    3 mph late in the evening. 
+Smoke dispersal.....Good (30000 knot-ft) early in the evening 
+                    decreasing to poor (100 knot-ft) late in the 
+                    night. 
+LVORI...............2. 
+ADI.................44 early in the evening decreasing to 1 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........3   3   4   13  15  22  22  25  38  31  36  34  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............49  48  46  44  43  41  40  39  38  37  36  35  
+RH..............25  27  31  33  34  37  38  40  46  50  52  55  
+20 FT wind dir..SE  SE  SE  SE  SE  SE  S   S   S   S   S   S   
+20 FT wind spd..6   6   6   6   6   5   5   5   5   5   5   5   
+20 FT wind gust.11  11  10  10  8   8   8   8   8   8   8   7   
+Mix hgt (kft)...3.1 2.1 0.4 0.3 0.3 0.2 0.2 0.1 0.1 0.1 0.1 0.1 
+Mixng wind dir..SE  SE  SE  SE  SE  SE  SE  E   E   E   E   E   
+Mixng wind spd..12  13  13  10  7   3   2   2   2   2   1   1   
+LVORI...........1   2   2   2   2   2   2   2   2   2   2   3   
+ADI.............44  6   6   5   3   2   1   1   1   1   1   1   
+VRate mph-ft/1K.35  27  6   4   2   1   1   1   1   0   0   0   
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 59. 
+Min humidity........30 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph in the 
+                    afternoon. 
+Mixing height.......2400 ft AGL. 
+Mixing winds........Southeast around 1 mph shifting to the south 2 
+                    to 7 mph early in the morning. 
+Smoke dispersal.....Poor (100 knot-ft) early in the morning 
+                    increasing to fair (13700 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................1 to 20. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........42  41  44  44  47  51  55  55  51  30  23  15  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............34  33  37  38  43  47  51  54  57  59  59  59  
+RH..............59  64  59  58  50  43  38  34  31  30  30  31  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..4   4   4   4   4   4   5   5   5   6   6   5   
+20 FT wind gust.7   6   7   7   7   8   8   10  11  12  12  12  
+Mix hgt (kft)...0.1 0.1 0.2 0.5 0.9 1.4 1.7 2.0 2.2 2.3 2.3 2.4 
+Mixng wind dir..E   SE  S   S   S   S   S   S   S   S   S   S   
+Mixng wind spd..1   1   2   3   5   6   7   7   7   7   6   6   
+LVORI...........3   3   3   3   2   2   2   2   2   2   2   2   
+ADI.............1   2   2   3   5   10  14  18  20  20  19  18  
+VRate mph-ft/1K.0   0   1   2   4   8   11  14  16  16  15  14  
+
+$$
+Forecaster...Perry
+Requested by...Adam Christie
+Type of request...PRESCRIBED
+.TAG 2609424.1/RNK
+.DELDT 04/08/26
+.FormatterVersion 2.0.0
+.EMAIL daniel.martin@tnc.org,adam.christie@usda.gov,eric.homan@TNC.org,brent.foltz@usda.gov
+

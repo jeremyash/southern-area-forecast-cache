@@ -1,0 +1,125 @@
+
+000
+FNUS74 KMRX 100909
+FWSMRX
+
+Spot Forecast for Rough Branch...USFS
+National Weather Service Morristown TN
+509 AM EDT Fri Apr 10 2026
+
+Forecast is based on ignition time of 0600 EDT on April 10. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+...LOW AFTERNOON RELATIVE HUMIDITY VALUES EXPECTED TO PERSIST
+THROUGH THE 7 DAY PERIOD...
+
+Desipite a cooler start to the morning, plenty of sunshine will 
+continue to promote above normal temperatures this afternoon. 
+Winds will remain light, though, afternoon relative humidities 
+will be low. 
+
+Dry weather is largely expected throughout the 7 Day forecast
+period, along with unseasonably warm temperatures. The hottest
+days are expected in the middle of next week, which could bring 
+near to possibly record breaking heat. Low afternoon relative 
+humidity is also expected each afternoon. While winds will be 
+light today and Saturday, it becomes increasingly likely that 
+breezy conditions will coincide with low afternoon RH Sunday into
+the new work week. 
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 73. 
+Min humidity........22 percent. 
+Wind (20 ft)........Southeast winds around 5 mph early in the 
+                    morning becoming light, then becoming northwest 
+                    around 5 mph late in the afternoon. 
+Mixing height.......4700 ft AGL. 
+Transport winds.....Southeast 6 to 10 mph shifting to the northwest 
+                    3 to 9 mph in the late morning and afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........4   6   3   1   1   2   1   3   5   4   5   11  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............49  47  46  49  57  62  66  69  71  72  72  73  
+RH..............40  47  49  46  34  31  29  27  27  25  24  22  
+20 FT wind dir..SE  S   S   S   S   NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..5   4   3   3   2   3   4   4   5   5   5   5   
+20 FT wind gust.10  8   8   6   4   5   6   6   7   7   7   7   
+Mix hgt (kft)...0.5 0.5 0.5 0.7 1.6 2.7 3.3 3.7 4.3 4.7 4.7 4.5 
+Transp wind dir.SE  SE  SE  SE  W   NW  NW  NW  W   W   W   W   
+Transp wind spd.10  9   8   6   3   5   7   7   7   8   8   9   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Min temperature.....Around 50. 
+Max humidity........56 percent. 
+Wind (20 ft)........Northwest winds around 5 mph early in the 
+                    evening becoming light, then becoming south 
+                    around 5 mph overnight becoming light becoming 
+                    south around 5 mph early in the morning. 
+Mixing height.......500 ft AGL. 
+Transport winds.....West 3 to 8 mph shifting to the southwest 3 to 
+                    7 mph in the late evening and overnight. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   13  14  19  13  13  10  13  20  22  15  12  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............71  70  67  61  58  57  55  54  53  53  52  52  
+RH..............24  24  28  36  40  42  43  45  45  45  48  50  
+20 FT wind dir..NW  NW  NW  SW  S   S   S   S   S   S   S   S   
+20 FT wind spd..5   4   3   2   2   4   4   5   4   4   4   5   
+20 FT wind gust.8   6   7   5   5   6   6   6   6   6   6   6   
+Mix hgt (kft)...3.8 0.9 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+Transp wind dir.W   NW  NW  SW  S   S   S   S   SW  S   SW  SW  
+Transp wind spd.8   5   5   3   3   5   6   7   6   6   6   6   
+
+.SATURDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 76. 
+Min humidity........33 percent. 
+Wind (20 ft)........South winds around 5 mph early in the morning 
+                    becoming light, then becoming northwest 5 to 6 
+                    mph early in the afternoon becoming light. 
+Mixing height.......5600 ft AGL. 
+Transport winds.....Southwest 5 to 6 mph shifting to the northwest 
+                    6 to 8 mph in the late morning and afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........10  20  21  18  17  15  13  12  10  9   9   8   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............52  51  52  56  61  67  71  73  74  76  76  76  
+RH..............50  56  56  51  46  40  38  35  37  33  34  34  
+20 FT wind dir..S   SE  S   SW  W   W   NW  NW  NW  NW  NW  NW  
+20 FT wind spd..5   4   4   3   2   3   5   6   6   5   4   4   
+20 FT wind gust.6   5   5   6   6   7   8   8   8   8   7   7   
+Mix hgt (kft)...0.5 0.4 0.4 1.1 1.9 2.8 3.7 4.5 5.1 5.5 5.6 5.2 
+Transp wind dir.SW  SW  SW  W   W   NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.6   6   5   6   7   8   8   8   8   7   7   6   
+
+$$
+Forecaster...Kyle Snowdin
+Requested by...Maxwell White
+Type of request...PRESCRIBED
+.TAG 2609146.3/MRX
+.DELDT 04/10/26
+.FormatterVersion 2.0.0
+.EMAIL maxwell.white@usda.gov
+

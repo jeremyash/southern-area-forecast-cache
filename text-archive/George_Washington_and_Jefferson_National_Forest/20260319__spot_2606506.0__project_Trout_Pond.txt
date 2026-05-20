@@ -1,0 +1,141 @@
+
+000
+FNUS71 KLWX 191318
+FWSLWX
+
+Spot Forecast for Trout Pond...USFS
+National Weather Service Baltimore MD/Washington DC
+918 AM EDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 0800 EDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+High pressure will remain nearby through Friday, leading to moderating
+temperatures. Skies will be mostly cloudy most of the day, but minimum
+RH will still drop to around 40-45 percent. Light west winds will be
+present through the day. RH will recover to 80 to 90 percent tonight.
+
+Southwest winds will increase Friday, with gusts to around 20 mph
+possible with deeper mixing heights. RH values will likely drop
+into the 40s. Clouds will increase throughout the day and some light
+rain showers may reach the area late in the afternoon. However, wetting
+rains are unlikely as this clipper pushes through Friday evening.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent). 
+CWR.................10 percent. 
+Chance of thunder...1 percent. 
+Max temperature.....Around 54. 
+Min humidity........41 percent. 
+Wind (20 ft)........Southwest winds 5 to 7 mph shifting to the west 
+                    around 6 mph late in the afternoon. 
+Mixing height.......3800 ft AGL. 
+Transport winds.....Southwest 9 to 13 mph shifting to the west 14 
+                    to 16 mph in the afternoon. 
+Smoke dispersal.....Poor (900 knot-ft) early in the morning 
+                    increasing to good (53600 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........69  68  66  65  69  73  78  74  71  67  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   10  10  10  10  10  
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   
+Temp............32  36  40  43  47  50  52  53  54  52  
+RH..............63  56  52  51  47  44  41  41  41  46  
+20 FT wind dir..SW  SW  SW  SW  W   W   W   W   W   W   
+20 FT wind spd..7   5   5   5   5   5   6   6   6   6   
+20 FT wind gust.16  15  14  14  13  13  13  13  13  12  
+Mix hgt (kft)...0.1 0.2 0.7 1.3 2.2 3.1 3.8 3.6 3.3 2.8 
+Transp wind dir.SW  S   SW  SW  W   W   W   W   W   W   
+Transp wind spd.9   9   10  9   13  14  16  16  16  16  
+Vrate kt-ft/1K..1   2   7   11  24  37  54  50  46  39  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  FR  FR  FR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (55-65 percent) then becoming 
+                    partly cloudy (35-45 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 37. 
+Max humidity........85 percent. 
+Wind (20 ft)........West winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height.......0 ft AGL. 
+Transport winds.....Northwest 7 to 14 mph decreasing to 5 to 8 mph 
+                    in the late evening and overnight, then 
+                    shifting to the southwest 5 to 7 mph after 3 
+                    am. 
+Smoke dispersal.....Fair (24700 knot-ft) early in the evening 
+                    decreasing to poor (100 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........64     58     53     48     43     36     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Chc of thdr (%).0      0      0      0      0      0      
+Temp............52     45     43     41     39     39     
+RH..............46     65     76     79     85     82     
+20 ft wind......W 5    NW 2   NW 2   NW 2   W 3    SW 5   
+20 ft wind gust.12     9      8      8      9      9      
+Mix hgt (ft)....2100   100    100    100    100    100    
+Transport wind..W 14   NW 8   N 8    NW 6   W 5    SW 7   
+Vrate kt-ft/1K..25     1      1      0      0      0      
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   POOR   
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent) then becoming 
+                    mostly cloudy (75-85 percent). Chance of rain 
+                    showers late in the afternoon. 
+CWR.................0 percent increasing to 30 percent late in the 
+                    afternoon. 
+Chance of thunder...3 percent. 
+Max temperature.....Around 64. 
+Min humidity........46 percent. 
+Wind (20 ft)........South winds 6 to 10 mph. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....Southwest 8 to 14 mph increasing to 18 to 23 
+                    mph in the afternoon. 
+Smoke dispersal.....Poor (300 knot-ft) early in the morning 
+                    increasing to excellent (98100 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........29        30        51        69        
+Weather cov.....                              CHANCE    
+Weather type....NONE      NONE      NONE      RNSHWR    
+Tstm cov........                                        
+CWR.............0         0         0         30        
+Chc of thdr (%).0         0         0         0         
+Temp............37        42        56        63        
+RH..............85        76        57        46        
+20 FT wind......S 6G12    S 6G13    S 8G16    SW 10G20  
+Mix hgt (ft)....100       200       2400      5000      
+Transport wind..S 9       S 12      SW 22     SW 20     
+Vrate kt-ft/1K..1         2         46        85        
+Ventrate Cat....POOR      POOR      FAIR      GOOD      
+
+$$
+Forecaster...Snyder
+Requested by...Collett
+Type of request...PRESCRIBED
+.TAG 2606506.0/LWX
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL aaron.p.strobel@usda.gov,jay.collett@usda.gov
+

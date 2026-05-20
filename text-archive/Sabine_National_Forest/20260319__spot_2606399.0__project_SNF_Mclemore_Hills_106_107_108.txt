@@ -1,0 +1,97 @@
+
+000
+FNUS74 KSHV 190935
+FWSSHV
+
+Spot Forecast for SNF Mclemore Hills 106 107 108...USFS
+National Weather Service Shreveport LA
+435 AM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 0700 CDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+No morning fog expected today. Expect sunny skies with a few mid 
+and high clouds streaming over the area. Morning temps will fall
+to near 50 degrees with highs around 80 degrees. Mixing heights 
+should climb above 4000 ft, with afternoon RH values near 40 
+percent. The 20 foot winds will be from the SSW near 7 mph with 
+gusts 12-18 mph . Due to the ongoing dry fuels and recent 
+wildfires, we will issue a Fire Danger Statement today.
+
+Dry conditions will remain through the end of the work week into
+the upcoming weekend, along with a continued warming trend. 
+Afternoon highs will approach 90 degrees by this weekend. 
+
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........23  25  13  7   2   3   3   3   3   4   4   
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............49  50  55  62  67  70  73  77  78  78  79  
+RH..............96  100 90  78  68  61  53  47  45  45  44  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind mph..1   2   2   3   5   6   6   6   6   5   3   
+20 FT wind gust.8   9   10  12  13  14  14  14  13  13  12  
+Mix hgt (kft)...0.4 0.4 0.9 1.9 2.4 2.8 3.2 3.6 4.0 4.3 3.7 
+Mix hgt (km)....0.1 0.1 0.3 0.6 0.7 0.9 1.0 1.1 1.2 1.3 1.1 
+Transp wind dir.SW  SW  SW  SW  W   W   W   W   W   SW  SW  
+Transp wind spd.10  9   14  17  15  13  12  10  9   9   8   
+Trans wind dir..SW  SW  SW  SW  W   W   W   W   W   SW  SW  
+Trans spd (m/s).4   4   6   8   7   6   5   4   4   4   4   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   4   5   2   4   3   5   8   12  15  9   9   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............77  74  70  64  62  61  60  59  59  58  57  56  
+RH..............48  55  61  73  81  84  87  90  90  93  96  100 
+20 FT wind dir..SW  S   S   S   S   S   S   S   SW  SW  SW  SW  
+20 FT wind mph..2   1   1   1   1   2   2   2   2   2   2   2   
+20 FT wind gust.9   7   8   8   9   10  10  12  12  10  10  10  
+Mix hgt (kft)...2.7 0.4 0.4 0.4 0.4 0.4 0.5 0.6 0.5 0.5 0.5 0.5 
+Mix hgt (km)....0.8 0.1 0.1 0.1 0.1 0.1 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.SW  SW  S   S   S   S   S   S   S   SW  SW  SW  
+Transp wind spd.9   8   8   10  12  13  14  14  13  13  13  12  
+Trans wind dir..SW  SW  S   S   S   S   S   S   S   SW  SW  SW  
+Trans spd (m/s).4   4   4   4   5   6   6   6   6   6   6   5   
+
+.FRIDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........6   14  24  16  7   5   4   2   3   3   4   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............56  56  56  61  67  70  74  77  79  80  82  80  
+RH..............100 96  96  87  75  71  62  56  52  49  46  51  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind mph..1   1   2   3   3   5   6   6   6   6   5   3   
+20 FT wind gust.10  9   10  12  13  14  14  14  14  14  14  13  
+Mix hgt (kft)...0.4 0.4 0.5 0.8 1.3 1.8 2.4 3.0 4.0 4.7 4.9 3.7 
+Mix hgt (km)....0.1 0.1 0.2 0.2 0.4 0.5 0.7 0.9 1.2 1.4 1.5 1.1 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.12  10  10  13  15  15  15  14  14  15  15  14  
+Trans wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Trans spd (m/s).5   4   4   6   7   7   7   6   6   7   7   6   
+
+$$
+Forecaster...HILL
+Requested by...Matt Laricos
+Type of request...PRESCRIBED
+.TAG 2606399.0/SHV
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL dustin.morris@usda.gov,benjamin.joppa@usda.gov,matthew.laricos@usda.gov
+

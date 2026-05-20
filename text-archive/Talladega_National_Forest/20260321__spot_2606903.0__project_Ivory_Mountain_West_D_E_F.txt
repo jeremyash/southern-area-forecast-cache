@@ -1,0 +1,127 @@
+
+000
+FNUS74 KBMX 210807
+FWSBMX
+
+Spot Forecast for Ivory Mountain West D E F...USFS
+National Weather Service Birmingham AL
+307 AM CDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 0600 CDT on March 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Dry conditions through the weekend. RH values will be 40 percent 
+today, with mid to upper 30s on Sunday. Dispersions will be 
+in the upper 60s to low 70s today with low 90s to 100s on Sunday. 
+
+.TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 80. 
+Min humidity........41 percent. 
+Wind (20 ft)........West winds 5 to 6 mph. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....West 13 to 17 mph. 
+Dispersion index....7 increasing to 38 late in the morning, then 
+                    increasing to 52 early in the afternoon 
+                    increasing to 68 late in the afternoon 
+                    decreasing to 60. 
+LVORI...............3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........32  27  15  8   11  12  20  24  18  11  9   6   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............56  54  56  60  66  70  74  76  78  79  79  79  
+RH..............77  83  80  75  65  57  51  48  45  44  42  41  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+20 FT wind dir..260 260 260 270 270 260 260 250 250 250 250 250 
+20 FT wind spd..5   5   5   5   5   6   6   6   6   6   6   6   
+20 FT wind gust.10  10  11  11  12  13  12  12  13  13  13  12  
+Mix hgt (kft)...0.4 0.4 0.6 1.2 1.4 1.9 2.6 3.4 3.9 4.3 4.4 3.6 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.14  13  13  17  15  14  13  13  14  14  14  14  
+Dispersion idx..6   6   6   8   7   34  42  52  64  70  72  60  
+LVORI...........4   4   4   4   2   2   2   1   1   1   1   1   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 56. 
+Max humidity........86 percent. 
+Wind (20 ft)........Southwest winds around 5 mph early in the 
+                    evening becoming light, then becoming west 
+                    around 5 mph after 3 am. 
+Mixing height.......400 ft AGL. 
+Transport winds.....West 12 to 13 mph. 
+Dispersion index....18 decreasing to 6. 
+LVORI...............3. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........6   5   7   6   5   4   3   2   3   3   4   5   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............78  74  71  67  66  65  63  62  62  61  59  58  
+RH..............42  50  55  63  63  65  70  72  72  75  80  83  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  W   W   W   W   W   
+20 FT wind dir..240 240 240 230 240 240 240 250 250 250 250 250 
+20 FT wind spd..5   2   3   3   3   3   3   3   3   3   5   5   
+20 FT wind gust.11  10  10  8   7   8   7   7   8   7   8   8   
+Mix hgt (kft)...1.1 0.4 0.4 0.5 0.5 0.5 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.W   W   SW  W   W   W   W   W   W   W   W   W   
+Transp wind spd.13  12  12  12  12  13  13  12  13  13  13  13  
+Dispersion idx..18  5   5   6   6   7   6   5   6   6   6   6   
+LVORI...........1   3   3   3   3   3   3   3   3   3   4   4   
+
+.SUNDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 82. 
+Min humidity........34 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph with 
+                    gusts to around 16 mph early in the morning. 
+Mixing height.......4600 ft AGL. 
+Transport winds.....Southwest 12 to 20 mph. 
+Dispersion index....6 increasing to 42 late in the morning, then 
+                    increasing to 56 early in the afternoon 
+                    increasing to 72 early in the afternoon 
+                    increasing to 88 increasing to 104 late in the 
+                    afternoon decreasing to 74. 
+LVORI...............3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........9   8   2   3   4   4   4   5   5   4   4   4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............58  57  59  64  69  73  77  79  81  82  82  80  
+RH..............83  86  80  70  63  55  47  42  38  35  34  36  
+20 FT wind dir..W   W   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind dir..250 250 240 240 230 230 220 220 220 230 230 230 
+20 FT wind spd..3   3   5   5   5   6   6   7   7   7   7   7   
+20 FT wind gust.8   10  10  10  12  13  14  14  16  16  16  14  
+Mix hgt (kft)...0.4 0.4 0.7 1.0 1.5 2.2 3.0 3.7 4.3 4.6 4.4 3.3 
+Transp wind dir.W   W   W   W   W   W   SW  SW  SW  SW  SW  SW  
+Transp wind spd.12  12  12  13  14  15  15  16  17  20  20  18  
+Dispersion idx..5   5   5   6   6   42  56  72  88  106 102 74  
+LVORI...........4   4   4   4   1   1   1   1   1   1   1   1   
+
+$$
+Forecaster...Aaron
+Requested by...Troy McFarland
+Type of request...PRESCRIBED
+.TAG 2606903.0/BMX
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+

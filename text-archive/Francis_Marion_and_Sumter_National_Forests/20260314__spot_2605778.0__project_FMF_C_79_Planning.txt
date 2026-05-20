@@ -1,0 +1,129 @@
+
+000
+FNUS72 KCHS 141859
+FWSCHS
+
+Spot Forecast for FMF C-79 Planning...USFS
+National Weather Service Charleston SC
+259 PM EDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 1000 EDT on March 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+High pressure will prevail today, then retreat north as a warm
+front lifts north and impacts the burn site late Sunday morning
+(around 10 AM). This risk for fog is low prior to the warm front
+impacting the burn site. Showers occur near the timing of the front with
+additional scattered showers and/or thunderstorms occurring Sunday
+afternoon. Southerly surface winds remain in the 5-10 mph range Sunday
+evening, then increase late Sunday night. Chances for precipitation also 
+increase Sunday night into Monday before a strong cold front shifts
+through the area late Monday morning into early afternoon. Strong
+thunderstorms are possible with the cold front. Even outside 
+thunderstorms, gusty southerly winds are likely Monday, generally
+upwards to 25-35 mph at times. Dry high pressure will then build
+into the area Monday night and Tuesday. 
+
+.SUNDAY...
+
+Sky/weather.........Partly sunny. Chance of showers through the 
+                    day. Chance of thunderstorms in the afternoon. 
+Chance of pcpn......50 percent. 
+Max temperature.....Around 75. 
+Min humidity........71 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 6 mph with 
+                    gusts to around 16 mph late in the morning. 
+                    Gusty and erratic winds expected near 
+                    thunderstorms late in the afternoon. 
+Mixing Height.......Max 3100 ft AGL. 
+Transport winds.....Southeast around 16 mph. 
+Max ADI.............56. 
+Inversion End.......0900
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........50  59  62  65  65  68  59  43  
+Weather type....RW  RW  RW  RW  RW  RW  RW      
+Tstm cov........                CHC CHC SCH     
+Chc of pcpn (%).20  30  30  50  50  40  20  10  
+Temp............65  70  72  73  74  75  75  75  
+RH..............90  81  79  76  74  71  74  74  
+20 FT wind dir..E   E   E   SE  SE  SE  SE  SE  
+20 FT wind spd..4   5   6   6   6   6   5   5   
+20 FT wind gust.13  13  16  16  16  16  14  13  
+Mix hgt (kft)...2.1 3.1 3.1 2.8 2.7 2.7 2.7 2.7 
+Transp wind dir.E   E   SE  SE  SE  SE  SE  SE  
+Transp wind spd.16  16  16  16  16  16  16  16  
+LVORI...........4   3   3   3   3   3   3   3   
+ADI.............37  56  42  40  36  49  55  53  
+
+.SUNDAY NIGHT...
+
+Sky/weather.........Partly cloudy then becoming mostly cloudy. 
+                    Slight chance of showers and thunderstorms 
+                    early in the evening. Showers likely and chance 
+                    of thunderstorms overnight. 
+Chance of pcpn......60 percent. 
+Min temperature.....Around 63. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 7 mph with 
+                    gusts to around 18 mph overnight. Gusty and 
+                    erratic winds expected near thunderstorms early 
+                    in the evening. 
+Max LVORI...........8. 
+Min ADI.............1. 
+Inversion Begin.....1900 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........47     69     68     69     83     86     
+Weather type....NONE   RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........       S CHC  S CHC  S CHC  CHANCE CHANCE 
+Chc of pcpn (%).10     20     20     20     60     60     
+Temp............73     70     66     66     66     64     
+RH..............79     87     97     97     97     100    
+20 ft wind......SE 4   SE 2   S 4    S 4    S 5    S 7    
+20 ft wind gust.13     9      11     13     16     18     
+Mix hgt (ft)....2100   600    1000   1000   1300   1600   
+Transport wind..SE 6   SE 6   S 6    S 14   S 14   S 14   
+LVORI...........4      6      7      6      6      5      
+ADI.............1      2      5      8      9      17     
+
+.MONDAY...
+
+Sky/weather.........Cloudy. Showers and chance of thunderstorms. 
+Chance of pcpn......90 percent. 
+Max temperature.....Around 76. 
+Min humidity........69 percent. 
+Wind (20 ft)........South winds 7 to 12 mph with gusts to around 25 
+                    mph. Gusty and erratic winds expected near 
+                    thunderstorms. Gusty and erratic winds expected 
+                    near thunderstorms late in the afternoon. 
+Mixing Height.......Max 3700 ft AGL. 
+Transport winds.....South 18 to 24 mph shifting to the southwest 26 
+                    to 32 mph in the afternoon. 
+Max ADI.............85. 
+Inversion End.......0500 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........90        91        90        96        
+Weather type....RNSHWR    RNSHWR    RNSHWR    RNSHWR    
+Tstm cov........CHANCE    CHANCE    CHANCE    CHANCE    
+Chc of pcpn (%).60        90        90        90        
+Temp............63        67        74        73        
+RH..............100       93        82        76        
+20 FT wind......S 7G18    S 8G22    S 11G25   SW 12G25  
+Mix hgt (ft)....1700      2200      3400      3400      
+Transport wind..S 18      S 24      SW 32     SW 26     
+LVORI...........4         4         3         3         
+ADI.............28        42        76        74        
+
+$$
+Forecaster...Berry
+Requested by...Kelly Wetzel
+Type of request...PRESCRIBED
+.TAG 2605778.0/CHS
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov,michael.c.leslie@usda.gov
+

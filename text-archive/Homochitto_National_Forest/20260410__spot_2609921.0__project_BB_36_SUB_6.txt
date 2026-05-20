@@ -1,0 +1,111 @@
+
+000
+FNUS74 KLIX 100838
+FWSLIX
+
+Spot Forecast for BB 36 SUB 6...USFS
+National Weather Service New Orleans LA
+338 AM CDT Fri Apr 10 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+Easterly flow continues across the region and should remain in
+place going into the weekend, which should continue to bring more
+moisture into the region. As moisture values increase, critical
+fire weather concerns will be limited. Winds will start to relax
+a bit by this weekend as the strong surface high over the
+northwest Atlantic begins to lose its grip on the local area.
+
+
+Fog is not currently anticipated. 
+
+LVORI values increase tonight to 8 to 10, especially closer to sunrise
+on Saturday morning. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (45-55 percent). 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 83. 
+Min humidity........46 percent. 
+Wind (20 ft)........Southeast winds 5 to 6 mph. 
+Transport winds.....Southeast 7 to 14 mph. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........32     38     60     55     50     
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Chc of pcpn (%).0      0      0      0      10     
+Temp............66     75     81     83     81     
+RH..............78     64     51     46     47     
+20 FT wind dir..ESE    SE     SE     ESE    ESE    
+20 FT wind spd..5      6      6      6      6      
+20 FT wind gust.10     13     12     12     12     
+Transp wind dir.SE     SSE    SE     ESE    SE     
+Transp wind spd.10     12     9      7      8      
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (55-65 percent) then becoming 
+                    mostly clear (15-25 percent). 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 57. 
+Max humidity........100 percent. 
+Wind (20 ft)........Southeast winds 5 to 6 mph early in the evening 
+                    becoming light. 
+Transport winds.....Southeast 5 to 9 mph. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........61     28     27     10     2      25     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).10     0      0      0      0      0      
+Temp............80     71     67     64     62     59     
+RH..............51     71     81     90     97     100    
+20 FT wind dir..ESE    SE     SSE    SSE    SE     ESE    
+20 FT wind spd..6      3      3      2      2      2      
+20 FT wind gust.12     9      8      7      6      6      
+Transp wind dir.ESE    SE     S      S      SSE    SE     
+Transp wind spd.9      7      9      7      6      6      
+
+.SATURDAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 86. 
+Min humidity........35 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 6 mph in 
+                    the late morning and afternoon. 
+Transport winds.....Southeast 6 to 9 mph. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........38     20     11     9      6      3      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............57     60     74     82     85     86     
+RH..............100    93     64     44     36     35     
+20 FT wind dir..E      E      ESE    ESE    SE     SE     
+20 FT wind spd..2      2      5      7      7      7      
+20 FT wind gust.7      9      12     13     14     14     
+Transp wind dir.ESE    E      ESE    ESE    ESE    SE     
+Transp wind spd.6      7      9      9      9      9      
+
+$$
+Forecaster...NWS NEW ORLEANS
+Requested by...RONALD.REED@USDA.GOV
+Type of request...PRESCRIBED
+.TAG 2609921.0/LIX
+.DELDT 04/10/26
+.FormatterVersion 2.0.0
+.EMAIL RONDO.R.REED@USDA.GOV,CHARLES.BOLT@USDA.GOV,RONALD.REED@USDA.GOV
+

@@ -1,0 +1,106 @@
+
+000
+FNUS74 KJAN 141813
+FWSJAN
+
+Spot Forecast for Chickasawhay CPT 354 RX...USFS
+National Weather Service Jackson MS
+113 PM CDT Tue Apr 14 2026
+
+Forecast is based on ignition time of 1400 CDT on April 14. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...Fog development across the burn area is expected 
+Wednesday morning, with some dense fog possible.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Temperature.........83 at ignition...Max 86. 
+RH..................41 percent at ignition...Min 36 percent. 
+Wind (20 ft)........Winds south at 7 mph at ignition...otherwise 
+                    South winds around 6 mph. 
+Mixing height (m)...1737 meters AGL at ignition...otherwise 
+                    1585-1737 meters AGL. 
+Transport winds.....South around 12 mph. 
+Transport winds m/s.South around 5 meters/second. 
+
+TIME (CDT)      2 PM   4 PM   
+Sky cover.......MClear Clear  
+Weather cov.....              
+Weather type....None   None   
+Tstm cov........              
+Temp............83     85     
+RH..............41     35     
+20 ft wind dir..S      S      
+20 ft wind spd..6      6      
+20 ft wind gust.14     15     
+Mix hgt (m).....1580   1740   
+Transport wind..S 12   S 12   
+Tran wind (m/s).S 5    S 5    
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent) then becoming 
+                    mostly cloudy (45-55 percent). Patchy fog early 
+                    in the morning. 
+Temperature.........Min 59. 
+RH..................Max 100 percent. 
+Wind (20 ft)........South winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height (m)...122-1067 meters AGL. 
+Transport winds.....South 9 to 14 mph. 
+Transport winds m/s.South 4 to 6 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......Clear  Clear  MClear MClear PCldy  PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............82     74     68     64     62     61     
+RH..............35     52     70     87     97     100    
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..5      5      3      3      2      2      
+20 ft wind gust.15     15     14     12     10     9      
+Mix hgt (m).....1070   120    120    120    120    120    
+Transport wind..S 14   S 13   S 13   S 12   S 10   S 9    
+Tran wind (m/s).S 6    S 6    S 6    S 5    S 4    S 4    
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent) then becoming 
+                    mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (30-40 percent). Areas of fog 
+                    early in the morning. 
+Temperature.........Max 85. 
+RH..................Min 39 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 7 mph in the 
+                    late morning and afternoon. 
+Mixing height (m)...122-2073 meters AGL. 
+Transport winds.....South 7 to 14 mph. 
+Transport winds m/s.South 3 to 6 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......PCldy  PCldy  PCldy  PCldy  PCldy  MClear 
+Weather cov.....Areas                                     
+Weather type....Fog    None   None   None   None   None   
+Tstm cov........                                          
+Temp............61     62     73     80     84     85     
+RH..............100    100    73     52     41     39     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..2      3      5      6      6      7      
+20 ft wind gust.9      9      13     15     17     18     
+Mix hgt (m).....120    340    1130   1620   1950   1950   
+Transport wind..S 9    S 9    S 10   S 12   S 14   S 14   
+Tran wind (m/s).S 4    S 4    S 4    S 5    S 6    S 6    
+
+$$
+Forecaster...Campbell
+Requested by...Mississippi Interagency
+Type of request...PRESCRIBED
+.TAG 2610322.0/JAN
+.DELDT 04/14/26
+.FormatterVersion 2.0.0
+.EMAIL rodney.landrum@usda.gov
+

@@ -1,0 +1,158 @@
+
+000
+FNUS74 KMOB 301300
+FWSMOB
+
+Spot Forecast for Chick 373...USFS
+National Weather Service Mobile AL
+800 AM CDT Mon Mar 30 2026
+
+Forecast is based on ignition time of 1000 CDT on March 30. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...There is a 40% chance of rain today, and a 40% chance
+of rain tonight, and a 70% chance of rain Tuesday. For today, the
+minimum relative humidity is near 55%, transport winds will be
+mostly southerly, and dispersion values will be generally good. For
+Tuesday, the minimum relative humidity is near 55%, transport winds
+will be mostly southerly, and dispersion values will be generally
+good. 
+
+Fog potential and other remarks...Fog is possible late tonight into
+early Tuesday morning. The maximum LVORI tonight is 9.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (60-70 percent). Slight chance of 
+                    thunderstorms early in the afternoon. Chance of 
+                    showers in the afternoon. Chance of 
+                    thunderstorms late in the afternoon. 
+Chance of pcpn......40 percent. 
+Max temperature.....Around 81. 
+Min humidity........56 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms early in the afternoon. 
+                    Gusty and erratic winds expected near 
+                    thunderstorms late in the afternoon. 
+Mixing height.......3800 ft AGL. 
+Mixing height (m)...671-1158 meters AGL. 
+Transport winds.....South 12 to 14 mph. 
+Transport winds m/s.South 5 to 6 meters/second. 
+Dispersion index....45. 
+LVORI...............2. 
+Stability class.....3. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........54  60  71  64  68  76  74  65  
+Weather cov.....            CHC CHC CHC CHC CHC 
+Weather type....            RW  RW  RW  RW  RW  
+Tstm cov........            SCH SCH SCH CHC CHC 
+Chc of pcpn (%).10  10  10  40  40  40  40  40  
+Temp............69  73  76  79  79  79  80  79  
+RH..............81  71  64  58  58  58  56  58  
+20 FT wind dir..SSE SSE SSE S   SSE S   SSE SSE 
+20 FT wind spd..3   5   5   5   5   5   5   5   
+20 FT wind gust.9   12  12  12  12  13  13  13  
+Mix hgt (kft)...2.2 2.9 3.6 3.8 3.5 3.2 3.3 3.3 
+Mix hgt (km)....0.7 0.9 1.1 1.2 1.1 1.0 1.0 1.0 
+Transp wind dir.S   S   S   S   S   S   S   S   
+Transp wind spd.14  14  13  12  12  12  14  13  
+Trans wind dir..S   S   S   S   S   S   S   S   
+Trans spd (m/s).6   6   6   5   5   5   6   6   
+Dispersion idx..38  45  47  42  43  42  45  43  
+LVORI...........3   3   1   1   1   1   1   1   
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (60-70 percent) then becoming 
+                    partly cloudy (35-45 percent) then becoming 
+                    mostly cloudy (70-80 percent). Chance of 
+                    showers and thunderstorms early in the evening. 
+                    Patchy fog early in the morning. 
+Chance of pcpn......40 percent. 
+Min temperature.....Around 64. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms early in the evening. 
+Mixing height.......500 ft AGL. 
+Mixing height (m)...152-1006 meters AGL. 
+Transport winds.....South 10 to 14 mph. 
+Transport winds m/s.South 4 to 6 meters/second. 
+Dispersion index....51 decreasing to 8. 
+LVORI...............5. 
+Stability class.....4. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........72  66  59  39  34  48  62  76  79  84  87  76  
+Weather cov.....CHC                                         PTY 
+Weather type....RW                                          FOG 
+Tstm cov........CHC                                             
+Chc of pcpn (%).40  10  10  10  0   0   0   0   0   0   0   0   
+Temp............79  77  72  70  68  68  67  66  65  65  66  65  
+RH..............58  62  76  84  90  90  93  97  100 100 97  100 
+20 FT wind dir..S   S   SSE SSE SSE SSE SSE SSE SSE SSE SSE SSE 
+20 FT wind spd..3   3   3   3   2   2   2   2   2   2   2   2   
+20 FT wind gust.12  10  10  9   9   9   9   9   8   8   8   7   
+Mix hgt (kft)...3.3 0.5 0.5 0.5 0.5 0.6 0.6 0.7 0.6 0.7 0.9 0.7 
+Mix hgt (km)....1.0 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.3 0.2 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.13  12  12  12  12  13  12  14  13  12  13  10  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).6   5   5   5   5   6   5   6   6   5   6   4   
+Dispersion idx..51  8   8   6   6   8   8   9   8   7   7   6   
+LVORI...........1   3   4   5   6   5   6   8   8   8   8   9   
+
+.TUESDAY...
+
+Sky/weather.........Mostly cloudy (75-85 percent). Patchy fog early 
+                    in the morning. Chance of showers in the 
+                    morning. Chance of thunderstorms through the 
+                    day. Showers likely in the afternoon. 
+Chance of pcpn......70 percent. 
+Max temperature.....Around 82. 
+Min humidity........56 percent. 
+Wind (20 ft)........Light winds becoming south around 5 mph late in 
+                    the afternoon, then becoming light late in the 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms early in the morning. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    in the late morning and afternoon. 
+Mixing height.......3500 ft AGL. 
+Mixing height (m)...152-1067 meters AGL. 
+Transport winds.....South 10 to 17 mph. 
+Transport winds m/s.South 4 to 8 meters/second. 
+Dispersion index....8 increasing to 60. 
+LVORI...............5. 
+Stability class.....2. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........83  88  75  77  79  77  75  73  73  73  73  73  
+Weather cov.....PTY CHC CHC CHC CHC CHC CHC LKY LKY LKY LKY LKY 
+Weather type....FOG RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........    CHC CHC CHC SCH SCH SCH CHC CHC CHC CHC CHC 
+Chc of pcpn (%).0   30  30  30  30  30  30  70  70  70  70  70  
+Temp............64  65  66  67  70  73  76  78  80  81  81  81  
+RH..............100 100 97  97  93  84  71  64  58  56  56  56  
+20 FT wind dir..SSE SSE SSE SSE SSE SSE S   S   S   S   S   S   
+20 FT wind spd..2   2   2   3   3   3   5   5   5   6   6   5   
+20 FT wind gust.7   7   8   9   9   10  12  13  14  14  14  13  
+Mix hgt (kft)...0.5 0.6 1.2 1.6 1.9 2.4 3.0 3.3 3.5 3.4 3.0 3.0 
+Mix hgt (km)....0.2 0.2 0.4 0.5 0.6 0.7 0.9 1.0 1.1 1.0 0.9 0.9 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.10  10  12  13  14  15  16  17  17  16  15  14  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).4   4   5   6   6   7   7   8   8   7   7   6   
+Dispersion idx..5   10  18  26  32  43  53  60  60  56  52  51  
+LVORI...........9   8   5   4   4   4   3   1   1   1   1   1   
+
+$$
+Forecaster...29
+Requested by...Rodney Landrum
+Type of request...PRESCRIBED
+.TAG 2608521.0/MOB
+.DELDT 03/30/26
+.FormatterVersion 2.0.0
+.EMAIL rodney.landrum@usda.gov
+

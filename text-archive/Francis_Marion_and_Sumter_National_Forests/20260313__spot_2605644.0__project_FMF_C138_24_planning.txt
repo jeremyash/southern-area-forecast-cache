@@ -1,0 +1,118 @@
+
+000
+FNUS72 KCHS 131855
+FWSCHS
+
+Spot Forecast for FMF C138 #24 planning...USDA Forest Service
+National Weather Service Charleston SC
+255 PM EDT Fri Mar 13 2026
+
+Forecast is based on ignition time of 1000 EDT on March 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+There is a low risk for patchy fog to develop near the burn site around
+daybreak Saturday while surface winds remain very light. Otherwise, dry
+high pressure will prevail Saturday with a weak sea breeze passing across
+the burn site around 2-3 PM Saturday afternoon. On Sunday, shower and
+thunderstorm chances increase late morning and afternoon. A strong cold
+is anticipated to shift across the burn site Monday with gusty winds, showers
+and the potential for stronger thunderstorms. 
+
+.SATURDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 75. 
+Min humidity........42 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4300 ft AGL. 
+Transport winds.....Northwest around 6 mph late in the morning 
+                    becoming light, then becoming southeast around 
+                    6 mph late in the afternoon. 
+Max ADI.............34. 
+Inversion End.......1100
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........21  2   0   1   3   2   2   2   
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............58  66  69  72  74  74  74  74  
+RH..............80  61  52  45  42  43  42  43  
+20 FT wind dir..N   N   NE  E   E   SE  SE  SE  
+20 FT wind spd..0   1   1   2   2   3   2   3   
+20 FT wind gust.4   4   5   5   7   9   9   9   
+Mix hgt (kft)...1.1 1.7 2.8 3.7 4.3 4.1 3.5 3.0 
+Transp wind dir.NW  NW  NE  NE  NE  SE  SE  SE  
+Transp wind spd.6   6   4   4   4   6   6   6   
+LVORI...........4   2   2   2   2   2   2   1   
+ADI.............7   13  16  16  18  23  32  34  
+
+.SATURDAY NIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 55. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........10. 
+Min ADI.............1. 
+Inversion Begin.....1900 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........4      8      6      7      13     35     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      10     10     
+Temp............71     65     58     58     57     57     
+RH..............50     65     88     90     93     97     
+20 ft wind......SE 2   SE 2   E 2    E 2    E 2    E 1    
+20 ft wind gust.9      7      7      7      7      9      
+Mix hgt (ft)....2200   600    700    600    600    600    
+Transport wind..SE 4   SE 4   E 2    E 2    E 2    E 2    
+LVORI...........2      4      7      8      9      10     
+ADI.............1      1      1      1      1      1      
+
+.SUNDAY...
+
+Sky/weather.........Partly sunny. Chance of rain showers early in 
+                    the morning. Slight chance of thunderstorms 
+                    late in the morning. Rain showers likely late 
+                    in the afternoon. 
+Chance of pcpn......70 percent. 
+Max temperature.....Around 76. 
+Min humidity........70 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 7 mph with 
+                    gusts to around 16 mph in the late morning and 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms late in the morning. 
+Mixing Height.......Max 3400 ft AGL. 
+Transport winds.....Light winds becoming southeast 14 to 20 mph in 
+                    the late morning and afternoon. 
+Max ADI.............81. 
+Inversion End.......0900 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........50        61        61        79        
+Weather type....NONE      RNSHWR    RNSHWR    RNSHWR    
+Tstm cov........                    S CHC     S CHC     
+Chc of pcpn (%).10        40        40        70        
+Temp............57        63        72        75        
+RH..............98        92        78        70        
+20 FT wind......E 2G9     E 4G13    E 7G16    SE 7G16   
+Mix hgt (ft)....600       1600      3400      3300      
+Transport wind..E 2       E 14      SE 20     SE 18     
+LVORI...........10        5         3         3         
+ADI.............2         22        81        63        
+
+$$
+Forecaster...Berry
+Requested by...Kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2605644.0/CHS
+.DELDT 03/13/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+

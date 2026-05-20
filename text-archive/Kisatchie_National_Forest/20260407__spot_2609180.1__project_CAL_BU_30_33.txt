@@ -1,0 +1,122 @@
+
+000
+FNUS74 KLCH 070942
+FWSLCH
+
+Spot Forecast for CAL BU-30 33...US FOREST SERVICE
+National Weather Service Lake Charles LA
+442 AM CDT Tue Apr 7 2026
+
+Forecast is based on ignition time of 0900 CDT on April 07. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (337) 477-5285, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Anomalously dry and cool conditions will continue through today.
+Daytime minimum RH values on Tuesday are forecast in the 20 to 30
+percent range once again, however, with lower daytime winds, fire
+conditions should not be as prevalent. Chances for fog the morning
+of Wednesday 04/08/2026 are very low.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent). 
+Max temperature.....Around 77. 
+Min humidity........30 percent. 
+Wind (20 ft)........East winds 6 to 7 mph. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....East 15 to 18 mph. 
+Mixing height (m)...274-1524 meters AGL. 
+Transport winds m/s.East 7 to 8 meters/second. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........48  54  47  46  46  54  60  52  51  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............57  63  67  70  74  75  75  77  77  
+RH..............61  51  43  38  34  32  31  30  31  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   
+20 FT wind spd..6   6   6   7   7   7   7   7   6   
+20 FT wind gust.14  16  16  16  16  16  16  16  15  
+Mix hgt (kft)...0.9 1.7 2.8 3.5 4.2 4.6 5.0 5.0 4.4 
+Mix hgt (km)....0.3 0.5 0.9 1.1 1.3 1.4 1.5 1.5 1.3 
+Transp wind dir.E   E   E   E   E   E   E   E   E   
+Transp wind spd.15  16  18  16  16  16  15  15  16  
+Trans wind dir..E   E   E   E   E   E   E   E   E   
+Trans spd (m/s).7   7   8   7   7   7   7   7   7   
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (45-55 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+Min temperature.....Around 55. 
+Max humidity........73 percent. 
+Wind (20 ft)........East winds 5 to 6 mph early in the evening 
+                    becoming light. 
+Mixing height.......300 ft AGL. 
+Transport winds.....East 8 to 13 mph. 
+Mixing height (m)...91-549 meters AGL. 
+Transport winds m/s.East 4 to 6 meters/second. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........49  54  51  66  66  65  54  67  72  75  78  81  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............75  73  69  65  63  62  61  60  58  57  57  56  
+RH..............33  38  45  53  56  56  59  62  64  67  68  71  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   E   E   E   
+20 FT wind spd..6   5   3   3   3   3   2   2   2   2   2   2   
+20 FT wind gust.14  13  12  12  10  10  10  9   9   9   9   9   
+Mix hgt (kft)...1.8 0.4 0.4 0.4 0.4 0.4 0.4 0.3 0.4 0.4 0.4 0.4 
+Mix hgt (km)....0.5 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.13  9   8   8   9   9   9   8   8   8   8   8   
+Trans wind dir..E   E   E   E   E   E   E   E   E   E   E   E   
+Trans spd (m/s).6   4   4   4   4   4   4   4   4   4   4   4   
+
+.WEDNESDAY...
+
+Sky/weather.........Partly sunny (45-55 percent). 
+Max temperature.....Around 80. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 6 mph in 
+                    the late morning and afternoon. 
+Mixing height.......7100 ft AGL. 
+Transport winds.....East 7 to 15 mph shifting to the southeast 13 
+                    to 17 mph in the late morning and afternoon. 
+Mixing height (m)...122-2164 meters AGL. 
+Transport winds m/s.Southeast 4 to 8 meters/second. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........74  52  63  58  53  45  37  28  29  31  32  31  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............55  55  57  61  67  72  76  78  80  80  80  79  
+RH..............72  73  72  65  54  47  40  36  34  34  34  36  
+20 FT wind dir..E   E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+20 FT wind spd..3   3   3   5   6   6   6   6   6   6   6   6   
+20 FT wind gust.10  10  12  13  14  14  14  14  14  14  14  14  
+Mix hgt (kft)...0.4 0.4 0.6 1.2 2.1 3.1 4.2 5.2 6.3 7.1 6.9 5.0 
+Mix hgt (km)....0.1 0.1 0.2 0.4 0.6 0.9 1.3 1.6 1.9 2.2 2.1 1.5 
+Transp wind dir.E   E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+Transp wind spd.7   8   12  15  17  17  17  16  16  15  14  13  
+Trans wind dir..E   E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+Trans spd (m/s).3   4   5   7   8   8   8   7   7   7   6   6   
+
+$$
+Forecaster...SILAS
+Requested by...Brian Gidcumb
+Type of request...PRESCRIBED
+.TAG 2609180.1/LCH
+.DELDT 04/07/26
+.FormatterVersion 2.0.0
+.EMAIL brian.gidcumb@usda.gov
+

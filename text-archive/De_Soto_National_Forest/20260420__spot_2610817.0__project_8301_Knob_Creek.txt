@@ -1,0 +1,151 @@
+
+000
+FNUS74 KMOB 201124
+FWSMOB
+
+Spot Forecast for 8301 Knob Creek...USFS
+National Weather Service Mobile AL
+624 AM CDT Mon Apr 20 2026
+
+Forecast is based on ignition time of 1000 CDT on April 20. 
+If conditions become unrepresentative...contact the National
+Weather Service.
+
+...HIGH DISPERSION INDEX AROUND 88 EXPECTED TODAY OVER THE
+BURN AREA...
+
+...HIGH DISPERSION INDEX AROUND 94 EXPECTED TUESDAY OVER THE
+BURN AREA...
+
+.DISCUSSION...For today, the minimum relative humidity is near
+20%, 20 ft wind gusts will be up to near 20 mph, transport
+winds will be mostly northeasterly, and dispersion values will
+be good. For Tuesday, the minimum relative humidity is near 25%,
+20 ft wind gusts will be up to near 20 mph, transport winds will
+be mostly easterly to southeasterly, and dispersion values will
+be good.
+
+Fog potential and other remarks...Fog is not expected.
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 80. 
+Min humidity........20 percent. 
+Wind (20 ft)........East winds 5 to 8 mph. 
+Mixing height.......5600 ft AGL. 
+Mixing height (m)...1707 meters AGL. 
+Transport winds.....East 12 to 17 mph. 
+Transport winds m/s.East 5 to 8 meters/second. 
+Dispersion index....54 increasing to 88 early in the afternoon 
+                    decreasing to 76 late in the afternoon. 
+LVORI...............1. 
+Stability class.....2. 
+
+TIME (CDT)      10 AM  NOON   2 PM   4 PM   
+Sky (%).........31     19     34     26     
+Weather cov.....                            
+Weather type....NONE   NONE   NONE   NONE   
+Tstm cov........                            
+Chc of pcpn (%).0      0      0      0      
+Temp............65     73     78     79     
+RH..............38     27     23     21     
+20 FT wind dir..ENE    ENE    ENE    ENE    
+20 FT wind spd..8      8      8      7      
+20 FT wind gust.17     18     17     14     
+Mix hgt (ft)....2400   3900   5100   5500   
+Mix hgt (m).....730    1190   1550   1680   
+Transp wind dir.E      E      E      E      
+Transp wind spd.17     17     15     12     
+Trans wind dir..E      E      E      E      
+Trans spd (m/s).8      8      7      5      
+Dispersion idx..54     78     88     76     
+LVORI...........1      1      1      1      
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 51. 
+Max humidity........68 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Mixing height (m)...91 meters AGL. 
+Transport winds.....Northeast 3 to 8 mph. 
+Transport winds m/s.Northeast 1 to 4 meters/second. 
+Dispersion index....60 decreasing to 2. 
+LVORI...............1 becoming 3. 
+Stability class.....4. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........32     35     24     23     14     28     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............78     70     61     57     53     51     
+RH..............26     36     50     55     61     66     
+20 FT wind dir..ENE    ENE    NNE    NE     NNE    NNE    
+20 FT wind spd..3      2      2      2      2      2      
+20 FT wind gust.9      7      6      6      6      7      
+Mix hgt (ft)....5500   300    300    300    300    300    
+Mix hgt (m).....1680   90     90     90     90     90     
+Transp wind dir.ENE    E      NE     NE     NE     ENE    
+Transp wind spd.8      6      5      5      6      7      
+Trans wind dir..ENE    E      NE     NE     NE     ENE    
+Trans spd (m/s).4      3      2      2      3      3      
+Dispersion idx..60     2      2      2      3      3      
+LVORI...........1      2      2      3      3      3      
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent) then becoming 
+                    mostly cloudy (65-75 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 82. 
+Min humidity........27 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 7 mph in 
+                    the late morning and afternoon, then shifting 
+                    to the south around 6 mph late in the 
+                    afternoon. 
+Mixing height.......6400 ft AGL. 
+Mixing height (m)...1951 meters AGL. 
+Transport winds.....East 9 to 15 mph shifting to the southeast 10 
+                    to 16 mph late in the morning. 
+Transport winds m/s.East 4 to 7 meters/second shifting to the
+                    southeast late in the morning.
+Dispersion index....4 increasing to 94 early in the afternoon 
+                    decreasing to 70 late in the afternoon.
+LVORI...............3 becoming 1. 
+Stability class.....2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........30     28     41     54     62     66     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............51     57     71     79     82     80     
+RH..............68     57     38     29     27     31     
+20 FT wind dir..NE     E      ESE    SE     SSE    SSE    
+20 FT wind spd..2      3      6      7      8      8      
+20 FT wind gust.7      9      13     16     17     16     
+Mix hgt (ft)....400    700    2300   4600   6200   5900   
+Mix hgt (m).....120    210    700    1400   1890   1800   
+Transp wind dir.ENE    E      ESE    SE     SSE    S      
+Transp wind spd.9      10     15     16     14     12     
+Trans wind dir..ENE    E      ESE    SE     SSE    S      
+Trans spd (m/s).4      4      7      7      6      5      
+Dispersion idx..4      10     47     88     94     73     
+LVORI...........3      2      1      1      1      1      
+
+$$
+Forecaster...22
+Requested by...Brandon Selk
+Type of request...PRESCRIBED
+.TAG 2610817.0/MOB
+.DELDT 04/20/26
+.FormatterVersion 2.0.0
+.EMAIL brandon.selk@usda.gov
+

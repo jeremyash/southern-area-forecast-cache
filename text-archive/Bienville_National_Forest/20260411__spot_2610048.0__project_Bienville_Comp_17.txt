@@ -1,0 +1,110 @@
+
+000
+FNUS74 KJAN 111146
+FWSJAN
+
+Spot Forecast for Bienville Comp 17...USFS
+National Weather Service Jackson MS
+646 AM CDT Sat Apr 11 2026
+
+Forecast is based on ignition time of 0700 CDT on April 11. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...Fog development is not anticipated this morning.
+Patchy fog can't be entirely ruled out Sunday morning, but the
+chance is low.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Temperature.........57 at ignition...Max 85. 
+RH..................86 percent at ignition...Min 32 percent. 
+Wind (20 ft)........Winds southeast at 1 mph at 
+                    ignition...otherwise Light winds. 
+Mixing height (m)...91 meters AGL at ignition...otherwise 91-2256 
+                    meters AGL. 
+Transport winds.....Southeast 2 to 3 mph shifting to the east 5 to 
+                    6 mph late in the morning, then shifting to the 
+                    southeast 3 to 5 mph in the afternoon. 
+Transport winds m/s.Southeast 1 to 2 meters/second shifting to the 
+                    east 2 to 3 meters/second late in the morning, 
+                    then shifting to the southeast 1 to 2 
+                    meters/second in the afternoon. 
+
+TIME (CDT)      7 AM   9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky cover.......Clear  Clear  Clear  MClear PCldy  MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............57     67     78     81     84     83     
+RH..............86     65     43     37     34     36     
+20 ft wind dir..E      NE     E      SE     SE     SE     
+20 ft wind spd..1      1      2      3      3      3      
+20 ft wind gust.3      6      7      9      9      9      
+Mix hgt (m).....90     370    1580   2040   2260   1830   
+Transport wind..SE 3   NE 5   E 6    E 3    SE 5   SE 5   
+Tran wind (m/s).SE 1   NE 2   E 3    E 1    SE 2   SE 2   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Temperature.........Min 57. 
+RH..................Max 93 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-1341 meters AGL. 
+Transport winds.....South 5 to 10 mph. 
+Transport winds m/s.South 2 to 4 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear Clear  Clear  MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............82     71     66     64     61     59     
+RH..............37     55     61     67     78     87     
+20 ft wind dir..SE     SE     SE     S      S      S      
+20 ft wind spd..3      3      3      3      3      3      
+20 ft wind gust.9      9      10     10     10     10     
+Mix hgt (m).....1340   120    120    120    120    120    
+Transport wind..SE 6   SE 7   SE 8   S 9    S 10   S 9    
+Tran wind (m/s).SE 3   SE 3   SE 4   S 4    S 4    S 4    
+
+.SUNDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Temperature.........Max 86. 
+RH..................Min 34 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 9 mph in the 
+                    late morning and afternoon. 
+Mixing height (m)...122-2042 meters AGL. 
+Transport winds.....South 9 to 15 mph increasing to 17 to 22 mph in 
+                    the late morning and afternoon. 
+Transport winds m/s.South 4 to 10 meters/second decreasing to 4 to 
+                    7 meters/second early in the morning, then 
+                    increasing to 8 to 10 meters/second in the late 
+                    morning and afternoon. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MClear MClear MClear PCldy  PCldy  PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............58     61     75     82     85     86     
+RH..............90     84     54     41     36     34     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..3      3      7      8      9      9      
+20 ft wind gust.10     13     18     22     22     22     
+Mix hgt (m).....120    240    1070   1490   1890   2010   
+Transport wind..S 9    S 10   S 21   S 22   S 21   S 20   
+Tran wind (m/s).S 4    S 4    S 9    S 10   S 9    S 9    
+
+$$
+Forecaster...Lamb
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2610048.0/JAN
+.DELDT 04/11/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+

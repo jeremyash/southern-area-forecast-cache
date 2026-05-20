@@ -1,0 +1,170 @@
+
+000
+FNUS73 KJKL 211728
+FWSJKL
+
+Spot Forecast for Big Cave Run RX...USFS Daniel Boone NF Cumberland RD
+National Weather Service Jackson KY
+128 PM EDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 0600 EDT on March 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Quiet conditions are expected this afternoon at the
+burn location. A strong cold front pushes into the area from the 
+north Sunday evening and overnight with potential for showers and
+thunderstorms, some of which could be strong to severe. This will
+be followed by noticeably cooler weather along with a period of 
+northerly to easterly winds. Very dry conditions are anticipated 
+for Tuesday afternoon.
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 82. 
+Min humidity........41 percent. 
+Dewpoint............58. 
+Max apparent temp...82. 
+Wind (20 ft)........Light winds becoming southwest 7 to 8 mph late 
+                    in the morning. 
+Ridgetop wind.......Southwest 5 to 10 mph. 
+Mixing height.......2200 ft AGL. 
+Transport winds.....Southwest 14 to 23 mph increasing to 24 to 25 
+                    mph in the afternoon. 
+Vent Rate...........Poor (1600 knot-ft) increasing to fair 
+                    (46200 knot-ft) in the afternoon. 
+LVORI...............3. 
+ADI.................6 early in the morning increasing to 64 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........16  18  17  30  47  31  48  36  23  45  22  21  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   10  10  10  10  
+Temp............60  62  62  64  69  72  74  77  80  81  81  82  
+Dewpoint........56  56  56  58  58  60  59  59  58  58  58  57  
+RH..............87  81  81  81  68  66  59  54  47  46  46  43  
+Aparnt tmp (F)..60  62  62  64  69  72  74  77  81  81  81  82  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..3   3   3   3   5   8   8   9   9   9   9   9   
+20 FT wind gust.9   9   10  12  12  15  16  17  17  17  17  17  
+Ridge wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Ridge wind spd..5   5   5   5   6   9   9   10  10  10  10  10  
+Mix hgt (kft)...0.1 0.2 0.2 0.5 1.0 1.2 1.4 1.6 1.8 1.9 2.1 2.2 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.14  15  15  17  20  22  23  24  25  24  25  24  
+LVORI...........5   4   4   3   3   3   1   1   1   1   1   1   
+ADI.............6   16  16  18  25  36  41  51  56  57  64  64  
+Vrate kt-ft/1K..2   2   3   7   17  24  28  34  39  39  46  46  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  FR  FR  
+
+.SUNDAY NIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent) becoming mostly
+                    cloudy (70-80 percent). Slight chance of showers
+                    and thunderstorms into the evening. 
+Chance of pcpn......80 percent. 
+Min temperature.....Around 43. 
+Max humidity........93 percent. 
+Dewpoint............56 decreasing to 49 after 3 am. 
+Max apparent temp...81. 
+Wind (20 ft)........Southwest winds 6 to 7 mph shifting to the 
+                    northwest 7 to 8 mph overnight. Gusty and 
+                    erratic winds expected near thunderstorms early 
+                    in the evening. Gusty and erratic winds 
+                    expected near thunderstorms late in the 
+                    evening. 
+Ridgetop wind.......Southwest 8 to 9 mph shifting to the northwest 
+                    9 to 10 mph overnight. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Southwest 14 to 22 mph shifting to the north 12 
+                    to 20 mph overnight. 
+Vent Rate...........Fair (38100 knot-ft) decreasing to poor 
+                    (6500 knot-ft) overnight. 
+LVORI...............3. 
+ADI.................56 early in the evening decreasing to 7 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........33  25  24  34  46  57  67  77  87  87  88  88  
+Weather cov.....        DEF DEF DEF DEF DEF DEF DEF DEF DEF DEF 
+Weather type....        RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........        SCH SCH SCH CHC CHC CHC                 
+Chc of pcpn (%).10  10  80  80  80  80  80  80  80  80  80  80  
+Temp............81  80  77  75  74  72  69  66  62  58  54  50  
+Dewpoint........57  57  57  57  58  58  58  57  56  54  51  48  
+RH..............44  45  50  54  57  61  68  73  81  86  90  93  
+Aparnt tmp (F)..81  80  77  75  73  71  68  65  61  57  54  47  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  W   W   NW  NW  NW  N   
+20 FT wind spd..8   7   7   7   7   8   8   8   8   8   9   9   
+20 FT wind gust.16  14  15  15  15  16  16  16  16  16  17  17  
+Ridge wind dir..SW  SW  SW  SW  SW  SW  W   W   NW  NW  NW  N   
+Ridge wind spd..9   8   8   8   8   9   9   9   9   9   10  10  
+Mix hgt (kft)...2.0 1.6 1.4 1.3 1.2 1.1 0.9 0.7 0.5 0.7 1.0 1.1 
+Transp wind dir.SW  SW  SW  SW  SW  W   W   NW  N   N   N   N   
+Transp wind spd.22  17  15  16  17  17  14  12  14  17  18  20  
+LVORI...........1   2   2   2   2   2   3   3   4   4   4   5   
+ADI.............56  8   7   7   12  15  12  10  12  15  16  18  
+Vrate kt-ft/1K..38  24  18  19  17  16  11  7   7   10  16  20  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (25-35 percent). Rain showers 
+                    early in the morning. 
+Chance of pcpn......80 percent. 
+Max temperature.....Around 53. 
+Min humidity........39 percent. 
+Dewpoint............43 decreasing to 32. 
+Max apparent temp...54. 
+Wind (20 ft)........North winds 5 to 8 mph. 
+Ridgetop wind.......North 7 to 10 mph. 
+Mixing height.......3700 ft AGL. 
+Transport winds.....North 13 to 20 mph. 
+Vent Rate...........Poor (21300 knot-ft) early in the morning 
+                    increasing to marginal (32800 knot-ft) in the 
+                    afternoon increasing to fair (41000 knot-ft)
+                    later in the afternoon. 
+LVORI...............3. 
+ADI.................18 to 56. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........83  78  73  59  46  32  26  19  13  13  14  14  
+Weather cov.....DEF DEF                                         
+Weather type....RW  RW                                          
+Tstm cov........                                                
+Chc of pcpn (%).80  80  10  10  10  10  10  10  0   0   0   0   
+Temp............47  45  43  43  44  45  47  49  51  52  53  53  
+Dewpoint........45  42  39  37  36  35  34  34  33  32  31  30  
+RH..............93  89  86  79  73  68  60  56  50  46  43  41  
+Aparnt tmp (F)..44  42  40  40  41  42  44  47  51  53  54  54  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..9   9   8   7   7   6   6   6   6   6   6   6   
+20 FT wind gust.17  16  15  15  14  14  14  13  13  13  13  13  
+Ridge wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+Ridge wind spd..10  10  9   8   8   7   7   7   7   7   7   7   
+Mix hgt (kft)...1.3 1.5 1.6 1.8 2.2 2.4 2.7 2.9 3.2 3.5 3.7 3.5 
+Transp wind dir.N   N   N   N   N   N   N   N   N   N   N   N   
+Transp wind spd.20  20  18  17  16  15  14  13  13  13  13  13  
+LVORI...........5   4   4   3   3   1   1   1   1   1   1   1   
+ADI.............18  32  34  33  45  46  46  45  49  54  56  55  
+Vrate kt-ft/1K..21  25  29  30  31  32  32  33  35  38  41  39  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  FR  PR  
+
+$$
+Forecaster...GINNICK
+Requested by...Brock Campbell
+Type of request...PRESCRIBED
+.TAG 2606323.4/JKL
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL brock.campbell@usda.gov
+

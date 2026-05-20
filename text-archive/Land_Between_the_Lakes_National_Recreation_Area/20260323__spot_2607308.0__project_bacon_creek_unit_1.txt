@@ -1,0 +1,134 @@
+
+000
+FNUS73 KPAH 231427
+FWSPAH
+
+Spot Forecast for bacon creek unit 1...usda forest service
+National Weather Service Paducah KY
+927 AM CDT Mon Mar 23 2026
+
+Forecast is based on ignition time of 1000 CDT on March 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Drier and cooler air will return behind a departing cold front
+today. Most locations will see minimum RH values of 22-32% this
+afternoon and again Tuesday afternoon. Deeper mixing and NE 
+transport winds will be supportive of good smoke dispersion today 
+while winds aloft will decrease Tuesday favoring poor conditions.
+The next chance of wetting rains will arrive Thursday night into 
+Friday when another strong cold front passes through the region. 
+Rainfall totals are expected to remain below a half inch. Record
+warmth will arrive ahead of the cold front on Thursday with highs
+warming well into the 80s across much of the area.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent) then becoming partly 
+                    sunny (55-65 percent). 
+CWR.................0 percent. 
+Temperature.........45 at ignition...Max 59. 
+RH..................53 percent at ignition...Min 30 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Winds north at 14 mph at ignition...otherwise 
+                    North winds 8 to 9 mph. 
+Mixing height.......2300 ft AGL at ignition...otherwise 3500 ft 
+                    AGL. 
+Transport winds.....North 20 to 22 mph. 
+Smoke dispersal.....Fair /44400 knot-ft/ at ignition. Max...fair 
+                    /59300 knot-ft/. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR CLR CLR CLR MCR MCR PC  MC  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+CWR.............0   0   0   0   0   0   0   0   
+Temp............45  48  51  54  56  57  58  59  
+RH..............53  47  42  36  34  31  30  29  
+20 FT wind dir..N   N   N   N   N   N   N   NE  
+20 FT wind spd..9   9   9   9   9   8   8   8   
+20 FT wind gust.20  20  18  18  18  17  17  17  
+Mix hgt (kft)...2.3 2.5 2.8 2.9 3.2 3.4 3.5 3.3 
+Transp wind dir.N   N   N   N   N   N   N   NE  
+Transp wind spd.22  21  21  20  20  20  20  20  
+Vrate kt-ft/1K..44  44  51  50  54  57  59  56  
+Ventrate Cat....FR  FR  FR  FR  FR  FR  FR  FR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (55-65 percent) then becoming 
+                    partly cloudy (40-50 percent) then becoming 
+                    mostly cloudy (50-60 percent) then becoming 
+                    partly cloudy (45-55 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+CWR.................0 percent. 
+Temperature.........Min 40. 
+RH..................Max 59 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Northeast winds 6 to 7 mph. 
+Mixing height.......600 ft AGL. 
+Transport winds.....Northeast 14 to 20 mph. 
+Smoke dispersal.....Fair (49100 knot-ft) early in the evening 
+                    decreasing to poor (7900 knot-ft) late in the 
+                    night. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MC  PC  MC  MC  PC  MC  MC  MC  MC  MC  MC  MC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............57  55  53  50  48  47  46  46  45  44  43  42  
+RH..............30  35  38  44  46  47  49  49  51  53  55  57  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  E   E   E   
+20 FT wind spd..7   6   6   6   6   6   7   7   7   7   6   6   
+20 FT wind gust.16  16  16  16  16  17  17  17  17  16  15  15  
+Mix hgt (kft)...2.9 1.4 0.6 0.7 0.7 0.7 0.7 0.9 0.7 1.1 1.1 1.2 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  E   E   E   E   E   
+Transp wind spd.20  18  15  15  15  16  16  16  14  17  15  16  
+Vrate kt-ft/1K..49  23  8   10  9   10  10  12  8   17  14  17  
+Ventrate Cat....FR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TUESDAY...
+
+Sky/weather.........Partly sunny (60-70 percent). 
+CWR.................0 percent. 
+Temperature.........Max 63. 
+RH..................Min 26 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......East winds 5 to 7 mph in the morning becoming 
+                    light. 
+Mixing height.......2800 ft AGL. 
+Transport winds.....East 7 to 16 mph decreasing to 6 to 7 mph late 
+                    in the afternoon. 
+Smoke dispersal.....Poor (10400 knot-ft). 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky cover.......MCLDY  MCLDY  MCLDY  MCLDY  MCLDY  MCLDY  
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............42     42     48     55     60     63     
+RH..............57     57     46     35     28     26     
+20 FT wind dir..E      E      E      E      E      E      
+20 FT wind spd..6      7      6      3      3      2      
+20 FT wind gust.15     14     10     8      7      6      
+Mix hgt (kft)...1.0    1.1    1.3    1.6    2.2    2.8    
+Transp wind dir.E      E      E      E      E      E      
+Transp wind spd.15     16     13     8      6      6      
+Vrate kt-ft/1K..13     15     15     12     11     14     
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   POOR   
+
+$$
+Forecaster...WITTEN
+Requested by...garrison lupton
+Type of request...PRESCRIBED
+.TAG 2607308.0/PAH
+.DELDT 03/23/26
+.FormatterVersion 2.0.0
+.EMAIL garrison.lupton@usda.gov
+

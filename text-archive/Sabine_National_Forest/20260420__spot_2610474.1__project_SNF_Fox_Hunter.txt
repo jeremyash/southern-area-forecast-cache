@@ -1,0 +1,91 @@
+
+000
+FNUS74 KSHV 201013
+FWSSHV
+
+Spot Forecast for SNF Fox Hunter...USFS
+National Weather Service Shreveport LA
+513 AM CDT Mon Apr 20 2026
+
+Forecast is based on ignition time of 0700 CDT on April 20. 
+If conditions become unrepresentative, contact your National 
+Weather Service of fice at (318) 631-3669 ext. 241. And likewise 
+do so if you have any questions or concerns with this forecast.
+
+.DISCUSSION...
+
+Below average temps to start in the 40s with a smidge of patchy
+fog possible. You will need air temps in the 60s for good 
+dispersion, but most of the smoke will feed north over the forest 
+and should keep off of the lake. Min RH is down around 30% during 
+peak heating. Skies will continue to see high and eventually 
+middeck, but no rain likely until this time tomorrow and a weak
+upper disturbance works with return flow off the Gulf of America.
+
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........55  46  41  46  48  47  52  47  45  46  51  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............51  53  58  64  68  72  73  74  76  74  74  
+RH..............74  71  64  52  44  37  35  35  32  34  37  
+20 FT wind dir..E   E   E   E   E   E   SE  SE  SE  SE  SE  
+20 FT wind mph..2   2   2   5   5   5   5   5   5   3   3   
+20 FT wind gust.9   10  12  13  14  15  14  14  13  12  10  
+Mix hgt (kft)...0.4 0.4 1.1 2.3 2.9 3.5 3.7 4.1 4.3 4.1 3.6 
+Mix hgt (km)....0.1 0.1 0.3 0.7 0.9 1.1 1.1 1.2 1.3 1.2 1.1 
+Transp wind dir.E   E   E   E   E   E   E   E   SE  SE  SE  
+Transp wind spd.9   10  14  16  15  14  13  12  10  8   8   
+Trans wind dir..E   E   E   E   E   E   E   E   SE  SE  SE  
+Trans spd (m/s).4   4   6   7   7   6   6   5   4   4   4   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........45  49  61  58  64  50  45  60  50  66  73  71  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   10  10  10  10  10  
+Temp............74  71  66  63  61  59  59  57  56  56  56  55  
+RH..............38  46  56  60  65  69  67  72  74  72  74  77  
+20 FT wind dir..SE  S   S   S   SE  SE  SE  N   N   N   SE  SE  
+20 FT wind mph..3   1   1   1   1   1   1   0   0   0   1   1   
+20 FT wind gust.8   7   7   6   5   5   5   6   5   5   6   6   
+Mix hgt (kft)...2.5 0.4 0.4 0.4 0.4 0.4 0.3 0.3 0.3 0.3 0.3 0.3 
+Mix hgt (km)....0.8 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.SE  SE  S   SE  S   SE  E   E   E   E   E   E   
+Transp wind spd.8   6   6   5   5   6   6   6   6   6   5   5   
+Trans wind dir..SE  SE  S   SE  S   SE  E   E   E   E   E   E   
+Trans spd (m/s).4   3   3   2   2   3   3   3   3   3   2   2   
+
+.TUESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........84  87  85  87  89  89  88  88  88  89  89  87  
+Weather cov.....    SCH SCH SCH SCH SCH SCH CHC CHC CHC CHC CHC 
+Weather type....    RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                                                
+CWR.............10  20  20  20  20  20  20  40  40  40  40  40  
+Temp............56  56  56  60  64  66  67  67  68  68  67  67  
+RH..............74  74  77  72  67  65  65  68  68  70  75  75  
+20 FT wind dir..SE  E   E   E   E   E   E   E   E   E   SE  SE  
+20 FT wind mph..1   1   1   1   3   3   3   5   5   5   3   3   
+20 FT wind gust.7   7   7   8   9   10  10  12  13  13  13  12  
+Mix hgt (kft)...0.4 0.4 0.4 0.6 1.1 1.4 1.9 2.3 2.3 2.0 1.6 1.2 
+Mix hgt (km)....0.1 0.1 0.1 0.2 0.3 0.4 0.6 0.7 0.7 0.6 0.5 0.4 
+Transp wind dir.SE  E   E   E   E   SE  SE  S   S   SE  SE  SE  
+Transp wind spd.7   6   7   6   8   12  12  10  12  12  13  12  
+Trans wind dir..SE  E   E   E   E   SE  SE  S   S   SE  SE  SE  
+Trans spd (m/s).3   3   3   3   4   5   5   4   5   5   6   5   
+
+$$
+Forecaster...CHATELAIN
+Requested by...Matt Laricos
+Type of request...PRESCRIBED
+.TAG 2610474.1/SHV
+.DELDT 04/20/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.laricos@usda.gov
+

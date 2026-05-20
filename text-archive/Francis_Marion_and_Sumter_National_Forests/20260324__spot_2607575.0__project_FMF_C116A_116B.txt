@@ -1,0 +1,114 @@
+
+000
+FNUS72 KCHS 241353
+FWSCHS
+
+Spot Forecast for FMF C116A/116B...usfs
+National Weather Service Charleston SC
+953 AM EDT Tue Mar 24 2026
+
+Forecast is based on ignition time of 1000 EDT on March 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+The pattern today should support gust of 20 to 25 mph through
+mid-day, with occasional gusts to 30 mph this afternoon. The
+northeast winds and mixing in excess of 3 kft should allow dewpoints
+to fall to around 30 degrees early this afternoon, with some
+dewpoint recovery late this afternoon. As temperatures warm into 
+the low 60s this afternoon, the burn site could see relative 
+humidity values fall to around 35 percent.
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 59. 
+Min humidity........37 percent. 
+Wind (20 ft)........Northeast winds 10 mph with gusts to around 
+23 mph.
+Mixing Height.......Max 3300 ft AGL.
+Transport winds.....Northeast 18 to 24 mph.
+Max ADI.............61. 
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........70  70  67  72  65  56  55  42  
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............53  54  55  57  58  59  59  59  
+RH..............50  46  45  40  39  37  39  40  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  E   E   
+20 FT wind spd..10  10  10  9   9   9   9   8   
+20 FT wind gust.23  22  22  20  18  18  18  18  
+Mix hgt (kft)...2.6 2.7 2.8 2.9 3.1 3.2 3.2 3.3 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.24  24  20  20  20  18  18  18  
+LVORI...........1   1   1   1   1   1   1   1   
+ADI.............51  52  50  49  48  61  61  58  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 46. 
+Max humidity........83 percent. 
+Wind (20 ft)........Northeast winds 5 to 8 mph in the evening 
+                    becoming light, then becoming northeast around 
+                    5 mph early in the morning. 
+Max LVORI...........5. 
+Min ADI.............1. 
+Inversion Begin.....2200
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........43     32     21     22     25     37     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............58     53     50     50     49     47     
+RH..............44     59     71     71     74     83     
+20 ft wind......E 8    E 5    NE 5   NE 5   NE 4   NE 4   
+20 ft wind gust.16     14     13     13     11     11     
+Mix hgt (ft)....2900   1300   1100   700    500    500    
+Transport wind..NE 14  NE 14  NE 12  NE 6   NE 6   NE 6   
+LVORI...........2      3      3      3      3      5      
+ADI.............1      6      5      3      3      3      
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny. 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 68. 
+Min humidity........59 percent. 
+Wind (20 ft)........Northeast winds around 5 mph shifting to the 
+                    east late in the afternoon, then becoming light 
+                    late in the afternoon. 
+Mixing Height.......Max 4100 ft AGL. 
+Transport winds.....Northeast 6 to 12 mph shifting to the east 
+                    around 8 mph late in the afternoon. 
+Max ADI.............40. 
+Inversion End.......0900
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........59        57        48        39        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         10        10        10        
+Temp............48        51        61        68        
+RH..............83        80        72        59        
+20 FT wind......NE 5G13   NE 5G13   NE 5G13   E 5G11    
+Mix hgt (ft)....500       1200      2300      3800      
+Transport wind..NE 6      NE 12     E 10      E 8       
+LVORI...........5         3         3         1         
+ADI.............6         18        30        37        
+
+$$
+Forecaster...Schaller
+Requested by...kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2607575.0/CHS
+.DELDT 03/24/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov,scscc@firenet.gov
+

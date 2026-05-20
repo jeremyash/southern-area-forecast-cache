@@ -1,0 +1,142 @@
+
+000
+FNUS72 KMHX 140808
+FWSMHX
+
+Spot Forecast for C 38 Wishbone Rds...USFS
+National Weather Service Newport/Morehead City NC
+408 AM EDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 0900 EDT on March 14. 
+If conditions become unrepresentative, or if you have questions 
+or concerns about this forecast, contact the National Weather 
+Service in Newport at (252)223-2328.
+
+.DISCUSSION...
+A weakening cold front will push south across the burn area this
+morning allowing winds to become light north to northwesterly
+through early afternoon. Winds then become light and variable 
+this afternoon as high pressure briefly builds into the area with 
+the sea breeze developing late this afternoon, pushing across the 
+burn area around 5 pm. Light winds in the mixed layer will bring 
+poor ventilation rates for much of the day. A drier airmass 
+builds in behind the front with minimum relative humidity around 
+30-35 percent. 
+
+Rain chances increase Sunday into Monday with strong to severe 
+thunderstorms possible, especially on Monday. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Max temperature.....Around 73. 
+Min humidity........33 percent. 
+Wind (20 ft)........Northwest winds around 5 mph shifting to the 
+                    north early in the afternoon, then becoming 
+                    southeast around 7 mph gusting to 15 mph late 
+                    in the afternoon. 
+Mixing Height.......Max 4200 ft AGL. 
+Transport winds.....Northwest 8 to 10 mph shifting to the east 
+                    late in the afternoon. 
+Vent Rate...........Max 29209 mph-ft. 
+LVORI...............Max 3. 
+ADI.................Max 35. 
+Stability class.....2. 
+Sfc pressure........30.14 to 30.18 inHg. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   1   0   0   1   0   0   0   1   
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............54  59  64  67  70  71  72  71  70  
+RH..............74  60  46  42  36  34  33  34  38  
+20 FT wind dir..W   NW  NW  N   N   N   NE  E   SE  
+20 FT wind spd..4   5   4   4   4   4   4   3   7   
+20 FT wind gust.5       5   5   5   5   5   5   12  
+Mix hgt (kft)...1.0 1.5 1.8 2.7 3.4 4.2 4.1 3.7 2.9 
+Transp wind dir.W   NW  N   N   N   N   N   NE  E   
+Transp wind spd.10  10  8   8   8   7   6   5   7   
+LVORI...........3   2   2   2   1   1   2   2   2   
+ADI.............13  20  19  27  34  35  28  21  20  
+Vrate mph-ft/1K.10  16  15  22  28  29  23  17  16  
+Sfc pres (in)...014 015 017 018 018 018 017 016 016 
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear. 
+Min temperature.....Around 54. 
+Max humidity........83 percent. 
+Wind (20 ft)........Southeast winds 5 to 7 mph with gusts up to 
+                    15 mph, becoming east around 6 mph overnight. 
+Mixing Height.......Min 500 ft AGL. 
+Transport winds.....East 8 to 14 mph. 
+Vent Rate...........Min 5405 mph-ft. 
+LVORI...............Max 4. 
+ADI.................Min 5. 
+Stability class.....4. 
+Sfc pressure........30.17 to 30.24 inHg. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........1   1   1   0   0   0   1   1   3   7   15  19  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............67  63  60  58  57  56  55  55  55  55  56  57  
+RH..............43  52  60  64  67  69  72  74  74  77  74  75  
+20 FT wind dir..SE  SE  E   E   E   E   E   E   E   E   E   E   
+20 FT wind spd..7   6   5   5   5   5   6   6   6   6   6   5   
+20 FT wind gust.15  13  12  10          9   9   9   9   9       
+Mix hgt (kft)...2.0 0.8 0.5 0.6 0.6 0.7 0.6 0.6 0.5 0.6 0.6 0.7 
+Transp wind dir.SE  E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.8   10  12  12  12  12  14  14  14  13  13  13  
+LVORI...........2   2   3   3   3   3   3   3   3   4   3   4   
+ADI.............21  5   5   5   5   5   6   6   6   6   6   6   
+Vrate mph-ft/1K.16  8   5   6   7   8   8   8   7   7   8   9   
+Sfc pres (in)...017 019 021 022 024 024 024 023 021 020 020 019 
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny then becoming mostly cloudy. 
+                    Slight chance of rain showers early in the 
+                    afternoon. Chance of rain showers and slight 
+                    chance of thunderstorms late in the afternoon. 
+Max temperature.....Around 70. 
+Min humidity........65 percent. 
+Wind (20 ft)........East winds 6 to 13 mph with gusts up to 20 mph. 
+                    Gusty and erratic winds expected near 
+                    thunderstorms late in the afternoon. 
+Mixing Height.......Max 4000 ft AGL. 
+Transport winds.....East 14 to 21 mph shifting to the southeast 22 
+                    to 28 mph late in the morning. 
+Vent Rate...........Max 105109 mph-ft. 
+LVORI...............Max 4. 
+ADI.................Max 75. 
+Stability class.....4. 
+Sfc pressure........30.05 to 30.19 inHg. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........25     44     60     68     79     91     
+Weather cov.....                            CHANCE CHANCE 
+Weather type....NONE   NONE   NONE   NONE   RNSHWR RNSHWR 
+Tstm cov........                            S CHC  S CHC  
+Temp............57     58     65     69     68     66     
+RH..............80     80     70     66     70     84     
+20 ft wind......E 5    E 5    E 9    SE 12  SE 11  SE 10  
+20 ft wind gust.              14     18     18     18     
+Mix hgt (ft)....800    900    3200   3800   3200   3600   
+Transport wind..E 14   E 14   SE 21  SE 28  SE 25  SE 23  
+LVORI...........4      3      3      1      3      4      
+ADI.............6      16     51     75     63     61     
+Vrate mph-ft/1K.10     12     66     105    82     83     
+Sfc pres (in)...30.19  30.19  30.19  30.17  30.11  30.07  
+
+$$
+Forecaster...Kennedy
+Requested by...David Nelson
+Type of request...PRESCRIBED
+.TAG 2605732.0/MHX
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL david.l.nelson@usda.gov
+

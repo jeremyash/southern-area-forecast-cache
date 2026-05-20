@@ -1,0 +1,192 @@
+
+000
+FNUS71 KLWX 010648
+FWSLWX
+
+Spot Forecast for North River RX...USFS
+National Weather Service Baltimore MD/Washington DC
+248 AM EDT Wed Apr 1 2026
+
+Forecast is based on ignition time of 0500 EDT on April 01. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+A frontal system slowly approaching from the Great Lakes and 
+Northeast will drop into the area tonight. Near record warm  
+temperatures are expected ahead of the front. Even though dew 
+points will also be rising, the large spread with the temperatures
+will result in afternoon minimum RH around 55. Winds will be west
+to southwest but not quite as gusty as recent days. Shifts to the 
+southeast are anticipated tonight as the front drops south.
+
+The front will stall nearby or overhead through Thursday, 
+increasing the potential for showers and thunderstorms. There will
+also be a large contrast in temperatures from northeast to 
+southwest across the area on Thursday. Winds should be light but
+with variable directions given the front nearby. RH will also be
+notably higher given onshore flow.
+
+
+.EARLY THIS MORNING...
+
+Sky/weather.........Partly cloudy (40-50 percent). 
+CWR.................0 percent. 
+Chance of thunder...2 percent. 
+Min temperature.....Around 57. 
+Max humidity........86 percent. 
+Wind (20 ft)........West winds around 12 mph with gusts to around 
+                    24 mph. 
+Mixing height.......400 ft AGL. 
+Transport winds.....West around 18 mph. 
+Smoke dispersal.....Poor (5800 knot-ft). 
+
+TIME (EDT)      5AM 
+Sky (%).........46  
+Weather cov.....    
+Weather type....    
+Tstm cov........    
+CWR.............0   
+Chc of thdr (%).0   
+Temp............57  
+RH..............83  
+20 FT wind dir..W   
+20 FT wind spd..12  
+20 FT wind gust.24  
+Mix hgt (kft)...0.4 
+Transp wind dir.W   
+Transp wind spd.18  
+Vrate kt-ft/1K..6   
+Ventrate Cat....PR  
+
+.TODAY...
+
+Sky/weather.........Partly sunny (60-70 percent). Isolated showers 
+                    and thunderstorms early in the afternoon. 
+                    Numerous rain showers and scattered 
+                    thunderstorms late in the afternoon. 
+CWR.................10 percent increasing to 60 percent. 
+Chance of thunder...40 percent. 
+Max temperature.....Around 74. 
+Min humidity........55 percent. 
+Wind (20 ft)........West winds 10 to 12 mph with gusts to around 24 
+                    mph. Gusty and erratic winds expected near 
+                    thunderstorms in the afternoon. 
+Mixing height.......4500 ft AGL. 
+Transport winds.....West 15 to 23 mph. 
+Smoke dispersal.....Poor (4600 knot-ft) early in the morning 
+                    increasing to excellent (74100 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........52  62  54  52  57  54  63  50  76  71  76  70  
+Weather cov.....                            ISO NUM NUM NUM NUM 
+Weather type....                            RW  RW  RW  RW  RW  
+Tstm cov........                            ISO SCT SCT SCT SCT 
+CWR.............0   0   0   0   0   0   10  20  60  60  60  60  
+Chc of thdr (%).0   0   0   0   0   0   10  20  40  40  40  40  
+Temp............57  57  57  60  64  69  71  72  73  74  73  72  
+RH..............83  83  86  81  75  63  59  57  55  55  57  59  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   SW  SW  SW  
+20 FT wind spd..12  12  10  10  10  10  10  10  10  10  10  10  
+20 FT wind gust.24  23  23  23  23  24  24  23  22  22  22  21  
+Mix hgt (kft)...0.3 0.4 0.4 1.3 2.8 3.7 4.1 4.3 4.5 4.0 3.4 2.8 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   SW  
+Transp wind spd.17  15  16  20  23  23  21  18  18  20  18  17  
+Vrate kt-ft/1K..5   5   6   22  57  74  73  69  73  68  54  42  
+Ventrate Cat....PR  PR  PR  PR  FR  GD  GD  GD  GD  GD  FR  FR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (55-65 percent). Scattered 
+                    showers and thunderstorms in the evening. 
+                    Patchy fog overnight. 
+CWR.................50 percent early in the evening, then             
+                    decreasing to 10 percent overnight. 
+Chance of thunder...38 percent. 
+Min temperature.....Around 55. 
+Max humidity........100 percent. 
+Wind (20 ft)........Southwest winds 5 to 9 mph with gusts to around 
+                    20 mph in the evening and overnight becoming 
+                    light. Gusty and erratic winds expected near 
+                    thunderstorms. 
+Mixing height.......200 ft AGL. 
+Transport winds.....Southwest 9 to 18 mph decreasing to around 8 
+                    mph early in the morning. 
+Smoke dispersal.....Good (37600 knot-ft) early in the evening 
+                    decreasing to poor (1100 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........68  61  59  58  53  54  49  50  60  55  42  47  
+Weather cov.....SCT SCT SCT SCT SCT ISO PTY PTY PTY PTY PTY PTY 
+Weather type....RW  RW  RW  RW  RW  RW  FOG FOG FOG FOG FOG FOG 
+Tstm cov........SCT SCT ISO ISO ISO                             
+CWR.............50  30  40  30  30  20  10  10  0   0   10  10  
+Chc of thdr (%).40  30  20  20  20  10  10  10  0   0   10  0   
+Temp............70  66  64  63  61  60  59  58  58  57  57  56  
+RH..............61  70  75  78  84  87  87  90  86  93  90  93  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  W   SW  W   
+20 FT wind spd..9   8   7   6   6   6   6   5   5   5   3   3   
+20 FT wind gust.20  20  18  17  16  15  14  13  12  12  12  12  
+Mix hgt (kft)...2.4 0.8 0.3 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.SW  SW  SW  W   SW  SW  SW  SW  SW  W   W   SW  
+Transp wind spd.18  15  13  12  12  13  12  12  12  13  9   8   
+Vrate kt-ft/1K..38  11  3   2   2   2   2   2   2   2   1   1   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent) then becoming 
+                    mostly cloudy (65-75 percent). Patchy fog early 
+                    in the morning. Slight chance of showers and 
+                    thunderstorms in the morning, then rain showers 
+                    likely and chance of thunderstorms in the 
+                    afternoon. 
+CWR.................10 percent increasing to 60 percent. 
+Chance of thunder...26 percent. 
+Max temperature.....Around 75. 
+Min humidity........59 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the morning, then shifting to the south 7 to 12 
+                    mph with gusts to around 24 mph late in the 
+                    morning. Gusty and erratic winds expected near 
+                    thunderstorms. 
+Mixing height.......4900 ft AGL. 
+Transport winds.....Southwest 7 to 16 mph shifting to the south 17 
+                    to 20 mph late in the afternoon. 
+Smoke dispersal.....Poor (800 knot-ft) early in the morning 
+                    increasing to excellent (73300 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........30  33  40  40  40  40  50  61  71  71  71  71  
+Weather cov.....PTY PTY SCH SCH SCH SCH SCH SCH LKY LKY LKY LKY 
+Weather type....FOG FOG RNF RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                    SCH SCH SCH CHC CHC CHC SCH 
+CWR.............10  0   20  20  20  20  20  20  60  60  60  60  
+Chc of thdr (%).0   0   10  10  10  20  20  20  30  30  30  20  
+Temp............56  55  57  58  63  68  71  73  73  74  74  73  
+RH..............93  100 93  96  84  73  66  62  62  59  59  62  
+20 FT wind dir..SW  W   SW  SW  SW  S   S   S   S   S   S   S   
+20 FT wind spd..3   5   5   6   6   7   8   9   10  12  12  12  
+20 FT wind gust.12  12  13  14  16  18  20  22  22  23  24  24  
+Mix hgt (kft)...0.2 0.1 0.1 0.7 1.1 2.1 2.8 3.9 4.9 4.9 4.3 3.4 
+Transp wind dir.W   W   SW  SW  SW  SW  SW  SW  S   S   S   S   
+Transp wind spd.7   7   8   12  12  12  13  14  16  17  18  20  
+Vrate kt-ft/1K..1   1   1   7   11  21  31  47  68  73  69  57  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  FR  GD  GD  GD  FR  
+
+$$
+Forecaster...Hofmann
+Requested by...Aaron Strobel
+Type of request...PRESCRIBED
+.TAG 2608691.2/LWX
+.DELDT 04/01/26
+.FormatterVersion 2.0.0
+.EMAIL aaron.p.strobel@usda.gov,colten.moor@usda.gov,james.collett@usda.gov
+

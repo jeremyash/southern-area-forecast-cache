@@ -1,0 +1,109 @@
+
+000
+FNUS74 KLZK 250644
+FWSLZK
+
+Spot Forecast for CW Sharp Top1...USFS
+National Weather Service Little Rock AR
+144 AM CDT Wed Mar 25 2026
+
+Forecast is based on ignition time of 0700 CDT on March 25. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Very warm conditions will return to the region as an upper ridge
+expands closer to Arkansas. Moisture levels will also rise some
+for the next few days...keeping RH level from dropping to near
+critical levels. Some rain chances return for Friday as a new
+front drops south through the state. Very dry air will arrive for
+the weekend behind this front.
+
+
+
+.REST OF TODAY...
+
+Max temperature.....51 at ignition...Max 84. 
+Min humidity........77 percent at ignition...Min 43 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Sunny (10-20 percent). 
+Peak Category Day...4. 
+
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Temp............51  53  57  64  69  73  77  80  82  83  83  
+RH..............77  74  67  58  55  53  52  49  46  43  43  
+20 FT wind dir..SE  S   S   S   SW  SW  SW  SW  S   S   S   
+20 FT wind spd..2   2   2   3   5   5   6   6   7   6   6   
+20 FT wind gust.    6   8   10  11  12  14  14  14  14  13  
+MixHgtAGL (kft).0.4 0.5 0.7 1.2 1.9 2.7 3.6 4.7 5.5 5.5 4.2 
+Category Day....1   1   1   1   2   3   3   4   4   4   4   
+Transp wind dir.S   S   SW  SW  SW  SW  S   S   S   S   S   
+Transp wind spd.7   8   10  12  13  14  15  15  15  15  14  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 62. 
+Max humidity........Max 87 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Mostly clear (5-15 percent). 
+Peak Category Day...3. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR MCR MCR MCR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............82  81  77  73  71  69  69  67  67  66  65  63  
+RH..............43  44  48  55  59  63  66  70  70  73  75  81  
+20 FT wind dir..S   S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   5   5   5   5   5   5   5   5   5   5   5   
+20 FT wind gust.13  11  11  11  11  11  12  12  12  12  13  14  
+MixHgtAGL (kft).2.2 0.6 0.2 0.2 0.4 0.4 0.4 0.4 0.5 0.5 0.5 0.4 
+Category Day....3   1   1   1   1   1   1   1   1   1   1   1   
+Transp wind dir.S   S   S   S   S   S   SW  SW  SW  SW  SW  SW  
+Transp wind spd.14  13  12  12  12  12  13  13  13  14  14  14  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.THURSDAY...
+
+Max temperature.....Max 86. 
+Min humidity........Min 38 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Sunny (0-10 percent). 
+Peak Category Day...5. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR MCR MCR MCR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............63  63  62  65  70  74  78  81  83  84  85  84  
+RH..............81  81  87  81  68  59  52  46  43  40  39  38  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  S   S   S   
+20 FT wind spd..6   6   6   7   7   8   8   8   8   9   9   9   
+20 FT wind gust.14  14  14  16  18  18  18  18  18  18  18  18  
+MixHgtAGL (kft).0.4 0.4 0.7 1.2 1.8 2.5 3.3 3.9 4.3 4.5 4.3 3.5 
+Category Day....1   1   1   2   3   4   4   4   4   5   4   4   
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.13  14  16  20  23  24  24  24  25  26  26  23  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...62
+Requested by...Justus Beggs
+Type of request...PRESCRIBED
+.TAG 2607705.0/LZK
+.DELDT 03/25/26
+.FormatterVersion 2.0.0
+.EMAIL amanda.gee@usda.gov,justus.beggs@usda.gov
+

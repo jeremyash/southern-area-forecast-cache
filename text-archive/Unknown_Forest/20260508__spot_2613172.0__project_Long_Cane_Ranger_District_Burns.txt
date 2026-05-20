@@ -1,0 +1,175 @@
+
+000
+FNUS72 KCAE 081851
+FWSCAE
+
+Spot Forecast for Long Cane Ranger District Burns...Forest Service
+National Weather Service Columbia SC
+251 PM EDT Fri May 8 2026
+
+Forecast is based on ignition time of 0000 EDT on May 11. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Widespread showers and storms expected on Monday as a front crosses 
+the region; total rainfall between 0.5-1.5" expected. Winds will 
+shift from southwesterly to northerly by the afternoon as the front
+passes through. Dry air fills in behind the front on Tuesday with 
+light and variable winds as high pressure builds in. Winds return 
+to southwesterly by Wednesday as high pressure shifts offshore. Rain
+chances remain low through the end of next week. 
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (50-60 percent). Chance of 
+                    showers. 
+Chance of pcpn......40 percent. 
+Min temperature.....Around 65. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Southwest 9 to 12 mph. 
+LVORI...............8. 
+ADI.................4 to 5. 
+
+TIME (EDT)      MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........55  56  57  57  57  57  
+Weather cov.....CHC CHC CHC CHC CHC CHC 
+Weather type....RW  RW  RW  RW  RW  RW  
+Tstm cov........                        
+Chc of pcpn (%).30  30  40  40  40  40  
+Temp............68  67  67  66  65  65  
+RH..............93  97  97  97  100 97  
+Aparnt tmp (F)..68  67  67  66  65  65  
+20 FT wind dir..S   S   S   SW  SW  SW  
+20 FT wind dir..190 200 200 210 220 220 
+20 FT wind spd..2   2   2   2   2   2   
+20 FT wind gust.7   7   7   7   7   7   
+Mix hgt (kft)...0.6 0.7 0.7 0.7 0.5 0.5 
+Transp wind dir.SW  SW  SW  SW  SW  SW  
+Transp wind dir.210 220 220 220 230 230 
+Transp wind spd.10  12  12  10  9   9   
+LVORI...........6   7   9   9   8   8   
+ADI.............5   5   5   5   4   4   
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (75-85 percent). Showers likely 
+                    and slight chance of thunderstorms in the 
+                    morning, then showers and chance of 
+                    thunderstorms in the afternoon. 
+Chance of pcpn......90 percent. 
+Max temperature.....Around 82. 
+Min humidity........62 percent. 
+Wind (20 ft)........Light winds becoming west 5 to 7 mph in the 
+                    late morning and early afternoon, then shifting 
+                    to the northwest around 7 mph late in the 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms late in the morning. 
+Mixing height.......2400 ft AGL. 
+Transport winds.....West 10 to 13 mph shifting to the north around 
+                    13 mph late in the afternoon. 
+LVORI...............6 early in the morning. 
+ADI.................5 to 11 early in the morning. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........64  71  78  78  78  78  84  89  95  95  95  95  
+Weather cov.....CHC CHC LKY LKY LKY LKY LKY LKY DEF DEF DEF DEF 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                    SCH SCH SCH CHC CHC CHC CHC 
+Chc of pcpn (%).40  40  70  70  70  70  70  70  90  90  90  90  
+Temp............65  66  67  70  74  77  79  80  80  80  79  77  
+RH..............97  93  93  87  79  74  69  65  62  62  64  69  
+Aparnt tmp (F)..65  66  67  70  74  77  79  82  82  82  79  77  
+20 FT wind dir..SW  SW  SW  SW  W   W   W   W   W   W   NW  NW  
+20 FT wind dir..220 230 230 240 250 250 250 260 260 280 310 320 
+20 FT wind spd..2   3   3   5   5   6   6   6   7   7   7   7   
+20 FT wind gust.8   9   11  11  11  11  12  14  15  15  15  15  
+Mix hgt (kft)...0.6 0.8 1.1 1.5 1.9 2.3 2.4 2.4 2.3 2.2 2.1 1.9 
+Transp wind dir.SW  SW  SW  W   W   W   W   W   W   NW  N   N   
+Transp wind dir.230 240 240 250 260 260 270 280 280 310 000 020 
+Transp wind spd.10  12  13  13  13  13  13  13  13  13  13  13  
+LVORI...........7   5   M   M   M   M   M   M   M   M   M   M   
+ADI.............5   11  M   M   M   M   M   M   M   M   M   M   
+
+.MONDAY NIGHT...
+
+Sky/weather.........Mostly cloudy (80-90 percent) then becoming 
+                    partly cloudy (40-50 percent). Rain showers and 
+                    chance of thunderstorms early in the evening, 
+                    then chance of rain showers early in the 
+                    evening. 
+Chance of pcpn......90 percent. 
+Min temperature.....Around 52. 
+Max humidity........100 percent. 
+Wind (20 ft)........North winds around 6 mph. Gusty and erratic 
+                    winds expected near thunderstorms early in the 
+                    evening. 
+Mixing height.......700 ft AGL. 
+Transport winds.....Northeast 12 to 13 mph. 
+LVORI...............MISSING. 
+ADI.................MISSING. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........95  95  71  71  71  71  71  71  47  47  47  47  
+Weather cov.....DEF DEF CHC CHC CHC CHC CHC CHC                 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW                  
+Tstm cov........CHC CHC                                         
+Chc of pcpn (%).90  90  30  30  30  30  30  30  0   0   0   0   
+Temp............75  72  72  68  65  62  60  59  58  56  54  53  
+RH..............71  76  81  87  93  97  100 96  96  96  100 96  
+Aparnt tmp (F)..75  72  72  68  65  62  60  59  58  56  54  53  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind dir..340 010 010 020 020 020 020 020 020 020 020 020 
+20 FT wind spd..6   6   6   6   6   6   6   6   6   6   6   6   
+20 FT wind gust.15  14  14  14  14  14  14  14  14  14  14  14  
+Mix hgt (kft)...1.7 1.5 1.3 1.1 1.0 0.9 0.8 0.8 0.8 0.8 0.7 0.8 
+Transp wind dir.N   NE  NE  NE  NE  NE  NE  NE  NE  NE  N   N   
+Transp wind dir.020 030 030 030 030 030 030 030 030 030 020 020 
+Transp wind spd.13  12  12  12  13  13  13  12  12  12  12  12  
+LVORI...........M   M   M   M   M   M   M   M   M   M   M   M   
+ADI.............M   M   M   M   M   M   M   M   M   M   M   M   
+
+.TUESDAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 72. 
+Min humidity........38 percent. 
+Wind (20 ft)........Northeast winds 5 to 7 mph in the morning and 
+                    early afternoon becoming light. 
+Mixing height.......6500 ft AGL. 
+Transport winds.....Northeast 7 to 13 mph. 
+LVORI...............MISSING. 
+ADI.................MISSING. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........47  47  8   8   8   8   8   8   2   2   2   2   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............52  52  53  56  60  64  66  68  69  71  72  72  
+RH..............93  89  83  74  64  56  50  47  44  39  38  38  
+Aparnt tmp (F)..52  52  53  56  60  64  66  68  69  71  72  72  
+20 FT wind dir..N   N   N   N   NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind dir..020 020 020 020 030 030 030 030 030 030 030 030 
+20 FT wind spd..6   7   7   7   7   7   6   6   5   3   3   2   
+20 FT wind gust.14  14  14  14  14  14  13  12  11  9   7   6   
+Mix hgt (kft)...1.0 1.3 1.8 2.7 3.7 4.6 5.2 5.6 5.8 6.3 6.5 6.1 
+Transp wind dir.N   NE  NE  NE  NE  NE  NE  N   N   N   N   N   
+Transp wind dir.020 030 030 030 030 030 030 020 020 020 020 020 
+Transp wind spd.12  12  12  12  13  13  12  10  9   8   8   7   
+LVORI...........M   M   M   M   M   M   M   M   M   M   M   M   
+ADI.............M   M   M   M   M   M   M   M   M   M   M   M   
+
+$$
+Forecaster...Gropp
+Requested by...Shawn Donnelly
+Type of request...PRESCRIBED
+.TAG 2613172.0/CAE
+.DELDT 05/08/26
+.FormatterVersion 2.0.0
+.EMAIL shawn.donnelly@usda.gov
+

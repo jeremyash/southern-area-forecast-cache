@@ -1,0 +1,138 @@
+
+000
+FNUS71 KRNK 072107
+FWSRNK
+
+Spot Forecast for Big Wilson Rx...USFS
+National Weather Service Blacksburg VA
+507 PM EDT Tue Apr 7 2026
+
+Forecast is based on ignition time of 1700 EDT on April 07. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Dry high pressure will cover the region through the end of the
+week, with the center passing overhead on Thursday. Clear skies
+and no precipitation expected through the week. The very dry
+airmass overhead will result in minimum RH's dropping into the low
+20% range again Wednesday afternoon, then gradually rising a bit 
+by the end of the work week. Northwest winds today will turn 
+northeasterly late tonight, then southeasterly by early Wednesday 
+afternoon. Slightly lower wind gusts Wednesday, 20 ft winds may 
+gust up to 15 mph. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 50. 
+Min humidity........21 percent. 
+Wind (20 ft)........Northwest winds 6 to 7 mph with gusts to around 
+                    16 mph. 
+Mixing height.......4700 ft AGL. 
+Mixing winds........North around 10 mph. 
+Smoke dispersal.....Good (42100 knot-ft). 
+LVORI...............1. 
+ADI.................59. 
+
+TIME (EDT)      5PM 
+Sky (%).........2   
+Weather cov.....    
+Weather type....    
+Tstm cov........    
+CWR.............0   
+Temp............49  
+RH..............21  
+20 FT wind dir..NW  
+20 FT wind spd..7   
+20 FT wind gust.16  
+Mix hgt (kft)...4.7 
+Mixng wind dir..N   
+Mixng wind spd..10  
+LVORI...........1   
+ADI.............59  
+VRate mph-ft/1K.51  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 28. 
+Max humidity........56 percent. 
+Wind (20 ft)........North winds 5 to 7 mph shifting to the 
+                    northeast with gusts to around 16 mph late in 
+                    the evening. 
+Mixing height.......200 ft AGL. 
+Mixing winds........North 6 to 9 mph shifting to the northeast late 
+                    in the evening. 
+Smoke dispersal.....Good (34400 knot-ft) early in the evening 
+                    decreasing to poor (800 knot-ft) late in the 
+                    night. 
+LVORI...............2. 
+ADI.................47 early in the evening decreasing to 4 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........4   4   4   5   5   2   5   5   5   5   4   5   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............48  46  42  41  39  37  35  34  32  31  30  29  
+RH..............21  23  28  30  33  36  38  41  44  47  49  51  
+20 FT wind dir..NW  N   N   N   N   NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..6   6   6   6   7   7   7   7   7   7   6   6   
+20 FT wind gust.14  14  14  14  14  16  14  14  16  14  14  14  
+Mix hgt (kft)...4.3 3.4 0.4 0.2 0.2 0.2 0.2 0.2 0.3 0.2 0.2 0.2 
+Mixng wind dir..N   N   N   N   NE  NE  NE  NE  E   E   E   E   
+Mixng wind spd..9   8   7   6   6   6   7   8   9   9   8   8   
+LVORI...........1   2   2   2   2   2   2   2   2   2   2   2   
+ADI.............47  5   5   4   4   4   5   5   6   6   6   5   
+VRate mph-ft/1K.40  26  3   2   2   2   3   3   3   3   3   3   
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 52. 
+Min humidity........23 percent. 
+Wind (20 ft)........East winds 5 to 6 mph shifting to the southeast 
+                    around 6 mph in the afternoon. 
+Mixing height.......3300 ft AGL. 
+Mixing winds........East 8 to 12 mph shifting to the southeast 9 to 
+                    10 mph late in the afternoon. 
+Smoke dispersal.....Poor (2100 knot-ft) early in the morning 
+                    increasing to fair (29400 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................6 to 41. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........6   5   4   5   2   5   5   6   6   4   4   4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............28  28  29  31  35  39  42  46  49  50  51  51  
+RH..............52  56  52  46  39  33  29  26  27  23  24  24  
+20 FT wind dir..E   E   E   E   E   E   E   SE  SE  SE  SE  SE  
+20 FT wind spd..6   6   6   6   6   6   6   6   6   6   6   6   
+20 FT wind gust.13  13  13  13  14  14  14  13  14  14  14  14  
+Mix hgt (kft)...0.3 0.3 0.5 1.0 1.4 1.9 2.2 2.6 2.9 3.3 3.2 3.2 
+Mixng wind dir..E   E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+Mixng wind spd..9   10  12  10  9   8   8   8   9   9   10  10  
+LVORI...........2   2   2   2   2   2   2   2   1   1   1   1   
+ADI.............6   11  12  15  18  20  23  29  35  39  40  41  
+VRate mph-ft/1K.3   4   8   12  14  16  18  23  28  32  33  34  
+
+$$
+Forecaster...Sava
+Requested by...Adam Christie
+Type of request...PRESCRIBED
+.TAG 2609424.0/RNK
+.DELDT 04/07/26
+.FormatterVersion 2.0.0
+.EMAIL brent.foltz@usda.gov,adam.christie@usda.gov,daniel.martin@tnc.org,eric.homan@TNC.org
+

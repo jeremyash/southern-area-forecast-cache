@@ -1,0 +1,111 @@
+
+000
+FNUS74 KHUN 231042
+FWSHUN
+
+Spot Forecast for Inman Creek...USFS
+National Weather Service Huntsville AL
+542 AM CDT Thu Apr 23 2026
+
+Forecast is based on ignition time of 0900 CDT on April 23. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Although no rain is forecast today, chances will return on 
+Friday. Wetting rains are not anticipated until Friday evening, 
+however. Moisture will therefore increase through late week, with 
+minimum relative humidity values at the burn site around 33% today
+and 43% on Friday. Mixing heights are forecast to top out at 
+around 7800 feet this afternoon and around 6000 feet Friday 
+afternoon. In addition, southerly transport winds around 15 mph 
+today are expected to shift to be more southwesterly on Friday.
+
+.TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 83. 
+Min humidity........32 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph late in 
+                    the morning. 
+Mixing height.......7600 ft AGL. 
+Transport winds.....South 9 to 16 mph. 
+LVORI...............6 decreasing to 1 through late morning. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........2   1   3   3   24  16  17  23  16  
+WEATHER COV.....                                    
+WEATHER TYPE....                                    
+TEMP............65  72  76  78  80  80  81  82  83  
+RH..............75  62  50  43  38  38  35  33  32  
+20 FT WIND DIR..210 200 190 190 190 190 180 180 200 
+20 FT WIND SPD..2   2   5   6   6   6   7   6   6   
+20 FT WIND GUST.9   12  13  14  15  15  15  15  13  
+MIX HGT (KFT)...1.3 2.6 4.9 6.6 7.1 7.0 7.6 7.4 6.1 
+TRANSP WIND DIR.220 210 190 190 190 190 190 190 190 
+TRANSP WIND SPD.9   10  14  16  16  15  15  15  14  
+DISPERSION IDX..4   5   85  128 137 125 119 131 103 
+LVORI...........6   1   1   1   1   1   1   1   1   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Min temperature.....Around 57. 
+Max humidity........95 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....South 10 to 13 mph. 
+LVORI...............1 increasing to 6 through early morning. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+SKY (%).........30  10  2   3   2   3   7   7   6   3   4   5   
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............81  76  71  68  66  65  63  62  62  60  59  58  
+RH..............34  43  53  59  63  65  67  72  72  81  87  90  
+20 FT WIND DIR..190 170 160 150 150 160 170 180 190 190 180 180 
+20 FT WIND SPD..3   2   2   2   2   2   2   2   2   2   2   2   
+20 FT WIND GUST.12                                              
+MIX HGT (KFT)...2.6 0.4 0.4 0.4 0.3 0.4 0.4 0.5 0.4 0.4 0.4 0.4 
+TRANSP WIND DIR.190 180 180 170 170 180 180 190 200 190 200 190 
+TRANSP WIND SPD.12  10  10  10  10  12  13  13  13  13  13  12  
+DISPERSION IDX..39  5   4   4   4   5   6   6   6   6   6   5   
+LVORI...........1   2   2   2   3   3   3   4   4   4   6   6   
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). Chance of rain 
+                    showers in the afternoon. 
+Max temperature.....Around 81. 
+Min humidity........45 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the late morning and afternoon. 
+Mixing height.......5700 ft AGL. 
+Transport winds.....Southwest 10 to 17 mph. 
+LVORI...............6 decreasing to 1 through late morning. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........12  20  20  23  26  32  38  44  49  55  60  62  
+WEATHER COV.....                            CHC CHC CHC CHC CHC 
+WEATHER TYPE....                            RW  RW  RW  RW  RW  
+TEMP............57  59  61  66  72  75  77  79  80  81  81  80  
+RH..............93  93  90  77  64  56  51  48  46  45  46  48  
+20 FT WIND DIR..180 180 190 200 200 200 210 210 210 210 210 210 
+20 FT WIND SPD..2   2   3   5   6   7   7   7   7   7   7   6   
+20 FT WIND GUST.        15  16  16  16  17  17  17  17  16  15  
+MIX HGT (KFT)...0.4 0.4 1.2 2.1 2.9 3.8 4.6 5.2 5.7 5.7 5.3 3.8 
+TRANSP WIND DIR.190 190 200 200 200 200 210 210 210 210 210 210 
+TRANSP WIND SPD.12  10  15  17  17  17  16  15  15  15  15  14  
+DISPERSION IDX..5   5   7   8   8   79  87  90  96  66  63  50  
+LVORI...........6   5   5   5   1   1   1   1   1   1   1   1   
+
+$$
+Forecaster...Amiot
+Requested by...Clark
+Type of request...PRESCRIBED
+.TAG 2611407.0/HUN
+.DELDT 04/23/26
+.FormatterVersion 2.0.0
+.EMAIL kerry.clark@usda.gov,gary.c.moore@usda.gov
+

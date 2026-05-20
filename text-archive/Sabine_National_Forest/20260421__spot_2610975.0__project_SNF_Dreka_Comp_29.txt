@@ -1,0 +1,94 @@
+
+000
+FNUS74 KSHV 211020
+FWSSHV
+
+Spot Forecast for SNF Dreka Comp. 29...US Forest Service
+National Weather Service Shreveport LA
+520 AM CDT Tue Apr 21 2026
+
+Forecast is based on ignition time of 0600 CDT on April 21. 
+If conditions become unrepresentative, contact your National 
+Weather Service office at (318) 631-3669 ext. 241. And likewise 
+if you have questions or concerns with this forecast.
+
+.DISCUSSION...
+
+Clouds have been increasing overhead with rain not far behind with
+radar showing showers on approach. Patchy wetting rains now over
+Angelina County moving at 22 mph to the ENE. Lighter and more
+spotty activity is just capable of trace amounts for now, but that
+will change toward daybreak. The radar imagery is showing a back
+edge to the band of showers now moving over SW Trinity County. So
+the rain should only be a couple of hours in coming and duration
+until heating helps to increase coverage yet again. It is lower
+50s now and ideal temperatures for dispersion are hours away and
+likely not going to occur until late this morning. Mixing will be
+limited in height to just over possibly 2kft early this afternoon. 
+
+.TODAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........81  86  84  81  83  85  88  90  90  93  94  87  
+Weather cov.....    CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC 
+Weather type....    RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                                                
+CWR.............10  30  30  30  40  40  40  40  40  40  40  40  
+Temp............55  56  57  59  63  65  66  66  67  67  67  66  
+RH..............80  77  77  78  67  63  61  61  61  61  63  65  
+20 FT wind dir..N   E   E   E   SE  SE  SE  S   S   S   S   S   
+20 FT wind mph..0   1   1   1   2   2   2   3   3   3   2   2   
+20 FT wind gust.5   6   6   7   8   9   10  12  12  12  12  12  
+Mix hgt (kft)...0.4 0.4 0.4 0.5 1.0 1.8 2.1 2.2 2.3 2.5 2.2 2.2 
+Mix hgt (km)....0.1 0.1 0.1 0.2 0.3 0.5 0.6 0.7 0.7 0.8 0.7 0.7 
+Transp wind dir.E   SE  SE  SE  S   S   S   S   S   S   S   S   
+Transp wind spd.5   6   5   6   9   12  12  13  13  13  10  13  
+Trans wind dir..E   SE  SE  SE  S   S   S   S   S   S   S   S   
+Trans spd (m/s).2   3   2   3   4   5   5   6   6   6   4   6   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........88  92  89  79  68  65  66  59  45  62  68  68  
+Weather cov.....CHC SCH SCH SCH                         SCH SCH 
+Weather type....RW  RW  RW  RW                          RW  RW  
+Tstm cov........                                                
+CWR.............40  20  20  20  10  10  10  10  10  10  20  20  
+Temp............66  65  62  61  61  60  60  60  59  58  58  58  
+RH..............65  73  81  84  81  87  87  84  90  93  93  93  
+20 FT wind dir..S   SE  SE  SE  SE  SE  SE  E   E   E   E   E   
+20 FT wind mph..2   1   1   1   1   1   1   1   1   1   1   1   
+20 FT wind gust.9   8   7   7   7   6   7   7   7   7   7   7   
+Mix hgt (kft)...1.4 0.8 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mix hgt (km)....0.4 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.S   S   E   E   E   E   E   E   E   E   SE  SE  
+Transp wind spd.12  12  7   7   6   7   7   8   8   8   7   8   
+Trans wind dir..S   S   E   E   E   E   E   E   E   E   SE  SE  
+Trans spd (m/s).5   5   3   3   3   3   3   4   4   4   3   4   
+
+.WEDNESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........63  80  78  73  67  63  60  79  79  79  79  79  
+Weather cov.....SCH CHC CHC CHC CHC CHC CHC LKY LKY LKY LKY LKY 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........    SCH SCH SCH SCH SCH SCH CHC CHC CHC CHC CHC 
+CWR.............20  40  40  40  40  40  40  60  60  60  60  60  
+Temp............57  59  60  63  67  70  72  74  75  76  77  76  
+RH..............100 96  96  90  84  78  76  74  71  69  67  69  
+20 FT wind dir..E   E   E   E   SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind mph..1   2   2   2   2   2   2   5   5   5   3   3   
+20 FT wind gust.8   8   9   10  10  12  12  13  14  14  14  14  
+Mix hgt (kft)...0.4 0.4 0.6 1.0 1.4 1.9 2.5 3.1 3.3 3.3 3.0 2.4 
+Mix hgt (km)....0.1 0.1 0.2 0.3 0.4 0.6 0.8 0.9 1.0 1.0 0.9 0.7 
+Transp wind dir.SE  SE  SE  S   S   S   S   S   S   S   S   S   
+Transp wind spd.8   7   8   12  10  10  12  12  10  10  9   10  
+Trans wind dir..SE  SE  SE  S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).4   3   4   5   4   4   5   5   4   4   4   4   
+
+$$
+Forecaster...CHATELAIN
+Requested by...Joey Silva
+Type of request...PRESCRIBED
+.TAG 2610975.0/SHV
+.DELDT 04/21/26
+.FormatterVersion 2.0.0
+.EMAIL joey.silva@usda.gov
+

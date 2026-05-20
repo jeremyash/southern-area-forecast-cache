@@ -1,0 +1,102 @@
+
+000
+FNUS74 KFWD 131308
+FWSFWD
+
+Spot Forecast for Harris RX...US Fish and Wildlife Service
+National Weather Service Fort Worth TX
+808 AM CDT Fri Mar 13 2026
+
+Forecast is based on ignition time of 0800 CDT on March 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Warmer conditions are expected today and tomorrow with breezy
+south winds. Steady speeds generally near 8 to 13 mph will
+continue today, with a slight shift to SE winds expected late
+afternoon/early evening. Afternoon humidity will bottom out near 
+30-35% with a high in the mid 70s. Overnight, speeds of 5 to 8 mph
+are expected with humidity recovering to 90%. Saturday will be a
+few degrees warmer with a high near 80 degrees, along with 
+breezier winds. Speeds will be sustained primarily between 10 to 
+16 mph with gusts up to 20 mph in the morning and between 25 to 30
+mph in the afternoon. Increased moisture will keep afternoon 
+humidity near 40% Saturday with mostly clear skies. No rain is 
+forecast. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 75. 
+Min humidity........34 percent. 
+Wind (20 ft)........South winds 5 to 15 mph. 
+Mixing height.......2900 ft AGL. 
+Transport winds.....South 10 to 20 mph decreasing to 10 to 15 mph in 
+                    the afternoon. 
+
+TIME (CDT)      8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........8      8      2      1      2      
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Temp............48     56     64     71     74     
+RH..............60     53     41     35     34     
+20 ft wind......S 10   S 10   S 9    S 8    S 8    
+20 ft wind gust.17     16     14     12     13     
+Mix hgt (ft)....500    1200   1800   2500   2900   
+Transport wind..S 18   S 21   S 12   S 9    S 15   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Min temperature.....Around 51. 
+Max humidity........89 percent. 
+Wind (20 ft)........Southeast winds 5 to 8 mph. 
+Mixing height.......500 ft AGL. 
+Transport winds.....South 10 to 20 mph. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........2      3      5      5      2      4      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Temp............74     69     63     59     58     56     
+RH..............35     45     58     64     69     74     
+20 ft wind......S 7    SE 6   SE 6   SE 6   S 7    S 8    
+20 ft wind gust.12     10     12     12     12     13     
+Mix hgt (ft)....2100   500    500    500    500    500    
+Transport wind..S 14   S 10   S 13   S 15   S 18   S 17   
+
+.SATURDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 79. 
+Min humidity........42 percent. 
+Wind (20 ft)........South winds 5 to 15 mph. 
+Mixing height.......2800 ft AGL. 
+Transport winds.....South 15 to 25 mph. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........5      13     14     19     23     26     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Temp............53     52     60     69     75     79     
+RH..............86     89     75     59     48     42     
+20 ft wind......S 8    S 10   S 12   S 13   S 15   S 15   
+20 ft wind gust.15     16     18     20     21     23     
+Mix hgt (ft)....500    700    1400   1900   2400   2800   
+Transport wind..S 17   S 16   S 18   S 18   S 20   S 23   
+
+$$
+Forecaster...Gordon
+Requested by...G. Scott
+Type of request...PRESCRIBED
+.TAG 2605630.0/FWD
+.DELDT 03/13/26
+.FormatterVersion 2.0.0
+.EMAIL gerald.scott@usda.gov
+

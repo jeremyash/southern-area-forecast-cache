@@ -1,0 +1,134 @@
+
+000
+FNUS72 KCAE 130026
+FWSCAE
+
+Spot Forecast for Price Mill Dove Field RX...USFS
+National Weather Service Columbia SC
+826 PM EDT Tue May 12 2026
+
+Forecast is based on ignition time of 1400 EDT on May 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Winds will be light and variable through Wednesday morning and 
+mid-day. As a front approaches from the west late Wednesday, we 
+should see light SW or WSW winds develop. However it is possible 
+that winds remain variable for a large portion of the afternoon. 
+RH values should stay above 30 percent through the day. Limited 
+moisture ahead of the front will likely prevent any precipitation,
+although there will be a wind shift overnight as the front moves 
+through the area shifting winds to NE during the early morning 
+hours on Thursday.
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......5 percent. 
+Max temperature.....Around 83. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph 
+                    late in the afternoon. 
+Mixing height.......5900 ft AGL. 
+Transport winds.....West 7 to 9 mph. 
+LVORI...............1. 
+ADI.................42 to 66. 
+
+TIME (EDT)      2PM 3PM 4PM 5PM 
+Sky (%).........13  7   4   1   
+Weather cov.....                
+Weather type....                
+Tstm cov........                
+Chc of pcpn (%).0   0   0   0   
+Temp............79  81  81  81  
+RH..............41  37  35  35  
+Aparnt tmp (F)..79  81  81  81  
+20 FT wind dir..W   SW  SW  SW  
+20 FT wind dir..250 230 240 240 
+20 FT wind spd..3   3   5   5   
+20 FT wind gust.8   9   9   11  
+Mix hgt (kft)...4.8 5.4 5.7 5.9 
+Transp wind dir.W   W   W   W   
+Transp wind dir.270 250 260 270 
+Transp wind spd.7   7   9   9   
+LVORI...........1   1   1   1   
+ADI.............42  46  64  66  
+
+.WEDNESDAY NIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 59. 
+Max humidity........87 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....West 5 to 9 mph shifting to the north around 9 
+                    mph early in the morning. 
+LVORI...............3. 
+ADI.................59 early in the evening decreasing to 2 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........8   9   8   7   16  7   4   0   0   17  17  22  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).10  0   0   0   0   0   0   0   0   0   0   0   
+Temp............82  81  77  71  68  67  66  65  64  63  61  61  
+RH..............41  44  54  66  73  78  81  84  84  84  87  84  
+Aparnt tmp (F)..82  81  77  71  68  67  66  65  64  63  61  61  
+20 FT wind dir..SW  W   SW  SW  W   W   W   W   W   NW  NW  NW  
+20 FT wind dir..240 250 220 210 250 260 260 280 290 300 320 330 
+20 FT wind spd..3   2   2   2   2   2   2   1   2   2   2   2   
+20 FT wind gust.9   7   6   6   6   6   6   6   6   6   7   8   
+Mix hgt (kft)...5.2 2.3 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.W   W   SW  SW  W   W   W   W   NW  NW  NW  N   
+Transp wind dir.270 260 240 230 290 260 250 270 310 300 320 340 
+Transp wind spd.9   8   5   7   8   8   9   9   9   8   9   9   
+LVORI...........1   2   2   3   3   4   5   5   5   5   5   5   
+ADI.............59  4   2   3   4   4   4   4   4   4   4   4   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 81. 
+Min humidity........27 percent. 
+Wind (20 ft)........Light winds becoming northwest 5 to 6 mph late 
+                    in the morning. 
+Mixing height.......6900 ft AGL. 
+Transport winds.....Northwest 7 to 13 mph. 
+LVORI...............3. 
+ADI.................4 early in the morning increasing to 104 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   5   2   0   1   1   1   2   2   2   1   1   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............60  59  60  63  67  72  75  77  79  80  81  81  
+RH..............81  78  75  67  56  46  38  33  30  28  27  27  
+Aparnt tmp (F)..60  59  60  63  67  72  75  77  79  79  80  80  
+20 FT wind dir..N   N   N   N   N   N   NW  NW  NW  NW  NW  NW  
+20 FT wind dir..340 350 350 000 350 340 330 320 310 310 310 310 
+20 FT wind spd..3   3   3   3   3   5   5   5   5   5   6   6   
+20 FT wind gust.8   9   9   11  11  11  11  12  12  13  14  14  
+Mix hgt (kft)...0.5 0.5 1.7 2.7 3.7 4.5 5.2 5.9 6.3 6.7 6.9 6.3 
+Transp wind dir.N   N   N   N   N   NW  NW  NW  NW  NW  NW  NW  
+Transp wind dir.000 000 000 000 350 330 330 320 310 310 310 310 
+Transp wind spd.8   7   13  9   9   10  10  10  10  12  13  13  
+LVORI...........5   4   3   3   1   1   1   1   1   1   1   1   
+ADI.............4   7   27  32  43  58  67  74  79  93  104 97  
+
+$$
+Forecaster...Rohrbach
+Requested by...Shawn Donnelly
+Type of request...PRESCRIBED
+.TAG 2613510.0/CAE
+.DELDT 05/12/26
+.FormatterVersion 2.0.0
+.EMAIL shawn.donnelly@usda.gov
+

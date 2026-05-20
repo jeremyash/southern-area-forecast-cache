@@ -1,0 +1,136 @@
+
+000
+FNUS71 KRNK 092050
+FWSRNK
+
+Spot Forecast for Panther Knob Rx...USFS
+National Weather Service Blacksburg VA
+450 PM EDT Thu Apr 9 2026
+
+Forecast is based on ignition time of 1700 EDT on April 09. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Skies remain sunny with temperatures in the mid 60s. Temperatures
+drop to around 40 overnight and increase to 70 degrees by tomorrow
+afternoon. Winds were light and variable, with Marion/Wytheville 
+RAWS reporting ENE at 5 mph, and local models showing a more ESE 
+direction 1 to 3 mph at the burn site. Winds become SE and light 
+overnight, becoming SW tomorrow and increasing slightly. Minimum 
+RH values values were between 25 to 30 percent in the area this 
+afternoon, only recovering to around 52 percent overnight, then 
+dropping to 25 percent again by tomorrow afternoon. Mixing/smoke
+dispersion will be poor to fair at times, but mixing heights do 
+increase tomorrow. No wetting rains expected into the middle of 
+next week with a warming trend.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 64. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3900 ft AGL. 
+Mixing winds........East around 1 mph. 
+Smoke dispersal.....Poor (3900 knot-ft). 
+LVORI...............2. 
+ADI.................6. 
+
+TIME (EDT)      5PM 
+Sky (%).........0   
+Weather cov.....    
+Weather type....    
+Tstm cov........    
+CWR.............0   
+Temp............63  
+RH..............26  
+20 FT wind dir..SE  
+20 FT wind spd..4   
+20 FT wind gust.13  
+Mix hgt (kft)...3.9 
+Mixng wind dir..E   
+Mixng wind spd..1   
+LVORI...........2   
+ADI.............6   
+VRate mph-ft/1K.4   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 40. 
+Max humidity........52 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Mixing winds........Southeast 3 to 8 mph shifting to the south 
+                    around 5 mph overnight. 
+Smoke dispersal.....Poor (1200 knot-ft). 
+LVORI...............2. 
+ADI.................2 to 14. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........6   5   5   3   3   4   4   6   6   7   7   5   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............62  59  56  53  51  49  47  45  43  43  42  41  
+RH..............27  30  32  33  41  43  46  44  48  46  48  52  
+20 FT wind dir..SE  SE  S   S   S   S   S   S   S   S   SW  SW  
+20 FT wind spd..4   4   4   3   3   2   2   2   2   2   2   2   
+20 FT wind gust.12  11  10  10  8   7   7   6   6   6   6   6   
+Mix hgt (kft)...3.3 1.9 0.4 0.4 0.4 0.3 0.3 0.3 0.3 0.3 0.3 0.3 
+Mixng wind dir..SE  SE  SE  SE  S   S   S   S   S   S   S   S   
+Mixng wind spd..3   6   8   8   7   6   6   5   5   5   5   5   
+LVORI...........2   2   2   2   2   2   2   2   2   2   2   2   
+ADI.............14  3   4   4   3   3   2   2   2   2   2   2   
+VRate mph-ft/1K.11  11  3   3   2   2   2   2   1   1   1   1   
+
+.FRIDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 70. 
+Min humidity........25 percent. 
+Wind (20 ft)........Light winds becoming west around 5 mph late in 
+                    the afternoon. 
+Mixing height.......5600 ft AGL. 
+Mixing winds........Southwest 3 to 6 mph shifting to the west 8 to 
+                    10 mph in the late morning and afternoon. 
+Smoke dispersal.....Poor (800 knot-ft) early in the morning 
+                    increasing to good (51100 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................2 early in the morning increasing to 72 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   6   6   3   4   5   5   7   7   9   7   14  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............42  43  44  51  56  61  64  66  68  69  69  69  
+RH..............51  49  50  42  39  33  31  30  28  28  26  25  
+20 FT wind dir..SW  SW  W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..2   2   2   2   2   3   3   3   4   4   5   5   
+20 FT wind gust.6   6   7   7   7   8   8   8   10  10  10  11  
+Mix hgt (kft)...0.3 0.3 0.3 0.5 1.6 2.4 3.4 4.5 5.4 5.6 5.4 5.2 
+Mixng wind dir..SW  SW  W   W   W   W   W   W   W   W   W   W   
+Mixng wind spd..3   3   3   6   8   10  10  10  10  10  10  10  
+LVORI...........2   2   2   2   2   1   1   1   1   1   1   1   
+ADI.............2   3   3   5   17  33  48  61  69  72  71  66  
+VRate mph-ft/1K.1   1   1   3   13  25  37  48  55  59  58  53  
+
+$$
+Forecaster...Hanes
+Requested by...Cooper
+Type of request...PRESCRIBED
+.TAG 2609865.0/RNK
+.DELDT 04/09/26
+.FormatterVersion 2.0.0
+.EMAIL Kenneth.Cooper@usda.gov
+

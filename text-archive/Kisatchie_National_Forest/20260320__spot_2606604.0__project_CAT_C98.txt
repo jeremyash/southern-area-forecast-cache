@@ -1,0 +1,79 @@
+
+000
+FNUS74 KSHV 201025
+FWSSHV
+
+Spot Forecast for CAT C98...USFS
+National Weather Service Shreveport LA
+525 AM CDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 0600 CDT on March 20. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Minimum RH values will remain in the 35 to 45 percent range with
+southerly winds at 5-10 mph. Mixing heights will maximize near 4.5kft
+in the afternoon. /16/
+
+.TODAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........25  24  29  22  23  23  17  11  9   9   15  7   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............55  54  56  59  65  70  74  77  80  81  81  82  
+RH..............96  100 100 96  81  71  62  54  47  46  46  43  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  S   S   
+20 FT wind mph..3   3   5   6   6   6   7   7   8   8   8   7   
+20 FT wind gust.13  12  13  14  15  15  16  16  16  16  17  17  
+Mix hgt (km)....0.2 0.1 0.1 0.3 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.4 
+Trans wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  S   S   S   
+Trans spd (m/s).4   4   4   6   6   6   5   5   6   6   6   6   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   4   4   4   4   1   7   9   21  30  36  37  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............80  77  74  70  67  65  64  63  62  61  60  60  
+RH..............47  52  57  66  73  78  84  87  90  93  96  96  
+20 FT wind dir..S   S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind mph..7   6   6   6   7   6   6   6   6   6   6   6   
+20 FT wind gust.16  16  16  17  18  18  17  17  16  16  16  15  
+Mix hgt (km)....1.0 0.2 0.1 0.2 0.1 0.1 0.2 0.2 0.2 0.2 0.2 0.2 
+Trans wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+Trans spd (m/s).7   6   6   7   7   7   7   7   7   6   6   6   
+
+.SATURDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........32  37  20  18  15  12  8   5   5   4   4   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............60  59  60  64  68  73  77  81  83  85  85  84  
+RH..............96  100 96  87  81  68  60  51  48  43  43  44  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind mph..6   5   6   6   6   6   7   7   7   8   8   7   
+20 FT wind gust.15  15  15  15  16  16  15  15  16  16  17  17  
+Mix hgt (km)....0.2 0.2 0.2 0.4 0.5 0.6 0.7 0.9 1.1 1.3 1.4 1.1 
+Trans wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Trans spd (m/s).6   6   6   7   7   7   7   7   7   7   7   7   
+
+$$
+Forecaster...CASSEL
+Requested by...Catahoula
+Type of request...PRESCRIBED
+.TAG 2606604.0/SHV
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL robert.dintaman@usda.gov
+

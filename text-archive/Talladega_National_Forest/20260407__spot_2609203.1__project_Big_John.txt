@@ -1,0 +1,124 @@
+
+000
+FNUS74 KBMX 072046
+FWSBMX
+
+Spot Forecast for Big John...usfs
+National Weather Service Birmingham AL
+346 PM CDT Tue Apr 7 2026
+
+Forecast is based on ignition time of 1600 CDT on April 07. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Afternoon MinRHs in the mid 20s will continue this afternoon with
+gradual recovery tonight yielding MaxRH in the 60s. MinRH on 
+Wednesday should be in the upper 20s.
+
+Northeast winds will continue to gust near 20 mph until sunset,
+becoming light through the night. East winds are forecast for
+Wednesday, again gusting near 20 mph from mid morning to sunset.
+
+Some high-level clouds will drift across the region tonight into
+Wednesday, though no rain will occur.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 75. 
+Min humidity........25 percent. 
+Wind (20 ft)........Northeast winds 6 to 7 mph. 
+Mixing height.......6500 ft AGL. 
+Transport winds.....Northeast around 18 mph. 
+Dispersion index....130. 
+LVORI...............1. 
+
+TIME (CDT)      4 PM   
+Sky (%).........6      
+Weather cov.....       
+Weather type....NONE   
+Tstm cov........       
+CWR.............0      
+Temp............75     
+RH..............25     
+20 FT wind......NE 7   
+20 FT wind gust.14     
+20 FT wind dir..040    
+Mix hgt (ft)....6500   
+Transport wind..NE 18  
+Dispersion idx..131    
+LVORI...........1      
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    mostly cloudy (50-60 percent) then becoming 
+                    partly cloudy (45-55 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 51. 
+Max humidity........66 percent. 
+Wind (20 ft)........Northeast winds around 5 mph early in the 
+                    evening becoming light, then becoming east 
+                    around 5 mph early in the morning. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Northeast 10 to 17 mph. 
+Dispersion index....87 decreasing to 7. 
+LVORI...............2. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........12     16     23     42     52     54     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............73     64     59     56     53     53     
+RH..............28     41     51     57     64     64     
+20 FT wind......NE 5   NE 3   NE 3   E 2    E 2    E 3    
+20 FT wind gust.13     12     11     10     10     11     
+20 FT wind dir..040    030    060    070    090    090    
+Mix hgt (ft)....4000   500    500    500    400    600    
+Transport wind..NE 17  NE 13  NE 12  E 12   E 10   E 12   
+Dispersion idx..87     7      7      5      5      8      
+LVORI...........1      2      2      2      3      3      
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 73. 
+Min humidity........28 percent. 
+Wind (20 ft)........East winds 5 to 7 mph. Gusts up to 16 mph late 
+                    in the morning. 
+Mixing height.......4600 ft AGL. 
+Transport winds.....East 13 to 20 mph. 
+Dispersion index....12 increasing to 78 late in the morning, then 
+                    decreasing to 56 late in the afternoon. 
+LVORI...............2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........51     45     34     33     33     36     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............52     53     62     68     71     72     
+RH..............63     61     48     37     31     29     
+20 FT wind......E 5    E 7    E 7    E 7    E 7    E 7    
+20 FT wind gust.13     14     16     16     14     14     
+20 FT wind dir..100    100    100    100    100    090    
+Mix hgt (ft)....600    1200   2300   3400   4300   4600   
+Transport wind..E 13   E 18   E 20   E 17   E 15   E 14   
+Dispersion idx..8      16     14     77     82     76     
+LVORI...........3      2      1      1      1      1      
+
+$$
+Forecaster...Satterwhite
+Requested by...will holt
+Type of request...PRESCRIBED
+.TAG 2609203.1/BMX
+.DELDT 04/07/26
+.FormatterVersion 2.0.0
+

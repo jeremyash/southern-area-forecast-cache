@@ -1,0 +1,126 @@
+
+000
+FNUS74 KHUN 231159
+FWSHUN
+
+Spot Forecast for Warren...USFS
+National Weather Service Huntsville AL
+659 AM CDT Mon Mar 23 2026
+
+Forecast is based on ignition time of 0700 CDT on March 23. If 
+conditions become unrepresentative, contact the National Weather 
+Service.
+
+.DISCUSSION...
+
+A cold front will continue to shift quickly southeastward across 
+northern AL this morning, with a gusty north-northwest wind 
+expected for the majority of the daylight hours. Although the 
+western edge of a low stratus cloud deck may impact the prescribed
+burn site this morning, chances for a sprinkle or two of rain 
+remain very low (5-10%). As skies begin to clear this afternoon, 
+temperatures will warm into the mid 60s, which will yield MinRH 
+values around 35%. Smoke plume dispersion will be good to the 
+south, due to northerly transport winds of 20-25 MPH. Overnight, a
+dense layer of high clouds will spread across the region, and 
+this along with a lighter northeast wind will be unfavorable for 
+the development of fog.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (45-55 percent) then becoming 
+                    partly sunny (50-60 percent) then becoming 
+                    sunny (10-20 percent). Slight chance of 
+                    sprinkles early in the morning. 
+Max temperature.....Around 66. 
+Min humidity........34 percent. 
+Wind (20 ft)........North winds 9 to 10 mph with gusts to around 24 
+                    mph. 
+CWR.................10 percent. 
+Mixing height.......3200 ft AGL. 
+Transport winds.....North 20 to 23 mph. 
+LVORI...............2. 
+
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........52  47  70  54  52  46  36  22  9   4   4   
+WEATHER COV.....    SCH SCH SCH SCH SCH SCH                 
+WEATHER TYPE....    RW  RW  RW  RW  RW  RW                  
+TEMP............59  57  57  57  59  61  63  64  66  66  65  
+RH..............75  75  72  69  62  56  50  45  40  37  35  
+20 FT WIND DIR..340 350 000 010 010 010 010 010 010 020 020 
+20 FT WIND SPD..10  10  10  10  12  12  10  12  10  10  10  
+20 FT WIND GUST.22  23  24  24  24  23  23  23  23  22  22  
+MIX HGT (KFT)...1.8 1.8 2.0 2.0 2.1 2.4 2.6 2.8 3.0 3.2 3.2 
+TRANSP WIND DIR.350 000 010 010 010 010 010 010 010 010 020 
+TRANSP WIND SPD.20  21  22  23  22  23  22  21  21  22  22  
+DISPERSION IDX..22  23  29  31  43  65  71  63  77  85  85  
+LVORI...........3   3   3   1   1   1   1   1   1   1   1   
+CWR.............10  10  10  10  10  10  10  0   0   0   0   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent) then becoming 
+                    mostly cloudy (55-65 percent). 
+Min temperature.....Around 44. 
+Max humidity........58 percent. 
+Wind (20 ft)........Northeast winds 6 to 9 mph. Gusts up to 21 mph 
+                    in the evening. 
+CWR.................0 percent. 
+Mixing height.......600 ft AGL. 
+Transport winds.....Northeast 13 to 22 mph. 
+LVORI...............2. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+SKY (%).........4   14  23  28  22  18  22  27  35  54  67  56  
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............64  60  56  54  53  51  50  48  47  46  45  45  
+RH..............34  38  43  47  46  48  50  54  53  56  58  56  
+20 FT WIND DIR..020 020 020 030 030 030 040 040 040 040 040 050 
+20 FT WIND SPD..10  9   9   9   8   8   7   7   7   6   6   6   
+20 FT WIND GUST.21  20  21  21  20  20  20  18  18  17  17  16  
+MIX HGT (KFT)...2.9 0.6 0.6 0.6 0.7 0.6 0.6 0.6 0.6 0.6 0.6 0.6 
+TRANSP WIND DIR.030 040 030 040 040 040 040 040 050 070 070 080 
+TRANSP WIND SPD.22  17  16  17  17  16  15  15  14  14  13  13  
+DISPERSION IDX..80  13  12  13  15  13  7   7   6   9   8   8   
+LVORI...........1   2   2   2   2   2   2   2   2   2   2   2   
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+
+.TUESDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent). 
+Max temperature.....Around 67. 
+Min humidity........30 percent. 
+Wind (20 ft)........East winds around 6 mph shifting to the 
+                    southeast 5 to 6 mph late in the morning. 
+CWR.................10 percent. 
+Mixing height.......3300 ft AGL. 
+Transport winds.....East 10 to 16 mph shifting to the southeast 
+                    around 10 mph late in the afternoon. 
+LVORI...............2. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........64  62  69  69  69  71  73  75  77  79  81  81  
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............45  44  46  49  53  57  61  64  66  67  67  66  
+RH..............56  57  53  48  43  38  34  32  30  30  31  33  
+20 FT WIND DIR..050 060 070 090 100 110 120 120 120 120 120 120 
+20 FT WIND SPD..6   6   6   6   6   6   6   6   6   6   6   5   
+20 FT WIND GUST.16  15  15  16  16  16  15  14  14  13  13  13  
+MIX HGT (KFT)...0.6 0.6 1.0 1.4 1.8 2.2 2.4 2.6 3.0 3.3 3.3 2.5 
+TRANSP WIND DIR.080 080 090 100 110 110 120 120 130 140 140 130 
+TRANSP WIND SPD.12  12  15  16  16  15  13  12  10  10  10  10  
+DISPERSION IDX..8   8   10  11  11  39  35  34  33  35  35  29  
+LVORI...........2   2   2   2   2   2   2   1   1   1   2   2   
+CWR.............0   0   0   0   0   0   0   10  10  10  10  10  
+
+$$
+Forecaster...Dixon
+Requested by...Clark
+Type of request...PRESCRIBED
+.TAG 2607222.0/HUN
+.DELDT 03/23/26
+.FormatterVersion 2.0.0
+.EMAIL kerry.clark@usda.gov
+

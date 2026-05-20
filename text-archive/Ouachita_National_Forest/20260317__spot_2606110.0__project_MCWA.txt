@@ -1,0 +1,92 @@
+
+000
+FNUS74 KSHV 171818
+FWSSHV
+
+Spot Forecast for MCWA...USFS
+National Weather Service Shreveport LA
+118 PM CDT Tue Mar 17 2026
+
+Forecast is based on ignition time of 0900 CDT on March 18. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have 
+questions or concerns with this forecast.
+
+.DISCUSSION...
+
+Dry conditions will continue throughout the week ahead with a 
+warming trend as high temperatures rebound near 70 degrees on 
+Wednesday afternoon. Minimum relative humidity values tomorrow 
+will drop into the 30-35 percent range, while mixing heights 
+climb to between 3500 and 4500 ft. 20ft southerly winds will 
+become southwesterly on Wednesday at sustained speeds averaging 
+around 10 mph with gusts closer to 15 mph or slightly higher. 
+
+.WEDNESDAY...
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........64  34  31  27  20  21  16  16  11  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+CWR.............0   0   0   0   0   0   0   0   0   
+Temp............44  50  54  58  62  66  69  70  70  
+RH..............60  54  48  45  41  37  34  35  35  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind mph..6   8   8   8   9   9   9   7   7   
+20 FT wind gust.8   10  10  12  16  16  16  10  9   
+Mix hgt (kft)...1.2 1.7 2.1 2.2 2.5 2.6 2.7 3.0 2.6 
+Mix hgt (km)....0.4 0.5 0.6 0.7 0.8 0.8 0.8 0.9 0.8 
+Transp wind dir.SW  SW  SW  SW  SW  W   W   SW  W   
+Transp wind spd.18  21  22  21  20  17  16  15  14  
+Trans wind dir..SW  SW  SW  SW  SW  W   W   SW  W   
+Trans spd (m/s).8   9   10  9   9   8   7   7   6   
+
+.WEDNESDAY NIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........7   11  14  17  20  18  14  12  11  8   7   7   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............71  68  63  58  55  54  52  51  50  48  47  47  
+RH..............35  41  48  60  66  70  72  76  79  83  86  88  
+20 FT wind dir..SW  S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..7   2   2   2   1   1   1   1   1   1   1   1   
+20 FT wind gust.    5   5   3   2   2   2   2   2   2   2   2   
+Mix hgt (kft)...2.3 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 
+Mix hgt (km)....0.7 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.W   SW  SW  S   SW  S   SW  SW  SW  SW  SW  SW  
+Transp wind spd.13  7   7   8   8   9   9   9   9   9   9   9   
+Trans wind dir..W   SW  SW  S   SW  S   SW  SW  SW  SW  SW  SW  
+Trans spd (m/s).6   3   3   4   4   4   4   4   4   4   4   4   
+
+.THURSDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........6   6   5   4   3   3   3   3   3   3   3   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............46  46  50  55  59  64  69  74  76  78  80  79  
+RH..............90  93  83  73  66  58  51  44  42  39  36  38  
+20 FT wind dir..S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind mph..1   2   2   2   5   5   5   5   5   5   5   5   
+20 FT wind gust.2       3   5   6   7   7   7   7   7   7   6   
+Mix hgt (kft)...0.8 0.8 0.8 0.9 1.2 1.4 1.6 1.8 2.2 2.6 2.6 2.0 
+Mix hgt (km)....0.2 0.2 0.2 0.3 0.4 0.4 0.5 0.5 0.7 0.8 0.8 0.6 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.9   9   10  12  13  13  13  13  15  16  17  14  
+Trans wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Trans spd (m/s).4   4   4   5   6   6   6   6   7   7   8   6   
+
+$$
+Forecaster...HEMINGWAY
+Requested by...Kory Garrie
+Type of request...PRESCRIBED
+.TAG 2606110.0/SHV
+.DELDT 03/17/26
+.FormatterVersion 2.0.0
+.EMAIL john.wilson2@usda.gov,michael.snow@usda.gov,nolen.caudell@usda.gov,kory.garrie@usda.gov,Kory.garrie@usda.gov,justin.rose@usda.gov
+

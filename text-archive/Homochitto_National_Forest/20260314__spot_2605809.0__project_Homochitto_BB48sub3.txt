@@ -1,0 +1,77 @@
+
+000
+FNUS74 KJAN 142037
+FWSJAN
+
+Spot Forecast for Homochitto BB48sub3...U S Forest Service
+National Weather Service Jackson MS
+337 PM CDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 1600 CDT on March 14. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Temperature.........76 at ignition...Max 77. 
+RH..................45 percent at ignition...Min 45 percent. 
+Wind (20 ft)........Winds south at 6 mph at ignition...otherwise 
+                    South winds around 5 mph. 
+Mixing height (m)...1280 meters AGL at ignition...otherwise 
+                    1067-1280 meters AGL. 
+Transport winds.....South around 12 mph. 
+Transport winds m/s.South around 5 meters/second. 
+
+TIME (CDT)      4 PM   
+Sky cover.......Clear  
+Weather cov.....       
+Weather type....None   
+Tstm cov........       
+Temp............76     
+RH..............45     
+20 ft wind dir..S      
+20 ft wind spd..5      
+20 ft wind gust.14     
+Mix hgt (m).....1280   
+Transport wind..S 12   
+Tran wind (m/s).S 5    
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent) then becoming 
+                    mostly cloudy (45-55 percent) then becoming 
+                    partly cloudy (40-50 percent) then becoming 
+                    mostly cloudy (55-65 percent). 
+Temperature.........Min 57. 
+RH..................Max 100 percent. 
+Wind (20 ft)........South winds around 5 mph early in the evening 
+                    becoming light, then becoming south 5 to 6 mph 
+                    in the late evening and overnight. 
+Mixing height (m)...152-823 meters AGL. 
+Transport winds.....South 12 to 16 mph. 
+Transport winds m/s.South 5 to 7 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear MClear MClear PCldy  MCldy  PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............72     64     61     60     59     59     
+RH..............53     73     81     87     90     93     
+20 ft wind dir..S      SE     S      S      S      S      
+20 ft wind spd..5      3      5      5      5      6      
+20 ft wind gust.12     13     16     16     16     16     
+Mix hgt (m).....820    210    150    180    210    210    
+Transport wind..S 14   S 12   S 13   S 14   S 16   S 15   
+Tran wind (m/s).S 6    S 5    S 6    S 6    S 7    S 7    
+
+$$
+Forecaster...NWS JAN
+Requested by...Colin Good
+Type of request...PRESCRIBED
+.TAG 2605809.0/JAN
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL msmic@firenet.gov,colin.good@usda.gov
+

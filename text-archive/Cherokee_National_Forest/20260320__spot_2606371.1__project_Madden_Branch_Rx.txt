@@ -1,0 +1,110 @@
+
+000
+FNUS74 KMRX 201537
+FWSMRX
+
+Spot Forecast for Madden Branch Rx...USFS
+National Weather Service Morristown TN
+1137 AM EDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 1200 EDT on March 20. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+A breezy southwesterly wind is expected today with gusts up to 20
+mph. Relative humidity values will drop into the low to mid 30s.
+Tonight, winds will be light and variable with relative humidity
+values rising above 80 percent. For Saturday, winds will be
+slightly more westerly and with RH values dropping into the 30s
+again. Rain chances return by early evening. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Max temperature.....Around 74. 
+Min humidity........33 percent. 
+Wind (20 ft)........Southwest winds 7 to 11 mph. 
+Mixing height.......4900 ft AGL. 
+Transport winds.....Southwest 17 to 21 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........28  43  37  37  34  40  
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+Temp............66  69  71  73  74  74  
+RH..............43  39  36  34  33  33  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  
+20 FT wind spd..7   6   8   8   7   7   
+20 FT wind gust.11  9   12  13  11  12  
+Mix hgt (kft)...3.3 3.8 4.1 4.4 4.7 4.9 
+Transp wind dir.SW  SW  SW  SW  SW  SW  
+Transp wind spd.17  17  18  20  21  21  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent). 
+Min temperature.....Around 55. 
+Max humidity........86 percent. 
+Wind (20 ft)........Southwest winds around 5 mph early in the 
+                    evening becoming light. 
+Mixing height.......700 ft AGL. 
+Transport winds.....Southwest 13 to 22 mph decreasing to around 10 
+                    mph early in the morning. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........34  45  22  20  21  40  43  45  36  41  35  36  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............73  72  68  64  62  60  60  59  59  58  57  57  
+RH..............34  37  44  48  54  62  64  69  69  72  77  77  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   4   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.7   6       5   6   8   10  10  10  10  10  8   
+Mix hgt (kft)...4.0 1.5 0.8 0.8 0.9 0.8 0.9 0.9 0.9 0.8 0.8 0.7 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.22  14  13  13  14  13  13  14  14  13  13  10  
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). Chance of rain 
+                    showers late in the afternoon. Slight chance of 
+                    thunderstorms late in the afternoon. 
+Max temperature.....Around 81. 
+Min humidity........39 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms late in the afternoon. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....West 10 to 15 mph. 
+Rainfall amount.....0.07 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........38  45  47  39  40  41  34  28  21  20  19  18  
+Weather cov.....                                CHC CHC CHC CHC 
+Weather type....                                RW  RW  RW  RW  
+Tstm cov........                                            SCH 
+Temp............56  56  55  57  62  68  72  75  78  80  81  81  
+RH..............80  83  86  83  72  63  55  49  41  39  36  35  
+20 FT wind dir..SW  SW  SW  S   SW  SW  SW  W   W   W   W   W   
+20 FT wind spd..2   2   2   2   2   2   3   5   6   7   7   6   
+20 FT wind gust.8   7   7   7   7   8   8   12  13  14  13  13  
+Mix hgt (kft)...0.7 0.7 0.7 1.0 1.5 2.2 2.8 3.5 4.1 4.8 5.2 5.1 
+Transp wind dir.SW  SW  SW  W   W   W   W   W   W   W   W   W   
+Transp wind spd.10  10  10  10  10  12  12  13  13  14  15  15  
+
+$$
+Forecaster...Brandon Wasilewski
+Requested by...Charles.daniels@usda.gov
+Type of request...PRESCRIBED
+.TAG 2606371.1/MRX
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL charles.daniels@usda.gov,Charles.daniels@usda.gov,shane.d.clifton@usda.gov
+

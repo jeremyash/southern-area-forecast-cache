@@ -1,0 +1,108 @@
+
+000
+FNUS74 KJAN 090702
+FWSJAN
+
+Spot Forecast for Burn Block59...USDA FOREST SERVICE
+National Weather Service Jackson MS
+202 AM CDT Thu Apr 9 2026
+
+Forecast is based on ignition time of 1000 CDT on April 09. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+No significant fog concerns are anticipated tonight into Friday 
+morning. However, patchy fog cannot be ruled out near the burn 
+site, especially in sheltered and low-lying areas. Maximum LVORI 
+at daybreak Friday will be around 7 to 8. Sea breeze is not
+expected to be a concern. Additional information concerning 
+midflame wind speed calculations will be provided via email.
+
+.TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Temperature.........69 at ignition...Max 81. 
+RH..................57 percent at ignition...Min 41 percent. 
+Wind (20 ft)........Winds east at 6 mph at ignition...otherwise 
+                    Light winds becoming east 5 to 6 mph early in 
+                    the morning. 
+Mixing height (m)...732 meters AGL at ignition...otherwise 732-1798 
+                    meters AGL. 
+Transport winds.....East 10 to 17 mph. 
+Transport winds m/s.East 4 to 8 meters/second. 
+
+TIME (CDT)      10 AM  Noon   2 PM   4 PM   
+Sky cover.......MClear MClear MClear PCldy  
+Weather cov.....                            
+Weather type....None   None   None   None   
+Tstm cov........                            
+Temp............69     75     79     81     
+RH..............57     50     44     41     
+20 ft wind dir..E      E      E      E      
+20 ft wind spd..5      6      5      5      
+20 ft wind gust.15     14     14     14     
+Mix hgt (m).....730    1160   1680   1800   
+Transport wind..E 15   E 12   E 10   E 12   
+Tran wind (m/s).E 7    E 5    E 4    E 5    
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Temperature.........Min 56. 
+RH..................Max 96 percent. 
+Wind (20 ft)........East winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height (m)...122-1189 meters AGL. 
+Transport winds.....Southeast 7 to 12 mph. 
+Transport winds m/s.Southeast 3 to 5 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear PCldy  PCldy  MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............78     70     66     62     60     58     
+RH..............43     63     73     87     90     93     
+20 ft wind dir..E      E      SE     SE     SE     E      
+20 ft wind spd..5      3      2      2      2      2      
+20 ft wind gust.13     10     9      7      7      7      
+Mix hgt (m).....1190   150    150    120    120    120    
+Transport wind..E 12   SE 8   SE 9   SE 8   SE 9   SE 8   
+Tran wind (m/s).E 5    SE 4   SE 4   SE 4   SE 4   SE 4   
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Temperature.........Max 83. 
+RH..................Min 41 percent. 
+Wind (20 ft)........Light winds becoming southeast around 5 mph in 
+                    the late morning and afternoon, then becoming 
+                    light late in the afternoon. 
+Mixing height (m)...122-1859 meters AGL. 
+Transport winds.....Southeast 6 to 12 mph. 
+Transport winds m/s.Southeast 3 to 5 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MClear MClear PCldy  PCldy  PCldy  PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............57     59     71     78     82     83     
+RH..............96     93     66     52     44     41     
+20 ft wind dir..E      E      E      SE     SE     E      
+20 ft wind spd..2      3      5      5      5      5      
+20 ft wind gust.8      10     13     13     13     12     
+Mix hgt (m).....120    210    820    1460   1830   1710   
+Transport wind..E 8    E 10   SE 12  SE 8   SE 6   E 6    
+Tran wind (m/s).E 4    E 4    SE 5   SE 4   SE 3   E 3    
+
+$$
+Forecaster...Cox
+Requested by...Ronald Reed
+Type of request...PRESCRIBED
+.TAG 2609705.0/JAN
+.DELDT 04/09/26
+.FormatterVersion 2.0.0
+.EMAIL ronald.reed@usda.gov,rondo.r.reed@gmail.com
+

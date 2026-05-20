@@ -1,0 +1,107 @@
+
+000
+FNUS72 KRAH 200749
+FWSRAH
+
+Spot Forecast for Polly Place...USFS
+National Weather Service Raleigh NC
+349 AM EDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 0900 EDT on March 20. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact this NWS office if you have questions or
+concerns with this forecast.
+
+.DISCUSSION...
+Canadian high pressure over the Carolinas will drift offshore today. 
+A backdoor front will settle into, and briefly stall over NC 
+Saturday and Saturday night, then retreat northward as a warm front 
+across the Middle Atlantic Sunday.
+
+The morning inversion is expected to lift between 10am and 12pm. 
+As southwest flow develops, temperatures will reach the lower 70s,
+and mixing heights should reach 5,000 to 5,400 ft AGL, with min
+RH around 28 percent. RH recovery will be excellent tonight.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent) then becoming partly 
+                    sunny (55-65 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 73. 
+Min humidity........27 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 10 mph in 
+                    the afternoon. 
+Mixing height.......5300 ft AGL. 
+Transport winds.....Southwest 10 to 15 mph increasing to 15 to 20 
+                    mph late in the afternoon. 
+LVORI...............2. 
+ADI.................6 early in the morning increasing to 76 in the 
+                    afternoon. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........6   2   2   2   6   8   40  55  64  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............46  54  60  64  68  70  71  71  71  
+RH..............65  50  41  35  31  29  27  28  29  
+20 FT wind dir..N   SW  SW  S   S   SW  SW  SW  SW  
+20 FT wind spd..0   1   3   7   8   9   10  9   7   
+20 FT wind gust.3   5   8   10  14  17  18  18  17  
+Mix hgt (kft)...0.4 1.0 1.6 3.3 4.2 5.1 5.3 5.3 5.1 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.5   7   9   12  14  16  18  20  21  
+LVORI...........3   3   1   1   1   1   1   1   1   
+ADI.............6   6   43  43  43  76  76  76  68  
+Visibility (sm).10  10  10  10  10  10  10  10  10  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (70-80 percent) then becoming 
+                    partly cloudy (30-40 percent). 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 52. 
+Max humidity........66 percent. 
+Wind (20 ft)........Southwest winds 5 to 10 mph early in the evening 
+                    becoming light. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Southwest 15 mph. 
+LVORI...............2. 
+ADI.................68 early in the evening decreasing to 5 late in 
+                    the night. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........75  85  82  73  62  48  41  26  24  40  48  49  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   10  10  10  10  10  10  10  10  10  10  
+Temp............72  69  66  63  62  61  60  59  58  56  55  55  
+RH..............29  32  37  43  44  46  47  51  55  59  64  66  
+20 FT wind dir..SW  SW  S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..7   5   3   3   5   5   5   3   3   3   3   2   
+20 FT wind gust.16  14  12  12  12  12  12  10  10  10  9   8   
+Mix hgt (kft)...3.6 0.7 0.7 0.6 0.6 0.5 0.5 0.5 0.6 0.6 0.5 0.5 
+Transp wind dir.SW  S   SW  SW  SW  SW  SW  SW  SW  SW  W   W   
+Transp wind spd.20  14  14  16  15  17  16  15  15  15  13  13  
+LVORI...........1   1   2   2   2   2   2   2   3   3   3   3   
+ADI.............68  68  7   7   7   7   7   7   6   6   6   5   
+Visibility (sm).10  10  10  10  10  10  10  10  10  10  10  10  
+
+$$
+Forecaster...KREN
+Requested by...Bart Cagle
+Type of request...PRESCRIBED
+.TAG 2606630.0/RAH
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL jeffery.greene@usda.gov,sergio.olvera@usda.gov,andrew.cagle@usda.gov
+

@@ -1,0 +1,149 @@
+
+000
+FNUS74 KTSA 140648
+FWSTSA
+
+Spot Forecast for OK Wildhorse West...USFS
+National Weather Service Tulsa OK
+148 AM CDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 1000 CDT on March 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact NWS Tulsa at (918)838-7838, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Mostly sunny skies and warm temperatures are forecast today with
+highs in the mid 70s. Humidity values will fall to around 40 percent.
+Southerly winds will steadily increase through the day and
+become gusty during the afternoon. Winds will be sustained with
+periods of stronger gusts through the overnight hours Saturday
+night. Good humidity recovery is expected.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 76. 
+Min humidity........39 percent. 
+Dewpoint............49. 
+Wind (20 ft)........South winds 9 to 10 mph with gusts to around 21 
+                    mph. 
+Mixing height.......3800 ft AGL. 
+Transport winds.....South 18 to 24 mph. 
+Smoke dispersal.....Good (41967 knot-ft) early in the morning 
+                    increasing to excellent (77377 knot-ft) in the 
+                    afternoon. 
+Stability class.....2. 
+1700FT Avg MIX T(F).70. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   1   0   12  22  21  30  21  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Temp............61  65  68  70  73  74  75  76  
+Dewpoint........50  50  50  49  49  49  49  49  
+RH..............67  58  53  47  43  41  40  39  
+20 FT wind dir..S   S   S   S   S   S   S   S   
+20 FT wind spd..8   8   9   8   8   9   9   9   
+20 FT wind gust.18  19  19  19  19  20  21  21  
+Mix hgt (kft)...1.4 1.8 2.4 2.9 3.3 3.6 3.8 3.6 
+Transp wind dir.S   S   S   S   S   S   S   S   
+Transp wind spd.20  18  20  20  22  22  23  24  
+Vrate kt-ft/1K..42  42  42  77  77  77  77  77  
+Ventrate Cat....FR  FR  FR  GD  GD  GD  GD  GD  
+1700FT Mix T(F).69  69  69  69  70  71  72  71  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+Min temperature.....Around 60. 
+Max humidity........81 percent. 
+Dewpoint............51 increasing to 54 after 3 am. 
+Wind (20 ft)........Breezy. South winds 10 to 17 mph with gusts to 
+                    around 28 mph increasing to 20 to 29 mph with 
+                    gusts to around 41 mph in the late evening and 
+                    overnight. 
+Mixing height.......700 ft AGL. 
+Transport winds.....South 20 to 29 mph increasing to 30 to 35 mph 
+                    overnight. 
+Smoke dispersal.....Excellent (77377 knot-ft) early in the evening 
+                    decreasing to fair (25573 knot-ft) late in the 
+                    night. 
+Stability class.....5. 
+1700FT Avg MIX T(F).65 decreasing to 60 overnight. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........20  22  46  41  37  47  48  42  53  56  68  77  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............74  72  70  67  66  65  65  64  64  63  63  61  
+Dewpoint........49  50  50  50  50  51  52  52  52  53  54  54  
+RH..............41  46  49  54  56  60  63  65  65  70  72  78  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..9   10  12  15  17  18  20  21  23  24  24  26  
+20 FT wind gust.21  23  25  28  30  32  33  35  37  38  39  41  
+Mix hgt (kft)...3.3 1.0 0.9 1.1 0.8 1.0 0.8 0.7 0.7 0.8 1.1 1.0 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.23  20  20  23  25  28  28  29  31  30  35  35  
+Vrate kt-ft/1K..77  26  26  26  26  26  26  33  33  33  33  33  
+Ventrate Cat....GD  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+1700FT Mix T(F).70  69  67  65  63  62  61  60  60  60  60  60  
+
+.SUNDAY...
+
+Sky/weather.........Partly sunny (65-75 percent). Slight chance of 
+                    rain showers in the morning. Rain showers 
+                    likely and chance of thunderstorms early in the 
+                    afternoon, then rain likely late in the 
+                    afternoon. 
+Max temperature.....Around 70. 
+Min humidity........40 percent. 
+Dewpoint............55 decreasing to 38. 
+Wind (20 ft)........Breezy. South winds 20 to 29 mph with gusts to 
+                    around 45 mph shifting to the southwest around 
+                    17 mph with gusts to around 34 mph early in the 
+                    afternoon, then shifting to the northwest 18 to 
+                    24 mph with gusts to around 42 mph late in the 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms early in the afternoon. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....Southwest 31 to 39 mph shifting to the 
+                    northwest 32 to 37 mph late in the afternoon. 
+Smoke dispersal.....Good (33442 knot-ft) early in the morning 
+                    increasing to excellent (131147 knot-ft) in the 
+                    afternoon. 
+Stability class.....4. 
+1700FT Avg MIX T(F).60 decreasing to 50 late in the afternoon. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........84  82  83  83  82  80  77  75  72  69  66  54  
+Weather cov.....    SCH SCH SCH SCH SCH SCH LKY LKY LKY LKY LKY 
+Weather type....    RW  RW  RW  RW  RW  RW  RW  RW  RW  RN  RN  
+Tstm cov........                            CHC CHC CHC         
+Temp............61  61  60  62  65  68  69  70  68  66  62  58  
+Dewpoint........54  54  54  55  57  57  57  55  52  49  44  38  
+RH..............78  78  81  78  75  68  66  59  57  54  52  47  
+20 FT wind dir..S   S   S   S   S   S   SW  SW  SW  W   NW  NW  
+20 FT wind spd..26  26  25  24  22  20  17  16  16  17  18  21  
+20 FT wind gust.42  42  44  45  45  42  38  34  33  35  37  42  
+Mix hgt (kft)...1.0 1.1 1.7 2.4 3.0 3.4 3.5 3.6 3.7 3.8 4.0 4.3 
+Transp wind dir.S   S   S   S   S   SW  SW  SW  W   W   NW  NW  
+Transp wind spd.35  37  38  39  39  37  33  31  30  30  32  37  
+Vrate kt-ft/1K..33  111 111 111 111 111 111 131 131 131 131 131 
+Ventrate Cat....PR  VGD VGD VGD VGD VGD VGD VGD VGD VGD VGD VGD 
+1700FT Mix T(F).60  61  61  62  62  63  64  63  60  56  52  48  
+
+$$
+Forecaster...J.MCGAVOCK
+Requested by...Kory Garrie
+Type of request...PRESCRIBED
+.TAG 2605718.0/TSA
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL justin.rose@usda.gov,kory.garrie@usda.gov,john.wilson2@usda.gov,nolen.caudell@usda.gov,Kory.garrie@usda.gov
+

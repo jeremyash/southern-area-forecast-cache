@@ -1,0 +1,150 @@
+
+000
+FNUS74 KTSA 221925
+FWSTSA
+
+Spot Forecast for OK Simmons...USFS
+National Weather Service Tulsa OK
+225 PM CDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 1500 CDT on March 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact NWS Tulsa at (918)838-7838, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Enhanced fire weather potential today. Temperatures in the upper
+80s this afternoon. Strong southwest winds gusting 20 to 25 mph 
+continue today ahead of an approaching cold front. Locally higher 
+gusts on ridgetops. Minimum relative humidity near 25 percent 
+this afternoon. The cold front moves through near 9 PM, shifting 
+winds to north or northwesterly with occasional gusts up to 25 
+mph possible through the night. Low temperature in the mid 
+50s with relative humidity recovering to near 65 percent tonight.
+Winds may become light and variable early Monday morning before 
+increasing again out of the northeast, then east, through the 
+day. Gust near 20 mph possible during the day Monday. Fire spread 
+rates significantly lower Monday with cooler afternoon 
+temperatures and slightly higher humidity values. No precipitation
+expected.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 87. 
+Min humidity........24 percent. 
+Dewpoint............46. 
+Wind (20 ft)........Southwest winds 9 to 12 mph with gusts to 
+                    around 21 mph. 
+Mixing height.......3500 ft AGL. 
+Transport winds.....Southwest around 29 mph. 
+Smoke dispersal.....Excellent (89836 knot-ft). 
+Stability class.....3. 
+1700FT Avg MIX T(F).80. 
+
+TIME (CDT)      3PM 4PM 5PM 
+Sky (%).........15  10  15  
+Weather cov.....            
+Weather type....            
+Tstm cov........            
+Temp............85  86  87  
+Dewpoint........47  47  46  
+RH..............27  26  24  
+20 FT wind dir..S   SW  SW  
+20 FT wind spd..10  9   8   
+20 FT wind gust.21  20  19  
+Mix hgt (kft)...3.0 3.2 3.5 
+Transp wind dir.SW  SW  SW  
+Transp wind spd.29  29  29  
+Vrate kt-ft/1K..90  90  90  
+Ventrate Cat....GD  GD  GD  
+1700FT Mix T(F).79  82  82  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent) then becoming 
+                    mostly cloudy (50-60 percent) then becoming 
+                    partly cloudy (35-45 percent). 
+Min temperature.....Around 54. 
+Max humidity........64 percent. 
+Dewpoint............48 decreasing to 44 after 3 am. 
+Wind (20 ft)........Southwest winds 7 to 9 mph shifting to the 
+                    northwest 8 to 9 mph late in the evening, then 
+                    shifting to the north 9 to 10 mph overnight. 
+                    Gusts up to 25 mph. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southwest around 25 mph decreasing to 13 to 15 
+                    mph early in the evening, then shifting to the 
+                    northwest 14 to 16 mph late in the evening 
+                    shifting to the northeast 16 to 17 mph 
+                    overnight. 
+Smoke dispersal.....Excellent (89836 knot-ft) early in the evening 
+                    decreasing to poor (9836 knot-ft) late in the 
+                    night. 
+Stability class.....5. 
+1700FT Avg MIX T(F).79 decreasing to 58. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........10  13  20  27  41  35  34  32  36  53  41  43  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............85  83  80  75  72  68  66  64  63  61  60  57  
+Dewpoint........49  49  50  50  49  48  47  47  46  45  45  44  
+RH..............29  31  35  41  44  49  50  54  54  56  58  62  
+20 FT wind dir..SW  SW  W   NW  NW  N   N   N   N   N   N   NE  
+20 FT wind spd..8   6   7   7   7   7   8   8   8   8   9   8   
+20 FT wind gust.18  17  16  17  17  17  18  18  18  19  20  20  
+Mix hgt (kft)...2.8 0.5 0.6 0.7 0.8 0.7 0.6 0.5 0.4 0.5 0.6 0.6 
+Transp wind dir.SW  SW  W   NW  N   N   N   N   N   NE  NE  NE  
+Transp wind spd.25  15  13  14  15  16  17  17  17  16  17  17  
+Vrate kt-ft/1K..90  10  10  10  10  10  10  10  10  10  10  10  
+Ventrate Cat....GD  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+1700FT Mix T(F).82  83  80  76  73  69  64  60  59  58  57  56  
+
+.MONDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Max temperature.....Around 68. 
+Min humidity........29 percent. 
+Dewpoint............42 decreasing to 37 in the late morning and 
+                    afternoon. 
+Wind (20 ft)........Northeast winds 6 to 9 mph. Gusts up to 25 mph 
+                    in the morning and early afternoon. 
+Mixing height.......3900 ft AGL. 
+Transport winds.....East 14 to 22 mph. 
+Smoke dispersal.....Poor (9836 knot-ft) early in the morning 
+                    increasing to good (52459 knot-ft) in the 
+                    afternoon. 
+Stability class.....4. 
+1700FT Avg MIX T(F).57 increasing to 63 late in the afternoon. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........50  52  52  48  46  44  21  24  51  48  46  44  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............56  56  55  56  59  61  64  65  68  68  68  68  
+Dewpoint........44  43  41  40  39  38  38  38  37  36  36  35  
+RH..............64  62  59  55  47  42  38  37  32  31  31  29  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  E   E   E   E   E   
+20 FT wind spd..8   8   8   8   8   7   6   6   6   6   6   6   
+20 FT wind gust.20  19  19  19  18  18  17  16  16  14  14  14  
+Mix hgt (kft)...0.5 0.6 0.6 1.9 1.9 2.4 2.7 3.1 3.3 3.6 3.9 3.5 
+Transp wind dir.NE  NE  NE  NE  NE  NE  E   E   E   E   E   E   
+Transp wind spd.14  15  16  22  21  20  18  17  16  16  15  15  
+Vrate kt-ft/1K..10  45  45  45  45  45  45  52  52  52  52  52  
+Ventrate Cat....PR  FR  FR  FR  FR  FR  FR  FR  FR  FR  FR  FR  
+1700FT Mix T(F).56  55  55  54  53  55  57  58  60  61  63  63  
+
+$$
+Forecaster...M.RADA
+Requested by...k wilson
+Type of request...PRESCRIBED
+.TAG 2607116.0/TSA
+.DELDT 03/22/26
+.FormatterVersion 2.0.0
+.EMAIL john.wilson2@usda.gov
+

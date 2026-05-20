@@ -1,0 +1,126 @@
+
+000
+FNUS74 KLZK 060641
+FWSLZK
+
+Spot Forecast for CW Caddo Mountain West...USFS
+National Weather Service Little Rock AR
+141 AM CDT Mon Apr 6 2026
+
+Forecast is based on ignition time of 0700 CDT on April 06. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Dry conditions will persist into Tuesday...but some increasing
+moisture will be seen by the middle to latter half of the week.
+Some rain chances also return to the forecast mid-week...and
+especially by the weekend.
+
+
+.REST OF TODAY...
+
+Max temperature.....41 at ignition...Max 69. 
+Min humidity........82 percent at ignition...Min 31 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............3 early in the morning. 
+Sky/weather.........Sunny (0-10 percent). 
+Dispersion..........9 increasing to 24 in the late morning and 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....65. 
+Peak Category Day...3. 
+
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Temp............41  45  49  55  58  61  63  67  67  68  69  
+RH..............82  73  66  53  47  41  36  32  32  31  31  
+20 FT wind dir..NE  E   E   E   E   E   E   E   E   E   E   
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.    7   8   10  10  8   7   8   7   7   7   
+MixHgtAGL (kft).0.3 0.6 1.1 1.6 2.3 3.0 3.6 4.4 5.0 5.0 4.1 
+MixHgtMSL (kft).1.6 1.9 2.3 2.9 3.6 4.3 4.9 5.7 6.3 6.3 5.3 
+Category Day....1   1   1   2   2   2   3   3   3   3   3   
+Transp wind dir.NE  E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.10  10  10  10  10  9   9   9   10  10  9   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 44. 
+Max humidity........Max 74 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............3. 
+Sky/weather.........Mostly clear (5-15 percent). 
+Dispersion..........18 decreasing to 4 in the late evening and 
+                    overnight. 
+Rainfall amount.....0.00 inches. 
+Peak Category Day...2. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......CLR CLR CLR MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............67  65  61  56  53  52  52  50  50  49  47  46  
+RH..............33  38  44  53  59  59  59  63  63  66  71  71  
+20 FT wind dir..E   E   SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.7   6   6   6   6   6   6   6   6   6   6   6   
+MixHgtAGL (kft).2.6 1.4 0.8 0.5 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.2 
+MixHgtMSL (kft).3.9 2.7 2.0 1.7 1.6 1.5 1.6 1.6 1.6 1.6 1.5 1.4 
+Category Day....2   1   1   1   1   1   1   1   1   1   1   1   
+Transp wind dir.E   E   E   E   E   E   E   E   E   SE  SE  SE  
+Transp wind spd.8   7   7   7   7   8   8   9   10  10  10  9   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.TUESDAY...
+
+Max temperature.....Max 69. 
+Min humidity........Min 37 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............3 early in the morning. 
+Sky/weather.........Mostly sunny (45-55 percent). 
+Dispersion..........15 increasing to 38 in the late morning and 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....67. 
+Peak Category Day...4. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  PC  PC  MC  MC  MC  MC  MC  MC  MC  MC  MC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............46  45  47  53  59  63  65  66  68  69  69  68  
+RH..............73  73  74  64  53  46  43  40  37  37  37  39  
+20 FT wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..2   2   2   2   3   5   5   5   5   6   6   5   
+20 FT wind gust.7   7   8   10  12  14  14  14  14  14  13  12  
+MixHgtAGL (kft).0.1 0.3 0.8 1.6 2.4 3.3 4.2 4.9 5.6 5.9 5.6 4.1 
+MixHgtMSL (kft).1.4 1.6 2.1 2.8 3.7 4.6 5.4 6.1 6.8 7.2 6.9 5.4 
+Category Day....1   1   1   2   3   3   3   4   4   4   4   3   
+Transp wind dir.SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Transp wind spd.9   9   12  14  16  15  14  13  14  14  15  14  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...62
+Requested by...Justus Beggs
+Type of request...PRESCRIBED
+.TAG 2609038.0/LZK
+.DELDT 04/06/26
+.FormatterVersion 2.0.0
+.EMAIL amanda.gee@usda.gov,justus.beggs@usda.gov
+

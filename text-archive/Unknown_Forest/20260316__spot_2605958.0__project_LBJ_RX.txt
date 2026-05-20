@@ -1,0 +1,106 @@
+
+000
+FNUS74 KFWD 162000
+FWSFWD
+
+Spot Forecast for LBJ RX...USFS
+National Weather Service Fort Worth TX
+300 PM CDT Mon Mar 16 2026
+
+Forecast is based on ignition time of 1000 CDT on March 18. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+***CHECK TIMING INFORMATION***
+Spot request was submitted for Wednesday but remarks indicated that
+wind/RH was of concern on Thursday. Both days are included below.
+******************************
+
+.DISCUSSION...
+Southwest winds will prevail on both Wednesday and Thursday with 
+RH values being a little higher on Wednesday. Wind speeds will be
+higher on Wednesday.
+
+On Thursday...southwest winds will prevail during the burn window
+with speeds 5 to 10 mph and gusts topping out around 15 mph. RH values
+will start out around 55% at 10 am and drop to around 25% by 4 pm. No 
+precipitation is expected either day.
+
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Max temperature.....Around 77. 
+Min humidity........30 percent. 
+Wind (20 ft)........Southwest winds 5 to 10 mph. 
+Mixing height.......3400 ft AGL. 
+Transport winds.....Southwest 15 to 20 mph. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........35  25  20  20  15  10  10  10  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Temp............55  60  64  69  72  74  77  76  
+RH..............51  46  41  36  34  32  30  32  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..10  10  10  9   8   8   7   6   
+20 FT wind gust.17  17  17  16  15  15  14  13  
+Mix hgt (kft)...1.7 1.9 2.1 2.4 2.9 3.3 3.4 2.6 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.21  18  16  13  12  12  12  10  
+
+.WEDNESDAY NIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Min temperature.....Around 53. 
+Max humidity........75 percent. 
+Wind (20 ft)........South winds around 5 mph. 
+Mixing height.......400 ft AGL. 
+Transport winds.....South 10 to 15 mph. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........20     20     20     10     10     10
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Temp............76     71     62     59     57     55     
+RH..............33     39     52     60     64     72     
+20 ft wind......S 6    S 5    S 3    S 3    S 3    S 3    
+20 ft wind gust.12     9      9      9      9      9      
+Mix hgt (ft)....1600   400    500    500    500    500    
+Transport wind..S 9    S 9    S 12   S 14   S 14   SW 14  
+
+.THURSDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 88. 
+Min humidity........25 percent. 
+Wind (20 ft)........Southwest winds 5 to 10 mph. 
+Mixing height.......4900 ft AGL. 
+Transport winds.....Southwest 10 to 15 mph. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   5   5   5   10  10  10  10  10  20  30  30  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............54  53  57  60  64  70  76  82  84  86  88  87  
+RH..............71  74  67  64  57  51  40  33  30  28  25  26  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  S   
+20 FT wind spd..3   3   3   5   5   5   6   6   6   7   7   7   
+20 FT wind gust.9   9   9   10  10  12  12  13  13  13  13  13  
+Mix hgt (kft)...0.4 0.5 0.5 0.7 0.9 1.1 1.4 1.9 3.2 4.4 4.9 3.9 
+Transp wind dir.SW  SW  SW  W   W   W   SW  SW  SW  SW  SW  SW  
+Transp wind spd.13  13  13  13  13  13  12  12  12  13  13  13  
+
+$$
+
+Forecaster...Dunn
+Requested by...Kyle Olsen
+Type of request...PRESCRIBED
+.TAG 2605958.0/FWD
+.DELDT 03/16/26
+.FormatterVersion 2.0.0
+.EMAIL kyle.olsen@usda.gov
+

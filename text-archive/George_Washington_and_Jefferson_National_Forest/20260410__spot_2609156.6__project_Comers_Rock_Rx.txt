@@ -1,0 +1,136 @@
+
+000
+FNUS71 KRNK 101058
+FWSRNK
+
+Spot Forecast for Comers Rock Rx...USFS
+National Weather Service Blacksburg VA
+658 AM EDT Fri Apr 10 2026
+
+Forecast is based on ignition time of 0700 EDT on April 10. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Plenty of sunshine today with good mixing by the afternoon.
+RH dropping to around 25 percent this afternoon.
+
+A mix of sun and clouds Saturday as a front moves across.
+No wetting rain expected with RH about 10-15 percent
+higher than today but good mixing.
+
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 70. 
+Min humidity........23 percent. 
+Wind (20 ft)........Light winds becoming west around 5 mph. 
+Mixing height.......6300 ft AGL. 
+Mixing winds........West 3 to 8 mph increasing to 8 to 10 mph late 
+                    in the morning. 
+Smoke dispersal.....Poor (500 knot-ft) early in the morning 
+                    increasing to good (53900 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................3 early in the morning increasing to 75 in the 
+                    afternoon. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   0   0   0   0   0   5   5   6   0   10  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............49  51  54  56  62  64  66  69  69  69  69  
+RH..............37  33  32  32  31  28  27  24  24  24  24  
+20 FT wind dir..W   W   W   W   NW  NW  NW  W   W   W   W   
+20 FT wind spd..2   3   2   2   3   4   4   4   4   5   5   
+20 FT wind gust.6   7   7   7   8   10  10  10  11  11  12  
+Mix hgt (kft)...0.2 0.2 0.4 1.6 2.7 3.7 4.7 5.6 6.2 6.3 5.9 
+Mixng wind dir..SW  W   W   W   NW  W   W   W   W   W   W   
+Mixng wind spd..3   3   6   8   10  10  9   8   9   10  10  
+LVORI...........3   3   2   2   1   1   1   1   1   1   1   
+ADI.............3   3   5   18  36  47  53  56  66  75  75  
+VRate mph-ft/1K.1   1   2   14  28  37  42  45  55  62  62  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 50. 
+Max humidity........65 percent. 
+Wind (20 ft)........West winds around 5 mph early in the evening 
+                    becoming light, then becoming west around 5 mph 
+                    overnight. 
+Mixing height.......200 ft AGL. 
+Mixing winds........West 6 to 9 mph. 
+Smoke dispersal.....Good (36700 knot-ft) early in the evening 
+                    decreasing to poor (1300 knot-ft) late in the 
+                    night. 
+LVORI...............2. 
+ADI.................53 early in the evening decreasing to 3 late in 
+                    the night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........9      6      12     12     17     17     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............68     63     57     54     53     52     
+RH..............27     33     41     45     50     55     
+20 ft wind......W 5    W 5    W 4    W 5    W 5    W 5    
+20 ft wind gust.11     10     10     10     10     10     
+Mix hgt (ft)....4700   300    300    200    300    300    
+Mixing wind......W 9    W 6    W 6    W 7    W 8    W 7    
+LVORI...........1      2      2      2      2      3      
+ADI.............53     3      3      3      4      3      
+VRate mph-ft/1K.42     2      2      2      2      2      
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+CWR (0.01 in).......10 percent. 
+Max temperature.....Around 70. 
+Min humidity........37 percent. 
+Wind (20 ft)........Northwest winds 5 to 6 mph. 
+Mixing height.......5000 ft AGL. 
+Mixing winds........West 5 to 10 mph shifting to the northwest 9 to 
+                    18 mph in the late morning and afternoon, then 
+                    shifting to the west around 8 mph late in the 
+                    afternoon. 
+Smoke dispersal.....Poor (1100 knot-ft) early in the morning 
+                    increasing to good (57200 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................3 early in the morning increasing to 78 in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........30     49     35     30     35     30     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      10     10     
+Temp............50     52     59     66     69     70     
+RH..............61     65     57     51     45     41     
+20 ft wind......W 5    W 5    NW 6   NW 6   NW 6   NW 5   
+20 ft wind gust.11     11     13     14     13     12     
+Mix hgt (ft)....200    300    2100   3500   5000   4800   
+Mixing wind......W 6    W 6    NW 15  NW 18  NW 13  W 9    
+LVORI...........3      3      1      1      1      1      
+ADI.............3      6      39     77     73     57     
+VRate mph-ft/1K.1      1      31     63     63     45     
+
+$$
+Forecaster...Perry
+Requested by...Burn Boss
+Type of request...PRESCRIBED
+.TAG 2609156.6/RNK
+.DELDT 04/10/26
+.FormatterVersion 2.0.0
+.EMAIL jonathan.catron@usda.gov,todd.caudill@usda.gov
+

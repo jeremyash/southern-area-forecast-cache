@@ -1,0 +1,139 @@
+
+000
+FNUS71 KLWX 101315
+FWSLWX
+
+Spot Forecast for Hone Quarry Unit 2...USFS
+National Weather Service Baltimore MD/Washington DC
+915 AM EDT Fri Apr 10 2026
+
+Forecast is based on ignition time of 1500 EDT on April 10. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Dry conditions look to continue through the weekend into early next
+week. Expect a slight warming trend today ahead of a weakening cold front
+which will deliver a wind shift overnight into Saturday morning. Southwest
+winds will remain sustained between 5 to 10 mph today with gusts up to
+15 mph. Minimum relative humidity values will fall into the 20 to 25 percent
+range this afternoon with highs up close to 80 degrees. 
+
+Humidity values will recover back into the 75 to 80 percent range overnight
+with winds shifting back to the west and eventually northwest overnight as
+a weak cold front pushes through. Skies will trend mostly clear to partly cloudy
+with smoke dispersion expected to become poor as the front pushes through.
+
+Saturday brings increasing northwesterly winds during the morning hours
+with gusts running between 15 to 25 mph. Relative humidity values will crash
+into the 25 to 30 percent range in the afternoon (potentially lower) given 
+Canadian high pressure building in. Highs Saturday will push toward 70 degrees.
+
+No wetting rain is expected through Wednesday next week. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent shading). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 77. 
+Min humidity........22 percent. 
+Wind (20 ft)........Southwest winds 8 to 10 mph. 
+Mixing height.......8100 ft AGL. 
+Transport winds.....West 17 to 18 mph. 
+Smoke dispersal.....Excellent (118000 knot-ft). 
+
+TIME (EDT)      3PM 4PM 5PM 
+Sky (%).........7   10  6   
+Weather cov.....            
+Weather type....            
+Tstm cov........            
+CWR.............0   0   0   
+Chc of Thor (%).0   0   0   
+Temp............77  77  77  
+RH..............25  23  22  
+20 FT wind dir..SW  SW  W   
+20 FT wind spd..8   9   10  
+20 FT wind gust.9   10  12  
+Mix hgt (kft)...8.0 8.1 7.9 
+Transp wind dir.W   W   W   
+Transp wind spd.17  18  18  
+Vrate kt-ft/1K..123 132 129 
+Ventrate Cat....VGD VGD VGD 
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent shading) then becoming 
+                    mostly cloudy (55-65 percent shading). 
+CWR.................10 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 54. 
+Max humidity........77 percent. 
+Wind (20 ft)........West winds 8 to 10 mph shifting to the 
+                    northwest 7 to 10 mph after 3 am. 
+Mixing height.......200 ft AGL. 
+Transport winds.....West 12 to 18 mph shifting to the northwest 
+                    early in the morning. 
+Smoke dispersal.....Excellent (97600 knot-ft) early in the evening 
+                    decreasing to poor (1800 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........6      8      25     30     64     69     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      10     10     10     
+Chc of thdr (%).0      0      0      0      0      0      
+Temp............74     67     62     59     58     56     
+RH..............27     31     33     38     48     60     
+20 ft wind......W 9    W 9    W 9    W 10   W 10   NW 8   
+20 ft wind gust.10     10     10     14     12     9      
+Mix hgt (ft)....6300   300    200    300    200    200    
+Transport wind..W 17   W 12   W 13   W 14   NW 14  NW 12  
+Vrate kt-ft/1K..98     3      2      5      4      3      
+Ventrate Cat....GOOD   POOR   POOR   POOR   POOR   POOR   
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent shading). 
+CWR.................10 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 69. 
+Min humidity........26 percent. 
+Wind (20 ft)........Northwest winds 5 to 9 mph. 
+Mixing height.......5400 ft AGL. 
+Transport winds.....Northwest 7 to 15 mph. 
+Smoke dispersal.....Poor (1300 knot-ft) early in the morning 
+                    increasing to good (47300 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........65        43        22        10        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+CWR.............0         0         0         10        
+Chc of thdr (%).0         0         0         0         
+Temp............55        56        64        69        
+RH..............69        73        45        27        
+20 FT wind......NW 7G8    NW 7G10    NW 7G9    NW 6G7    
+Mix hgt (ft)....200       1800      3700      5400      
+Transport wind..NW 10     NW 14     NW 12     NW 9      
+Vrate kt-ft/1K..2         23        40        45        
+Ventrate Cat....POOR      POOR      POOR      FAIR      
+
+$$
+Forecaster...Taylor
+Requested by...Aaron Strobel
+Type of request...PRESCRIBED
+.TAG 2609836.2/LWX
+.DELDT 04/10/26
+.FormatterVersion 2.0.0
+.EMAIL james.collett@usda.gov,ted.docev@usda.gov,aaron.p.strobel@usda.gov
+

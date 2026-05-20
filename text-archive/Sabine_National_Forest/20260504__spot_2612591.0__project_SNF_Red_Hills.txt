@@ -1,0 +1,93 @@
+
+000
+FNUS74 KSHV 040759
+FWSSHV
+
+Spot Forecast for SNF Red Hills...USFS
+National Weather Service Shreveport LA
+259 AM CDT Mon May 4 2026
+
+Forecast is based on ignition time of 0700 CDT on May 04. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have 
+questions or concerns with this forecast.
+
+.DISCUSSION...
+
+Another warm and dry day is expected across East Texas today as 
+south to southwesterly winds increase steadily during the day,
+generally averaging between 8-10 mph this afternoon with higher
+gusts near 15 mph. This will allow fuels to continue drying out 
+from last week's rainfall. Minimum RHs will drop down into the 
+40-45% range this afternoon while high temperatures climb into 
+the lower 80s with very good dispersion and mixing heights max 
+out around 5Kft. 
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   5   26  30  34  33  29  14  9   18  9   
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............55  59  63  69  72  75  76  79  79  80  81  
+RH..............83  80  72  61  53  48  46  44  44  45  46  
+20 FT wind dir..SW  SW  S   S   S   S   S   S   S   S   S   
+20 FT wind mph..2   3   4   6   7   8   8   9   9   9   8   
+20 FT wind gust.5   7   12  13  15  16  16  15  15  15  15  
+Mix hgt (kft)...0.4 0.4 1.2 2.9 3.8 4.4 4.6 4.9 5.0 5.1 4.7 
+Mix hgt (km)....0.1 0.1 0.4 0.9 1.2 1.3 1.4 1.5 1.5 1.6 1.4 
+Transp wind dir.SW  S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.10  12  15  20  20  18  18  17  17  17  17  
+Trans wind dir..SW  S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).4   5   7   9   9   8   8   8   8   8   8   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........8   9   11  10  20  26  34  45  54  61  72  81  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............79  77  73  70  68  66  65  65  64  65  65  65  
+RH..............49  56  64  71  76  84  87  90  93  93  93  97  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..6   6   6   6   6   6   6   6   6   6   6   6   
+20 FT wind gust.13  12  9   12  12  15  15  16  16  16  16  16  
+Mix hgt (kft)...3.6 0.9 0.4 0.4 0.5 0.5 0.6 0.6 0.5 0.6 0.7 0.7 
+Mix hgt (km)....1.1 0.3 0.1 0.1 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.17  17  14  14  17  18  18  16  17  17  18  18  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).8   8   6   6   8   8   8   7   8   8   8   8   
+
+.TUESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........83  86  83  81  80  78  75  73  71  67  65  66  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............66  67  68  71  74  76  78  80  81  82  83  82  
+RH..............93  93  93  90  82  79  74  72  69  67  65  67  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..6   6   6   7   8   9   9   9   9   9   8   7   
+20 FT wind gust.16  16  16  14  15  15  15  15  15  15  15  15  
+Mix hgt (kft)...0.7 0.5 1.8 2.6 3.0 3.3 3.5 3.6 3.8 3.9 3.7 3.0 
+Mix hgt (km)....0.2 0.2 0.5 0.8 0.9 1.0 1.1 1.1 1.2 1.2 1.1 0.9 
+Transp wind dir.S   S   SW  SW  SW  SW  SW  SW  SW  S   S   S   
+Transp wind spd.17  17  22  25  26  28  28  26  25  24  23  22  
+Trans wind dir..S   S   SW  SW  SW  SW  SW  SW  SW  S   S   S   
+Trans spd (m/s).8   8   10  11  12  13  13  12  11  11  10  10  
+
+$$
+Forecaster...HEMINGWAY
+Requested by...Matt Laricos
+Type of request...PRESCRIBED
+.TAG 2612591.0/SHV
+.DELDT 05/04/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.laricos@usda.gov
+

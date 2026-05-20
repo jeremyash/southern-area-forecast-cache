@@ -1,0 +1,124 @@
+
+000
+FNUS74 KMOB 170904
+FWSMOB
+
+Spot Forecast for Chick Cpt 438...USFS
+National Weather Service Mobile AL
+404 AM CDT Tue Mar 17 2026
+
+Forecast is based on ignition time of 0800 CDT on March 17. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...HIGH DISPERSION INDEX AROUND 79 EXPECTED REST OF TODAY OVER
+THE BURN AREA...
+
+.DISCUSSION...For the rest of today, the minimum relative
+humidity is near 20%, 20 ft wind gusts will be up to near 20 mph,
+transport winds will be mostly northerly to north-northwesterly,
+and dispersion values will be good. For Wednesday, the minimum
+relative humidity is near 25%, transport winds will be mostly
+southeasterly to south-southwesterly, and dispersion values will
+be fair. 
+
+Fog potential and other remarks...Fog is not expected.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 53. 
+Min humidity........22 percent. 
+Wind (20 ft)........Light winds becoming northwest 6 to 8 mph in 
+                    the late morning and afternoon. 
+Mixing height.......4900 ft AGL. 
+Transport winds.....North 13 to 15 mph. 
+Dispersion index....24 increasing to 47 late in the morning, then 
+                    increasing to 57 late in the morning increasing 
+                    to 72 early in the afternoon increasing to 80 
+                    decreasing to 71 late in the afternoon. 
+
+TIME (CDT)      8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........1      2      2      3      4      
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Chc of pcpn (%).0      0      0      0      0      
+Temp............30     38     45     50     52     
+RH..............58     32     25     22     23     
+20 FT wind dir..NNW    NNW    NNW    NNW    NNW    
+20 FT wind spd..5      7      8      9      8      
+20 FT wind gust.15     15     16     17     17     
+Mix hgt (ft)....1300   3000   3800   4500   4900   
+Transp wind dir.N      NNW    NNW    N      N      
+Transp wind spd.13     13     15     15     14     
+Dispersion idx..24     49     68     79     78     
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 30. 
+Max humidity........72 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....North 3 to 9 mph shifting to the southeast 
+                    around 3 mph late in the evening, then becoming 
+                    2 to 5 mph overnight. 
+Dispersion index....58 decreasing to 2. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........7      9      16     14     21     26     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............51     44     38     34     32     31     
+RH..............28     43     57     64     69     69     
+20 FT wind dir..N      NE     SE     SE     N      SE     
+20 FT wind spd..5      1      1      1      0      1      
+20 FT wind gust.13     5      3      3      2      3      
+Mix hgt (ft)....4900   400    400    300    300    300    
+Transp wind dir.N      NE     ESE    SE     SSE    SE     
+Transp wind spd.9      3      3      3      3      3      
+Dispersion idx..58     2      2      2      2      2      
+
+.WEDNESDAY...
+
+Sky/weather.........Partly sunny (50-60 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 62. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3200 ft AGL. 
+Transport winds.....South 5 to 6 mph shifting to the southwest 6 to 
+                    7 mph late in the afternoon. 
+Dispersion index....6 increasing to 26. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........46     54     79     77     65     42     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............31     34     45     54     59     61     
+RH..............69     64     45     34     29     31     
+20 FT wind dir..SE     SE     ESE    SE     SSE    S      
+20 FT wind spd..1      2      2      3      3      3      
+20 FT wind gust.3      6      7      8      9      9      
+Mix hgt (ft)....300    500    1200   2300   2900   3200   
+Transp wind dir.SE     SE     SE     S      SSW    SSW    
+Transp wind spd.5      5      5      5      6      7      
+Dispersion idx..2      4      7      13     21     28     
+
+$$
+Forecaster...13
+Requested by...Ryan Barnett
+Type of request...PRESCRIBED
+.TAG 2605962.0/MOB
+.DELDT 03/17/26
+.FormatterVersion 2.0.0
+.EMAIL ryan.barnett@usda.gov
+

@@ -1,0 +1,108 @@
+
+000
+FNUS74 KMRX 210843
+FWSMRX
+
+Spot Forecast for Flatwoods RX...USFS
+National Weather Service Morristown TN
+443 AM EDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 0700 EDT on March 21. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+Dry through early today with a slight chance of showers and 
+thunderstorms later this afternoon and evening. Dry weather 
+forecast for Sunday. Minimum RH will be around the low 40s percent
+both days. Winds primarily out of the west or southwest. Gusts 
+Sunday afternoon could reach up to 21 mph.
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (60-70 percent). Slight chance of 
+                    rain showers late in the afternoon. Slight 
+                    chance of thunderstorms late in the afternoon. 
+Max temperature.....Around 70. 
+Min humidity........43 percent. 
+Wind (20 ft)........West winds around 5 mph. Gusty and erratic 
+                    winds expected near thunderstorms late in the 
+                    afternoon. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....West 8 to 13 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      7 AM      10 AM     1 PM      4 PM      
+Sky (%).........77        80        79        54        
+Weather cov.....                              S CHC     
+Weather type....NONE      NONE      NONE      RNSHWR    
+Tstm cov........                                        
+Temp............54        59        67        69        
+RH..............80        68        49        43        
+20 FT wind......W 5G12    W 5G10    SW 5G10   SW 5G10   
+Mix hgt (ft)....300       1100      3100      4300      
+Transport wind..NW 10     W 9       W 9       W 13      
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent). Slight chance of 
+                    showers and thunderstorms early in the evening. 
+                    Slight chance of rain showers late in the 
+                    evening. 
+Min temperature.....Around 55. 
+Max humidity........96 percent. 
+Wind (20 ft)........Southwest winds around 5 mph early in the 
+                    evening becoming light, then becoming southwest 
+                    around 5 mph overnight. Gusty and erratic winds 
+                    expected near thunderstorms early in the 
+                    evening. 
+Mixing height.......100 ft AGL. 
+Transport winds.....Southwest 7 to 12 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........31        25        31        38        
+Weather cov.....S CHC                                   
+Weather type....RNSHWR    NONE      NONE      NONE      
+Tstm cov........S CHC                                   
+Temp............69        61        59        57        
+RH..............46        67        80        85        
+20 FT wind......SW 5G10   SW 4G8    SW 5G10   SW 5G10   
+Mix hgt (ft)....3300      300       200       200       
+Transport wind..W 12      SW 7      SW 8      SW 10     
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+Max temperature.....Around 76. 
+Min humidity........42 percent. 
+Wind (20 ft)........Southwest winds 5 to 10 mph. Gusts up to 21 mph 
+                    in the afternoon. 
+Mixing height.......3600 ft AGL. 
+Transport winds.....Southwest 10 to 18 mph increasing to 20 to 24 
+                    mph in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........42        42        38        33        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Temp............56        57        69        75        
+RH..............90        86        60        45        
+20 FT wind......SW 5G11   SW 6G12   SW 8G16   SW 8G17   
+Mix hgt (ft)....200       400       1700      3300      
+Transport wind..SW 10     SW 10     SW 18     SW 22     
+
+$$
+Forecaster...Kerrie Simmons
+Requested by...Kenneth Cooper
+Type of request...PRESCRIBED
+.TAG 2606873.0/MRX
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL Kenneth.Cooper@usda.gov
+

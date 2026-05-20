@@ -1,0 +1,122 @@
+
+000
+FNUS72 KCHS 211839
+FWSCHS
+
+Spot Forecast for FMF Compartment 186 Planning...USFS
+National Weather Service Charleston SC
+239 PM EDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 0700 EDT on March 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+
+.DISCUSSION...
+High pressure will dominate over the burn site on Sunday, yielding a 
+WSW/SW wind through the early afternoon. A sea breeze is forecast 
+to push across the burn site around 3 PM, shifting the wind to the 
+S/SSW. Wind gusts could reach as high as 20 mph in the late afternoon
+after the sea breeze pushes inland of the burn site. It is possible 
+that RH values could drop as low as 35% for a short duration Sunday 
+afternoon prior to the sea breeze arrival. The threat of fog Sunday 
+night into Monday morning is very low. 
+
+
+.SUNDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 85. 
+Min humidity........43 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 8 mph late 
+                    in the morning, then increasing to around 8 mph 
+                    late in the afternoon. 
+Mixing Height.......Max 4200 ft AGL. 
+Transport winds.....Light winds becoming southwest around 18 mph. 
+Max ADI.............73. 
+Inversion End.......1000.
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........4   5   2   1   1   0   0   1   3   1   2   
+Weather type....                                            
+Tstm cov........                                            
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+Temp............60  60  64  71  76  80  83  85  85  84  84  
+RH..............84  84  78  66  56  51  46  43  43  43  43  
+20 FT wind dir..W   W   W   W   W   W   SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   2   3   5   6   6   7   8   8   8   
+20 FT wind gust.9   9   11  11  11  13  13  14  14  16  16  
+Mix hgt (kft)...0.4 0.5 0.7 1.1 1.5 2.3 3.2 4.1 4.2 3.9 3.0 
+Transp wind dir.W   W   W   W   W   W   W   W   SW  SW  SW  
+Transp wind spd.2   2   8   8   8   14  14  14  18  18  18  
+LVORI...........5   5   4   3   2   1   1   1   1   1   1   
+ADI.............2   4   4   12  22  36  54  73  66  63  56  
+
+.SUNDAY NIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 63. 
+Max humidity........70 percent. 
+Wind (20 ft)........Southwest winds 5 to 7 mph with gusts to around 
+                    16 mph in the evening becoming light. 
+Max LVORI...........3. 
+Min ADI.............1. 
+Inversion Begin.....1900. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........4      5      11     12     17     10     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............80     74     67     66     66     65     
+RH..............49     57     68     70     70     70     
+20 ft wind......SW 7   SW 6   SW 5   SW 4   SW 3   SW 4   
+20 ft wind gust.16     14     14     13     13     13     
+Mix hgt (ft)....2100   700    700    700    800    800    
+Transport wind..SW 10  SW 10  SW 6   SW 4   SW 4   SW 6   
+LVORI...........2      3      3      3      3      3      
+ADI.............1      3      3      3      2      3      
+
+.MONDAY...
+
+Sky/weather.........Sunny then becoming partly sunny. Slight chance 
+                    of showers late in the afternoon. Slight chance 
+                    of thunderstorms late in the afternoon. 
+Chance of pcpn......20 percent. 
+Max temperature.....Around 86. 
+Min humidity........45 percent. 
+Wind (20 ft)........Light winds becoming west 5 to 6 mph with gusts 
+                    to around 16 mph early in the morning, then 
+                    becoming light late in the afternoon. Gusty and 
+                    erratic winds expected near thunderstorms late 
+                    in the afternoon. 
+Mixing Height.......Max 3900 ft AGL. 
+Transport winds.....Southwest around 6 mph shifting to the west 14 
+                    to 16 mph in the late morning and afternoon. 
+Max ADI.............65. 
+Inversion End.......0900. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........8         8         8         33        
+Weather type....NONE      NONE      NONE      RNSHWR    
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         20        
+Temp............64        67        80        85        
+RH..............70        65        51        45        
+20 FT wind......SW 4G14   W 5G16    W 6G16    W 5G13    
+Mix hgt (ft)....800       1400      2700      3500      
+Transport wind..SW 6      W 16      W 16      W 14      
+LVORI...........3         3         1         1         
+ADI.............6         26        61        63        
+
+$$
+Forecaster...Maskell
+Requested by...Sam Sulser
+Type of request...PRESCRIBED
+.TAG 2606958.0/CHS
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL samuel.sulser@usda.gov
+

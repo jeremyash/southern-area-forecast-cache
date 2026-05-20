@@ -1,0 +1,86 @@
+
+000
+FNUS74 KSHV 270910
+FWSSHV
+
+Spot Forecast for ANF TURKEY CREEK RX COMP 7...USFS
+National Weather Service Shreveport LA
+410 AM CDT Fri Mar 27 2026
+
+Forecast is based on ignition time of 0700 CDT on March 27. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Sustained south to southwest winds today near 5-7 mph with higher 20ft
+gusts will prevail ahead of a cold front that should begin moving over
+the prescribed burn location by mid to late afternoon. Minimum afternoon
+humidity today will be near 40 to 45 percent. Winds should increase 
+this evening into the overnight hours from the north behind the cold front
+with sustained speeds near 10 to 15 mph with higher gusts. Those same 
+wind speeds and gusts will hold on through the morning hours on Saturday
+before winds decrease in speed and gusts by afternoon. Very low afternoon
+humidity values on Saturday near 30 percent. 
+
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........80  80  70  60  40  20  14  15  16  22  22  
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............64  65  68  72  78  80  83  86  86  87  87  
+RH..............90  87  84  78  63  58  51  46  46  43  43  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  W   W   W   N   N   
+20 FT wind mph..3   3   3   5   6   6   5   4   3   5   5   
+20 FT wind gust.12  8   13  13  12  10  10  9   8   8   9   
+Mix hgt (kft)...0.6 0.6 1.6 2.4 2.8 3.1 3.5 4.1 5.0 5.7 5.0 
+Mix hgt (km)....0.2 0.2 0.5 0.7 0.9 0.9 1.1 1.2 1.5 1.7 1.5 
+Transp wind dir.S   S   SW  SW  SW  SW  SW  W   NW  N   N   
+Transp wind spd.10  7   10  10  12  9   7   7   6   6   8   
+Trans wind dir..S   S   SW  SW  SW  SW  SW  W   NW  N   N   
+Trans spd (m/s).4   3   4   4   5   4   3   3   3   3   4   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........18  30  47  52  58  68  70  63  65  68  64  73  
+CWR.............0   10  10  10  0   0   0   0   0   0   0   0   
+Temp............85  81  75  70  67  64  62  60  59  58  56  54  
+RH..............46  54  63  68  69  70  67  64  62  59  57  54  
+20 FT wind dir..N   N   N   N   N   N   N   NE  NE  NE  NE  NE  
+20 FT wind mph..5   8   8   8   12  12  12  10  10  10  10  10  
+20 FT wind gust.10  13  18  20  24  24  25  25  25  25  25  25  
+Mix hgt (kft)...4.0 0.5 1.5 2.7 2.8 2.4 2.4 2.3 2.3 1.8 2.2 2.2 
+Mix hgt (km)....1.2 0.2 0.5 0.8 0.9 0.7 0.7 0.7 0.7 0.5 0.7 0.7 
+Transp wind dir.N   N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.8   8   16  24  28  29  29  28  25  24  24  24  
+Trans wind dir..N   N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Trans spd (m/s).4   4   7   11  13  13  13  13  11  11  11  11  
+
+.SATURDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........68  56  57  33  40  33  34  34  33  30  29  27  
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............53  52  51  52  56  59  62  65  66  68  69  68  
+RH..............52  52  50  48  44  41  39  35  34  33  32  35  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind mph..10  10  10  10  10  10  10  8   8   8   5   5   
+20 FT wind gust.25  24  23  22  22  20  18  17  16  14  13  12  
+Mix hgt (kft)...2.6 2.5 2.3 2.7 2.8 2.9 2.9 2.9 3.2 3.4 3.2 2.4 
+Mix hgt (km)....0.8 0.8 0.7 0.8 0.9 0.9 0.9 0.9 1.0 1.0 1.0 0.7 
+Transp wind dir.NE  NE  NE  NE  NE  E   E   E   E   E   E   E   
+Transp wind spd.26  25  25  25  24  21  18  16  14  13  12  10  
+Trans wind dir..NE  NE  NE  NE  NE  E   E   E   E   E   E   E   
+Trans spd (m/s).12  11  11  11  11  9   8   7   6   6   5   4   
+
+$$
+Forecaster...BERRY
+Requested by...KYE KARTYE
+Type of request...PRESCRIBED
+.TAG 2608086.0/SHV
+.DELDT 03/27/26
+.FormatterVersion 2.0.0
+.EMAIL joey.silva@usda.gov,matthew.kartye@usda.gov
+

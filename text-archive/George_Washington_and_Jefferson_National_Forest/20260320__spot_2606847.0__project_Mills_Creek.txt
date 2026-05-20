@@ -1,0 +1,134 @@
+
+000
+FNUS71 KLWX 201916
+FWSLWX
+
+Spot Forecast for Mills Creek...U.S. Forest Service
+National Weather Service Baltimore MD/Washington DC
+316 PM EDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 0900 EDT on March 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Breezy southwest winds are in place this afternoon as high pressure 
+departs. A clipper system will bring showers and possible embedded 
+thunderstorms this evening. While widespread wetting rains may not 
+occur, some locations could receive between a quarter and half inch. 
+High pressure will quickly return with continued above average 
+temperatures this weekend. Humidity may drop into the 30s in some 
+locations. Gusty south winds return Sunday. A stronger cold front 
+will bring the next chance of showers Sunday night. However, 
+rainfall amounts look to be limited and some areas may remain dry.
+Cooler weather returns by early next week as Canadian high pressure 
+approaches from the west. Monday will feature strong northwest winds 
+and dropping humidity levels. Tuesday will likely have low humidity 
+but light winds.
+
+.MONDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+CWR.................20 percent decreasing to 10 percent late in the 
+                    afternoon. 
+Max temperature.....Around 64. 
+Min humidity........32 percent. 
+Wind (20 ft)........Northwest winds 6 to 12 mph with gusts to around 
+                    22 mph. 
+Mixing height.......5700 ft AGL. 
+Transport winds.....Northwest 15 to 22 mph. 
+Smoke dispersal.....Good (33900 knot-ft) early in the morning 
+                    increasing to excellent (107200 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........57  44  30  28  28  18  16  14  12  
+Weather cov.....SCH SCH SCH SCH SCH                 
+Weather type....RN  RN  RN  RN  RN                  
+Tstm cov........                                    
+CWR.............20  20  20  20  20  10  10  10  10  
+Temp............59  60  61  61  62  62  61  60  58  
+RH..............75  64  58  51  46  41  38  36  36  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..8   8   8   8   8   8   8   9   9   
+20 FT wind gust.22  22  23  23  22  22  22  23  23  
+Mix hgt (kft)...2.4 2.8 3.3 3.7 4.2 4.6 5.2 5.7 5.6 
+Transp wind dir.N   N   NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.16  16  16  16  16  17  20  21  22  
+Vrate kt-ft/1K..34  40  46  52  60  69  87  105 107 
+Ventrate Cat....PR  PR  FR  FR  FR  GD  GD  VGD VGD 
+
+.MONDAY NIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+CWR.................10 percent. 
+Min temperature.....Around 36. 
+Max humidity........52 percent. 
+Wind (20 ft)........Northwest winds 4 to 8 mph with gusts to around 
+                    20 mph in the evening and overnight becoming 
+                    light. 
+Mixing height.......600 ft AGL. 
+Transport winds.....Northwest 12 to 20 mph shifting to the north 7 
+                    to 14 mph in the late evening and overnight. 
+Smoke dispersal.....Excellent (79900 knot-ft) early in the evening 
+                    decreasing to poor (4800 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........11     8      5      4      5      6      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............10     10     10     10     0      0      
+Temp............56     55     50     46     44     40     
+RH..............35     32     37     42     43     48     
+20 ft wind......NW 9   NW 9   N 9    N 7    N 5    N 3    
+20 ft wind gust.23     23     20     17     14     12     
+Mix hgt (ft)....4700   2100   1400   1500   1700   900    
+Transport wind..NW 20  NW 13  N 9    N 8    N 10   N 9    
+Vrate kt-ft/1K..80     23     11     11     15     8      
+Ventrate Cat....GOOD   POOR   POOR   POOR   POOR   POOR   
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 54. 
+Min humidity........27 percent. 
+Wind (20 ft)........Light winds becoming southeast 4 to 8 mph late 
+                    in the afternoon, then shifting to the south 
+                    around 5 mph late in the afternoon. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....North 4 to 8 mph shifting to the south around 8 
+                    mph late in the afternoon. 
+Smoke dispersal.....Poor (3700 knot-ft) early in the morning 
+                    increasing to fair (29000 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........15        27        26        40        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+CWR.............0         0         0         0         
+Temp............38        40        48        53        
+RH..............52        44        31        27        
+20 FT wind......N 3G9     N 2G8     E 3G10    S 5G12    
+Mix hgt (ft)....500       1300      3300      4400      
+Transport wind..N 9       N 9       NE 8      E 7       
+Vrate kt-ft/1K..4         10        22        27        
+Ventrate Cat....POOR      POOR      POOR      POOR      
+
+$$
+Forecaster...Witt
+Requested by...B. Foltz
+Type of request...PRESCRIBED
+.TAG 2606847.0/LWX
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL mathias.cuison@usda.gov,brent.foltz@usda.gov
+

@@ -1,0 +1,140 @@
+
+000
+FNUS74 KMEG 130915
+FWSMEG
+
+Spot Forecast for HSIU 55-1...USFS
+National Weather Service Memphis TN
+415 AM CDT Fri Mar 13 2026
+
+Forecast is based on ignition time of 0900 CDT on March 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Minimum relative humidities today will hover around 30-35% this
+morning before a slow rise to near 40% by this afternoon. There 
+is a 20% chance of RH to be less than 30% with greater than 10 
+mph winds. Despite drier air, fuel moisture remains high from 
+previous days rainfall. 
+
+Winds will go light to calm for Friday night into Saturday
+morning. Calm winds and clear skies favor radiational fog
+development, but the reasonable worst case scenario from guidance
+keeps visibilities above 6 miles with patchy fog over Holly 
+Springs National Forest in the early hours of Saturday morning. 
+Any fog that may develop, should erode by 9 AM Saturday morning.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 69. 
+Min humidity........33 percent. 
+Dewpoint............36 increasing to 39 late in the afternoon. 
+Wind (20 ft)........Southwest winds 5 to 7 mph. 
+Mixing height.......3400 ft AGL. 
+Mixing height (m)...427-1036 meters AGL. 
+Transport winds.....Southwest 12 to 20 mph. 
+Transport winds m/s.Southwest 5 to 9 meters/second. 
+Smoke dispersal.....Poor (3300 knot-ft). 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   0   1   1   3   13  8   10  8   
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............44  52  57  60  63  66  67  67  68  
+Dewpoint........34  36  37  37  38  37  37  38  39  
+RH..............68  54  47  42  39  34  33  34  35  
+20 FT wind dir..S   SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..7   7   7   7   7   7   7   6   5   
+20 FT wind gust.14  14  14  14  14  13  13  11  10  
+Mix hgt (kft)...1.4 2.0 2.5 2.8 3.2 3.3 3.4 3.4 2.7 
+Mix hgt (km)....0.4 0.6 0.8 0.9 1.0 1.0 1.0 1.0 0.8 
+Transp wind dir.SW  SW  SW  SW  W   W   W   W   W   
+Transp wind spd.17  20  20  18  18  16  14  13  12  
+Trans wind dir..SW  SW  SW  SW  W   W   W   W   W   
+Trans spd (m/s).8   9   9   8   8   7   6   6   5   
+Vrate kt-ft/1K..3   6   7   7   8   7   6   6   4   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (0-10 percent). 
+Min temperature.....Around 44. 
+Max humidity........89 percent. 
+Dewpoint............41. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Mixing height (m)...91-518 meters AGL. 
+Transport winds.....Southwest 5 to 12 mph shifting to the south 5 
+                    to 6 mph overnight. 
+Transport winds m/s.West around 5 meters/second shifting to the 
+                    south 2 to 3 meters/second overnight. 
+Smoke dispersal.....Poor (200 knot-ft). 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........7   3   2   10  7   4   1   3   5   3   6   5   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............66  63  59  55  52  51  49  49  48  47  46  46  
+Dewpoint........40  41  41  41  41  42  41  41  41  42  41  42  
+RH..............38  44  51  59  66  71  74  74  77  83  83  86  
+20 FT wind dir..SW  SW  SW  SW  S   S   S   S   S   SE  SE  S   
+20 FT wind spd..2   2   2   2   1   1   1   1   1   2   2   2   
+20 FT wind gust.8   6   6   5   4   4   4   4   4   5   5   6   
+Mix hgt (kft)...1.7 0.4 0.4 0.4 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 
+Mix hgt (km)....0.5 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.W   W   W   SW  SW  SW  S   S   S   S   S   S   
+Transp wind spd.12  7   6   6   5   6   6   5   5   5   5   6   
+Trans wind dir..W   W   W   SW  SW  SW  S   S   S   S   S   S   
+Trans spd (m/s).5   3   3   3   2   3   3   2   2   2   2   3   
+Vrate kt-ft/1K..3   0   0   0   0   0   0   0   0   0   0   0   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.SATURDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 75. 
+Min humidity........38 percent. 
+Dewpoint............42 increasing to 47 in the late morning and 
+                    afternoon. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph late in 
+                    the morning. 
+Mixing height.......4700 ft AGL. 
+Mixing height (m)...91-1433 meters AGL. 
+Transport winds.....South 6 to 14 mph increasing to 16 to 18 mph in 
+                    the afternoon. 
+Transport winds m/s.South 3 to 8 meters/second becoming 3 to 7 
+                    meters/second early in the morning, then 
+                    increasing to 7 to 8 meters/second in the 
+                    afternoon. 
+Smoke dispersal.....Poor (200 knot-ft). 
+
+TIME (CDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........5         4         4         3         
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Temp............45        51        68        75        
+Dewpoint........41        46        49        48        
+RH..............86        83        51        38        
+20 FT wind......SE 2G6    S 2G8     S 5G11    S 6G12    
+Mix hgt (ft)....300       800       2900      4700      
+Mix hgt (m).....90        240       880       1430      
+Transport wind..SE 7      S 9       S 16      S 18      
+Tran wind (m/s).SE 3      S 4       S 7       S 8       
+Vrate kt-ft/1K..0         1         6         12        
+Ventrate Cat....POOR      POOR      POOR      POOR      
+
+$$
+Forecaster...Meadows
+Requested by...John Townsend
+Type of request...PRESCRIBED
+.TAG 2605571.0/MEG
+.DELDT 03/13/26
+.FormatterVersion 2.0.0
+.EMAIL john.townsend@usda.gov
+

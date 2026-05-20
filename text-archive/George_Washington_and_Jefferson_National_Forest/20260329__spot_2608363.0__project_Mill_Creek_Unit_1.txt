@@ -1,0 +1,141 @@
+
+000
+FNUS71 KRNK 291748
+FWSRNK
+
+Spot Forecast for Mill Creek Unit 1...USFS
+National Weather Service Blacksburg VA
+148 PM EDT Sun Mar 29 2026
+
+Forecast is based on ignition time of 1400 EDT on March 29. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Sunny, dry and breezy through today. Relative humidity will drop 
+into the low 20% range by this afternoon, and afternoon high 
+temperatures climb into the low 60s. South to southwesterly winds
+have begun to gust, and gusts between 15 to 20 mph are expected to
+continue until the evening, after which winds will start to 
+decrease. Moisture begins to increase Monday with continued broad 
+southerly flow, so will not see minimum RH tomorrow afternoon as 
+low as this afternoon. Will also see increasing cloud cover over 
+the burn site tomorrow, and increasing chances for rain showers by
+the afternoon, though amounts look to be a tenth of an inch or 
+less. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 62. 
+Min humidity........23 percent. 
+Wind (20 ft)........South winds around 6 mph with gusts to around 
+                    18 mph. 
+Mixing height.......5200 ft AGL. 
+Mixing winds........South 14 to 17 mph. 
+Smoke dispersal.....Good (58200 knot-ft) early in the morning 
+                    increasing to excellent (77300 knot-ft) in the 
+                    afternoon. 
+LVORI...............1. 
+ADI.................78 to 102. 
+
+TIME (EDT)      2PM 3PM 4PM 5PM 
+Sky (%).........9   8   8   15  
+Weather cov.....                
+Weather type....                
+Tstm cov........                
+CWR.............0   0   0   0   
+Temp............58  60  61  62  
+RH..............27  27  24  23  
+20 FT wind dir..S   S   S   S   
+20 FT wind spd..6   6   6   6   
+20 FT wind gust.18  18  18  18  
+Mix hgt (kft)...4.9 5.2 5.2 5.1 
+Mixng wind dir..S   S   S   S   
+Mixng wind spd..14  15  17  17  
+LVORI...........1   1   1   1   
+ADI.............78  92  102 101 
+VRate mph-ft/1K.67  80  89  88  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    mostly cloudy (50-60 percent). 
+CWR (0.01 in).......10 percent. 
+Min temperature.....Around 45. 
+Max humidity........67 percent. 
+Wind (20 ft)........South winds 5 to 6 mph with gusts to around 18 
+                    mph early in the evening becoming light. 
+Mixing height.......500 ft AGL. 
+Mixing winds........South 7 to 15 mph. 
+Smoke dispersal.....Good (55800 knot-ft) early in the evening 
+                    decreasing to poor (3300 knot-ft) late in the 
+                    night. 
+LVORI...............2. 
+ADI.................76 early in the evening decreasing to 3 late in 
+                    the night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........26     21     44     60     52     61     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      10     
+Temp............60     55     50     48     47     46     
+RH..............25     28     33     37     40     53     
+20 ft wind......S 6    SW 4   SW 3   SW 2   SW 2   SW 2   
+20 ft wind gust.18     16     13     13     14     13     
+Mix hgt (ft)....4200   900    700    600    500    500    
+Mixing wind......S 15   S 9    S 7    S 7    S 7    SW 8   
+LVORI...........1      2      2      2      2      2      
+ADI.............76     4      3      3      3      3      
+VRate mph-ft/1K.64     8      5      4      4      4      
+
+.MONDAY...
+
+Sky/weather.........Partly sunny (65-75 percent). Slight chance of 
+                    rain showers early in the morning. Chance of 
+                    rain showers in the late morning and afternoon. 
+CWR (0.01 in).......10 percent increasing to 20 percent early in 
+                    the morning, then increasing to 50 percent early 
+                    in the afternoon, decreasing to 30 percent. 
+Max temperature.....Around 69. 
+Min humidity........48 percent. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph 
+                    late in the afternoon, then becoming light late 
+                    in the afternoon. 
+Mixing height.......3100 ft AGL. 
+Mixing winds........Southwest 7 to 16 mph. 
+Smoke dispersal.....Poor (2700 knot-ft) early in the morning 
+                    increasing to good (44000 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................3 to 40. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........65     69     61     61     70     63     
+Weather cov.....       S CHC  CHANCE CHANCE CHANCE CHANCE 
+Weather type....NONE   RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........                                          
+CWR.............10     20     30     30     30     40     
+Temp............47     48     55     62     66     69     
+RH..............59     67     56     53     51     48     
+20 ft wind......SW 2   SW 2   SW 2   SW 4   SW 5   SW 5   
+20 ft wind gust.12     11     12     14     14     14     
+Mix hgt (ft)....500    500    1500   2700   2900   2600   
+Mixing wind......SW 8   SW 7   SW 9   SW 12  SW 14  SW 16  
+LVORI...........3      3      2      2      1      1      
+ADI.............3      5      17     26     33     35     
+VRate mph-ft/1K.4      3      13     31     40     42     
+
+$$
+Forecaster...Sava
+Requested by...Robbie Claytor
+Type of request...PRESCRIBED
+.TAG 2608363.0/RNK
+.DELDT 03/29/26
+.FormatterVersion 2.0.0
+.EMAIL robert.claytor@usda.gov
+

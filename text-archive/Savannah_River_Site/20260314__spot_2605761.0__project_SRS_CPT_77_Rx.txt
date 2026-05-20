@@ -1,0 +1,133 @@
+
+000
+FNUS72 KCAE 141047
+FWSCAE
+
+Spot Forecast for SRS CPT 77 Rx...USFS-Savannah River
+National Weather Service Columbia SC
+647 AM EDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 0800 EDT on March 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+High pressure will be in control of the weather today with mainly
+sunny skies and light and variable winds expected at the forecast
+point. Due to ongoing dry conditions, RH values are expected to 
+fall below 30 percent once again this afternoon. The morning 
+inversion should break and lift by mid-morning, returning this 
+evening. Low clouds and fog are unlikely tonight.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 79. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....Southwest 2 to 5 mph shifting to the southeast 
+                    3 to 7 mph in the afternoon. 
+LVORI...............4. 
+ADI.................3 to 41. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........15  15  8   3   1   3   3   2   2   3   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   
+Temp............49  52  57  64  69  72  76  77  78  79  
+RH..............93  81  67  54  44  37  31  29  28  26  
+Aparnt tmp (F)..49  52  57  64  69  72  76  77  78  79  
+20 FT wind dir..N   N   N   N   SW  E   E   E   SE  SE  
+20 FT wind dir..000 000 000 000 210 090 100 100 120 120 
+20 FT wind spd..0   0   0   0   1   1   1   1   2   2   
+20 FT wind gust.3   3   3   3   5   5   6   7   7   8   
+Mix hgt (kft)...0.4 0.6 0.9 1.5 2.7 3.6 4.5 4.9 5.1 5.2 
+Transp wind dir.W   W   SW  SW  SW  S   SE  SE  SE  SE  
+Transp wind dir.270 260 240 230 230 180 150 140 140 140 
+Transp wind spd.5   3   3   5   2   3   3   5   6   7   
+LVORI...........6   6   4   3   2   2   2   2   1   1   
+ADI.............4   3   4   9   8   16  20  28  34  41  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 53. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southeast 8 to 15 mph. 
+LVORI...............5. 
+ADI.................4 to 43. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........1   2   2   2   1   0   2   5   5   22  22  47  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............77  74  70  65  62  59  58  56  54  54  54  53  
+RH..............29  35  41  52  60  69  75  83  93  93  96  100 
+Aparnt tmp (F)..77  74  70  65  62  59  58  56  54  54  54  53  
+20 FT wind dir..SE  SE  E   SE  SE  SE  SE  E   E   E   E   E   
+20 FT wind dir..120 120 110 130 140 130 130 110 100 090 090 080 
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.9   9   9   10  12  12  12  10  9   10  10  10  
+Mix hgt (kft)...3.9 0.6 0.4 0.6 0.7 0.7 0.7 0.6 0.6 0.6 0.6 0.5 
+Transp wind dir.SE  SE  SE  SE  SE  SE  SE  SE  E   E   E   E   
+Transp wind dir.140 130 130 150 130 150 130 120 110 110 100 100 
+Transp wind spd.9   8   9   13  15  12  12  10  10  10  10  10  
+LVORI...........1   2   2   2   3   3   4   5   6   6   7   9   
+ADI.............43  4   4   6   7   5   5   5   5   5   5   5   
+
+.SUNDAY...
+
+Sky/weather.........Partly sunny (50-60 percent). Chance of rain 
+                    early in the morning. Rain showers likely and 
+                    chance of thunderstorms late in the afternoon. 
+Chance of pcpn......60 percent. 
+Max temperature.....Around 79. 
+Min humidity........58 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 7 mph in 
+                    the late morning and afternoon. Gusty and 
+                    erratic winds expected near thunderstorms late 
+                    in the afternoon. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....Southeast 10 to 16 mph. 
+LVORI...............5. 
+ADI.................5 early in the morning increasing to 84 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........38  42  55  55  55  55  62  69  76  76  76  76  
+Weather cov.....        CHC CHC CHC CHC CHC CHC LKY LKY LKY LKY 
+Weather type....        RN  RN  RN  RN  RN  RN  RW  RW  RW  RW  
+Tstm cov........                                CHC CHC CHC CHC 
+Chc of pcpn (%).0   0   30  30  30  30  30  30  60  60  60  60  
+Temp............53  54  55  58  63  68  72  74  76  77  78  78  
+RH..............100 100 96  96  87  76  68  66  62  60  58  58  
+Aparnt tmp (F)..53  54  55  58  63  68  72  74  76  77  78  78  
+20 FT wind dir..E   E   E   E   E   E   E   SE  SE  SE  SE  SE  
+20 FT wind dir..080 070 070 090 100 100 110 120 120 120 130 130 
+20 FT wind spd..2   2   2   3   5   6   7   8   8   8   7   6   
+20 FT wind gust.12  12  12  14  15  16  17  17  17  17  17  16  
+Mix hgt (kft)...0.6 0.6 0.7 1.7 2.6 3.4 4.0 4.4 4.4 4.2 3.8 3.4 
+Transp wind dir.E   E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+Transp wind dir.100 090 090 100 110 110 120 130 130 140 150 150 
+Transp wind spd.10  10  12  13  14  15  16  16  16  15  14  13  
+LVORI...........9   7   7   4   4   3   1   1   1   1   1   1   
+ADI.............5   11  12  27  46  51  77  83  84  75  63  52  
+
+$$
+Forecaster...LaVoie
+Requested by...Kevin Pope
+Type of request...PRESCRIBED
+.TAG 2605761.0/CAE
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL kevin.pope@usda.gov
+

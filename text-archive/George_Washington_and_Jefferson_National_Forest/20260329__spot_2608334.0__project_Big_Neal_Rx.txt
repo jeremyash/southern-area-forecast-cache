@@ -1,0 +1,129 @@
+
+000
+FNUS71 KRNK 291322
+FWSRNK
+
+Spot Forecast for Big Neal Rx...USFS
+National Weather Service Blacksburg VA
+922 AM EDT Sun Mar 29 2026
+
+Forecast is based on ignition time of 0400 EDT on March 30. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+A light southwest breeze on Monday morning should increase by 
+Monday afternoon with gusts up to 15 mph. Mixing should be good, 
+but mixing heights may only reach 2500 feet above ground level as 
+clouds increase. The relative humidity should fall towards 50 
+percent by the afternoon. A 20 percent chance of rain exists at 
+the burn site during Monday afternoon, but this chance of rain 
+diminishes after sunset. Tuesday appears to be a repeat of Monday 
+with a gusty southwest wind, but the chance of rain and the 
+relative humidity may be slightly lower.
+
+.REST OF TONIGHT...
+
+Sky/weather.........Partly cloudy (40-45 percent). 
+CWR (0.01 in).......10 percent. 
+Min temperature.....Around 39. 
+Max humidity........64 percent. 
+Wind (20 ft)........Southwest winds around 5 mph. 
+Mixing height.......600 ft AGL. 
+Mixing winds........Southwest around 5 mph. 
+Smoke dispersal.....Poor (2800 knot-ft). 
+LVORI...............3. 
+ADI.................3. 
+
+TIME (EDT)      4AM 5AM 
+Sky (%).........44  36  
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+CWR.............0   10  
+Temp............40  40  
+RH..............51  54  
+20 FT wind dir..SW  SW  
+20 FT wind spd..5   5   
+20 FT wind gust.8   8   
+Mix hgt (kft)...0.6 0.6 
+Mixng wind dir..SW  SW  
+Mixng wind spd..6   6   
+LVORI...........2   3   
+ADI.............4   3   
+VRate mph-ft/1K.4   4   
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Slight chance 
+                    of rain showers in the afternoon. 
+CWR (0.01 in).......Increasing to 20 percent in the afternoon. 
+Max temperature.....Around 61. 
+Min humidity........51 percent. 
+Wind (20 ft)........Southwest winds around 5 mph in the morning 
+                    increasing to 5 to 10 mph with gusts up to 
+                    15 mph in the afternoon. 
+Mixing height.......2500 ft AGL. 
+Mixing winds........Southwest 5 to 10 mph in the morning 
+                    increasing to 10 to 20 mph in the afternoon.
+Smoke dispersal.....Poor (2400 knot-ft) in the morning increasing 
+                    to good (39600 knot-ft) in the afternoon. 
+LVORI...............2. 
+ADI.................Increasing to 39. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........49     69     67     72     79     76     
+Weather cov.....                     S CHC  S CHC  S CHC  
+Weather type....NONE   NONE   NONE   RNSHWR RNSHWR RNSHWR 
+Tstm cov........                                          
+CWR.............10     10     10     20     20     20     
+Temp............40     41     49     56     60     61     
+RH..............58     64     59     56     56     56     
+20 ft wind......SW 5   SW 4   SW 5   SW 6   SW 6   SW 6   
+20 ft wind gust.8      11     14     16     16     16     
+Mix hgt (ft)....500    500    1600   2400   2400   2100   
+Mixing wind......SW 6   SW 6   SW 8   SW 13  SW 17  SW 15  
+LVORI...........3      3      2      2      1      2      
+ADI.............4      6      15     29     39     30     
+VRate mph-ft/1K.4      4      14     33     46     33     
+
+.MONDAY NIGHT...
+
+Sky/weather.........Partly cloudy (50-60 percent). 
+CWR (0.01 in).......Decreasing to 10 percent overnight. 
+Min temperature.....Around 51. 
+Max humidity........81 percent. 
+Wind (20 ft)........Southwest winds around 5 mph. 
+Mixing height.......600 ft AGL. 
+Mixing winds........Southwest 10 to 15 mph. 
+Smoke dispersal.....Fair (20300 knot-ft) in the evening decreasing 
+                    to poor (6100 knot-ft) overnight. 
+LVORI...............3. 
+ADI.................Decreasing to 7. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........70     63     59     57     58     48     
+Weather cov.....S CHC                                     
+Weather type....RNSHWR NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............20     10     10     10     10     10     
+Temp............61     58     56     54     53     52     
+RH..............60     67     71     75     77     77     
+20 ft wind......SW 5   SW 5   SW 5   SW 5   SW 5   SW 4   
+20 ft wind gust.14     12     12     13     13     13     
+Mix hgt (ft)....1700   800    700    700    700    700    
+Mixing wind......SW 13  SW 13  SW 14  SW 14  SW 13  SW 12  
+LVORI...........2      3      3      4      4      4      
+ADI.............23     8      9      9      8      7      
+VRate mph-ft/1K.23     11     11     11     11     9      
+
+$$
+Forecaster...Wilson
+Requested by...Joe Jarrells
+Type of request...PRESCRIBED
+.TAG 2608334.0/RNK
+.DELDT 03/29/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.jarrells@usda.gov
+

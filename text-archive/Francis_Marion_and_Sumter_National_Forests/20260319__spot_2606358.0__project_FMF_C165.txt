@@ -1,0 +1,111 @@
+
+000
+FNUS72 KCHS 190911
+FWSCHS
+
+Spot Forecast for FMF C165...USDA Forest Service
+National Weather Service Charleston SC
+511 AM EDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 1000 EDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail across the area again today. 
+Relative humidity values are expected to fall to around 30 
+percent range. Winds will start off the day out of the north 
+to northeast, then will turn east or southeast late this 
+afternoon or early this evening with passage of a weak sea 
+breeze boundary. Dry and warming conditions are expected 
+through the weekend.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 65. 
+Min humidity........32 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4200 ft AGL. 
+Transport winds.....North 6 to 12 mph. 
+Max ADI.............58. 
+Inversion End.......0930. 
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........6   19  11  11  6   14  20  7   
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............50  54  57  59  62  63  63  64  
+RH..............44  38  34  33  32  32  35  35  
+20 FT wind dir..N   N   N   N   NE  NE  NE  NE  
+20 FT wind spd..3   4   4   4   4   4   3   2   
+20 FT wind gust.11  11  11  11  11  11  9   9   
+Mix hgt (kft)...2.0 2.9 3.5 3.7 4.2 4.2 4.0 3.7 
+Transp wind dir.N   N   N   N   N   N   N   N   
+Transp wind spd.12  12  12  12  12  6   6   6   
+LVORI...........2   1   1   1   1   1   1   2   
+ADI.............30  50  58  52  46  40  33  26  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 40. 
+Max humidity........93 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........8. 
+Min ADI.............1. 
+Inversion Begin.....1900. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........23     38     23     9      7      6      
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............61     55     49     46     44     42     
+RH..............39     53     68     79     86     93     
+20 ft wind......E 2    SE 1   N 0    N 0    N 0    N 0    
+20 ft wind gust.7      5      4      4      4      4      
+Mix hgt (ft)....2700   400    400    400    400    400    
+Transport wind..E 4    E 4    NE 0   N 0    N 0    N 0    
+LVORI...........2      2      4      4      6      8      
+ADI.............1      1      1      1      1      1      
+
+.FRIDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 69. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 3700 ft AGL. 
+Transport winds.....Light winds becoming southeast around 6 mph 
+                    late in the afternoon. 
+Max ADI.............21. 
+Inversion End.......0930. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........5         5         1         2         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............42        46        65        69        
+RH..............89        79        45        37        
+20 FT wind......NW 1G4    N 1G5     NE 2G7    E 3G9     
+Mix hgt (ft)....300       800       3100      3200      
+Transport wind..NW 2      N 4       NE 4      SE 6      
+LVORI...........7         4         2         2         
+ADI.............1         1         18        18        
+
+$$
+
+Forecaster...Holloway
+Requested by...kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2606358.0/CHS
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+

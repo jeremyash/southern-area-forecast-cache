@@ -1,0 +1,167 @@
+
+000
+FNUS72 KGSP 211823
+FWSGSP
+
+Spot Forecast for Farmer Mtn....USFS
+National Weather Service Greenville-Spartanburg SC
+223 PM EDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 1500 EDT on March 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Focusing on Sunday and into Sunday night, dry conditions expected. 
+RH recovers a bit with 30-40% range by mid Sunday afternoon. It's 
+possible given the persistent dry conditions to have RH closer to 
+the low end of the range. SW winds and gusts increasing to 20-25mph 
+by the afternoon and remaining elevated overnight. By the end of the 
+overnight hours, winds start to become more WSW. Clear skies during 
+the day and increasing clouds overnight. No rainfall chances during 
+this period.
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Chance of thunder...10 percent. 
+Min temperature.....Around 59. 
+Max humidity........87 percent. 
+Wind (20 ft)........West winds 5 to 8 mph. 
+Mixing height.......500 ft AGL. 
+Transport winds.....West 10 to 18 mph. 
+Smoke dispersal.....Excellent (95407 mph-ft) early in the evening 
+                    decreasing to poor (5754 mph-ft) late in the 
+                    night. 
+LVORI...............3. 
+ADI.................77 early in the evening decreasing to 5 late in 
+                    the night. 
+Stability class.....4. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........22000 decreasing to 11000 early in the evening, 
+                    then increasing to 19000 overnight decreasing 
+                    to 12000 overnight. 
+Visibility (SM).....10. 
+Sfc pressure (in)...0.0. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........7   11  14  25  19  28  18  10  5   3   5   8   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).10  10  10  10  10  10  10  10  0   0   0   0   
+Temp............83  81  76  74  71  70  68  66  65  64  62  61  
+Dewpoint........51  53  54  53  54  55  55  55  55  55  55  55  
+RH..............33  38  45  49  55  60  64  68  71  72  78  81  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..8   7   7   7   7   7   6   6   6   5   5   5   
+20 FT wind gust.17  16  14  14  13  13  13  13  12  12  12  12  
+Mix hgt (kft)...5.2 1.2 0.7 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.5 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.18  14  14  13  13  12  12  12  10  12  12  12  
+LVORI...........1   2   2   2   3   3   3   3   3   3   4   4   
+ADI.............77  9   6   6   6   5   5   5   5   5   5   5   
+VRate mph-ft/1k.95  17  9   8   7   7   6   7   6   7   6   6   
+Ceiling (hft)...220 230 130 120 110 140 140 190 120 130 120 120 
+Visibility (sm).10  10  10  10  10  10  10  10  10  10  10  10  
+Sfc pres (in)...-2000-2000-2000-2000-2000-2000-2000-2000-2000-2000-2000-2000
+
+.SUNDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of thunder...0 percent. 
+Max temperature.....Around 84. 
+Min humidity........36 percent. 
+Wind (20 ft)........West winds 5 to 9 mph. Gusts up to 22 mph late 
+                    in the afternoon. 
+Mixing height.......5300 ft AGL. 
+Transport winds.....West 9 to 18 mph increasing to 20 to 22 mph 
+                    late in the afternoon. 
+Smoke dispersal.....Poor (4603 mph-ft) early in the morning 
+                    increasing to excellent (116583 mph-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................5 early in the morning increasing to 93 in the 
+                    afternoon. 
+Stability class.....4. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........12000 increasing to 21000 in the morning, then 
+                    decreasing to 3500 late in the morning. 
+Visibility (SM).....10. 
+Sfc pressure (in)...0.0. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   7   5   4   3   2   1   2   2   4   5   10  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............61  60  60  62  69  73  77  80  82  83  84  84  
+Dewpoint........55  55  56  56  58  58  58  58  57  55  55  54  
+RH..............83  84  87  80  68  59  51  47  42  39  38  37  
+20 FT wind dir..W   W   W   W   W   W   W   W   SW  SW  SW  SW  
+20 FT wind spd..5   5   5   5   6   7   7   8   9   9   9   9   
+20 FT wind gust.10  9   9   10  12  14  16  18  20  20  22  21  
+Mix hgt (kft)...0.5 0.5 0.5 0.8 1.6 2.2 3.0 3.8 4.4 4.9 5.1 5.3 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.10  9   9   9   13  16  16  17  18  20  21  22  
+LVORI...........5   4   5   4   3   1   1   1   1   1   1   1   
+ADI.............5   10  10  10  25  46  59  63  72  80  86  93  
+VRate mph-ft/1k.6   5   5   7   20  36  48  65  81  96  106 117 
+Ceiling (hft)...120 210 250 250 250 35  45  40  35  35  40  50  
+Visibility (sm).10  10  10  10  10  10  10  10  10  10  10  10  
+Sfc pres (in)...-2000-2000-2000-2000-2000-2000-2000-2000-2000-2000-2000-2000
+
+.SUNDAY NIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). 
+Chance of thunder...0 percent. 
+Min temperature.....Around 65. 
+Max humidity........70 percent. 
+Wind (20 ft)........West winds 7 to 9 mph. 
+Mixing height.......700 ft AGL. 
+Transport winds.....West 13 to 21 mph. 
+Smoke dispersal.....Excellent (99435 mph-ft) early in the evening 
+                    decreasing to poor (8631 mph-ft) late in the 
+                    night. 
+LVORI...............2. 
+ADI.................84 early in the evening decreasing to 8 late in 
+                    the night. 
+Stability class.....4. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........4000 increasing to 10000 early in the evening, 
+                    then decreasing to 100 early in the evening. 
+Visibility (SM).....10 early in the evening. 
+Sfc pressure (in)...0.0. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........14  14  24  18  15  12  14  17  19  25  32  38  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............83  82  79  76  74  72  70  69  68  67  66  66  
+Dewpoint........54  54  54  53  54  54  54  54  54  54  54  54  
+RH..............36  39  42  45  50  54  57  59  60  62  64  65  
+20 FT wind dir..SW  SW  SW  W   W   W   W   W   W   W   W   W   
+20 FT wind spd..9   8   7   7   8   8   8   9   9   9   9   9   
+20 FT wind gust.20  17  14  15  16  16  17  17  17  18  18  18  
+Mix hgt (kft)...4.8 1.6 0.7 0.8 0.8 0.9 0.9 1.0 1.0 1.1 1.1 1.1 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.21  14  13  13  13  14  15  16  17  17  17  16  
+LVORI...........1   2   2   2   2   2   2   2   2   2   2   3   
+ADI.............84  9   8   8   8   9   10  11  12  12  11  11  
+VRate mph-ft/1k.99  23  9   10  10  12  13  16  18  18  18  18  
+Ceiling (hft)...40  100 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 
+Visibility (sm).10  10                                          
+Sfc pres (in)...-2000-2000-2000-2000-2000-2000-2000-2000-2000-2000-2000-2000
+
+
+$$
+Forecaster...CP
+Requested by...Amy McClave
+Type of request...PRESCRIBED
+.TAG 2606789.2/GSP
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+

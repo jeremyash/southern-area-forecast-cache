@@ -1,0 +1,120 @@
+
+000
+FNUS74 KBMX 092039
+FWSBMX
+
+Spot Forecast for Trammel...Usfs
+National Weather Service Birmingham AL
+339 PM CDT Thu Apr 9 2026
+
+Forecast is based on ignition time of 1600 CDT on April 09. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+East winds between 5-10 mph with periodic gusts near 20 mph,
+alongside MinRH in the mid to upper 20s, will continue through 
+the rest of this afternoon. Winds will ease to 5 mph or less at 
+sunset with RH recovery maxing near 80 percent. Clear conditions.
+
+Friday will feature continued dry/fair-weather conditions with
+MinRH averaging in the upper 20s to lower 30s. Winds should 
+average 5 mph or less with directional variability from an east to
+southeast heading.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 75. 
+Min humidity........26 percent. 
+Wind (20 ft)........East winds 6 to 7 mph. 
+Mixing height.......5100 ft AGL. 
+Transport winds.....East around 10 mph. 
+Dispersion index....59. 
+LVORI...............1. 
+
+TIME (CDT)      4 PM   
+Sky (%).........2      
+Weather cov.....       
+Weather type....NONE   
+Tstm cov........       
+CWR.............0      
+Temp............73     
+RH..............27     
+20 FT wind......E 7    
+20 FT wind gust.14     
+20 FT wind dir..090    
+Mix hgt (ft)....5100   
+Transport wind..E 10   
+Dispersion idx..60     
+LVORI...........1      
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 48. 
+Max humidity........77 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....East 8 to 12 mph. 
+Dispersion index....43 decreasing to 4. 
+LVORI...............2. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........3      3      3      2      1      2      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............72     64     57     55     52     51     
+RH..............29     43     57     61     69     68     
+20 FT wind......E 3    E 2    E 2    E 2    E 2    E 2    
+20 FT wind gust.11     7      8      10     10     10     
+20 FT wind dir..100    100    100    110    110    110    
+Mix hgt (ft)....3200   300    300    300    300    300    
+Transport wind..E 10   E 10   E 10   E 12   E 12   E 12   
+Dispersion idx..43     4      3      5      5      5      
+LVORI...........1      2      3      3      3      3      
+
+.FRIDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 80. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5900 ft AGL. 
+Transport winds.....East 5 to 13 mph decreasing to 3 to 5 mph late 
+                    in the afternoon. 
+Dispersion index....5 increasing to 27 late in the morning, then 
+                    increasing to 29 late in the afternoon 
+                    decreasing to 23 late in the afternoon. 
+LVORI...............3. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........3      5      10     14     15     20     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............51     54     66     72     77     80     
+RH..............71     71     52     41     32     28     
+20 FT wind......E 2    SE 2   SE 2   E 2    E 2    E 2    
+20 FT wind gust.10     8      8      6      6      6      
+20 FT wind dir..110    120    130    110    080    070    
+Mix hgt (ft)....300    800    2400   4600   5500   5900   
+Transport wind..E 12   E 13   SE 9   E 5    E 3    E 3    
+Dispersion idx..5      6      4      27     23     25     
+LVORI...........3      3      2      2      2      2      
+
+$$
+Forecaster...Satterwhite
+Requested by...Will holt
+Type of request...PRESCRIBED
+.TAG 2609870.0/BMX
+.DELDT 04/09/26
+.FormatterVersion 2.0.0
+

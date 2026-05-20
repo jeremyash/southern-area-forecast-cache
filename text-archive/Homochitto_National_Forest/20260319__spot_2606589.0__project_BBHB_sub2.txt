@@ -1,0 +1,98 @@
+
+000
+FNUS74 KJAN 191836
+FWSJAN
+
+Spot Forecast for BBHB sub2...USFS
+National Weather Service Jackson MS
+136 PM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 1600 CDT on March 19. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Temperature.........76 at ignition...Max 76. 
+RH..................39 percent at ignition...Min 39 percent. 
+Wind (20 ft)........Winds southwest at 5 mph at 
+                    ignition...otherwise Light winds. 
+Mixing height (m)...1585 meters AGL at ignition...otherwise 
+                    1341-1585 meters AGL. 
+Transport winds.....West 7 to 8 mph. 
+Transport winds m/s.West 3 to 4 meters/second. 
+
+TIME (CDT)      4 PM   
+Sky cover.......Clear  
+Weather cov.....       
+Weather type....None   
+Tstm cov........       
+Temp............76     
+RH..............39     
+20 ft wind dir..SW     
+20 ft wind spd..3      
+20 ft wind gust.12     
+Mix hgt (m).....1580   
+Transport wind..W 7    
+Tran wind (m/s).W 3    
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Temperature.........Min 52. 
+RH..................Max 100 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-1036 meters AGL. 
+Transport winds.....Southwest 6 to 12 mph. 
+Transport winds m/s.Southwest 3 to 5 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......Clear  Clear  Clear  Clear  Clear  Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............73     64     60     57     55     54     
+RH..............46     64     74     80     93     98     
+20 ft wind dir..SW     S      S      S      SW     SW     
+20 ft wind spd..2      2      2      3      3      3      
+20 ft wind gust.8      7      7      9      9      9      
+Mix hgt (m).....1040   120    120    120    120    120    
+Transport wind..SW 7   S 7    S 7    SW 12  SW 9   SW 8   
+Tran wind (m/s).SW 3   S 3    S 3    SW 5   SW 4   SW 4   
+
+.FRIDAY...
+
+Sky/weather.........Sunny (15-25 percent). Patchy fog early in the 
+                    morning. 
+Temperature.........Max 80. 
+RH..................Min 44 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph late 
+                    in the morning. 
+Mixing height (m)...91-1280 meters AGL. 
+Transport winds.....Southwest 7 to 15 mph. 
+Transport winds m/s.Southwest 3 to 7 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MClear PCldy  PCldy  MClear Clear  MClear 
+Weather cov.....       Patchy                             
+Weather type....None   Fog    None   None   None   None   
+Tstm cov........                                          
+Temp............53     54     65     74     79     80     
+RH..............100    100    83     60     47     44     
+20 ft wind dir..S      S      SW     SW     SW     SW     
+20 ft wind spd..2      3      3      5      5      6      
+20 ft wind gust.8      9      12     13     14     15     
+Mix hgt (m).....120    120    370    820    1160   1280   
+Transport wind..SW 8   SW 7   SW 9   SW 9   S 12   SW 15  
+Tran wind (m/s).SW 4   SW 3   SW 4   SW 4   S 5    SW 7   
+
+$$
+Forecaster...NWS JAN
+Requested by...Mississippi Interagency
+Type of request...PRESCRIBED
+.TAG 2606589.0/JAN
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL msmic@firenet.gov
+

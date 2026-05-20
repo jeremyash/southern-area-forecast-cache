@@ -1,0 +1,141 @@
+
+000
+FNUS71 KRNK 291035
+FWSRNK
+
+Spot Forecast for Mill Creek Unit 12...EDRD
+National Weather Service Blacksburg VA
+635 AM EDT Sun Mar 29 2026
+
+Forecast is based on ignition time of 0700 EDT on March 29. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Expect abundant sunshine through the day, occasionally with passing 
+high clouds. No rainfall is forecasted through today. Winds will 
+begin the day near calm and variable direction, gradually shifting 
+from the south as the morning progresses, with gusts reaching to 
+nearly 20 mph by late morning. Minimum RH will reach as low as 20 
+percent this afternoon during maximum heating of around 63 degrees. 
+Increased moisture will arrive for Monday, with higher minimum 
+relative humidity during the afternoon and widely scattered afternoon 
+showers, though these will be brief in duration, mostly with less 
+than 0.10" rainfall totals.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (20-30 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 63. 
+Min humidity........21 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 7 mph with 
+                    gusts to around 17 mph in the late morning and 
+                    afternoon. 
+Mixing height.......5300 ft AGL. 
+Mixing winds........North around near calm early this morning, then 
+                    increasing to southwest 15 to 17 mph late in 
+                    the morning. 
+Smoke dispersal.....Poor (0 knot-ft) early in the morning 
+                    increasing to excellent (78600 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................0 early in the morning increasing to 72 in the 
+                    afternoon. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........41  45  36  20  16  17  8   9   8   8   15  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............28  34  39  44  49  53  56  60  62  62  62  
+RH..............64  59  51  39  34  30  26  23  21  21  21  
+20 FT wind dir..SW  SW  S   S   S   S   S   S   S   S   S   
+20 FT wind spd..1   2   2   5   6   6   7   7   7   7   7   
+20 FT wind gust.5   6   10  12  14  14  14  16  16  16  17  
+Mix hgt (kft)...0.4 0.4 1.1 2.0 2.6 3.3 4.2 5.0 5.2 5.3 5.1 
+Mixng wind dir..N   SE  SE  S   S   S   S   SW  SW  SW  SW  
+Mixng wind spd..0   1   6   10  15  16  15  15  16  17  17  
+LVORI...........3   3   2   2   1   1   1   1   1   1   1   
+ADI.............0   1   8   27  49  64  59  62  68  72  72  
+VRate mph-ft/1K.0   0   6   21  39  53  65  75  84  90  88  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 45. 
+Max humidity........67 percent. 
+Wind (20 ft)........Southwest winds 5 to 7 mph with gusts to around 
+                    16 mph in the evening and overnight becoming 
+                    light. 
+Mixing height.......600 ft AGL. 
+Mixing winds........Southwest 7 to 15 mph. 
+Smoke dispersal.....Excellent (60700 knot-ft) early in the evening 
+                    decreasing to poor (3400 knot-ft) late in the 
+                    night. 
+LVORI...............2. 
+ADI.................61 early in the evening decreasing to 3 late in 
+                    the night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........26     21     37     37     44     42     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............60     55     50     49     47     46     
+RH..............22     26     33     36     41     50     
+20 ft wind......S 7    SW 6   SW 6   SW 5   SW 5   SW 4   
+20 ft wind gust.16     13     12     11     11     10     
+Mix hgt (ft)....4500   900    800    700    600    600    
+Mixing wind......SW 15  S 13   S 10   S 9    SW 10  SW 8   
+LVORI...........1      2      2      2      2      3      
+ADI.............61     6      4      4      5      4      
+VRate mph-ft/1K.70     11     8      7      7      5      
+
+.MONDAY...
+
+Sky/weather.........Partly sunny (55-65 percent). Slight chance of 
+                    rain showers in the afternoon. 
+CWR (0.01 in).......10 percent increasing to 20 percent in the 
+                    afternoon. 
+Max temperature.....Around 70. 
+Min humidity........45 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph with 
+                    gusts to around 16 mph in the afternoon. 
+Mixing height.......4900 ft AGL. 
+Mixing winds........Southwest 5 to 13 mph. 
+Smoke dispersal.....Poor (1600 knot-ft) early in the morning 
+                    increasing to good (49400 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................3 to 36. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........48     58     56     63     71     66     
+Weather cov.....                            S CHC  S CHC  
+Weather type....NONE   NONE   NONE   NONE   RNSHWR RNSHWR 
+Tstm cov........                                          
+CWR.............10     10     10     10     20     20     
+Temp............47     47     56     63     67     69     
+RH..............57     67     54     49     47     45     
+20 ft wind......SW 3   SW 2   SW 2   SW 4   SW 6   SW 6   
+20 ft wind gust.10     11     13     16     16     16     
+Mix hgt (ft)....500    400    2100   3600   4900   4200   
+Mixing wind......SW 6   SW 5   SW 7   SW 9   SW 12  SW 13  
+LVORI...........3      3      2      2      1      1      
+ADI.............3      4      18     25     35     36     
+VRate mph-ft/1K.3      2      14     34     57     53     
+
+$$
+Forecaster...Fillo
+Requested by...Brian Theiler
+Type of request...PRESCRIBED
+.TAG 2608287.0/RNK
+.DELDT 03/29/26
+.FormatterVersion 2.0.0
+.EMAIL Brian.Theiler@usda.gov
+

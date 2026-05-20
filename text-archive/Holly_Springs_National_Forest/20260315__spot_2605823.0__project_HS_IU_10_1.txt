@@ -1,0 +1,184 @@
+
+000
+FNUS74 KMEG 150902
+FWSMEG
+
+Spot Forecast for HS IU 10-1...USFS
+National Weather Service Memphis TN
+402 AM CDT Sun Mar 15 2026
+
+Forecast is based on ignition time of 1100 CDT on March 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...WIND ADVISORY IN EFFECT FROM 8 AM THIS MORNING TO 7 AM CDT
+MONDAY...
+
+.DISCUSSION...
+
+Dead 10 hour fuel moisture remains sufficiently moist due to
+previous days rainfall with high confidence in wetting rain
+conditions returning tonight. Gusty conditions will pick up after
+sunrise with surface wind gusts up to 40 mph prior to 
+thunderstorm arrival. 
+
+Thunderstorms are most likely to begin impacting the area around 6
+PM, but could arrive as early as 5 PM ahead of a cold frontal 
+passage. Winds within thunderstorms will be strong to severe and 
+could be in excess of 60 mph. Blustery conditions will reside 
+behind the frontal boundary, limiting fog development Sunday night
+into Monday morning. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (75-85 percent) then becoming 
+                    mostly sunny (40-50 percent). Chance of showers 
+                    and thunderstorms late in the afternoon. 
+CWR.................10 percent increasing to 30 percent late in the 
+                    afternoon. 
+Chance of pcpn......30 percent. 
+Max temperature.....Around 77. 
+Min humidity........47 percent. 
+Dewpoint............56. 
+Wind (20 ft)........South winds 15 to 16 mph with gusts to around 
+                    25 mph. Gusty and erratic winds expected near 
+                    thunderstorms. 
+Mixing height.......5400 ft AGL. 
+Mixing height (MSL).3500-5400 ft MSL. 
+Mixing height (m)...1067-1646 meters AGL. 
+Transport winds.....South 36 to 37 mph. 
+Transport winds m/s.South 16 to 17 meters/second. 
+Smoke dispersal.....Fair (17000 knot-ft). 
+Rainfall amount.....0.02 inches. 
+
+TIME (CDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........82  76  80  77  73  78  47  
+Weather cov.....                        CHC 
+Weather type....                        RW  
+Tstm cov........                        CHC 
+CWR.............0   0   0   0   0   10  30  
+Chc of pcpn (%).0   0   0   0   0   10  30  
+Temp............67  70  72  75  76  76  77  
+Dewpoint........57  57  56  56  56  56  55  
+RH..............70  63  57  52  50  50  47  
+20 FT wind dir..S   S   S   S   S   S   S   
+20 FT wind spd..15  16  16  16  16  16  16  
+20 FT wind gust.23  23  23  24  25  24  23  
+Mix hgt (kft)...3.5 4.1 4.6 4.9 5.1 5.4 5.1 
+Mx ht msl (kft).3.5 4.1 4.6 4.9 5.1 5.4 5.1 
+Mix hgt (km)....1.1 1.2 1.4 1.5 1.6 1.6 1.6 
+Transp wind dir.S   S   S   S   S   S   S   
+Transp wind spd.36  37  37  36  37  37  37  
+Trans wind dir..S   S   S   S   S   S   S   
+Trans spd (m/s).16  17  17  16  17  17  17  
+Vrate kt-ft/1K..17  21  23  24  25  27  26  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (70-80 percent). Rain showers and 
+                    chance of thunderstorms in the evening, then 
+                    slight chance of rain showers overnight. 
+CWR.................50 percent increasing to 70 percent early in 
+                    the evening, then increasing to 100 percent 
+                    early in the evening decreasing to 80 percent 
+                    late in the evening decreasing to 40 percent 
+                    decreasing to 30 percent late in the evening 
+                    decreasing to 20 percent decreasing to 10 
+                    percent overnight. 
+Chance of pcpn......100 percent. 
+Min temperature.....Around 31. 
+Max humidity........86 percent. 
+Dewpoint............54 decreasing to 27. 
+Wind (20 ft)........South winds 16 to 17 mph shifting to the 
+                    northwest 15 to 17 mph in the late evening and 
+                    overnight. Gusts up to 29 mph. Gusty and 
+                    erratic winds expected near thunderstorms. 
+Mixing height.......1700 ft AGL. 
+Mixing height (MSL).1700-3600 ft MSL. 
+Mixing height (m)...518-1097 meters AGL. 
+Transport winds.....Southwest 24 to 26 mph shifting to the 
+                    northwest 28 to 32 mph in the late evening and 
+                    overnight. 
+Transport winds m/s.South around 12 meters/second shifting to the 
+                    southwest around 11 meters/second early in the 
+                    evening, then shifting to the northwest 13 to 
+                    14 meters/second in the late evening and 
+                    overnight. 
+Smoke dispersal.....Fair (13700 knot-ft) early in the evening 
+                    decreasing to poor (5500 knot-ft) late in the 
+                    night. 
+Rainfall amount.....0.65 inches. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........65  70  90  93  95  91  88  77  68  64  56  63  
+Weather cov.....CHC LKY DEF DEF CHC CHC SCH SCH                 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW                  
+Tstm cov........CHC CHC CHC CHC                                 
+CWR.............50  70  100 80  40  30  20  20  10  0   10  0   
+Chc of pcpn (%).50  70  100 80  40  30  20  20  10  0   10  0   
+Temp............75  72  69  60  54  49  46  43  41  38  36  34  
+Dewpoint........56  56  56  52  49  45  41  37  34  30  28  26  
+RH..............51  57  63  75  83  86  83  79  76  73  72  72  
+20 FT wind dir..S   S   SW  W   NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..17  16  16  17  17  17  16  15  16  16  16  16  
+20 FT wind gust.22  22  22  22  23  23  22  21  21  21  21  21  
+Mix hgt (kft)...2.5 1.7 1.7 2.0 2.3 2.6 2.9 3.2 3.1 3.4 3.3 3.6 
+Mx ht msl (kft).2.5 1.7 1.7 2.0 2.3 2.6 2.9 3.2 3.1 3.4 3.3 3.6 
+Mix hgt (km)....0.8 0.5 0.5 0.6 0.7 0.8 0.9 1.0 0.9 1.0 1.0 1.1 
+Transp wind dir.S   S   SW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.26  24  24  29  30  32  31  31  30  29  28  28  
+Trans wind dir..S   S   SW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Trans spd (m/s).12  11  11  13  13  14  14  14  13  13  13  13  
+Vrate kt-ft/1K..9   6   6   8   9   11  12  14  13  13  12  13  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.MONDAY...
+
+Sky/weather.........Partly sunny (55-65 percent). 
+CWR.................10 percent. 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 41. 
+Min humidity........37 percent. 
+Dewpoint............23 decreasing to 18 late in the morning. 
+Wind (20 ft)........Northwest winds 10 to 16 mph. 
+Mixing height.......6900 ft AGL. 
+Mixing height (MSL).3800-6900 ft MSL. 
+Mixing height (m)...1158-2103 meters AGL. 
+Transport winds.....Northwest 24 to 28 mph. 
+Transport winds m/s.Northwest 11 to 13 meters/second. 
+Smoke dispersal.....Fair (13600 knot-ft). 
+Rainfall amount.....0.01 inches. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........66  78  57  60  63  62  62  61  57  54  50  42  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   10  10  10  10  10  10  0   0   0   0   0   
+Chc of pcpn (%).0   10  10  10  10  10  10  0   0   0   0   0   
+Temp............33  32  31  32  34  36  37  38  40  40  40  40  
+Dewpoint........25  23  22  21  21  20  19  18  17  17  16  16  
+RH..............73  69  69  63  58  52  48  43  40  38  37  37  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..16  15  12  10  12  12  12  12  12  12  12  12  
+20 FT wind gust.21  21  21  21  21  21  20  20  20  19  19  18  
+Mix hgt (kft)...3.8 3.8 4.0 4.5 4.8 5.0 5.5 5.9 6.5 6.9 6.9 6.1 
+Mx ht msl (kft).3.8 3.8 4.0 4.5 4.8 5.0 5.5 5.9 6.5 6.9 6.9 6.1 
+Mix hgt (km)....1.2 1.2 1.2 1.4 1.5 1.5 1.7 1.8 2.0 2.1 2.1 1.9 
+Transp wind dir.NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.28  26  26  28  26  25  25  25  25  25  25  24  
+Trans wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Trans spd (m/s).13  12  12  13  12  11  11  11  11  11  11  11  
+Vrate kt-ft/1K..14  14  14  17  17  17  19  20  22  24  24  20  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...Meadows
+Requested by...Jacob Shuler
+Type of request...PRESCRIBED
+.TAG 2605823.0/MEG
+.DELDT 03/15/26
+.FormatterVersion 2.0.0
+.EMAIL jacob.shuler@usda.gov,John.townsend@usda.gov,ty.cobb@usda.gov
+

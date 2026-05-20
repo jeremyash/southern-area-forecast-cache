@@ -1,0 +1,112 @@
+
+000
+FNUS72 KCHS 141541
+FWSCHS
+
+Spot Forecast for 93 salvage planning...USDA Forest Service
+National Weather Service Charleston SC
+1141 AM EDT Thu May 14 2026
+
+Forecast is based on ignition time of 0900 EDT on May 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail into Saturday. Humidity will
+gradually recover this weekend as the surface high becomes
+centered over the western Atlantic.
+
+A sea breeze is not likely on Friday at the burn site. Weak Transport Winds
+less than 7 mph in the afternoon. RH could dip as low as 27% early to mid
+afternoon. Very poor dispersion Friday night but no significant fog potential.
+
+.FRIDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 80. 
+Min humidity........27 percent. 
+Wind (20 ft)........Light and variable winds. 
+Mixing Height.......Max 6400 ft AGL. 
+Transport winds.....North 6-8 mph in morning, then Northwest 5-6 mph in
+                    the afternoon.
+Max ADI.............45. 
+Inversion End.......9am
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   1   1   1   1   2   2   1   2   
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............61  66  70  74  77  79  80  80  80  
+RH..............60  52  44  35  32  30  28  31  34  
+20 FT wind dir..NE  NE  N   N   NW  W   W   W   W   
+20 FT wind spd..2   2   2   2   1   1   1   1   1   
+20 FT wind gust.9   7   5   5   5   5   7   7   7   
+Mix hgt (kft)...2.3 3.3 4.1 4.8 5.2 5.3 6.4 6.3 5.1 
+Transp wind dir.N   N   N   NW  NW  NW  NW  NW  NW  
+Transp wind spd.8   7   7   6   6   6   6   6   6   
+LVORI...........1   1   1   1   1   1   1   1   1   
+ADI.............31  40  42  41  45  45  44  44  36  
+
+.FRIDAY NIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 58. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........9. 
+Min ADI.............1. 
+Inversion Begin.....7pm 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      1      4      8      9      12     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............78     71     65     61     60     59     
+RH..............37     53     70     84     90     93     
+20 ft wind......SW 1   S 2    S 1    S 1    N 0    N 0    
+20 ft wind gust.5      7      5      5      4      4      
+Mix hgt (ft)....3900   500    400    400    400    400    
+Transport wind..S 4    S 4    S 2    S 0    S 0    N 0    
+LVORI...........2      2      4      6      7      8      
+ADI.............1      1      1      1      1      1      
+
+.SATURDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 86. 
+Min humidity........42 percent. 
+Wind (20 ft)........Light winds becoming south 6 mph late in 
+                    the afternoon. 
+Mixing Height.......Max 5500 ft AGL. 
+Transport winds.....Light winds becoming south 8 to 10 mph in the 
+                    late morning and afternoon. 
+Max ADI.............64. 
+Inversion End.......9am 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........13        9         7         9         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............58        69        84        85        
+RH..............100       76        46        43        
+20 FT wind......N 0G2     S 1G4     S 4G11    S 6G13    
+Mix hgt (ft)....700       2400      5200      5300      
+Transport wind..N 0       S 8       S 10      S 10      
+LVORI...........10        3         1         1         
+ADI.............1         22        62        63        
+
+$$
+Forecaster...Lamb
+Requested by...William McCann
+Type of request...PRESCRIBED
+.TAG 2613646.0/CHS
+.DELDT 05/14/26
+.FormatterVersion 2.0.0
+.EMAIL william.mccann@usda.gov
+

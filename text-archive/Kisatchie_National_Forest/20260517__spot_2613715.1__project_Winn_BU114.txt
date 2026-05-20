@@ -1,0 +1,96 @@
+
+000
+FNUS74 KSHV 171924
+FWSSHV
+
+Spot Forecast for Winn BU114...USDA FS
+National Weather Service Shreveport LA
+224 PM CDT Sun May 17 2026
+
+Forecast is based on ignition time of 0800 CDT on May 18. 
+If conditions become unrepresentative...contact your National 
+Weather Service office at (318) 631-3669 ext. 229, and likewise 
+if you have questions or concerns with this forecast.
+
+.DISCUSSION...
+Looks similar to today with morning low clouds that will peak 
+sunshine in the afternoon while lifting. Likewise, the mixing 
+heights will peak soaring to 5kft by mid afternoon with transport
+to the N across the forest, splitting between Ruston and Monroe 
+late day. The initial smoke dispersion will linger until mid to 
+upper 70s are achieved during mid morning. S winds around 10 mph 
+will be gusty to 20-25 mph mid afternoon with min RH a potential 
+challange all day only sinking into the upper 50% range through 
+late day. Eventually, a weak cold front will bring a light E wind 
+by early Wednesday with a repeat of Monday for Tuesday, but 
+turning wet and perhaps good and wet as the front will stall over 
+cenLA and SW flow aloft keeps chances high with 3 inch totals 
+possible over this next week.
+
+
+.MONDAY...
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........80  80  79  75  69  66  63  57  54  51  
+Weather cov.....                    SCH SCH SCH SCH SCH 
+Weather type....                    RW  RW  RW  RW  RW  
+Tstm cov........                    SCH SCH SCH SCH SCH 
+CWR.............10  10  10  10  10  20  20  20  20  20  
+Temp............74  77  79  84  86  88  89  89  89  88  
+RH..............90  85  82  70  65  61  57  57  57  59  
+20 FT wind dir..SE  SE  S   S   S   S   S   S   S   S   
+20 FT wind mph..6   6   9   9   9   9   9   9   8   8   
+20 FT wind gust.21  22  21  21  21  22  22  22  21  21  
+Mix hgt (kft)...1.6 2.2 2.8 3.3 4.0 4.3 5.0 4.9 4.7 4.2 
+Mix hgt (km)....0.5 0.7 0.9 1.0 1.2 1.3 1.5 1.5 1.4 1.3 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.17  20  20  21  21  20  20  21  20  20  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).8   9   9   9   9   9   9   9   9   9   
+
+.MONDAY NIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........44  41  40  38  36  37  39  40  49  67  76  76  
+Weather cov.....SCH SCH SCH SCH SCH SCH SCH                     
+Weather type....RW  RW  RW  RW  RW  RW  RW                      
+Tstm cov........SCH SCH SCH SCH SCH SCH SCH                     
+CWR.............20  20  20  20  20  20  20  10  10  10  10  10  
+Temp............87  84  80  79  78  77  77  75  74  74  74  74  
+RH..............61  65  74  74  76  79  82  87  90  90  90  90  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..8   6   6   6   5   5   5   5   5   5   5   5   
+20 FT wind gust.20  20  20  20  18  17  17  16  16  17  18  17  
+Mix hgt (kft)...2.2 1.4 0.5 0.5 0.5 0.6 0.6 0.6 0.5 0.5 0.6 0.5 
+Mix hgt (km)....0.7 0.4 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.16  15  13  12  12  12  12  10  10  12  13  10  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).7   7   6   5   5   5   5   4   4   5   6   4   
+
+.TUESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........77  78  77  75  73  69  60  56  57  59  60  61  
+Weather cov.....                            CHC CHC CHC CHC CHC 
+Weather type....                            RW  RW  RW  RW  RW  
+Tstm cov........                            CHC CHC CHC CHC CHC 
+CWR.............10  0   0   0   0   0   0   50  50  50  50  50  
+Temp............75  75  77  79  82  84  86  88  89  89  88  86  
+RH..............90  90  85  82  77  72  65  61  59  61  63  68  
+20 FT wind dir..S   SE  SE  SE  S   S   S   S   S   S   S   S   
+20 FT wind mph..5   5   5   5   6   6   6   6   6   6   6   6   
+20 FT wind gust.17  17  17  18  18  18  17  16  15  15  14  14  
+Mix hgt (kft)...0.5 1.1 1.6 2.2 2.8 3.3 3.7 4.0 4.0 3.9 3.4 2.6 
+Mix hgt (km)....0.2 0.3 0.5 0.7 0.9 1.0 1.1 1.2 1.2 1.2 1.0 0.8 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.10  13  13  14  16  16  16  15  14  13  12  10  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).4   6   6   6   7   7   7   7   6   6   5   4   
+
+$$
+Forecaster...CHATELAIN
+Requested by...Charles Davis
+Type of request...PRESCRIBED
+.TAG 2613715.1/SHV
+.DELDT 05/17/26
+.FormatterVersion 2.0.0
+.EMAIL charles.g.davis@usda.gov
+

@@ -1,0 +1,121 @@
+
+000
+FNUS74 KMOB 161010
+FWSMOB
+
+Spot Forecast for Desoto Block 9365 C-605/606...USFS
+National Weather Service Mobile AL
+510 AM CDT Thu Apr 16 2026
+
+Forecast is based on ignition time of 0700 CDT on April 16. 
+If conditions become unrepresentative...contact the National
+Weather Service.
+
+.DISCUSSION...For today, the minimum relative humidity is near 45%,
+transport winds will be mostly south-southwesterly to southerly,
+and dispersion values will be generally good. For Friday, the
+minimum relative humidity is near 40%, 20 ft wind gusts will be
+up to near 20 mph, transport winds will be mostly southerly to
+southwesterly, and dispersion values will be good. 
+
+Fog potential and other remarks...Patchy to areas of fog, some of
+which could be dense, are expected to develop across much of the
+area over the next several nights.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). Areas of dense 
+                    fog early in the morning possible. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 85. 
+Min humidity........46 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 8 mph late in 
+                    the morning. 
+Mixing height.......5900 ft AGL. 
+Transport winds.....Southwest 3 to 10 mph. 
+Dispersion index....4 increasing to 58. 
+
+TIME (CDT)      7 AM   9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........57     27     18     25     36     36     
+Weather cov.....AREAS                                     
+Weather type....FOG    NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............63     70     80     83     83     83     
+RH..............100    84     58     48     48     49     
+20 FT wind dir..SSE    S      SSW    SSW    S      S      
+20 FT wind spd..1      2      6      8      9      9      
+20 FT wind gust.5      6      10     13     14     14     
+Mix hgt (ft)....300    1800   5100   5700   5400   4000   
+Transp wind dir.S      SSW    SW     SSW    SSW    S      
+Transp wind spd.3      9      7      8      9      10     
+Dispersion idx..4      20     42     54     58     55     
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). Patchy fog 
+                    overnight. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 63. 
+Max humidity........100 percent. 
+Wind (20 ft)........South winds 5 to 7 mph early in the evening 
+                    becoming light. 
+Mixing height.......400 ft AGL. 
+Transport winds.....South 6 to 14 mph. 
+Dispersion index....67 decreasing to 3. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........19     9      8      13     34     32     
+Weather cov.....                            PATCHY PATCHY 
+Weather type....NONE   NONE   NONE   NONE   FOG    FOG    
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............81     74     69     68     66     65     
+RH..............53     71     87     93     97     97     
+20 FT wind dir..S      S      S      S      SSW    SW     
+20 FT wind spd..8      6      3      2      2      1      
+20 FT wind gust.13     12     9      7      5      3      
+Mix hgt (ft)....4000   500    500    400    400    400    
+Transp wind dir.S      S      S      S      SSW    SW     
+Transp wind spd.13     10     9      9      7      6      
+Dispersion idx..67     5      4      4      3      3      
+
+.FRIDAY...
+
+Sky/weather.........Sunny (20-30 percent). Patchy fog early in the 
+                    morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 85. 
+Min humidity........43 percent. 
+Wind (20 ft)........Light winds becoming south 6 to 9 mph in the 
+                    afternoon. 
+Mixing height.......5600 ft AGL. 
+Transport winds.....South 5 to 8 mph increasing to 8 to 12 mph in 
+                    the afternoon. 
+Dispersion index....2 increasing to 65. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........37     30     18     21     20     13     
+Weather cov.....PATCHY PATCHY                             
+Weather type....FOG    FOG    NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............64     66     78     83     85     85     
+RH..............100    90     64     51     45     43     
+20 FT wind dir..SW     SW     S      S      S      S      
+20 FT wind spd..1      1      2      7      9      10     
+20 FT wind gust.3      3      6      12     15     16     
+Mix hgt (ft)....400    1200   3400   4900   5600   5100   
+Transp wind dir.SW     SW     S      S      SSE    S      
+Transp wind spd.5      5      7      8      9      10     
+Dispersion idx..2      7      27     45     61     60     
+
+$$
+Forecaster...22
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2610140.3/MOB
+.DELDT 04/16/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

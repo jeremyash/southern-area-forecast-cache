@@ -1,0 +1,109 @@
+
+000
+FNUS74 KJAN 181050
+FWSJAN
+
+Spot Forecast for Chick 354...USDA FOREST SERVICE
+National Weather Service Jackson MS
+550 AM CDT Wed Mar 18 2026
+
+Forecast is based on ignition time of 1000 CDT on March 18. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Minimum afternoon relative humidity will be around 30 percent 
+today and 45 percent Thursday. Max wind gusts will be less than 
+10 mph. Dense fog is not anticipated this morning or again 
+tonight in to Wednesday morning but cannot rule out patchy ground
+fog in sheltered areas near the burn site. Maximum LVORI will be 
+around 7 to 8 this morning and around 5 tonight. Winds will shift
+today from southeasterly today before southwesterly on Thursday.
+
+.TODAY...
+
+Sky/weather.........Partly sunny (55-65 percent) then becoming 
+                    sunny (10-20 percent). 
+Temperature.........48 at ignition...Max 65. 
+RH..................51 percent at ignition...Min 30 percent. 
+Wind (20 ft)........Winds southeast at 2 mph at 
+                    ignition...otherwise Light winds. 
+Mixing height (m)...340 meters AGL at ignition...otherwise 340-1067 
+                    meters AGL. 
+Transport winds.....Southeast 3 to 6 mph shifting to the southwest 
+                    3 to 7 mph in the afternoon. 
+Transport winds m/s.Southwest 1 to 3 meters/second. 
+
+TIME (CDT)      10 AM  Noon   2 PM   4 PM   
+Sky cover.......MCldy  MCldy  PCldy  MClear 
+Weather cov.....                            
+Weather type....None   None   None   None   
+Tstm cov........                            
+Temp............48     55     61     63     
+RH..............51     35     30     30     
+20 ft wind dir..SE     S      S      SW     
+20 ft wind spd..2      3      3      3      
+20 ft wind gust.7      8      8      8      
+Mix hgt (m).....340    640    850    1070   
+Transport wind..SE 5   S 3    SW 5   SW 7   
+Tran wind (m/s).SE 2   S 1    SW 2   SW 3   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Temperature.........Min 43. 
+RH..................Max 86 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...91-579 meters AGL. 
+Transport winds.....Southwest 5 to 9 mph. 
+Transport winds m/s.South 2 to 4 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear Clear  MClear MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............62     56     49     46     45     44     
+RH..............35     47     61     68     73     79     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..2      2      2      2      2      2      
+20 ft wind gust.7      6      8      8      8      7      
+Mix hgt (m).....580    120    120    120    90     90     
+Transport wind..SW 5   S 5    S 8    S 8    SW 8   SW 8   
+Tran wind (m/s).SW 2   S 2    S 4    S 4    SW 4   SW 4   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Temperature.........Max 74. 
+RH..................Min 44 percent. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph 
+                    late in the afternoon, then becoming light late 
+                    in the afternoon. 
+Mixing height (m)...91-1981 meters AGL. 
+Transport winds.....Southwest 8 to 13 mph. 
+Transport winds m/s.Southwest 4 to 6 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MClear MClear Clear  Clear  MClear PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............43     45     57     67     72     73     
+RH..............82     82     67     52     44     44     
+20 ft wind dir..SW     SW     SW     SW     SW     SW     
+20 ft wind spd..2      2      3      3      5      5      
+20 ft wind gust.7      8      10     13     13     12     
+Mix hgt (m).....90     150    460    1100   1770   1950   
+Transport wind..SW 8   SW 8   SW 12  W 10   W 10   W 13   
+Tran wind (m/s).SW 4   SW 4   SW 5   W 4    W 4    W 6    
+
+$$
+Forecaster...Cox
+Requested by...Rodney Landrum
+Type of request...PRESCRIBED
+.TAG 2606139.0/JAN
+.DELDT 03/18/26
+.FormatterVersion 2.0.0
+.EMAIL rodney.landrum@usda.gov
+

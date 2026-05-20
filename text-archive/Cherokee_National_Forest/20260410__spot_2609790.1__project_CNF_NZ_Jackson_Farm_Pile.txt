@@ -1,0 +1,121 @@
+
+000
+FNUS74 KMRX 100911
+FWSMRX
+
+Spot Forecast for CNF_NZ_Jackson Farm Pile...usfs
+National Weather Service Morristown TN
+511 AM EDT Fri Apr 10 2026
+
+Forecast is based on ignition time of 0700 EDT on April 10. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+...LOW AFTERNOON RELATIVE HUMIDITY VALUES EXPECTED TO PERSIST
+THROUGH THE 7 DAY PERIOD...
+
+Desipite a cooler start to the morning, plenty of sunshine will 
+continue to promote above normal temperatures this afternoon. 
+Winds will remain light, though, afternoon relative humidities 
+will be low.
+
+Dry weather is largely expected throughout the 7 Day forecast
+period, along with unseasonably warm temperatures. The hottest
+days are expected in the middle of next week, which could bring 
+near to possibly record breaking heat. Low afternoon relative 
+humidity is also expected each afternoon. While winds will be 
+light today and Saturday, it becomes increasingly likely that 
+breezy conditions will coincide with low afternoon RH Sunday into
+the new work week. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 74. 
+Min humidity........24 percent. 
+Wind (20 ft)........Light winds becoming west 5 to 6 mph late in 
+                    the afternoon. 
+Mixing height.......4800 ft AGL. 
+Transport winds.....South 3 to 6 mph shifting to the west 6 to 9 
+                    mph in the late morning and afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........4   3   2   3   2   3   4   4   4   4   3   
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Temp............48  48  52  60  64  67  69  72  72  73  74  
+RH..............51  51  46  35  31  29  30  28  28  27  24  
+20 FT wind dir..S   S   SW  W   NW  NW  W   W   W   W   W   
+20 FT wind spd..2   2   2   2   2   3   4   5   6   6   6   
+20 FT wind gust.6   4   4   4   5   5   6   7   8   8   8   
+Mix hgt (kft)...0.9 0.9 1.1 1.9 2.9 3.5 4.1 4.5 4.8 4.7 4.3 
+Transp wind dir.S   S   SW  W   W   W   W   W   W   W   W   
+Transp wind spd.6   5   3   6   7   7   7   7   8   8   9   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Min temperature.....Around 51. 
+Max humidity........56 percent. 
+Wind (20 ft)........West winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height.......800 ft AGL. 
+Transport winds.....West 5 to 9 mph shifting to the southwest 6 to 
+                    7 mph in the late evening and overnight. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........6   5   10  19  11  13  12  13  16  18  17  16  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............72  72  68  63  61  60  59  58  57  56  54  54  
+RH..............26  25  31  35  36  36  37  39  40  43  48  48  
+20 FT wind dir..W   W   W   SW  S   S   SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   4   3   3   3   4   2   2   3   3   3   3   
+20 FT wind gust.7   6   7   6   6   6   5   4   5   6   5   6   
+Mix hgt (kft)...3.8 1.4 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.8 
+Transp wind dir.W   W   W   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.9   6   5   6   6   6   6   7   7   7   7   7   
+
+.SATURDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 77. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds becoming northwest 5 to 6 mph in 
+                    the afternoon. 
+Mixing height.......5800 ft AGL. 
+Transport winds.....West 7 to 9 mph shifting to the northwest 7 to 
+                    8 mph late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........16  24  22  24  24  23  20  17  14  13  11  10  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............54  52  54  57  63  68  72  74  75  77  77  77  
+RH..............48  56  55  53  44  40  39  38  38  36  37  37  
+20 FT wind dir..W   SW  SW  W   W   W   W   W   NW  NW  NW  NW  
+20 FT wind spd..1   3   2   1   3   4   5   5   6   5   5   5   
+20 FT wind gust.4   5   5   6   6   7   8   8   10  8   7   7   
+Mix hgt (kft)...0.9 0.9 0.9 1.5 2.1 2.6 3.5 4.5 5.2 5.7 5.8 5.3 
+Transp wind dir.W   SW  SW  W   W   W   W   NW  NW  NW  NW  NW  
+Transp wind spd.7   7   7   8   8   8   8   9   9   9   8   7   
+
+$$
+Forecaster...Kyle Snowdin
+Requested by...C. Wilson
+Type of request...PRESCRIBED
+.TAG 2609790.1/MRX
+.DELDT 04/10/26
+.FormatterVersion 2.0.0
+.EMAIL christopher.wilson@usda.gov
+

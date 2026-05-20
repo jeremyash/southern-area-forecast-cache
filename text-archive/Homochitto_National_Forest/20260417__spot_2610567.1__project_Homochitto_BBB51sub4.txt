@@ -1,0 +1,104 @@
+
+000
+FNUS74 KJAN 172047
+FWSJAN
+
+Spot Forecast for Homochitto BBB51sub4...USFS
+National Weather Service Jackson MS
+347 PM CDT Fri Apr 17 2026
+
+Forecast is based on ignition time of 1600 CDT on April 17. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...Patchy early morning fog is possible Saturday. Max
+LVORI tonight is 9. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+Temperature.........85 at ignition...Max 86. 
+RH..................48 percent at ignition...Min 46 percent. 
+Wind (20 ft)........Winds south at 8 mph at ignition...otherwise 
+                    South winds around 7 mph. 
+Mixing height (m)...1676 meters AGL at ignition...otherwise 
+                    1433-1676 meters AGL. 
+Transport winds.....South around 16 mph. 
+Transport winds m/s.South around 7 meters/second. 
+
+TIME (CDT)      4 PM   
+Sky cover.......PCldy  
+Weather cov.....       
+Weather type....None   
+Tstm cov........       
+Temp............85     
+RH..............48     
+20 ft wind dir..S      
+20 ft wind spd..7      
+20 ft wind gust.16     
+Mix hgt (m).....1680   
+Transport wind..S 16   
+Tran wind (m/s).S 7    
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+Temperature.........Min 64. 
+RH..................Max 97 percent. 
+Wind (20 ft)........South winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height (m)...152-1097 meters AGL. 
+Transport winds.....South 10 to 15 mph. 
+Transport winds m/s.South 4 to 7 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......PCldy  MClear PCldy  PCldy  MCldy  MCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............84     78     72     68     65     64     
+RH..............48     58     71     78     90     93     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..5      5      3      3      3      3      
+20 ft wind gust.15     14     14     13     12     12     
+Mix hgt (m).....1100   150    150    150    150    150    
+Transport wind..S 15   S 12   S 13   S 13   S 12   S 12   
+Tran wind (m/s).S 7    S 5    S 6    S 6    S 5    S 5    
+
+.SATURDAY...
+
+Sky/weather.........Partly sunny (55-65 percent). 
+Temperature.........Max 86. 
+RH..................Min 50 percent. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph 
+                    late in the morning. 
+Mixing height (m)...152-1646 meters AGL. 
+Transport winds.....South 9 to 13 mph shifting to the west 9 to 14 
+                    mph late in the morning. 
+Transport winds m/s.South around 4 meters/second shifting to the 
+                    west 4 to 6 meters/second late in the morning. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MCldy  MCldy  MCldy  MCldy  MCldy  MCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............64     66     76     82     86     84     
+RH..............97     97     74     58     50     53     
+20 ft wind dir..S      S      SW     SW     SW     SW     
+20 ft wind spd..3      3      3      5      5      5      
+20 ft wind gust.10     12     12     13     13     12     
+Mix hgt (m).....150    300    850    1250   1650   1460   
+Transport wind..S 10   S 12   SW 13  W 12   W 14   W 10   
+Tran wind (m/s).S 4    S 5    SW 6   W 5    W 6    W 4    
+
+$$
+Forecaster...Edmonston
+Requested by...Charles Bolt
+Type of request...PRESCRIBED
+.TAG 2610567.1/JAN
+.DELDT 04/17/26
+.FormatterVersion 2.0.0
+.EMAIL charles.bolt@usda.gov
+

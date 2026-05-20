@@ -1,0 +1,114 @@
+
+000
+FNUS74 KOHX 201246
+FWSOHX
+
+Spot Forecast for Prior Unit 6...USFS
+National Weather Service Nashville TN
+746 AM CDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 0800 CDT on March 20. 
+Please contact our office at (615)754-8502, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Minimum RH will be in the mid 30s range today with 20 ft. winds out 
+of the south to start, shifting southwest later this morning. 
+Speeds will be between 6 to 10 mph. Mixing heights will increase well 
+above 1000 ft. after 10AM. Warm and partly cloudy.
+
+Saturday will feature slightly higher moisture with a 20% chance 
+for rain/storms. Min RH will be near 40% with increased cloud 
+cover. 20 ft. winds will remain out of the southwest between 5 to 7
+mph. Mixing heights will increase after 9AM.
+
+.REST OF TODAY...
+
+Chance of thunder...3 percent. 
+Max temperature.....Around 81. 
+Min humidity........37 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Southwest winds 6 to 8 mph. Gusts up to 21 mph 
+                    late in the morning. 
+Mixing height.......4700 ft AGL. 
+Transport winds.....Southwest 16 to 24 mph. 
+
+TIME (CDT)      8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........20     10     6      5      12     
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Chc of thdr (%).0      0      0      0      0      
+Temp............59     66     74     79     81     
+RH..............69     58     46     39     37     
+20 FT wind dir..S      SW     SW     SW     SW     
+20 FT wind spd..6      7      8      8      8      
+20 FT wind gust.16     18     20     21     20     
+Mix hgt (ft)....500    1700   2700   4300   4700   
+Transport wind..SW 16  SW 24  SW 22  W 22   W 22   
+
+.TONIGHT...
+
+Chance of thunder...4 percent. 
+Min temperature.....Around 59. 
+Max humidity........87 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Southwest winds 5 to 6 mph in the evening and 
+                    overnight becoming light. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southwest 8 to 17 mph. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........11  12  20  28  34  39  47  58  56  44  16  21  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............79  76  74  70  69  68  67  66  65  64  62  61  
+RH..............41  45  50  57  61  63  65  68  70  73  78  81  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..6   6   6   6   6   6   5   5   3   2   2   2   
+20 FT wind gust.15  13  13  13  13  13  13  12  10  8   8   7   
+Mix hgt (kft)...1.4 0.6 0.5 0.5 0.6 0.5 0.6 0.6 0.5 0.5 0.4 0.4 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  W   W   W   SW  
+Transp wind spd.17  15  14  16  16  16  16  15  13  10  9   8   
+
+.SATURDAY...
+
+Chance of thunder...11 percent. 
+Max temperature.....Around 83. 
+Min humidity........41 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Light winds becoming west around 5 mph late in 
+                    the afternoon. 
+Mixing height.......4600 ft AGL. 
+Transport winds.....West 7 to 12 mph. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........30  30  35  41  36  32  18  32  13  13  21  15  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   10  10  10  10  10  
+Temp............61  59  61  65  70  73  76  80  81  83  83  81  
+RH..............81  87  84  75  66  59  56  49  44  41  41  44  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  W   W   W   W   W   
+20 FT wind spd..2   2   2   2   2   3   3   3   3   5   5   5   
+20 FT wind gust.7   7   7   7   7   8   9   9   9   9   9   8   
+Mix hgt (kft)...0.3 0.3 0.4 0.9 1.2 1.8 2.4 2.9 3.4 4.2 4.6 3.7 
+Transp wind dir.SW  SW  SW  W   W   W   SW  SW  W   W   W   W   
+Transp wind spd.8   7   8   8   7   8   8   9   10  12  12  10  
+
+$$
+
+Wind speeds are in MPH unless otherwise noted.
+
+Forecaster...Sam Herron
+Requested by...Cody Conley
+Type of request...PRESCRIBED
+.TAG 2606759.0/OHX
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL Cody.Conley@usda.gov,cody.conley@usda.gov
+

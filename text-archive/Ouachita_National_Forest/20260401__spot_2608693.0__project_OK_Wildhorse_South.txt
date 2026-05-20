@@ -1,0 +1,140 @@
+
+000
+FNUS74 KTSA 010725
+FWSTSA
+
+Spot Forecast for OK Wildhorse South...USFS
+National Weather Service Tulsa OK
+225 AM CDT Wed Apr 1 2026
+
+Forecast is based on ignition time of 1000 CDT on April 01. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact NWS Tulsa at (918)838-7838, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+South winds will continue today and become gusty at times
+from mid morning through the afternoon. The high temperature is
+forecast in the low 80s and humidity values falling into
+the low 40 percent range. Shower and thunderstorm chances
+increase late tonight and may continue into the day Thursday.
+
+.REST OF TODAY...
+
+Sky/weather.........Partly cloudy (35-45 percent). 
+Max temperature.....Around 83. 
+Min humidity........43 percent. 
+Dewpoint............59. 
+Wind (20 ft)........South winds 12 to 13 mph with gusts to around 
+                    19 mph. 
+Mixing height.......5500 ft AGL. 
+Transport winds.....South 22 to 29 mph. 
+Smoke dispersal.....Excellent (67540 knot-ft). 
+Stability class.....3. 
+1700FT Avg MIX T(F).76 increasing to 82 late in the afternoon. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........43  47  42  41  36  34  38  34  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Temp............72  75  77  78  81  82  82  83  
+Dewpoint........61  61  60  60  60  59  59  58  
+RH..............68  62  56  54  49  46  46  43  
+20 FT wind dir..S   S   S   S   S   S   S   S   
+20 FT wind spd..13  13  12  12  12  12  12  12  
+20 FT wind gust.19  19  18  18  18  18  18  18  
+Mix hgt (kft)...2.3 2.7 3.1 3.5 4.1 4.9 5.3 5.5 
+Transp wind dir.S   S   S   S   S   S   S   S   
+Transp wind spd.22  23  24  25  26  28  28  29  
+Vrate kt-ft/1K..68  68  68  131 131 131 131 131 
+Ventrate Cat....GD  GD  GD  VGD VGD VGD VGD VGD 
+1700FT Mix T(F).72  74  76  78  80  81  82  82  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (35-45 percent) then becoming 
+                    mostly cloudy (70-80 percent). Showers and 
+                    chance of thunderstorms overnight. 
+Min temperature.....Around 65. 
+Max humidity........93 percent. 
+Dewpoint............60. 
+Wind (20 ft)........South winds 10 to 16 mph. Gusts up to 35 mph 
+                    in the late evening and overnight. Gusty and 
+                    erratic winds expected near thunderstorms. 
+Mixing height.......700 ft AGL. 
+Transport winds.....South 21 to 30 mph. 
+Smoke dispersal.....Excellent (131147 knot-ft) early in the evening 
+                    decreasing to good (40000 knot-ft) late in the 
+                    night. 
+Stability class.....5. 
+1700FT Avg MIX T(F).77. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........35  47  57  54  59  66  86  94  98  98  95  98  
+Weather cov.....                            DEF DEF DEF DEF DEF 
+Weather type....                            RW  RW  RW  RW  RW  
+Tstm cov........                            CHC CHC CHC CHC CHC 
+Temp............81  81  78  76  75  74  74  73  72  71  70  68  
+Dewpoint........58  58  58  59  59  60  61  62  61  62  62  62  
+RH..............46  46  50  56  58  62  64  68  68  73  76  81  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..12  12  14  16  17  17  17  17  17  17  17  17  
+20 FT wind gust.18  18  22  25  26  28  28  28  28  28  26  26  
+Mix hgt (kft)...5.0 2.0 0.9 0.8 0.7 0.8 1.2 0.9 1.1 1.4 1.4 1.3 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.28  22  21  22  24  26  29  29  29  30  30  30  
+Vrate kt-ft/1K..131 40  40  40  40  40  40  45  45  45  45  45  
+Ventrate Cat....VGD FR  FR  FR  FR  FR  FR  FR  FR  FR  FR  FR  
+1700FT Mix T(F).81  81  81  82  82  81  80  78  77  76  74  73  
+
+.THURSDAY...
+
+Sky/weather.........Cloudy (85-95 percent) then becoming partly 
+                    sunny (45-55 percent). Chance of showers
+                    and thunderstorms. 
+Max temperature.....Around 80. 
+Min humidity........51 percent. 
+Dewpoint............61. 
+Wind (20 ft)........South winds 10 to 16 mph. Gusts up to 33 mph 
+                    decreasing to 23 mph late in the afternoon. 
+                    Gusty and erratic winds expected near 
+                    thunderstorms.
+Mixing height.......4900 ft AGL. 
+Transport winds.....South 26 to 35 mph shifting to the southwest 31 
+                    to 36 mph in the afternoon. 
+Smoke dispersal.....Good (45245 knot-ft) early in the morning 
+                    increasing to excellent (131147 knot-ft) in the 
+                    afternoon. 
+Stability class.....3. 
+1700FT Avg MIX T(F).72 increasing to 79 late in the afternoon. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........98  97  97  89  80  68  55  43  40  36  33  33  
+Weather cov.....DEF CHC CHC CHC CHC CHC CHC SCH SCH SCH SCH SCH 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........CHC CHC CHC CHC CHC CHC CHC SCH SCH SCH SCH SCH 
+Temp............67  66  65  65  68  71  73  76  78  79  80  79  
+Dewpoint........62  63  63  63  62  62  61  61  61  60  60  60  
+RH..............84  90  93  93  81  73  66  60  56  52  51  52  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..17  17  17  17  16  16  15  15  14  13  12  11  
+20 FT wind gust.26  26  26  26  24  24  23  23  21  19  18  17  
+Mix hgt (kft)...1.8 1.2 1.2 1.9 2.8 3.4 3.8 4.1 4.6 4.9 4.8 4.2 
+Transp wind dir.S   S   S   S   S   S   SW  SW  SW  SW  SW  SW  
+Transp wind spd.29  26  28  30  33  35  36  36  36  35  33  31  
+Vrate kt-ft/1K..45  122 122 122 122 122 122 131 131 131 131 131 
+Ventrate Cat....FR  VGD VGD VGD VGD VGD VGD VGD VGD VGD VGD VGD 
+1700FT Mix T(F).72  71  70  68  68  70  73  76  78  79  80  79  
+
+$$
+Forecaster...J.MCGAVOCK
+Requested by...Kory Garrie
+Type of request...PRESCRIBED
+.TAG 2608693.0/TSA
+.DELDT 04/01/26
+.FormatterVersion 2.0.0
+.EMAIL kory.garrie@usda.gov,michael.snow@usda.gov,john.wilson2@usda.gov,nolen.caudell@usda.gov
+

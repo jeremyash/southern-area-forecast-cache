@@ -1,0 +1,172 @@
+
+000
+FNUS73 KJKL 250902
+FWSJKL
+
+Spot Forecast for Powder Mill RX...USFS Daniel Boone NF Cumberland RD
+National Weather Service Jackson KY
+502 AM EDT Wed Mar 25 2026
+
+Forecast is based on ignition time of 0600 EDT on March 25. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION... Southerly return flow will develop today, bringing 
+warmer temperatures. However lagging moisture return will still 
+allow relative humidity values to dip to near 25%. South to 
+southwest winds will be sustained between 5 and 10 mph with gusts 
+to around 15 mph. These winds combined with deep mixing will 
+result in good dispersion parameters. Humidity will gradually 
+increase towards Thursday morning, when a cluster of showers and 
+thunderstorms is expected to move through the general area. 
+Measurable rain chances are at around 30 percent right now. 
+Regardless of if rain reaches the area Thursday morning, the day 
+overall will continue to trend warmer, more humid, and with 
+increasing southwest winds ahead of Friday's cold front arrival.
+
+.TODAY...
+
+Sky/weather.........Partly sunny (55-65 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 71. 
+Min humidity........25 percent. 
+Dewpoint............20 increasing to 35. 
+Max apparent temp...71. 
+Wind (20 ft)........Southeast to south wind around 2 mph becoming 
+                    southwest 8 to 10 mph with gusts up to 18 mph 
+                    from 1100 onward. 
+Ridgetop wind.......South around 3 mph shifting to the southwest 9 
+                    to 12 mph in the late morning and afternoon. 
+Mixing height.......5800 ft AGL. 
+Transport winds.....South 8 to 9 mph shifting to the southwest 13 
+                    to 21 mph in the late morning and afternoon. 
+Vent Rate...........Poor (1300 knot-ft) increasing to excellent 
+                    (103400 knot-ft). 
+LVORI...............2. 
+ADI.................4 early in the morning increasing to 91 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........74  59  60  73  61  42  42  46  55  64  65  64  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............42  42  42  47  51  57  62  65  69  70  71  71  
+Dewpoint........20  21  23  25  28  31  33  33  34  35  35  35  
+RH..............41  43  46  42  41  37  33  30  27  27  27  27  
+Aparnt tmp (F)..42  42  42  47  51  57  62  65  69  70  71  71  
+20 FT wind dir..SE  SE  S   S   S   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   2   2   5   8   9   9   10  10  10  10  
+20 FT wind gust.6   6   6   7   14  18  17  16  16  17  18  18  
+Ridge wind dir..SE  SE  S   S   S   SW  SW  SW  SW  SW  SW  SW  
+Ridge wind spd..3   3   3   3   6   9   10  10  12  12  12  12  
+Mix hgt (kft)...0.2 0.2 0.2 0.5 1.0 1.3 2.4 3.7 5.2 5.8 5.8 5.7 
+Transp wind dir.SE  SE  S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.8   8   9   9   13  15  16  17  18  18  21  21  
+LVORI...........2   2   2   2   2   2   1   1   1   1   1   1   
+ADI.............4   8   10  10  17  25  45  62  58  81  91  91  
+Vrate kt-ft/1K..1   1   1   4   11  17  33  56  84  93  104 103 
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  FR  GD  GD  VGD VGD 
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (55-65 percent) then becoming 
+                    partly cloudy (30-40 percent). 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 57. 
+Max humidity........77 percent. 
+Dewpoint............36 increasing to 48. 
+Max apparent temp...70. 
+Wind (20 ft)........Southwest winds 6 to 9 mph with gusts up to 17 
+                    mph before 1900, becoming south southwest 3 to 
+                    6 mph overnight. 
+Ridgetop wind.......Southwest 5 to 10 mph. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southwest 10 to 18 mph. 
+Vent Rate...........Good (76400 knot-ft) decreasing to poor (3800 
+                    knot-ft). 
+LVORI...............2. 
+ADI.................75 decreasing to 5.
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........66  51  44  41  37  31  27  22  33  37  41  45  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   10  
+Temp............70  68  65  64  61  61  60  58  58  57  57  57  
+Dewpoint........36  38  39  40  41  42  43  44  45  46  47  48  
+RH..............29  33  38  41  48  49  53  59  62  67  69  72  
+Aparnt tmp (F)..70  68  65  64  61  61  60  58  58  57  57  57  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  S   SW  SW  S   
+20 FT wind spd..9   8   6   3   5   5   6   6   6   6   6   7   
+20 FT wind gust.17  15  12  9   10  12  13  13  13  14  14  15  
+Ridge wind dir..SW  SW  SW  SW  SW  SW  SW  SW  S   SW  SW  S   
+Ridge wind spd..10  9   7   5   6   6   7   7   7   7   7   8   
+Mix hgt (kft)...4.8 0.7 0.4 0.4 0.4 0.4 0.4 0.4 0.5 0.5 0.6 0.6 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.18  13  10  10  12  13  13  14  14  14  16  16  
+LVORI...........1   2   2   2   2   2   2   3   3   3   3   3   
+ADI.............75  11  7   5   5   6   6   6   6   6   11  11  
+Vrate kt-ft/1K..76  8   4   4   4   4   4   5   5   6   8   9   
+Ventrate Cat....GD  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). Chance of rain 
+                    showers and slight chance of thunderstorms in 
+                    the morning, then slight chance of rain showers 
+                    in the early afternoon. 
+Chance of pcpn......30 percent. 
+Max temperature.....Around 79. 
+Min humidity........42 percent. 
+Dewpoint............49 increasing to 55. 
+Max apparent temp...79. 
+Wind (20 ft)........Southwest winds 7 to 14 mph. Gusts up to 29 mph 
+                    from 1100 onward.
+Ridgetop wind.......Southwest 8 to 14 mph. 
+Mixing height.......4200 ft AGL. 
+Transport winds.....Southwest 16 to 23 mph increasing to 26 to 32 
+                    mph in the afternoon. 
+Vent Rate...........Poor (8700 knot-ft) increasing to excellent 
+                    (109000 knot-ft). 
+LVORI...............3. 
+ADI.................11 early in the morning increasing to 86 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........50  55  61  61  61  62  53  45  36  31  25  20  
+Weather cov.....SCH SCH SCH CHC SCH SCH SCH SCH                 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW                  
+Tstm cov........        SCH SCH SCH                             
+Chc of pcpn (%).20  20  20  30  20  20  20  20  10  0   0   0   
+Temp............57  57  58  59  60  64  68  71  74  77  78  79  
+Dewpoint........49  50  50  51  51  52  53  54  54  55  55  55  
+RH..............75  77  75  75  72  65  59  55  50  47  45  44  
+Aparnt tmp (F)..57  57  58  59  60  64  68  71  74  77  78  79  
+20 FT wind dir..SW  S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..7   7   7   8   10  12  13  14  14  14  14  14  
+20 FT wind gust.15  15  16  17  23  29  29  29  29  29  28  28  
+Ridge wind dir..SW  S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+Ridge wind spd..8   8   8   9   12  13  14  14  14  14  14  14  
+Mix hgt (kft)...0.6 0.7 0.7 1.1 1.5 2.0 2.5 3.0 3.5 3.7 4.0 4.2 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.16  16  17  21  23  23  26  29  31  32  31  30  
+LVORI...........4   3   3   3   3   1   1   1   1   1   1   1   
+ADI.............11  18  19  28  38  45  58  69  80  85  86  85  
+Vrate kt-ft/1K..9   9   10  20  30  41  59  75  94  102 109 110 
+Ventrate Cat....PR  PR  PR  PR  PR  FR  FR  GD  GD  VGD VGD VGD 
+
+$$
+Forecaster...GEERTSON
+Requested by...Brock Campbell
+Type of request...PRESCRIBED
+.TAG 2607407.1/JKL
+.DELDT 03/25/26
+.FormatterVersion 2.0.0
+.EMAIL brock.campbell@usda.gov
+

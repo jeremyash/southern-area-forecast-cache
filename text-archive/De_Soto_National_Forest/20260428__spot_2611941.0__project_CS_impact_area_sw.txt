@@ -1,0 +1,117 @@
+
+000
+FNUS74 KJAN 281528
+FWSJAN
+
+Spot Forecast for CS impact area sw...usfs
+National Weather Service Jackson MS
+1028 AM CDT Tue Apr 28 2026
+
+Forecast is based on ignition time of 1000 CDT on April 29. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Dense fog is not expected.
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent). Chance of showers 
+                    and thunderstorms in the afternoon. 
+Temperature.........78 at ignition...Max 89. 
+RH..................76 percent at ignition...Min 50 percent. 
+Wind (20 ft)........Winds southwest at 6 mph at 
+                    ignition...otherwise Southwest winds 5 to 7 
+                    mph. Gusty and erratic winds expected near 
+                    thunderstorms in the afternoon. 
+Mixing height (m)...884 meters AGL at ignition...otherwise 884-1737 
+                    meters AGL. 
+Transport winds.....West 10 to 13 mph. 
+Transport winds m/s.West 4 to 6 meters/second. 
+
+TIME (CDT)      10 AM  Noon   2 PM   4 PM   
+Sky cover.......PCldy  PCldy  PCldy  PCldy  
+Weather cov.....              Chance Chance 
+Weather type....None   None   Rnshwr Rnshwr 
+Tstm cov........              Chance Chance 
+Temp............78     84     87     88     
+RH..............76     59     52     50     
+20 ft wind dir..SW     SW     SW     W      
+20 ft wind spd..5      7      7      7      
+20 ft wind gust.13     15     15     14     
+Mix hgt (m).....880    1370   1680   1620   
+Transport wind..SW 12  W 13   W 13   W 12   
+Tran wind (m/s).SW 5   W 6    W 6    W 5    
+
+.WEDNESDAY NIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Showers likely 
+                    and chance of thunderstorms. 
+Temperature.........Min 65. 
+RH..................Max 97 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms in the evening and 
+                    overnight. Gusty and erratic winds expected 
+                    near thunderstorms after 3 am. 
+Mixing height (m)...122-823 meters AGL. 
+Transport winds.....Northwest 6 to 10 mph shifting to the north 7 
+                    to 9 mph after 3 am. 
+Transport winds m/s.Northwest 3 to 4 meters/second. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  
+Weather cov.....CHC LKY LKY LKY LKY LKY LKY LKY LKY LKY LKY LKY 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC SCH SCH 
+Temp............85  82  79  76  73  72  71  70  69  68  67  66  
+RH..............57  65  74  82  90  93  93  93  93  97  97  97  
+20 ft wind dir..SW  SW  W   W   W   W   NW  NW  NW  N   N   N   
+20 ft wind spd..3   3   2   2   2   2   2   2   2   3   3   3   
+20 ft wind gust.10  9   8   7   7   7   7   7   8   9   10  12  
+Mix hgt (km)....0.8 0.4 0.2 0.2 0.2 0.1 0.2 0.2 0.2 0.2 0.2 0.3 
+Transp wind dir.W   NW  NW  NW  NW  NW  NW  NW  NW  N   N   N   
+Transp wind spd.10  9   8   8   7   6   6   6   6   7   8   9   
+Trans wind dir..W   NW  NW  NW  NW  NW  NW  NW  NW  N   N   N   
+Trans spd (m/s).4   4   4   4   3   3   3   3   3   3   4   4   
+
+.THURSDAY...
+
+Sky/weather.........Mostly cloudy (80-90 percent). Showers likely 
+                    and slight chance of thunderstorms early in the 
+                    morning, then chance of showers and 
+                    thunderstorms. 
+Temperature.........Max 79. 
+RH..................Min 58 percent. 
+Wind (20 ft)........Light winds becoming northeast 5 to 6 mph. 
+                    Gusty and erratic winds expected near 
+                    thunderstorms. 
+Mixing height (m)...335-884 meters AGL. 
+Transport winds.....Northeast 9 to 12 mph. 
+Transport winds m/s.Northeast 4 to 5 meters/second. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  CDY MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  
+Weather cov.....LKY CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........SCH CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC 
+Temp............65  65  66  68  70  72  73  75  76  78  78  78  
+RH..............97  97  93  90  84  79  73  66  64  58  58  58  
+20 ft wind dir..N   N   N   NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 ft wind spd..3   5   5   6   6   6   6   6   6   6   6   5   
+20 ft wind gust.12  13  13  14  14  14  14  14  14  14  14  13  
+Mix hgt (km)....0.3 0.4 0.5 0.5 0.5 0.5 0.5 0.6 0.7 0.9 0.9 0.7 
+Transp wind dir.N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.10  12  12  10  9   9   9   9   9   9   9   9   
+Trans wind dir..N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Trans spd (m/s).4   5   5   4   4   4   4   4   4   4   4   4   
+
+$$
+Forecaster...NWS JAN
+Requested by...Jody Rogers
+Type of request...PRESCRIBED
+.TAG 2611941.0/JAN
+.DELDT 04/28/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.rogers@usda.gov
+

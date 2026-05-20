@@ -1,0 +1,146 @@
+
+000
+FNUS74 KHUN 310720
+FWSHUN
+
+Spot Forecast for Inman Creek...USFS
+National Weather Service Huntsville AL
+220 AM CDT Tue Mar 31 2026
+
+Forecast is based on ignition time of 0900 CDT on March 31. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Min RH values will remain above critical thresholds today with 
+afternoon mixing heights rising to near 4kft. Low chances for 
+thunderstorms are forecast this afternoon and could affect wind 
+direction and speed. Otherwise, expect breezy SSW transport winds 
+that should promote good smoke dispersions.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent). Slight chance of 
+                    showers and thunderstorms early in the 
+                    afternoon. Slight chance of showers and 
+                    thunderstorms late in the afternoon, then 
+                    slight chance of showers late in the afternoon. 
+Temperature.........63 at ignition...Max 80. 
+RH..................96 percent at ignition...Min 49 percent. 
+Wind (20 ft)........Winds south at 5 mph at ignition...otherwise 
+                    South winds 5 to 7 mph. Gusts up to 20 mph 
+                    early in the afternoon. Gusty and erratic winds 
+                    expected near thunderstorms early in the 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms late in the afternoon. 
+CWR.................0 percent increasing to 20 percent early in the 
+                    afternoon, then decreasing to 10 percent early 
+                    in the afternoon increasing to 20 percent late 
+                    in the afternoon decreasing to 10 percent 
+                    increasing to 20 percent late in the afternoon. 
+Chance of pcpn......20 percent. 
+Mixing height.......1700 ft AGL at ignition...otherwise 4000 ft 
+                    AGL. 
+Transport winds.....South 16 to 21 mph. 
+LVORI...............5. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........71  67  59  44  47  51  43  41  43  
+WEATHER COV.....                SCH     SCH     SCH 
+WEATHER TYPE....                RW      RW      RW  
+TEMP............63  68  70  73  76  78  78  80  78  
+RH..............96  81  73  66  60  55  51  49  51  
+20 FT WIND DIR..190 200 200 200 200 200 190 190 190 
+20 FT WIND SPD..5   6   7   7   8   8   8   7   6   
+20 FT WIND GUST.16  17  18  18  20  18  18  17  17  
+MIX HGT (KFT)...1.7 2.0 2.4 3.1 3.6 3.9 4.0 3.9 3.4 
+TRANSP WIND DIR.200 200 200 200 200 200 200 190 190 
+TRANSP WIND SPD.16  17  18  20  21  20  18  18  17  
+DISPERSION IDX..11  12  51  75  91  72  87  86  76  
+LVORI...........8   3   3   3   1   1   1   1   1   
+CWR.............0   0   0   10  20  10  20  10  20  
+CHC OF PCPN (%).0   0   0   10  20  10  20  10  20  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent) then becoming 
+                    mostly cloudy (65-75 percent). Slight chance of 
+                    showers early in the evening. Slight chance of 
+                    showers overnight. 
+Temperature.........Min 61. 
+RH..................Max 100 percent. 
+Wind (20 ft)........South winds 5 to 6 mph early in the evening 
+                    becoming light. 
+CWR.................10 percent increasing to 20 percent early in 
+                    the evening, then decreasing to 10 percent in 
+                    the late evening and overnight increasing to 20 
+                    percent overnight decreasing to 10 percent. 
+Chance of pcpn......20 percent. 
+Mixing height.......400 ft AGL. 
+Transport winds.....South 12 to 17 mph. 
+LVORI...............5. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+SKY (%).........38  32  31  32  30  42  29  27  34  46  61  83  
+WEATHER COV.....    SCH SCH                     SCH SCH SCH     
+WEATHER TYPE....    RW  RW                      RW  RW  RW      
+TEMP............78  75  71  69  68  67  66  65  64  64  63  63  
+RH..............53  59  71  76  78  84  87  90  97  97  99  100 
+20 FT WIND DIR..190 180 180 180 180 180 190 190 190 190 190 190 
+20 FT WIND SPD..6   5   3   3   3   3   3   3   3   3   3   2   
+20 FT WIND GUST.16  14  15  15  15  15  15  15  15  15  15  14  
+MIX HGT (KFT)...2.6 0.5 0.5 0.4 0.5 0.6 0.6 0.6 0.6 0.7 0.7 0.7 
+TRANSP WIND DIR.190 190 180 180 180 180 190 200 200 200 190 190 
+TRANSP WIND SPD.17  12  12  13  13  13  14  14  14  14  14  12  
+DISPERSION IDX..59  7   7   6   7   9   6   6   6   6   6   5   
+LVORI...........1   3   3   3   4   4   4   7   7   7   9   9   
+CWR.............10  20  20  10  10  10  10  10  20  20  20  10  
+CHC OF PCPN (%).10  20  20  10  10  10  10  10  20  20  20  10  
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (35-45 percent). Chance of 
+                    showers. Slight chance of thunderstorms late in 
+                    the morning, then chance of thunderstorms in 
+                    the afternoon. 
+Temperature.........Max 81. 
+RH..................Min 50 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph in the 
+                    late morning and afternoon. Gusty and erratic 
+                    winds expected near thunderstorms in the late 
+                    morning and afternoon. 
+CWR.................10 percent increasing to 50 percent. 
+Chance of pcpn......50 percent. 
+Mixing height.......3800 ft AGL. 
+Transport winds.....South 10 to 18 mph increasing to 18 to 21 mph 
+                    late in the afternoon. 
+LVORI...............5. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........81  86  82  76  70  63  57  50  43  36  29  28  
+WEATHER COV.....    CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC 
+WEATHER TYPE....    RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+TEMP............63  62  64  67  69  72  74  76  78  80  80  79  
+RH..............100 100 96  90  84  77  70  64  58  53  50  52  
+20 FT WIND DIR..190 190 190 190 190 190 190 190 190 190 190 190 
+20 FT WIND SPD..2   2   3   5   5   6   6   7   7   7   7   6   
+20 FT WIND GUST.14  14  14  14  15  15  16  16  16  16  16  15  
+MIX HGT (KFT)...0.7 0.6 1.1 1.3 1.5 2.0 2.6 3.1 3.5 3.8 3.6 2.8 
+TRANSP WIND DIR.190 190 190 190 190 190 190 190 190 190 190 190 
+TRANSP WIND SPD.12  10  12  13  15  16  17  18  20  21  21  18  
+DISPERSION IDX..5   5   5   8   10  40  50  70  84  94  91  66  
+LVORI...........9   7   7   7   3   3   3   1   1   1   1   1   
+CWR.............10  40  40  40  40  40  40  50  50  50  50  50  
+CHC OF PCPN (%).10  40  40  40  40  40  40  50  50  50  50  50  
+
+$$
+Forecaster...Ravenscraft
+Requested by...Craig
+Type of request...PRESCRIBED
+.TAG 2608640.0/HUN
+.DELDT 03/31/26
+.FormatterVersion 2.0.0
+.EMAIL gary.c.moore@usda.gov,kerry.clark@usda.gov
+

@@ -1,0 +1,114 @@
+
+000
+FNUS72 KCHS 140804
+FWSCHS
+
+Spot Forecast for FMNF C162 A...USFS
+National Weather Service Charleston SC
+404 AM EDT Thu May 14 2026
+
+Forecast is based on ignition time of 1000 EDT on May 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+A cold front will push through the burn site this morning around 8
+AM. Behind the cold front winds will shift to the NW. Winds this
+afternoon will generally be around 10 knots, with gusts into the
+upper teens. Relative Humidity values this afternoon will drop to
+near critical values, around 30%. No seabreeze is forecast this
+afternoon as winds will remain out of the NW through the day.
+Overnight fog potential tonight is very low. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 82. 
+Min humidity........32 percent. 
+Wind (20 ft)........Northwest winds 5 to 6 mph. 
+Mixing Height.......Max 7500 ft AGL. 
+Transport winds.....Northwest 12 to 18 mph. 
+Max ADI.............136. 
+Inversion End.......0900.
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   0   0   0   1   2   0   1   
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............72  75  78  80  80  81  81  82  
+RH..............64  54  45  38  35  33  33  32  
+20 FT wind dir..NW  N   NW  NW  NW  NW  NW  NW  
+20 FT wind spd..5   5   5   5   6   6   6   6   
+20 FT wind gust.13  11  13  13  13  13  13  13  
+Mix hgt (kft)...2.5 3.4 4.9 6.6 7.0 7.2 7.5 6.8 
+Transp wind dir.NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.12  12  14  14  14  18  18  18  
+LVORI...........1   1   1   1   1   1   1   1   
+ADI.............40  52  78  107 120 132 136 127 
+
+.TONIGHT...
+
+Sky/weather.........Clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 52. 
+Max humidity........71 percent. 
+Wind (20 ft)........Northwest winds around 5 mph early in the 
+                    evening becoming light. 
+Max LVORI...........4. 
+Min ADI.............1. 
+Inversion Begin.....2000.
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      2      3      3      4      5      
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............80     74     66     61     57     54     
+RH..............34     41     50     56     62     69     
+20 ft wind......NW 5   NW 3   N 1    N 2    N 2    N 2    
+20 ft wind gust.11     9      9      9      9      11     
+Mix hgt (ft)....5700   600    400    400    400    400    
+Transport wind..NW 10  NW 10  N 2    N 2    N 2    N 2    
+LVORI...........2      2      2      3      3      4      
+ADI.............1      2      1      1      1      1      
+
+.FRIDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 79. 
+Min humidity........34 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 6100 ft AGL. 
+Transport winds.....Light winds becoming north 8 to 10 mph in the 
+                    late morning and early afternoon, then shifting 
+                    to the northwest around 6 mph late in the 
+                    afternoon. 
+Max ADI.............48. 
+Inversion End.......0900.
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........2            1            2            
+Weather type....NONE         NONE         NONE         
+Tstm cov........                                       
+Chc of pcpn (%).0            0            0            
+Temp............54           66           78           
+RH..............69           52           35           
+20 FT wind......N 3G11       N 2G9        W 1G7        
+Mix hgt (ft)....400          3400         5400         
+Transport wind..N 4          N 10         NW 8         
+LVORI...........3            1            1            
+ADI.............3            40           46           
+
+$$
+Forecaster...Maskell
+Requested by...Mike Leslie
+Type of request...PRESCRIBED
+.TAG 2613567.0/CHS
+.DELDT 05/14/26
+.FormatterVersion 2.0.0
+.EMAIL michael.c.leslie@usda.gov
+

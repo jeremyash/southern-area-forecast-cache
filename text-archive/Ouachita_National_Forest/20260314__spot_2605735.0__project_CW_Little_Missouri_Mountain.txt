@@ -1,0 +1,113 @@
+
+000
+FNUS74 KLZK 140705
+FWSLZK
+
+Spot Forecast for CW Little Missouri Mountain...USFS
+National Weather Service Little Rock AR
+205 AM CDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 0700 CDT on March 14. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Southerly winds will gradually increase today...with moisture
+levels also increasing. Winds will increase significantly for
+Sunday ahead of an approaching cold front. Winds will switch to
+the northwest and north behind the front Sunday afternoon and
+evening...with very windy conditions expected. Showers and
+thunderstorms will be possible along this front. While winds will
+lessen by Monday...they may still remain elevated enough to create
+an elevated wild fire threat. This will be especially true as very
+dry air will settle across the region by Monday afternoon as 
+well.
+
+
+.REST OF TODAY...
+
+Max temperature.....48 at ignition...Max 73. 
+Min humidity........93 percent at ignition...Min 45 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Sunny (5-15 percent). 
+Category Day........3. 
+
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR CLR MCR MCR MCR 
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Temp............48  49  53  58  62  64  67  69  70  71  72  
+RH..............93  93  83  72  64  57  52  50  48  46  45  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..3   5   5   5   6   7   7   7   7   8   8   
+20 FT wind gust.6   11  12  14  16  17  17  17  18  18  19  
+MixHgtAGL (kft).0.3 0.5 0.8 1.1 1.5 2.0 2.4 2.8 3.0 3.0 2.3 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.12  13  15  16  16  16  16  17  18  20  18  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 56. 
+Max humidity........Max 90 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Mostly clear (20-30 percent) then becoming 
+                    mostly cloudy (45-55 percent) then becoming 
+                    partly cloudy (45-55 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR MC  MC  MC  PC  PC  PC  MC  MC  MC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............70  68  66  64  63  63  62  61  61  60  60  58  
+RH..............48  52  58  66  70  71  74  77  80  83  82  86  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..8   9   12  12  12  12  13  14  15  15  15  15  
+20 FT wind gust.19  20  20  21  22  23  24  25  26  28  29  30  
+MixHgtAGL (kft).1.4 0.7 0.5 0.4 0.5 0.5 0.5 0.6 0.6 0.7 0.7 0.6 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.17  16  17  20  22  23  24  25  26  26  28  28  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.SUNDAY...
+
+Max temperature.....Max 67. 
+Min humidity........Min 54 percent. 
+Chance of pcpn......80 percent. 
+Sky/weather.........Mostly cloudy (75-85 percent). Slight chance of 
+                    thunderstorms early in the afternoon. Rain 
+                    showers in the afternoon. 
+Category Day........5. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  
+Weather cov.....                            DEF DEF DEF DEF DEF 
+Weather type....                            RW  RW  RW  RW  RW  
+Tstm cov........                            SCH SCH SCH         
+Temp............58  58  57  58  61  63  64  65  66  66  65  60  
+RH..............88  86  90  90  87  84  80  74  69  64  60  58  
+20 FT wind dir..S   S   S   S   S   S   S   S   SW  SW  W   W   
+20 FT wind spd..16  16  17  16  16  16  15  15  15  16  17  18  
+20 FT wind gust.31  33  35  35  36  34  33  32  31  32  33  35  
+MixHgtAGL (kft).0.4 0.5 1.1 1.9 2.6 2.9 3.1 3.2 3.2 3.2 3.1 3.1 
+Transp wind dir.S   S   S   S   S   S   SW  SW  SW  W   NW  NW  
+Transp wind spd.28  29  31  33  36  35  32  30  30  31  33  38  
+Chc of pcpn (%).0   10  10  10  10  10  10  80  80  80  80  80  
+
+$$
+Forecaster...62
+Requested by...Justus Beggs
+Type of request...PRESCRIBED
+.TAG 2605735.0/LZK
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL justus.beggs@usda.gov,amanda.gee@usda.gov
+

@@ -1,0 +1,109 @@
+
+000
+FNUS72 KMHX 240858
+FWSMHX
+
+Spot Forecast for C 54 Seaborn Rd...USFS
+National Weather Service Newport/Morehead City NC
+458 AM EDT Tue Mar 24 2026
+
+Forecast is based on ignition time of 1100 EDT on March 24. 
+If conditions become unrepresentative, or if you have questions 
+or concerns about this forecast, contact the National Weather 
+Service in Newport at (252)223-2328.
+
+.DISCUSSION...
+Breezy winds will overlap with a drying airmass this morning, 
+impacting the early part of the burning window. A modest northeast
+breeze will continue through the burning window, but winds are 
+not expected to be quite as strong as early this morning. 
+Seabreeze development is not expected today. Relative humidity 
+begins to increase on Wednesday, and winds will be much lighter. 
+The best vent rates will be today. 
+
+.TODAY...
+
+Sky/weather.........Partly cloudy. 
+Max temperature.....Around 56. 
+Min humidity........33 percent. 
+Wind (20 ft)........Northeast winds 10 to 15 mph, with gusts up to 20 mph 
+                    in the morning.
+Mixing Height.......Max 4300 ft AGL. 
+Transport winds.....Northeast 15 to 25 mph decreasing to 15 to 20 
+                    mph late in the afternoon. 
+Vent Rate...........Max 81650 mph-ft. 
+
+TIME (EDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........52  54  61  64  66  64  55  
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+Temp............50  52  54  54  55  55  55  
+RH..............41  36  34  33  33  33  33  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..12  12  10  10  10  9   9   
+20 FT wind gust.20  18  15  14  14  14  14  
+Mix hgt (kft)...3.6 3.9 4.0 4.1 4.3 4.2 4.1 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.21  18  17  16  15  14  15  
+Vrate mph-ft/1K.77  72  70  67  64  58  62  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy. 
+Min temperature.....Around 38. 
+Max humidity........83-89 percent. 
+Wind (20 ft)........Northeast winds 5 to 10 mph. 
+Mixing Height.......Min 500 ft AGL. 
+Transport winds.....Northeast 10 to 15 mph. 
+Vent Rate...........Min 4600 mph-ft. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........55  39  16  10  5   4   7   15  19  43  49  62  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............53  50  47  43  43  42  40  40  39  39  39  40  
+RH..............42  46  53  62  64  66  72  75  79  81  82  84  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  N   
+20 FT wind spd..8   7   6   6   6   6   6   5   5   5   5   6   
+20 FT wind gust.14  14  9   9   9   9   9   9   9   9   9   9   
+Mix hgt (kft)...3.4 2.7 0.7 0.9 0.7 0.6 0.6 0.5 0.6 0.6 0.5 0.5 
+Transp wind dir.E   E   E   NE  NE  NE  NE  NE  NE  NE  N   NE  
+Transp wind spd.16  15  12  12  12  13  12  12  12  10  10  10  
+Vrate mph-ft/1K.55  42  9   11  9   7   7   7   7   6   6   5   
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly cloudy. 
+Max temperature.....Around 68. 
+Min humidity........49 percent. 
+Wind (20 ft)........Northeast winds 5 to 10 mph shifting to the east 
+                    in the afternoon. 
+Mixing Height.......Max 4500 ft AGL. 
+Transport winds.....Northeast 10 to 15 mph shifting to the southeast 
+                    5 to 10 mph in the afternoon. 
+Vent Rate...........Max 51864 mph-ft. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........69     73     61     52     51     38     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Temp............40     43     53     62     66     67     
+RH..............84     81     73     57     50     50     
+20 ft wind......N 6    NE 6   NE 7   NE 7   E 6    SE 6   
+20 ft wind gust.9      9      14     9      9      9      
+Mix hgt (ft)....500    600    1900   3100   4500   4000   
+Transport wind..NE 10  NE 10  E 13   E 13   SE 12  SE 9   
+Vrate mph-ft/1K.5      7      25     39     52     37     
+
+$$
+Forecaster...Martin
+Requested by...David Nelson
+Type of request...PRESCRIBED
+.TAG 2607467.0/MHX
+.DELDT 03/24/26
+.FormatterVersion 2.0.0
+.EMAIL david.l.nelson@usda.gov
+

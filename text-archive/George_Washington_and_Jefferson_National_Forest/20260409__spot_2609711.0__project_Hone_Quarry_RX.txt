@@ -1,0 +1,161 @@
+
+000
+FNUS71 KLWX 090915
+FWSLWX
+
+Spot Forecast for Hone Quarry RX...USFS
+National Weather Service Baltimore MD/Washington DC
+515 AM EDT Thu Apr 9 2026
+
+Forecast is based on ignition time of 0500 EDT on April 09. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Conditions may start out frosty this morning, especially at lower
+valley locations, but temperatures should warm rapidly after sunrise. 
+RHs start out around 70 percent, but will drop to around 30 percent 
+this afternoon. Winds will start out light, but become southerly over 
+the course of the day. RHs rebound to around 60 percent tonight, with 
+light south to southwesterly winds. Sunny skies are forecast for 
+tomorrow, with RHs dropping back into the 20s during the afternoon. 
+Winds may be a touch stronger tomorrow, with west to southwesterly 
+winds potentially gusting to around 15-20 mph on the higher exposed 
+ridges by afternoon.
+
+.REST OF TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent). Widespread 
+                    frost. 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 32. 
+Max humidity........69 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......100 ft AGL. 
+Transport winds.....Southwest around 9 mph. 
+Smoke dispersal.....Poor (1000 knot-ft). 
+
+TIME (EDT)      5AM 
+Sky (%).........37  
+Weather cov.....WID 
+Weather type....FST 
+Tstm cov........    
+CWR.............0   
+Chc of thdr (%).0   
+Temp............32  
+RH..............69  
+20 FT wind dir..SW  
+20 FT wind spd..1   
+20 FT wind gust.8   
+Mix hgt (kft)...0.1 
+Transp wind dir.SW  
+Transp wind spd.9   
+Vrate kt-ft/1K..1   
+Ventrate Cat....PR  
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). Widespread frost 
+                    early in the morning. 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 61. 
+Min humidity........32 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph. 
+Mixing height.......3200 ft AGL. 
+Transport winds.....South 8 to 12 mph. 
+Smoke dispersal.....Poor (800 knot-ft) early in the morning 
+                    increasing to fair (28300 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........34     43     51     46     49     21     
+Weather cov.....WIDSPD                                    
+Weather type....FROST  NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Chc of thdr (%).0      0      0      0      0      0      
+Temp............33     36     46     54     60     61     
+RH..............68     64     45     36     32     32     
+20 ft wind......SW 1   S 2    S 3    S 6    S 6    S 6    
+20 ft wind gust.8      12     14     16     17     17     
+Mix hgt (ft)....100    100    1100   1900   2600   3200   
+Transport wind..SW 8   SW 9   S 10   S 9    S 9    S 9    
+Vrate kt-ft/1K..1      2      11     16     21     27     
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   POOR   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 43. 
+Max humidity........59 percent. 
+Wind (20 ft)........South winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height.......100 ft AGL. 
+Transport winds.....South 8 to 10 mph shifting to the west 10 to 12 
+                    mph overnight. 
+Smoke dispersal.....Fair (24200 knot-ft) early in the evening 
+                    decreasing to poor (900 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........3         8         6         5         
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+CWR.............0         0         0         0         
+Chc of thdr (%).0         0         0         0         
+Temp............59        50        46        44        
+RH..............37        50        53        57        
+20 FT wind......S 5G15    SW 2G12   W 2G10    W 2G10    
+Mix hgt (ft)....2600      100       100       100       
+Transport wind..S 10      S 9       SW 10     W 10      
+Vrate kt-ft/1K..24        1         1         1         
+Ventrate Cat....POOR      POOR      POOR      POOR      
+
+.FRIDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 74. 
+Min humidity........25 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph in 
+                    the afternoon. 
+Mixing height.......8200 ft AGL. 
+Transport winds.....West 8 to 16 mph. 
+Smoke dispersal.....Poor (800 knot-ft) early in the morning 
+                    increasing to excellent (105500 knot-ft) late 
+in the afternoon. 
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........5            5            6            
+Weather cov.....                                       
+Weather type....NONE         NONE         NONE         
+Tstm cov........                                       
+CWR.............0            0            0            
+Chc of thdr (%).0            0            0            
+Temp............44           60           72           
+RH..............59           38           28           
+20 FT wind......W 2G10       W 2G10       SW 6G16      
+Mix hgt (ft)....100          1300         7000         
+Transport wind..W 10         W 9          W 15         
+Vrate kt-ft/1K..1            11           91           
+Ventrate Cat....POOR         POOR         GOOD         
+
+$$
+Forecaster...Pallozzi
+Requested by...Collett
+Type of request...PRESCRIBED
+.TAG 2609711.0/LWX
+.DELDT 04/09/26
+.FormatterVersion 2.0.0
+.EMAIL jay.collett@usda.gov,aaron.p.strobel@usda.gov
+

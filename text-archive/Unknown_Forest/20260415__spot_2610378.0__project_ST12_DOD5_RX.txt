@@ -1,0 +1,103 @@
+
+000
+FNUS74 KJAN 150936
+FWSJAN
+
+Spot Forecast for ST12-DOD5 RX...USFS
+National Weather Service Jackson MS
+436 AM CDT Wed Apr 15 2026
+
+Forecast is based on ignition time of 0900 CDT on April 15. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...Fog development across the burn area is expected 
+Wednesday morning, with some dense fog possible. LVORI will range
+from cat 7-9 through 12Z before transitioning to cat 1 by 16Z on
+the 15th with similar conditions on the 16th. Winds will be
+southerly, generally under 10kts with gusts generally under 15kts
+on the 15th and 16th.
+
+.TODAY...
+
+Sky/weather.........Partly sunny (45-55 percent). Widespread dense 
+                    fog early in the morning, then areas of dense 
+                    fog early in the morning. Patchy fog late in 
+                    the morning. 
+Temperature.........68 at ignition...Max 84. 
+RH..................90 percent at ignition...Min 43 percent. 
+Wind (20 ft)........Winds south at 5 mph at ignition...otherwise 
+                    Light winds becoming south 6 to 8 mph in the 
+                    late morning and afternoon. 
+Transport winds.....South 7 to 14 mph. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky cover.......PCldy  PCldy  PCldy  PCldy  PCldy  
+Weather cov.....Patchy                             
+Weather type....Fog    None   None   None   None   
+Tstm cov........                                   
+Temp............68     78     82     83     84     
+RH..............90     62     47     44     43     
+20 ft wind dir..S      S      S      S      S      
+20 ft wind spd..3      7      8      8      8      
+20 ft wind gust.12     15     18     20     18     
+Transport wind..S 9    S 12   S 13   S 14   S 13   
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (35-45 percent) then becoming 
+                    mostly cloudy (55-65 percent). Patchy fog early 
+                    in the morning. 
+Temperature.........Min 63. 
+RH..................Max 100 percent. 
+Wind (20 ft)........South winds 5 to 8 mph in the evening becoming 
+                    light. 
+Transport winds.....South 8 to 14 mph. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......PC  PC  PC  PC  PC  PC  MC  MC  MC  MC  MC  MC  
+Weather cov.....                                            PTY 
+Weather type....                                            FOG 
+Tstm cov........                                                
+Temp............81  78  74  70  69  67  66  66  65  65  65  65  
+RH..............47  52  64  73  81  90  93  97  100 97  97  97  
+20 ft wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 ft wind spd..8   8   7   5   5   5   3   3   3   3   3   3   
+20 ft wind gust.18  16  16  14  13  13  12  10  9   9   9   9   
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.14  13  14  14  14  14  13  12  10  10  10  8   
+
+.THURSDAY...
+
+Sky/weather.........Partly sunny (45-55 percent) then becoming 
+                    sunny (20-30 percent). Patchy fog early in the 
+                    morning, then areas of fog early in the 
+                    morning. 
+Temperature.........Max 87. 
+RH..................Min 43 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 8 mph in the 
+                    late morning and afternoon. 
+Transport winds.....Southwest 7 to 10 mph. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  PC  PC  PC  PC  PC  PC  PC  MCR MCR MCR 
+Weather cov.....PTY ARS ARS                                     
+Weather type....FOG FOG FOG                                     
+Tstm cov........                                                
+Temp............65  63  66  70  75  79  82  84  85  86  86  85  
+RH..............97  100 97  87  74  62  53  46  43  43  43  46  
+20 ft wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 ft wind spd..2   2   3   3   5   6   6   7   8   8   8   8   
+20 ft wind gust.8   8   9   10  13  14  15  16  16  16  16  16  
+Transp wind dir.S   S   SW  SW  SW  SW  SW  SW  SW  M   SW  M   
+Transp wind spd.7   7   7   8   8   9   9   9   10  M   10  M   
+
+$$
+Forecaster...Parks
+Requested by...Max Harrison
+Type of request...PRESCRIBED
+.TAG 2610378.0/JAN
+.DELDT 04/15/26
+.FormatterVersion 2.0.0
+.EMAIL max.harrison@usda.gov,seth.williamson2.nfg@army.mil
+

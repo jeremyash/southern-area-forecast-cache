@@ -1,0 +1,134 @@
+
+000
+FNUS72 KCAE 191550
+FWSCAE
+
+Spot Forecast for Red Bluff/Dawson Rx...National Park Service
+National Weather Service Columbia SC
+1150 AM EDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 0900 EDT on March 20. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Friday will see the area still under an area of high pressure 
+through the day.  Winds do turn more south to southwesterly, 
+with speeds still on the lighter side around 5 mph with a few
+higher gusts.  Low-level moisture still somewhat limited, so with
+temperatures warming up into the low to middle 70s by the afternoon,
+Minimum Relative Humidity readings will be able to drop down to around
+30 percent.  Dry weather conditions with no chance for any rainfall.
+Fog is not expected.
+
+
+.FRIDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 74. 
+Min humidity........30 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6100 ft AGL. 
+Transport winds.....Southwest around 2 mph increasing to 3 to 9 mph 
+                    late in the morning. 
+LVORI...............3. 
+ADI.................2 early in the morning increasing to 59 in the 
+                    afternoon. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   3   3   9   15  21  20  19  18  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............44  51  60  66  69  72  73  74  74  
+RH..............79  66  49  40  36  33  31  30  30  
+Aparnt tmp (F)..44  51  60  66  69  72  73  74  74  
+20 FT wind dir..N   W   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind dir..000 250 220 210 210 210 210 210 210 
+20 FT wind spd..0   1   2   2   3   3   5   5   6   
+20 FT wind gust.2   2   3   5   6   7   8   9   10  
+Mix hgt (kft)...0.9 1.4 2.1 3.1 4.3 5.2 5.9 6.1 5.7 
+Transp wind dir.W   SW  S   SW  SW  SW  SW  SW  SW  
+Transp wind dir.260 230 200 210 220 220 220 230 230 
+Transp wind spd.2   2   3   3   3   5   6   8   9   
+LVORI...........5   3   2   2   2   2   1   1   1   
+ADI.............2   4   9   14  17  27  38  55  59  
+
+.FRIDAY NIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 50. 
+Max humidity........74 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Southwest 9 to 15 mph. 
+LVORI...............2. 
+ADI.................45 early in the evening decreasing to 4 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........25  31  38  34  31  27  26  26  25  29  32  36  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............72  70  67  63  60  57  55  54  53  52  51  51  
+RH..............33  36  40  46  51  57  61  64  66  69  71  71  
+Aparnt tmp (F)..72  70  67  63  60  57  55  54  53  52  51  51  
+20 FT wind dir..SW  SW  S   S   S   S   S   SW  SW  SW  SW  SW  
+20 FT wind dir..210 210 200 190 190 190 200 210 210 210 220 220 
+20 FT wind spd..6   5   3   2   2   2   2   3   3   3   3   3   
+20 FT wind gust.9   10  7   7   9   10  10  10  10  10  12  12  
+Mix hgt (kft)...4.1 2.1 0.4 0.3 0.3 0.5 0.5 0.5 0.5 0.5 0.6 0.6 
+Transp wind dir.SW  SW  S   S   S   S   S   SW  SW  SW  SW  SW  
+Transp wind dir.220 210 200 200 200 200 200 210 210 210 220 220 
+Transp wind spd.9   9   9   10  10  12  13  13  14  15  15  15  
+LVORI...........1   2   2   2   2   3   3   3   3   3   3   3   
+ADI.............45  4   4   5   5   5   6   6   6   7   7   7   
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 85. 
+Min humidity........34 percent. 
+Wind (20 ft)........Light winds becoming west 5 to 6 mph in the 
+                    late morning and afternoon. 
+Mixing height.......6100 ft AGL. 
+Transport winds.....West 12 to 17 mph. 
+LVORI...............2. 
+ADI.................6 early in the morning increasing to 87 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........40  45  49  49  48  48  43  39  34  32  29  27  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   10  10  10  10  
+Temp............51  50  52  56  62  68  73  77  80  83  84  84  
+RH..............71  74  71  66  58  53  48  45  42  38  36  34  
+Aparnt tmp (F)..51  49  52  56  62  68  73  77  80  82  83  83  
+20 FT wind dir..SW  SW  SW  SW  W   W   W   W   W   W   W   W   
+20 FT wind dir..220 230 230 240 250 250 250 260 260 260 260 260 
+20 FT wind spd..3   3   3   5   5   6   7   7   7   7   7   6   
+20 FT wind gust.12  12  12  12  13  13  13  14  14  14  14  13  
+Mix hgt (kft)...0.6 0.6 0.7 1.0 1.4 2.0 2.9 3.9 4.7 5.6 6.1 5.8 
+Transp wind dir.SW  SW  SW  W   W   W   W   W   W   W   W   W   
+Transp wind dir.230 240 240 250 260 270 270 280 280 280 270 260 
+Transp wind spd.14  13  13  14  16  17  17  16  15  14  13  12  
+LVORI...........3   3   3   3   2   1   1   1   1   1   1   1   
+ADI.............6   13  13  18  30  45  63  75  82  87  85  75  
+
+$$
+Forecaster...Liscinsky
+Requested by...Aline Johnson
+Type of request...PRESCRIBED
+.TAG 2606575.0/CAE
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL aline_johnson@nps.gov,jeffrey.gouveia@usda.gov
+

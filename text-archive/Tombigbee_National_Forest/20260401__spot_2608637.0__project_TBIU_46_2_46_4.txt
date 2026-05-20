@@ -1,0 +1,108 @@
+
+000
+FNUS74 KJAN 010851
+FWSJAN
+
+Spot Forecast for TBIU 46-2 46-4...USFS
+National Weather Service Jackson MS
+351 AM CDT Wed Apr 1 2026
+
+Forecast is based on ignition time of 0900 CDT on April 01. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...No significant fog development is anticipated.
+
+.TODAY...
+
+Sky/weather.........Partly sunny (55-65 percent). Chance of showers 
+                    and slight chance of thunderstorms in the 
+                    afternoon. 
+Temperature.........67 at ignition...Max 84. 
+RH..................97 percent at ignition...Min 51 percent. 
+Wind (20 ft)........Winds south at 5 mph at ignition...otherwise 
+                    Light winds becoming south 5 to 6 mph in the 
+                    late morning and afternoon. Gusty and erratic 
+                    winds expected near thunderstorms in the 
+                    afternoon. 
+Mixing height (m)...183 meters AGL at ignition...otherwise 183-1463 
+                    meters AGL. 
+Transport winds.....South 10 to 16 mph. 
+Transport winds m/s.South 4 to 7 meters/second. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky cover.......MCldy  MCldy  MCldy  PCldy  PCldy  
+Weather cov.....              S Chc  Chance S Chc  
+Weather type....None   None   Rnshwr Rnshwr Rnshwr 
+Tstm cov........              S Chc  S Chc  S Chc  
+Temp............67     74     80     82     82     
+RH..............97     76     58     55     51     
+20 ft wind dir..S      S      S      S      S      
+20 ft wind spd..3      5      6      6      6      
+20 ft wind gust.13     14     15     15     16     
+Mix hgt (m).....520    820    1310   1460   1190   
+Transport wind..S 13   S 13   S 16   S 16   S 16   
+Tran wind (m/s).S 6    S 6    S 7    S 7    S 7    
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent). Slight chance of 
+                    showers and thunderstorms early in the evening. 
+Temperature.........Min 63. 
+RH..................Max 93 percent. 
+Wind (20 ft)........South winds 5 to 6 mph. Gusty and erratic winds 
+                    expected near thunderstorms early in the 
+                    evening. 
+Mixing height (m)...183-853 meters AGL. 
+Transport winds.....South 13 to 18 mph. 
+Transport winds m/s.South 6 to 8 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......PCldy  MClear MClear MClear PCldy  PCldy  
+Weather cov.....S Chc                                     
+Weather type....Rnshwr None   None   None   None   None   
+Tstm cov........S Chc                                     
+Temp............80     73     70     68     67     65     
+RH..............56     73     81     87     87     93     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..6      5      5      5      5      5      
+20 ft wind gust.16     15     15     16     15     15     
+Mix hgt (m).....850    180    180    210    210    180    
+Transport wind..S 18   S 14   S 15   S 16   S 16   S 13   
+Tran wind (m/s).S 8    S 6    S 7    S 7    S 7    S 6    
+
+.THURSDAY...
+
+Sky/weather.........Partly sunny (55-65 percent). Slight chance of 
+                    showers in the afternoon. 
+Temperature.........Max 85. 
+RH..................Min 43 percent. 
+Wind (20 ft)........South winds 5 to 8 mph. 
+Mixing height (m)...244-1646 meters AGL. 
+Transport winds.....South 14 to 23 mph increasing to 17 to 24 mph 
+                    late in the morning. 
+Transport winds m/s.South 7 to 11 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......PCldy  PCldy  PCldy  MCldy  MCldy  MCldy  
+Weather cov.....                            S Chc  S Chc  
+Weather type....None   None   None   None   Rnshwr Rnshwr 
+Tstm cov........                                          
+Temp............65     65     73     79     83     84     
+RH..............90     93     71     54     44     43     
+20 ft wind dir..S      S      S      S      S      S      
+20 ft wind spd..5      5      7      8      8      8      
+20 ft wind gust.15     16     18     18     18     18     
+Mix hgt (m).....240    520    790    1190   1460   1650   
+Transport wind..S 14   S 20   S 23   S 23   S 23   S 21   
+Tran wind (m/s).S 6    S 9    S 10   S 10   S 10   S 9    
+
+$$
+Forecaster...Edmonston
+Requested by...John Townsend
+Type of request...PRESCRIBED
+.TAG 2608637.0/JAN
+.DELDT 04/01/26
+.FormatterVersion 2.0.0
+.EMAIL john.townsend@usda.gov
+

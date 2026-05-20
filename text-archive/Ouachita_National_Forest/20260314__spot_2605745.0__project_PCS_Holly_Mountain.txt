@@ -1,0 +1,129 @@
+
+000
+FNUS74 KLZK 140709
+FWSLZK
+
+Spot Forecast for PCS Holly Mountain...USFS
+National Weather Service Little Rock AR
+209 AM CDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 0900 CDT on March 14. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Southerly winds will gradually increase today...with moisture
+levels also increasing. Winds will increase significantly for
+Sunday ahead of an approaching cold front. Winds will switch to
+the northwest and north behind the front Sunday afternoon and
+evening...with very windy conditions expected. Showers and
+thunderstorms will be possible along this front. While winds will
+lessen by Monday...they may still remain elevated enough to create
+an elevated wild fire threat. This will be especially true as very
+dry air will settle across the region by Monday afternoon as 
+well.
+
+
+.REST OF TODAY...
+
+Max temperature.....52 at ignition...Max 77. 
+Min humidity........86 percent at ignition...Min 37 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............1. 
+Sky/weather.........Sunny (15-25 percent). 
+Dispersion..........27 increasing to 49 in the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....70. 
+Category Day........4. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR PC  PC  PC  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............52  60  65  69  72  74  75  75  76  
+RH..............86  67  58  51  44  41  40  38  37  
+20 FT wind dir..SE  S   S   S   S   S   S   S   S   
+20 FT wind spd..2   2   3   5   5   6   7   7   7   
+20 FT wind gust.10  11  12  14  14  14  16  17  17  
+MixHgtAGL (kft).1.1 1.5 2.1 2.7 3.3 3.7 4.0 3.8 2.9 
+MixHgtMSL (kft).1.8 2.3 2.8 3.4 4.0 4.4 4.7 4.5 3.7 
+Transp wind dir.S   S   S   S   S   S   S   S   S   
+Transp wind spd.12  13  14  14  15  17  18  20  18  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 56. 
+Max humidity........Max 86 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............3. 
+Sky/weather.........Partly cloudy (25-35 percent). 
+Dispersion..........31 decreasing to 16 in the late evening and 
+                    overnight. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR PC  PC  PC  PC  PC  PC  PC  PC  PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............74  71  69  65  63  63  61  61  61  60  60  58  
+RH..............41  47  53  60  67  70  75  75  75  78  78  83  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..7   5   5   5   6   6   6   7   7   7   8   8   
+20 FT wind gust.17  16  17  17  18  18  18  18  20  22  23  24  
+MixHgtAGL (kft).1.8 0.9 0.9 1.3 1.5 1.4 1.1 0.8 0.8 0.8 0.9 0.9 
+MixHgtMSL (kft).2.5 1.6 1.6 2.0 2.3 2.1 1.8 1.5 1.5 1.5 1.6 1.6 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.17  16  16  17  18  18  20  20  20  20  21  22  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.SUNDAY...
+
+Max temperature.....Max 70. 
+Min humidity........Min 53 percent. 
+Chance of pcpn......90 percent. 
+Stability class.....4. 
+LVORI...............3 early in the morning. 
+Sky/weather.........Mostly cloudy (70-80 percent). Slight chance of 
+                    thunderstorms early in the afternoon. Rain 
+                    showers in the afternoon. 
+Dispersion..........54 increasing to 95 late in the morning, then 
+                    decreasing to 87 in the afternoon. 
+Rainfall amount.....0.17 inches. 
+1700 Ft Mix Temp....61. 
+Category Day........5. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  
+Weather cov.....                            DEF DEF DEF DEF DEF 
+Weather type....                            RW  RW  RW  RW  RW  
+Tstm cov........                            SCH SCH SCH         
+Temp............58  58  57  59  63  66  68  69  69  69  67  62  
+RH..............83  86  86  83  78  73  70  66  63  57  54  54  
+20 FT wind dir..S   S   S   S   S   S   S   S   SW  SW  W   W   
+20 FT wind spd..9   10  12  12  12  12  12  12  12  12  14  14  
+20 FT wind gust.26  28  30  30  30  29  26  26  26  26  29  30  
+MixHgtAGL (kft).1.0 1.2 1.9 2.6 3.3 3.6 3.7 3.7 3.6 3.5 3.5 3.7 
+MixHgtMSL (kft).1.7 1.9 2.6 3.3 4.0 4.3 4.4 4.4 4.4 4.2 4.2 4.4 
+Transp wind dir.S   S   S   S   S   SW  SW  SW  SW  W   NW  NW  
+Transp wind spd.23  25  30  36  38  36  31  26  25  26  29  33  
+Chc of pcpn (%).0   10  10  10  10  10  10  90  90  90  90  90  
+
+$$
+Forecaster...62
+Requested by...Loyd Moore
+Type of request...PRESCRIBED
+.TAG 2605745.0/LZK
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL loyd.moore@usda.gov
+

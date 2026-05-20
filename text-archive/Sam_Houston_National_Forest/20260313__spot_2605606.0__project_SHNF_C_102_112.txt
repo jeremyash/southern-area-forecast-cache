@@ -1,0 +1,86 @@
+
+000
+FNUS74 KHGX 131055
+FWSHGX
+
+Spot Forecast for SHNF C 102 / 112...USFS
+National Weather Service Houston/Galveston TX
+555 AM CDT Fri Mar 13 2026
+
+If conditions become unrepresentative...contact the National 
+Weather Service.
+
+.DISCUSSION...
+
+Today will remain fairly dry with minimum RH values around 40 
+percent. Expect southerly winds today generally around 5-8 mph 
+with occasional gusts near 15 mph from the late morning through 
+the afternoon. There is low potential for fog development 
+overnight. If fog does develop, it is not anticipated to be dense 
+and is more likely to develop to the west. Another surge of dry 
+air and gusty northerly winds can be expected after another 
+frontal passage late Sunday.
+
+.REST OF TODAY...
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR 
+Sky (%).........1   1   2   2   2   3   2   3   4   4   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   0   0   0   0   0   
+Temp............44  48  56  62  65  70  72  74  75  75  
+RH..............82  80  66  59  52  44  41  40  40  42  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..1   2   2   3   5   6   6   6   5   5   
+20 FT wind gust.7   7   9   12  13  14  14  14  13  13  
+Mix hgt (kft)...0.4 0.9 1.7 2.1 2.4 2.7 2.9 3.1 3.4 2.8 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.8   9   10  13  13  12  12  12  10  12  
+Visibility (sm).10  10  10  10  10  10  10  10  10  10  
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR MCR CLR MCR PC  PC  
+Sky (%).........3   2   2   3   1   2   3   6   5   14  37  30  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............73  67  62  60  56  56  54  53  52  52  51  51  
+RH..............46  60  70  77  88  86  95  98  100 100 100 100 
+20 FT wind dir..S   SE  S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..3   2   2   3   3   2   2   2   2   2   2   2   
+20 FT wind gust.12  12  10  12  12  10  10  9   8   8   7   7   
+Mix hgt (kft)...2.2 0.6 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.13  12  13  14  14  12  10  10  10  10  13  12  
+Visibility (sm).10  10  10  10  10  10  10  10  10  10  10  9   
+
+.SATURDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  PC  PC  MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Sky (%).........28  42  33  25  17  18  19  20  16  12  8   8   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............51  51  52  56  62  67  71  75  77  79  79  77  
+RH..............100 100 100 96  84  73  65  58  53  50  50  52  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..1   1   2   3   3   5   6   6   7   7   7   7   
+20 FT wind gust.7   7   7   9   12  13  15  16  17  17  18  18  
+Mix hgt (kft)...0.5 0.5 0.8 1.5 2.3 2.8 3.2 3.5 3.8 4.0 3.8 2.9 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.12  10  10  13  14  14  14  14  15  15  16  16  
+Visibility (sm).8   7   7   10  10  10  10  10                  
+
+$$
+Forecaster...Batiste
+Requested by...Steve Foster
+Type of request...PRESCRIBED
+.TAG 2605606.0/HGX
+.DELDT 03/13/26
+.FormatterVersion 2.0.0
+.EMAIL steven.foster@usda.gov
+

@@ -1,0 +1,82 @@
+
+000
+FNUS74 KHGX 161100
+FWSHGX
+
+Spot Forecast for C29...USFS
+National Weather Service Houston/Galveston TX
+600 AM CDT Thu Apr 16 2026
+
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Southerly winds around 7-10 mph are expected through the day with
+gusts of 15-20 mph, especially late in the morning into the
+afternoon. Chances of any showers are very low (less than 10%).
+Relative humidity values will drop to near 50% late in the
+afternoon. Winds on Friday will be a bit stronger, but other
+weather conditions will remain nearly identical to today's
+weather.
+
+.REST OF TODAY...
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  MC  PC  PC  PC  PC  PC  PC  
+Sky (%).........73  70  64  55  50  44  41  39  40  36  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   0   0   0   0   0   
+Temp............71  71  75  78  81  83  85  86  86  87  
+RH..............93  93  82  74  65  59  55  51  51  50  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..6   6   7   7   8   8   8   8   8   8   
+20 FT wind gust.16  16  17  17  17  17  17  17  17  18  
+Mix hgt (kft)...1.3 2.0 2.5 3.1 3.8 4.4 5.1 5.5 5.7 5.1 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.14  15  16  16  15  15  15  15  15  15  
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......PC  PC  MCR MCR MCR MCR PC  PC  MC  MC  MC  MC  
+Sky (%).........37  30  25  14  10  15  26  47  56  62  67  68  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............85  85  82  78  76  75  73  72  71  71  70  69  
+RH..............53  53  56  64  69  74  79  81  84  87  90  93  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..8   8   8   8   8   7   7   7   7   6   7   6   
+20 FT wind gust.18  18  17  17  17  17  17  16  16  16  16  16  
+Mix hgt (kft)...4.5 3.0 1.5 0.8 0.5 0.4 0.5 0.7 0.8 0.8 0.9 0.8 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.16  17  14  14  15  14  14  14  15  14  14  14  
+
+.FRIDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  
+Sky (%).........69  73  75  72  69  66  62  59  58  56  55  53  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............69  68  69  72  75  78  81  83  85  86  86  86  
+RH..............93  97  93  84  76  69  60  57  53  51  51  51  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..6   6   7   9   10  12  12  12  12  13  13  13  
+20 FT wind gust.16  16  17  18  21  22  23  24  25  25  25  25  
+Mix hgt (kft)...0.8 0.9 1.6 2.3 3.0 3.8 4.5 5.0 5.3 5.3 5.2 4.8 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.14  15  16  18  21  22  23  23  23  22  22  23  
+
+$$
+Forecaster...Backup
+Requested by...Jesse Hoh
+Type of request...PRESCRIBED
+.TAG 2610444.0/HGX
+.DELDT 04/16/26
+.FormatterVersion 2.0.0
+.EMAIL darin.keyse@usda.gov,stuart.coombs@usda.gov,steven.foster@usda.gov,jesse.hoh@usda.gov
+

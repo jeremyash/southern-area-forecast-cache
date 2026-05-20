@@ -1,0 +1,166 @@
+
+000
+FNUS74 KLIX 181039
+FWSLIX
+
+Spot Forecast for Desoto 9370 C-507 508 509...USFS
+National Weather Service New Orleans LA
+539 AM CDT Sat Apr 18 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+South to southeasterly flow will remain prevalent across the
+region today with wind speeds in the 10-15 mph range. Moisture levels 
+will remain largely unchanged with minimum RH values near 50 percent
+today. Some fog will be possible until about 9 am this morning. No
+fog Sunday morning. A cold front will move through with a line of 
+showers and a few storms bringing some much needed rains to the 
+area overnight. This may not be a wetting rain for most of the
+area though. RH values will plummet Sunday to the mid to lower
+30s and remain this way through Monday. A slow moderation in RH
+values will occur afterwards.
+
+A sea breeze is possible this afternoon, but will not occur Sunday.
+There is potential for a sea breeze late Monday afternoon.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent). Patchy fog early 
+                    in the morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 85. 
+Min humidity........49 percent. 
+Dewpoint............63. 
+Max apparent temp...86. 
+Wind (20 ft)........Light winds becoming southwest 6 to 9 mph in 
+                    the late morning and afternoon. 
+Mixing height (m)...122-1615 meters AGL. 
+Transport winds.....Southwest 5 to 12 mph. 
+Transport winds m/s.Southwest 2 to 5 meters/second. 
+LVORI...............4. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      7 AM   9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........63     51     57     71     65     66     
+Weather cov.....PATCHY                                    
+Weather type....FOG    NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............63     71     81     84     85     83     
+Dewpoint........62     65     64     63     64     65     
+RH..............97     81     56     49     50     55     
+Aparnt tmp (F)..63     71     83     85     86     85     
+20 FT wind dir..SSW    SW     SW     SSW    SSW    SSW    
+20 FT wind spd..2      3      6      8      9      10     
+20 FT wind gust.6      7      12     15     17     17     
+Mix hgt (m).....120    850    1370   1580   1340   910    
+Transp wind dir.SSW    SW     WSW    WSW    SW     S      
+Transp wind spd.5      9      8      9      9      12     
+Trans wind dir..SSW    SW     WSW    WSW    SW     S      
+Trans spd (m/s).2      4      4      4      4      5      
+LVORI...........7      3      1      1      2      2      
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (70-80 percent). Chance of rain 
+                    showers and slight chance of thunderstorms 
+                    overnight. 
+Chance of pcpn......60 percent. 
+Min temperature.....Around 53. 
+Max humidity........93 percent. 
+Dewpoint............66 decreasing to 57. 
+Max apparent temp...83. 
+Wind (20 ft)........Southwest winds 5 to 9 mph in the evening 
+                    becoming light, then becoming northwest 5 to 8 
+                    mph overnight shifting to the north 10 to 13 
+                    mph. Gusty and erratic winds expected near 
+                    thunderstorms overnight. 
+Mixing height (m)...183-732 meters AGL. 
+Transport winds.....South 7 to 14 mph shifting to the west around 7 
+                    mph late in the evening, then shifting to the 
+                    north 10 to 14 mph overnight increasing to 21 
+                    to 25 mph after 3 am. 
+Transport winds m/s.South 3 to 6 meters/second in the evening, then 
+                    shifting to the west around 3 meters/second late 
+                    in the evening shifting to the north 4 to 6 
+                    meters/second overnight and increasing to 9 to 11 
+                    meters/second. 
+LVORI...............4. 
+Rainfall amount.....0.14 inches. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........61     69     83     88     92     89     
+Weather cov.....                            CHANCE CHANCE 
+Weather type....NONE   NONE   NONE   NONE   RNSHWR RNSHWR 
+Tstm cov........                            S CHC  S CHC  
+Chc of pcpn (%).0      0      10     20     20     50     
+Temp............81     74     72     71     68     63     
+Dewpoint........65     66     67     67     65     60     
+RH..............58     76     84     87     90     90     
+Aparnt tmp (F)..83     74     72     71     68     63     
+20 FT wind dir..SSW    SSW    WSW    NW     N      N      
+20 FT wind spd..9      7      5      5      8      14     
+20 FT wind gust.16     13     10     10     14     21     
+Mix hgt (m).....730    240    180    180    270    550    
+Transp wind dir.S      S      SSW    NW     N      N      
+Transp wind spd.14     10     7      10     14     23     
+Trans wind dir..S      S      SSW    NW     N      N      
+Trans spd (m/s).6      4      3      4      6      10     
+LVORI...........1      4      5      6      5      5      
+
+.SUNDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (40-50 percent). Slight chance of 
+                    thunderstorms early in the morning. Chance of 
+                    rain showers in the morning. 
+Chance of pcpn......60 percent. 
+Max temperature.....Around 72. 
+Min humidity........29 percent. 
+Dewpoint............51 decreasing to 40. 
+Max apparent temp...72. 
+Wind (20 ft)........North winds 10 to 16 mph with gusts to around 
+                    29 mph. Gusty and erratic winds expected near 
+                    thunderstorms early in the morning. 
+Mixing height (m)...427-1372 meters AGL. 
+Transport winds.....Northeast 17 to 25 mph. 
+Transport winds m/s.Northeast 8 to 11 meters/second. 
+LVORI...............5. 
+Rainfall amount.....0.07 inches. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........92     84     87     74     60     44     
+Weather cov.....CHANCE CHANCE CHANCE CHANCE               
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR NONE   NONE   
+Tstm cov........S CHC  S CHC                              
+Chc of pcpn (%).60     30     30     30     0      0      
+Temp............56     53     58     64     69     72     
+Dewpoint........53     50     49     44     40     38     
+RH..............90     89     72     48     35     29     
+Aparnt tmp (F)..56     53     58     64     69     72     
+20 FT wind dir..N      NNE    NNE    NNE    NNE    NNE    
+20 FT wind spd..18     18     15     13     13     12     
+20 FT wind gust.26     29     28     26     25     23     
+Mix hgt (m).....490    430    610    980    1310   1340   
+Transp wind dir.N      NNE    NNE    NNE    NNE    NNE    
+Transp wind spd.25     25     24     24     23     20     
+Trans wind dir..N      NNE    NNE    NNE    NNE    NNE    
+Trans spd (m/s).11     11     11     11     10     9      
+LVORI...........9      6      4      1      1      1      
+
+$$
+Forecaster...WAGNER
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2610541.2/LIX
+.DELDT 04/18/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

@@ -1,0 +1,167 @@
+
+000
+FNUS74 KMOB 061002
+FWSMOB
+
+Spot Forecast for Desoto BB 8301 Knob Creek...usfs
+National Weather Service Mobile AL
+502 AM CDT Wed May 6 2026
+
+Forecast is based on ignition time of 0800 CDT on May 06. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...There is a 50% chance of rain the rest of today,
+and a 60% chance of rain tonight, and a 80% chance of rain
+Thursday. For the rest of today, the minimum relative humidity is
+near 75%, 20 ft wind gusts will be up to near 25 mph, transport
+winds will be mostly southerly to south-southwesterly, and
+dispersion values will be fair. For Thursday, the minimum
+relative humidity is near 70%, 20 ft wind gusts will be up to
+near 20 mph, transport winds will be mostly northwesterly to west-
+southwesterly, and dispersion values will be fair. 
+
+Fog potential and other remarks...Fog is not expected.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Slight chance of 
+                    thunderstorms early in the morning. Chance of 
+                    showers through the day. Chance of 
+                    thunderstorms in the afternoon. 
+Chance of pcpn......50 percent. 
+Max temperature.....Around 84. 
+Min humidity........72 percent. 
+Wind (20 ft)........Light winds becoming south 6 to 12 mph with 
+                    gusts to around 25 mph in the late morning and 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms late in the morning. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    in the afternoon. 
+Mixing height.......2500 ft AGL. 
+Mixing height (m)...274-762 meters AGL. 
+Transport winds.....South 9 to 17 mph increasing to around 20 mph 
+                    late in the afternoon. 
+Transport winds m/s.South 4 to 8 meters/second increasing to around 
+                    9 meters/second late in the afternoon. 
+Dispersion index....14 increasing to 38. 
+LVORI...............5. 
+Stability class.....2. 
+
+TIME (CDT)      8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........80     77     77     58     70     
+Weather cov.....S CHC  CHANCE CHANCE CHANCE CHANCE 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........       S CHC  S CHC  CHANCE CHANCE 
+Chc of pcpn (%).20     40     40     50     30     
+Temp............69     76     79     82     82     
+RH..............97     85     82     77     77     
+20 FT wind dir..SSW    SSW    S      S      S      
+20 FT wind spd..3      7      9      12     13     
+20 FT wind gust.12     15     21     24     25     
+Mix hgt (ft)....900    1800   2300   2500   2500   
+Mix hgt (m).....270    550    700    760    760    
+Transp wind dir.S      SSW    S      S      S      
+Transp wind spd.9      10     12     15     17     
+Trans wind dir..S      SSW    S      S      S      
+Trans spd (m/s).4      4      5      7      8      
+Dispersion idx..11     23     30     35     38     
+LVORI...........7      4      4      3      3      
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (45-55 percent) then becoming 
+                    mostly cloudy (70-80 percent). Chance of 
+                    showers in the evening. Chance of thunderstorms 
+                    through the night. Showers likely overnight. 
+Chance of pcpn......60 percent. 
+Min temperature.....Around 71. 
+Max humidity........100 percent. 
+Wind (20 ft)........South winds 7 to 12 mph. Gusty and erratic 
+                    winds expected near thunderstorms in the 
+                    evening. Gusty and erratic winds expected near 
+                    thunderstorms overnight. 
+Mixing height.......500 ft AGL. 
+Mixing height (m)...152-762 meters AGL. 
+Transport winds.....Southwest 10 to 18 mph. 
+Transport winds m/s.Southwest 4 to 8 meters/second. 
+Dispersion index....46 decreasing to 14. 
+LVORI...............5. 
+Stability class.....4. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........50     76     85     80     74     77     
+Weather cov.....CHANCE CHANCE S CHC  S CHC  CHANCE LIKELY 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........CHANCE CHANCE S CHC  S CHC  CHANCE CHANCE 
+Chc of pcpn (%).30     30     20     20     30     60     
+Temp............82     78     75     75     75     73     
+RH..............74     85     90     90     87     90     
+20 FT wind dir..S      S      S      SSW    SSW    SW     
+20 FT wind spd..13     10     10     9      8      8      
+20 FT wind gust.23     20     21     20     18     18     
+Mix hgt (ft)....2500   900    900    800    900    700    
+Mix hgt (m).....760    270    270    240    270    210    
+Transp wind dir.S      S      S      SSW    SSW    SW     
+Transp wind spd.18     15     16     15     15     13     
+Trans wind dir..S      S      S      SSW    SSW    SW     
+Trans spd (m/s).8      7      7      7      7      6      
+Dispersion idx..46     14     14     14     13     10     
+LVORI...........3      4      5      5      4      6      
+
+.THURSDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Showers in the 
+                    morning. Chance of thunderstorms through the 
+                    day. Chance of showers in the afternoon. 
+Chance of pcpn......80 percent. 
+Max temperature.....Around 82. 
+Min humidity........69 percent. 
+Wind (20 ft)........West winds 6 to 7 mph shifting to the northwest 
+                    5 to 6 mph in the late morning and early 
+                    afternoon, then becoming light late in the 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms in the morning. Gusty and 
+                    erratic winds expected near thunderstorms early 
+                    in the afternoon. 
+Mixing height.......3200 ft AGL. 
+Mixing height (m)...152-975 meters AGL. 
+Transport winds.....West 9 to 10 mph shifting to the northwest 9 to 
+                    12 mph in the late morning and afternoon. 
+Transport winds m/s.Southwest around 4 meters/second shifting to 
+                    the northwest 4 to 5 meters/second in the late 
+                    morning and afternoon. 
+Dispersion index....12 increasing to 33. 
+LVORI...............5. 
+Stability class.....3. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........76     79     81     74     58     63     
+Weather cov.....LIKELY DEFNTE CHANCE CHANCE S CHC         
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR NONE   
+Tstm cov........CHANCE CHANCE CHANCE CHANCE S CHC         
+Chc of pcpn (%).60     80     50     50     20     10     
+Temp............72     71     73     75     79     80     
+RH..............93     97     93     90     77     72     
+20 FT wind dir..WSW    W      NW     NW     NW     NNW    
+20 FT wind spd..8      7      6      7      6      5      
+20 FT wind gust.18     16     14     15     14     12     
+Mix hgt (ft)....500    1000   1100   1700   2700   3200   
+Mix hgt (m).....150    300    340    520    820    980    
+Transp wind dir.WSW    W      WNW    NW     NNW    NW     
+Transp wind spd.10     9      9      10     12     10     
+Trans wind dir..WSW    W      WNW    NW     NNW    NW     
+Trans spd (m/s).4      4      4      4      5      4      
+Dispersion idx..8      12     12     22     33     32     
+LVORI...........5      6      5      4      3      3      
+
+$$
+Forecaster...13
+Requested by...Jody Rogers
+Type of request...PRESCRIBED
+.TAG 2612833.0/MOB
+.DELDT 05/06/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.rogers@usda.gov
+

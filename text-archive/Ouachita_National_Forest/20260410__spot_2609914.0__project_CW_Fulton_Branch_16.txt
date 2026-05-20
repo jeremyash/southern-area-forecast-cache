@@ -1,0 +1,108 @@
+
+000
+FNUS74 KLZK 100819
+FWSLZK
+
+Spot Forecast for CW Fulton Branch 16...USFS
+National Weather Service Little Rock AR
+319 AM CDT Fri Apr 10 2026
+
+Forecast is based on ignition time of 0700 CDT on April 10. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Warm temperatures and southerly winds expected today and Saturday
+as surface high pressure remains in place across the southeast US. 
+Limited chance of rain this afternoon and evening. Will have the
+Hysplit dispersion out shortly. 
+
+.TODAY...
+
+Max temperature.....57 at ignition...Max 81. 
+Min humidity........83 percent at ignition...Min 44 percent. 
+Chance of pcpn......30 percent. 
+Sky/weather.........Mostly sunny (45-55 percent). Chance of rain 
+                    showers early in the afternoon. Slight chance 
+                    of thunderstorms early in the afternoon. Slight 
+                    chance of rain showers early in the afternoon. 
+Peak Category Day...3. 
+
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  PC  PC  PC  PC  PC  PC  PC  PC  PC  
+Weather cov.....                        CHC SCH SCH         
+Weather type....                        RW  RW  RW          
+Tstm cov........                        SCH SCH SCH         
+Temp............57  59  63  70  72  74  76  79  79  80  81  
+RH..............83  87  84  68  61  59  56  49  49  47  44  
+20 FT wind dir..SE  S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..2   2   3   3   3   3   3   3   3   3   2   
+20 FT wind gust.6   8   10  10  10  10  10  10  10  10  10  
+MixHgtAGL (kft).0.6 1.2 1.9 2.8 3.6 4.4 5.1 5.7 5.9 5.5 4.1 
+Category Day....1   1   2   3   3   3   3   3   3   3   3   
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.10  13  14  15  13  10  8   8   8   8   8   
+Chc of pcpn (%).0   10  10  10  10  10  30  20  20  10  10  
+
+.TONIGHT...
+
+Min temperature.....Min 57. 
+Max humidity........Max 96 percent. 
+Chance of pcpn......10 percent. 
+Sky/weather.........Mostly clear (15-25 percent). 
+Peak Category Day...2. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......PC  PC  PC  PC  PC  PC  PC  PC  PC  MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............79  77  74  70  67  65  64  63  62  62  59  59  
+RH..............47  52  57  63  73  78  78  81  81  81  90  87  
+20 FT wind dir..S   S   SE  SE  SE  SE  N   N   N   N   N   N   
+20 FT wind spd..2   2   2   2   1   1   0   0   0   0   0   0   
+20 FT wind gust.10  8   6   5   4   4   4   4   2   2   2   2   
+MixHgtAGL (kft).2.3 0.7 0.3 0.4 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.5 
+Category Day....2   1   1   1   1   1   1   1   1   1   1   1   
+Transp wind dir.S   S   S   S   SE  SE  S   S   S   S   S   S   
+Transp wind spd.8   8   8   8   8   8   8   8   8   8   8   7   
+Chc of pcpn (%).10  10  10  10  10  10  10  0   0   0   0   0   
+
+.SATURDAY...
+
+Max temperature.....Max 83. 
+Min humidity........Min 41 percent. 
+Chance of pcpn......10 percent. 
+Sky/weather.........Sunny (20-30 percent). 
+Peak Category Day...4. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR PC  PC  PC  PC  PC  PC  PC  PC  PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............59  57  59  65  71  75  78  80  81  82  82  82  
+RH..............90  96  93  81  68  60  52  47  44  41  41  41  
+20 FT wind dir..N   N   N   N   S   S   S   S   S   S   S   S   
+20 FT wind spd..0   0   0   0   1   2   3   5   5   5   5   3   
+20 FT wind gust.2   2   4   5   6   8   10  12  13  13  13  13  
+MixHgtAGL (kft).0.4 0.6 1.0 1.6 2.4 3.5 4.7 5.4 5.5 5.1 4.3 3.2 
+Category Day....1   1   1   1   2   3   4   4   4   4   4   3   
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.6   6   6   8   9   12  14  15  15  15  14  13  
+Chc of pcpn (%).0   10  10  10  10  10  10  10  10  10  10  10  
+
+$$
+Forecaster...J Hood
+Requested by...Justus Beggs
+Type of request...PRESCRIBED
+.TAG 2609914.0/LZK
+.DELDT 04/10/26
+.FormatterVersion 2.0.0
+.EMAIL amanda.gee@usda.gov,justus.beggs@usda.gov
+

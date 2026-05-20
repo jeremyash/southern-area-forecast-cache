@@ -1,0 +1,173 @@
+
+000
+FNUS73 KJKL 122050
+FWSJKL
+
+Spot Forecast for Hurricane Branch RX...USFS
+National Weather Service Jackson KY
+450 PM EDT Thu Mar 12 2026
+
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+...WIND ADVISORY IN EFFECT FROM 9 AM TO 8 PM EDT FRIDAY...
+
+.DISCUSSION....High pressure will depart to the southeast of the
+project location on Friday which will allow a low pressure system
+moving through the Great Lakes to push a dry front across the 
+area. The increased pressure gradient will promote gusty southwest
+winds, peaking between 1000 and 1800. While there will be an 
+increase in mid-level and high clouds with this system, the lowest
+levels will be slower. Lighter winds follow for Saturday before 
+another system approaches on Sunday and results in another round 
+of gusty winds, mainly from the south.
+
+.FRIDAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 65. 
+Min humidity........Around 24 percent. 
+Dewpoint............Around 24 increasing to around 29 in the 
+                    afternoon. 
+Min apparent temp...Around 30. 
+Wind (20 ft)........South to southwest winds 8 to 15 mph. Gusts of
+                    29 to 39 mph. 
+Ridgetop wind.......Southwest 10 to 17 mph. 
+Mixing height.......Around 5100 ft AGL. 
+Transport winds.....South to southwest 15 to 20 mph, becoming 
+                    southwest to west at 33 to 41 mph. 
+Vent Rate...........Poor (12200 knot-ft) increasing to excellent 
+                    (127300 knot-ft) to excellent (163100 knot-ft). 
+LVORI...............1 to 2. 
+ADI.................16 early, increasing to 99 to 121 in 
+                    the afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........33  29  18  26  17  29  19  19  16  12  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   
+Temp............37  39  45  50  55  59  61  64  65  65  
+Dewpoint........22  23  25  25  26  27  28  29  29  31  
+RH..............54  52  45  37  32  29  28  27  26  28  
+Aparnt tmp (F)..30  32  39  45  55  59  61  64  65  65  
+20 FT wind dir..S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..9   12  13  15  16  17  17  17  17  16  
+20 FT wind gust.25  29  36  39  39  37  36  35  33  32  
+Ridge wind dir..S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+Ridge wind spd..10  13  14  15  16  17  17  17  17  16  
+Mix hgt (kft)...0.9 1.9 3.0 3.7 4.1 4.3 4.5 4.7 4.9 5.1 
+Transp wind dir.S   SW  SW  SW  SW  SW  SW  SW  SW  W   
+Transp wind spd.15  20  25  33  36  38  41  40  38  36  
+LVORI...........2   1   1   1   1   1   1   1   1   1   
+ADI.............16  46  72  85  99  108 121 118 113 109 
+Vrate kt-ft/1K..12  33  65  106 127 141 162 163 163 158 
+Ventrate Cat....PR  PR  GD  VGD VGD VGD EXL EXL EXL EXL 
+
+.FRIDAY NIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 39. 
+Max humidity........Around 79 percent. 
+Dewpoint............Around 33 increasing to 35 in the late evening and 
+                    overnight. 
+Max apparent temp...Around 64. 
+Wind (20 ft)........West 6 to 13 mph with gusts to around 30 
+                    mph early in the evening, becoming light and
+                    variable. 
+Ridgetop wind.......West 6 to 15 mph with gusts to around 30 
+                    mph early in the evening, becoming light and
+                    variable.  
+Mixing height.......Decreasing to 400 ft AGL. 
+Transport winds.....West 23 to 32 mph decreasing to 8 to 13 mph 
+                    early in the evening, then shifting to the 
+                    northwest after 3 am. 
+Vent Rate...........Excellent (114300 knot-ft) decreasing to poor 
+                    (2800 knot-ft). 
+LVORI...............2. 
+ADI.................96 early in the evening decreasing to 2 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........10  9   10  9   12  16  16  16  16  21  26  31  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............64  60  58  55  52  51  49  47  45  44  43  42  
+Dewpoint........31  32  35  35  36  36  36  35  35  35  34  34  
+RH..............29  35  42  47  54  56  61  63  68  70  70  73  
+Aparnt tmp (F)..64  60  58  55  52  51  49  47  45  44  43  42  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..15  13  9   7   5   3   2   2   2   2   1   1   
+20 FT wind gust.30  28  22  18  15  12  10  9   8   7   6   5   
+Ridge wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+Ridge wind spd..15  14  10  8   6   5   3   3   3   3   2   2   
+Mix hgt (kft)...4.1 2.6 1.2 1.0 0.7 0.5 0.5 0.4 0.4 0.5 0.7 0.8 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   NW  NW  
+Transp wind spd.32  23  13  10  10  12  10  9   8   8   8   8   
+LVORI...........1   1   2   2   2   3   3   3   3   3   3   3   
+ADI.............96  20  6   4   3   4   3   3   2   2   2   2   
+Vrate kt-ft/1K..114 52  13  9   6   5   5   4   3   4   5   6   
+Ventrate Cat....VGD FR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 68. 
+Min humidity........25 percent. 
+Dewpoint............33. 
+Min apparent temp...39. 
+Wind (20 ft)........Light winds. 
+Ridgetop wind.......Southwest around 2 mph shifting to the east 2 
+                    to 3 mph in the morning, then increasing to 3 
+                    to 5 mph late in the morning shifting to the 
+                    southeast around 5 mph late in the afternoon. 
+Mixing height.......5400 ft AGL. 
+Transport winds.....North around 7 mph shifting to the south 6 to 8 
+                    mph in the afternoon. 
+Vent Rate...........Poor (700 knot-ft) increasing to marginal 
+                    (36000 knot-ft). 
+LVORI...............3. 
+ADI.................2 early in the morning increasing to 49 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........34  38  41  35  30  24  31  38  45  44  43  42  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............40  39  39  42  46  51  56  61  64  67  68  68  
+Dewpoint........34  33  33  33  33  33  33  32  32  32  33  34  
+RH..............79  79  79  70  60  50  42  33  30  27  27  28  
+Aparnt tmp (F)..40  39  39  42  46  51  56  61  64  67  68  68  
+20 FT wind dir..SW  SE  E   E   E   E   E   SE  SE  SE  S   S   
+20 FT wind spd..1   1   1   1   2   2   2   3   3   3   3   3   
+20 FT wind gust.3   3   3   5   5   6   7   7   8   9   9   9   
+Ridge wind dir..SW  SE  E   E   E   E   E   SE  SE  SE  S   S   
+Ridge wind spd..2   2   2   2   3   3   3   5   5   5   5   5   
+Mix hgt (kft)...0.7 0.4 0.2 0.7 1.6 2.0 2.6 3.8 4.4 4.6 5.1 5.4 
+Transp wind dir.N   NE  E   E   E   E   SE  S   SW  SW  S   S   
+Transp wind spd.7   5   3   3   3   5   5   6   6   7   8   8   
+LVORI...........4   4   4   3   3   2   2   2   2   1   1   1   
+ADI.............2   3   3   3   8   12  15  26  29  37  47  49  
+Vrate kt-ft/1K..4   2   1   2   5   8   11  19  22  28  36  38  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...JP
+Requested by...David DeGennaro
+Type of request...PRESCRIBED
+.TAG 2605507.0/JKL
+.DELDT 03/12/26
+.FormatterVersion 2.0.0
+.EMAIL david.degennaro@usda.gov
+

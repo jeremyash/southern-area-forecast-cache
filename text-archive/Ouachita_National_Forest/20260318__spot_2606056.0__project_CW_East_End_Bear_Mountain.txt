@@ -1,0 +1,133 @@
+
+000
+FNUS74 KLZK 180635
+FWSLZK
+
+Spot Forecast for CW East End Bear Mountain...USFS
+National Weather Service Little Rock AR
+135 AM CDT Wed Mar 18 2026
+
+Forecast is based on ignition time of 0700 CDT on March 18. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+A period of quiet weather is expect over the next several days as
+an upper level ridge of high pressure becomes entrenched over the
+Southwestern region of the CONUS. Across Arkansas, temperatures
+will continue to increase through the weekend rapidly. High
+temperature values will be in the upper 60s to low 70s across the
+state on Wednesday and rise into the mid 70s to mid 80s on
+Thursday. Surface winds will be gusty at times across the state on
+Wednesday as a warm front has pushed through the area and will
+promote winds out of the southwest this morning remaining through
+the forecast period. Min RH values may approach critical values
+across parts of the state on Wednesday afternoon into early
+Wednesday evening.  
+
+
+.REST OF TODAY...
+
+Max temperature.....44 at ignition...Max 69. 
+Min humidity........53 percent at ignition...Min 36 percent. 
+Chance of pcpn......10 percent. 
+Stability class.....3. 
+LVORI...............2 early in the morning. 
+Sky/weather.........Cloudy (85-95 percent) then becoming mostly 
+                    sunny (45-55 percent). 
+Dispersion..........20 increasing to 52 in the late morning and 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....66. 
+Category Day........4. 
+
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CDY CDY MC  MC  MC  PC  PC  PC  PC  PC  PC  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Temp............44  44  45  49  54  57  61  64  67  68  68  
+RH..............53  55  58  52  45  43  39  38  36  37  39  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..7   8   8   8   8   8   8   7   7   7   7   
+20 FT wind gust.14  17  18  18  18  18  16  16  14  14  13  
+MixHgtAGL (kft).0.6 0.9 1.3 1.8 2.1 2.5 2.8 3.3 3.6 3.5 2.7 
+MixHgtMSL (kft).1.1 1.5 1.9 2.4 2.7 3.1 3.4 3.9 4.2 4.1 3.3 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  W   W   W   
+Transp wind spd.12  15  20  23  24  24  23  22  21  18  16  
+Chc of pcpn (%).10  0   0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 50. 
+Max humidity........Max 80 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............4. 
+Sky/weather.........Mostly clear (10-20 percent). 
+Dispersion..........23 decreasing to 5 in the late evening and 
+                    overnight. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....MISSING. 
+Category Day........2. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............69  66  63  59  57  56  55  54  54  53  52  52  
+RH..............37  43  50  60  64  66  69  71  71  74  77  77  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   3   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.11  10  8   6   6   6   6   6   6   6   7   7   
+MixHgtAGL (kft).1.6 0.6 0.4 0.4 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+MixHgtMSL (kft).2.2 1.2 1.0 1.0 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 
+Transp wind dir.W   W   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.13  10  9   8   8   8   9   10  10  10  10  10  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.THURSDAY...
+
+Max temperature.....Max 79. 
+Min humidity........Min 42 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............4 early in the morning. 
+Sky/weather.........Sunny (5-15 percent). 
+Dispersion..........10 increasing to 24 in the late morning and 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....75. 
+Category Day........3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR CLR CLR CLR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............52  51  52  55  61  66  70  74  76  77  79  77  
+RH..............77  80  80  77  67  58  53  46  45  43  42  45  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   3   5   5   5   5   5   5   5   5   5   
+20 FT wind gust.7   8   8   10  10  10  10  10  10  11  11  10  
+MixHgtAGL (kft).0.5 0.5 0.7 0.9 1.2 1.5 1.8 2.1 2.7 3.1 3.2 2.5 
+MixHgtMSL (kft).1.1 1.1 1.3 1.5 1.8 2.1 2.4 2.7 3.3 3.7 3.8 3.1 
+Transp wind dir.SW  SW  SW  W   W   W   SW  SW  SW  W   W   W   
+Transp wind spd.10  10  12  13  13  12  12  10  10  12  12  12  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...C POPE
+Requested by...Justus Beggs
+Type of request...PRESCRIBED
+.TAG 2606056.0/LZK
+.DELDT 03/18/26
+.FormatterVersion 2.0.0
+.EMAIL justus.beggs@usda.gov,amanda.gee@usda.gov
+

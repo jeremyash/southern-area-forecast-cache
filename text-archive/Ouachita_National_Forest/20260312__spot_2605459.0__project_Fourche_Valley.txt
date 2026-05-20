@@ -1,0 +1,125 @@
+
+000
+FNUS74 KLZK 120510
+FWSLZK
+
+Spot Forecast for Fourche Valley...USFS
+National Weather Service Little Rock AR
+1210 AM CDT Thu Mar 12 2026
+
+Forecast is based on ignition time of 0700 CDT on March 12. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+In the wake of a cold front, expect clear and quiet weather
+conditions with a drier and cooler airmass in place. Min RH values
+on Thursday afternoon into early Thursday evening will near
+critical values. A wind shift from surface winds predominately out
+of the northwest will transition to winds predominately out of the
+south by late Thursday afternoon into Thursday evening.  
+
+.REST OF TODAY...
+
+Max temperature.....38 at ignition...Max 62. 
+Min humidity........60 percent at ignition...Min 25 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............3 early in the morning. 
+Sky/weather.........Sunny (0-10 percent). 
+Dispersion..........12 increasing to 19 late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....54. 
+Category Day........3. 
+
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Temp............38  36  39  46  49  53  56  58  60  60  62  
+RH..............60  64  57  43  38  32  29  26  25  25  25  
+20 FT wind dir..N   NW  NW  N   N   NE  NE  S   SW  SW  SW  
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   3   
+20 FT wind gust.8   7   7   7   7   6   6   6   7   10  10  
+MixHgtAGL (kft).0.9 1.1 1.5 2.0 2.5 3.1 3.5 4.1 4.4 4.2 3.2 
+MixHgtMSL (kft).1.5 1.8 2.2 2.6 3.2 3.7 4.2 4.7 5.0 4.9 3.9 
+Transp wind dir.N   N   NE  NE  NE  NE  NE  E   S   S   S   
+Transp wind spd.7   7   7   7   6   5   5   5   6   7   8   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 43. 
+Max humidity........Max 62 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............2. 
+Sky/weather.........Mostly clear (5-15 percent). 
+Dispersion..........18 decreasing to 7 in the late evening and 
+                    overnight. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....MISSING. 
+Category Day........2. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......CLR CLR CLR MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............60  58  55  52  49  47  47  46  45  45  45  44  
+RH..............28  34  38  44  50  53  55  55  58  58  58  60  
+20 FT wind dir..SW  S   S   S   S   S   SW  SW  SW  SW  SW  SW  
+20 FT wind spd..3   3   3   3   5   5   5   5   5   5   5   5   
+20 FT wind gust.10  11  11  12  12  13  13  14  14  16  16  14  
+MixHgtAGL (kft).1.9 0.8 0.6 0.7 1.0 1.1 1.2 1.3 1.2 1.1 1.0 0.9 
+MixHgtMSL (kft).2.6 1.5 1.2 1.3 1.6 1.7 1.8 1.9 1.9 1.7 1.6 1.5 
+Transp wind dir.S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.9   10  12  13  13  14  15  15  15  15  14  13  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.FRIDAY...
+
+Max temperature.....Max 72. 
+Min humidity........Min 32 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............2 early in the morning. 
+Sky/weather.........Sunny (15-25 percent). 
+Dispersion..........19 increasing to 37 in the late morning and 
+                    early afternoon, then decreasing to 29 late in 
+                    the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....64. 
+Category Day........3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR MCR MCR MCR PC  PC  PC  MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............43  44  46  50  54  58  63  66  69  71  71  71  
+RH..............62  61  58  55  51  45  40  37  34  32  33  35  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  S   
+20 FT wind spd..5   5   5   5   5   5   5   5   5   3   3   2   
+20 FT wind gust.14  13  12  12  12  12  12  11  10  10  10  8   
+MixHgtAGL (kft).0.8 0.9 1.2 1.6 2.1 2.6 3.0 3.5 4.1 4.6 4.5 3.4 
+MixHgtMSL (kft).1.4 1.5 1.8 2.2 2.7 3.2 3.6 4.1 4.8 5.2 5.2 4.1 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.12  12  14  17  20  18  15  13  12  10  9   8   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...C POPE
+Requested by...Brandon Hankla
+Type of request...PRESCRIBED
+.TAG 2605459.0/LZK
+.DELDT 03/12/26
+.FormatterVersion 2.0.0
+.EMAIL brandon.hankla@usda.gov
+

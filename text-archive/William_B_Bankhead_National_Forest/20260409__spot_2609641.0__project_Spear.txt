@@ -1,0 +1,120 @@
+
+000
+FNUS74 KHUN 091454 AAA
+FWSHUN
+
+Spot Forecast for Spear...UPDATED
+National Weather Service Huntsville AL
+954 AM CDT Thu Apr 9 2026
+
+Forecast is based on ignition time of 0900 CDT on April 09. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Dry conditions are forecast the remainder of the day due to the 
+warm/dry air mass in place. As a result, Min RH values near the 
+fire will drop to around 28 percent in the afternoon. Winds 
+will be lighter than yesterday and generally in the 5-10 MPH
+range at 20 ft out of the SE. However, near the surface, 
+they may be erratic at time and localized gusty between 10-20 MPH.
+This is supported by observational data at Haleyville and Vinemont.
+
+Good moisture recoveries will occur overnight and winds will weaken
+substantially to under 5 MPH. For Friday, Min RH values will 
+run a little higher (bottoming out around 34 percent) and winds are 
+forecast to be lighter as well. Mixing heights above 5 kft will 
+allow for good smoke dispersions.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Temperature.........56 at ignition...Max 76. 
+RH..................47 percent at ignition...Min 28 percent. 
+Wind (20 ft)........Winds southeast at 2 mph at 
+                    ignition...otherwise Light winds becoming 
+                    southeast around 5 mph late in the morning, 
+                    then becoming light in the afternoon. 
+Mixing height.......2100 ft AGL at ignition...otherwise 5500 ft 
+                    AGL. 
+Transport winds.....Southeast 8 to 16 mph decreasing to 6 to 7 mph 
+                    in the afternoon. 
+LVORI...............2. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........2   2   2   2   3   3   4   4   2   
+WEATHER COV.....                                    
+WEATHER TYPE....                                    
+TEMP............56  62  66  70  72  74  76  76  76  
+RH..............47  39  33  29  28  28  28  28  28  
+20 FT WIND DIR..130 130 130 130 130 130 120 110 110 
+20 FT WIND SPD..2   3   5   5   3   3   3   3   2   
+20 FT WIND GUST.14  14  14  12  10  10  9   9   9   
+MIX HGT (KFT)...2.1 2.3 2.8 3.4 4.3 4.9 5.4 5.5 5.0 
+TRANSP WIND DIR.130 130 140 140 130 120 110 110 110 
+TRANSP WIND SPD.16  13  10  8   6   6   6   7   7   
+DISPERSION IDX..7   6   38  35  31  35  38  47  43  
+LVORI...........3   2   2   2   1   1   1   1   1   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Temperature.........Min 48. 
+RH..................Max 78 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......600 ft AGL. 
+Transport winds.....Southeast 7 to 12 mph. 
+LVORI...............2. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+SKY (%).........3   3   2   5   4   3   3   1   3   2   4   3   
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............74  70  66  60  58  56  54  53  52  51  50  49  
+RH..............30  37  47  55  57  62  64  61  66  66  69  74  
+20 FT WIND DIR..110 100 100 100 100 110 120 120 130 130 130 120 
+20 FT WIND SPD..2   1   1   1   1   1   1   1   1   1   1   1   
+20 FT WIND GUST.9   8   8   9   9   9   9   10  10  10  10  10  
+MIX HGT (KFT)...2.8 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.6 
+TRANSP WIND DIR.110 110 100 100 110 110 130 130 140 140 140 120 
+TRANSP WIND SPD.7   7   8   8   10  10  10  12  12  12  10  10  
+DISPERSION IDX..25  5   5   5   7   7   5   5   5   5   5   5   
+LVORI...........1   2   2   2   3   3   3   3   3   3   3   3   
+
+.FRIDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Temperature.........Max 80. 
+RH..................Min 34 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6300 ft AGL. 
+Transport winds.....South 7 to 13 mph shifting to the southeast 2 
+                    to 5 mph in the afternoon. 
+LVORI...............3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........3   4   6   10  13  18  22  27  29  30  32  29  
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............49  48  53  59  65  70  74  77  79  80  80  79  
+RH..............74  78  72  64  56  49  43  39  36  34  34  37  
+20 FT WIND DIR..120 120 140 150 160 170 180 190 180 150 140 140 
+20 FT WIND SPD..1   1   1   1   2   2   2   2   2   1   1   1   
+20 FT WIND GUST.10  10  10  10  10  10  9   8   7   7   6   6   
+MIX HGT (KFT)...0.6 0.6 1.0 1.7 2.6 3.4 4.3 5.0 5.8 6.3 6.1 4.5 
+TRANSP WIND DIR.140 140 140 160 180 180 190 190 180 150 130 130 
+TRANSP WIND SPD.10  9   10  12  13  10  7   3   2   2   3   5   
+DISPERSION IDX..5   4   5   5   6   46  38  22  16  18  26  26  
+LVORI...........3   3   3   3   2   2   2   2   2   2   2   2   
+
+$$
+Forecaster...Pritchett
+Requested by...Clark
+Type of request...PRESCRIBED
+.TAG 2609641.0/HUN
+.DELDT 04/09/26
+.FormatterVersion 2.0.0
+.EMAIL kerry.clark@usda.gov,gary.c.moore@usda.gov
+

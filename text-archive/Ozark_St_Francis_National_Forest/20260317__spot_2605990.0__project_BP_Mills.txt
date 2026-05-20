@@ -1,0 +1,124 @@
+
+000
+FNUS74 KLZK 170648
+FWSLZK
+
+Spot Forecast for BP - Mills...USFS
+National Weather Service Little Rock AR
+148 AM CDT Tue Mar 17 2026
+
+Forecast is based on ignition time of 0900 CDT on March 17. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Temperatures are expected to remain below or near freezing through
+mid-morning. Min RH values will near critical values in the
+afternoon. Surface wind gusts are expected to pick up by Tuesday
+evening. Weather conditions are expected to remain fair and dry
+across the state.
+
+.REST OF TODAY...
+
+Max temperature.....29 at ignition...Max 53. 
+Min humidity........37 percent at ignition...Min 21 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............1. 
+Sky/weather.........Mostly sunny (35-45 percent). 
+Dispersion..........17 increasing to 37 in the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....46. 
+Category Day........4. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  PC  PC  PC  PC  PC  PC  PC  PC  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............29  35  39  43  46  50  51  52  53  
+RH..............37  29  27  24  22  21  21  23  23  
+20 FT wind dir..W   W   W   SW  SW  SW  S   S   S   
+20 FT wind spd..1   1   1   2   2   2   5   5   5   
+20 FT wind gust.2   4   6   6   7   8   10  11  11  
+MixHgtAGL (kft).1.6 2.3 2.8 3.2 3.6 4.1 4.4 4.3 3.3 
+MixHgtMSL (kft).2.4 3.0 3.5 4.0 4.3 4.8 5.1 5.0 4.0 
+Transp wind dir.W   W   W   W   W   SW  SW  S   S   
+Transp wind spd.7   7   8   9   10  13  14  15  15  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 38. 
+Max humidity........Max 57 percent. 
+Chance of pcpn......10 percent. 
+Stability class.....6. 
+LVORI...............2. 
+Sky/weather.........Mostly cloudy (70-80 percent). 
+Dispersion..........24 decreasing to 9 in the late evening and 
+                    overnight. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....MISSING. 
+Category Day........2. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............52  50  47  44  44  42  42  41  41  41  39  41  
+RH..............25  30  35  41  41  45  45  48  48  50  54  50  
+20 FT wind dir..S   S   S   S   S   S   SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   5   3   3   3   5   3   3   5   5   5   5   
+20 FT wind gust.11  11  11  11  11  12  12  12  12  12  12  12  
+MixHgtAGL (kft).1.9 0.8 0.6 0.6 0.8 0.7 0.7 0.7 0.6 0.6 0.6 0.5 
+MixHgtMSL (kft).2.7 1.6 1.3 1.4 1.5 1.5 1.4 1.4 1.4 1.4 1.4 1.3 
+Transp wind dir.S   S   S   S   S   S   SW  SW  SW  SW  SW  SW  
+Transp wind spd.14  13  13  14  14  14  13  13  13  13  13  13  
+Chc of pcpn (%).0   0   0   10  10  10  10  0   0   10  10  10  
+
+.WEDNESDAY...
+
+Max temperature.....Max 69. 
+Min humidity........Min 32 percent. 
+Chance of pcpn......10 percent. 
+Stability class.....3. 
+LVORI...............2 early in the morning. 
+Sky/weather.........Mostly cloudy (75-85 percent) then becoming 
+                    mostly sunny (35-45 percent). 
+Dispersion..........21 increasing to 40 in the late morning and 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....63. 
+Category Day........3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  PC  PC  PC  PC  PC  PC  PC  PC  PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............41  40  42  45  50  55  59  63  66  68  69  69  
+RH..............53  57  53  51  46  41  37  34  32  32  32  33  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   3   5   5   5   5   6   6   6   6   5   3   
+20 FT wind gust.12  11  13  14  14  14  14  14  14  13  12  10  
+MixHgtAGL (kft).0.5 0.6 1.0 1.4 1.9 2.3 2.6 2.8 3.2 3.4 3.3 2.5 
+MixHgtMSL (kft).1.2 1.3 1.7 2.2 2.6 3.0 3.3 3.6 3.9 4.1 4.0 3.2 
+Transp wind dir.SW  SW  SW  W   W   W   W   W   W   W   W   W   
+Transp wind spd.12  13  15  18  21  21  20  17  16  14  13  10  
+Chc of pcpn (%).10  0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...C POPE
+Requested by...Bradley Taylor
+Type of request...PRESCRIBED
+.TAG 2605990.0/LZK
+.DELDT 03/17/26
+.FormatterVersion 2.0.0
+.EMAIL bradley.taylor@usda.gov.,bradley.taylor@usda.gov
+

@@ -1,0 +1,117 @@
+
+000
+FNUS72 KCHS 100810
+FWSCHS
+
+Spot Forecast for FMF C122A #1 Wyden...usfs
+National Weather Service Charleston SC
+410 AM EDT Tue Mar 10 2026
+
+Forecast is based on ignition time of 1000 EDT on March 10. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+A cluster of showers and thunderstorms approaching the region
+early this morning should dissipate prior to reaching the 
+burn site this morning. Isolated showers and thunderstorms will
+be possible just about any time today, but the risk looks 
+highest between 1500 and 1800. The sea breeze is expected to
+reach the site 1800-1900.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny. Slight chance of showers and 
+                    thunderstorms. 
+Chance of pcpn......30 percent. 
+Max temperature.....Around 83. 
+Min humidity........53 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms. 
+Mixing Height.......Max 4700 ft AGL. 
+Transport winds.....Light winds becoming southwest around 10 mph in 
+                    the afternoon. 
+Max ADI.............56. 
+Inversion End.......1000.
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........62  68  60  37  51  53  53  53  
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........SCH SCH SCH SCH SCH SCH CHC CHC 
+Chc of pcpn (%).20  20  20  20  20  20  30  30  
+Temp............68  72  77  79  82  83  83  83  
+RH..............87  79  67  62  56  53  53  53  
+20 FT wind dir..SW  W   W   SW  SW  SW  SW  SW  
+20 FT wind spd..1   2   2   3   3   3   3   3   
+20 FT wind gust.5   7   9   9   11  11  11  11  
+Mix hgt (kft)...0.8 1.1 2.2 3.5 4.7 4.0 3.3 2.2 
+Transp wind dir.W   W   W   W   W   SW  SW  SW  
+Transp wind spd.4   4   10  10  10  10  10  10  
+LVORI...........6   4   3   1   1   1   1   2   
+ADI.............1   8   23  39  56  49  41  29  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy then becoming mostly clear. 
+                    Chance of showers early in the evening. Slight 
+                    chance of thunderstorms early in the evening. 
+                    Slight chance of showers early in the evening. 
+Chance of pcpn......30 percent. 
+Min temperature.....Around 62. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms early in the evening. 
+Max LVORI...........10. 
+Min ADI.............1. 
+Inversion Begin.....1730.
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........55     33     21     20     13     10     
+Weather type....RNSHWR NONE   NONE   NONE   NONE   NONE   
+Tstm cov........S CHC                                     
+Chc of pcpn (%).30     10     0      0      0      10     
+Temp............79     72     68     66     64     63     
+RH..............58     79     84     90     93     97     
+20 ft wind......SW 2   S 2    SW 2   SW 2   SW 2   SW 2   
+20 ft wind gust.9      9      9      9      9      9      
+Mix hgt (ft)....1600   500    600    600    700    700    
+Transport wind..S 4    S 4    SW 2   SW 2   SW 2   SW 2   
+LVORI...........3      4      6      7      8      9      
+ADI.............1      1      1      1      1      1      
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny. Patchy fog early in the morning. 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 85. 
+Min humidity........48 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph with 
+                    gusts to around 16 mph in the afternoon. 
+Mixing Height.......Max 4600 ft AGL. 
+Transport winds.....Light winds becoming southwest around 16 mph. 
+Max ADI.............87. 
+Inversion End.......0930.
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........14        34        43        51        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).10        0         0         0         
+Temp............62        65        79        85        
+RH..............97        93        64        50        
+20 FT wind......SW 2G9    SW 2G9    SW 4G13   SW 6G16   
+Mix hgt (ft)....600       800       2500      3800      
+Transport wind..SW 2      SW 6      SW 14     SW 16     
+LVORI...........8         7         1         1         
+ADI.............2         2         33        80        
+
+$$
+Forecaster...Taylor
+Requested by...mike leslie
+Type of request...PRESCRIBED
+.TAG 2605219.0/CHS
+.DELDT 03/10/26
+.FormatterVersion 2.0.0
+.EMAIL michael.c.leslie@usda.gov,kelly.wetzelwilson@usda.gov
+

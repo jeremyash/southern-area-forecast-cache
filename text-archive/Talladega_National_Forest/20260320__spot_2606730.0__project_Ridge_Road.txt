@@ -1,0 +1,124 @@
+
+000
+FNUS74 KBMX 201054
+FWSBMX
+
+Spot Forecast for Ridge Road...USFS
+National Weather Service Birmingham AL
+554 AM CDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 0600 CDT on March 20. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry conditions through the weekend. RH values will be in the low 
+30s this afternoon, then upper 30s to near 40 percent on Saturday. 
+Dispersions will be in the low 70s today with mid 80s on 
+Saturday, with slightly higher winds. 
+
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 76. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph in 
+                    the afternoon. 
+Mixing height.......4800 ft AGL. 
+Transport winds.....Southwest 6 to 14 mph. 
+Dispersion index....4 increasing to 74. 
+LVORI...............2. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   2   2   5   4   5   7   6   3   4   3   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............47  46  49  55  64  68  71  74  76  76  76  76  
+RH..............71  76  71  66  50  44  39  37  33  34  33  33  
+20 FT wind dir..S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind dir..170 180 180 210 230 230 230 230 230 230 230 230 
+20 FT wind spd..2   2   2   2   2   3   5   5   5   5   5   5   
+20 FT wind gust.4   4   5   6   6   8   10  10  11  11  11  10  
+Mix hgt (kft)...0.4 0.4 0.5 1.1 1.9 3.1 4.0 4.6 4.8 4.8 4.8 4.1 
+Transp wind dir.S   S   S   SW  SW  SW  SW  SW  SW  SW  W   W   
+Transp wind spd.6   7   7   8   9   10  9   10  12  13  13  14  
+Dispersion idx..3   3   3   4   4   41  47  60  69  75  76  71  
+LVORI...........3   3   3   3   1   1   1   1   1   1   1   1   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 53. 
+Max humidity........86 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Southwest 9 to 14 mph. 
+Dispersion index....12 decreasing to 7 early in the evening. 
+LVORI...............3. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........7   7   7   10  9   13  16  13  22  28  26  29  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............74  70  66  62  61  60  59  59  59  58  55  55  
+RH..............37  44  50  58  62  64  67  69  69  72  83  83  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind dir..230 210 210 210 210 210 220 230 230 230 230 230 
+20 FT wind spd..3   2   2   2   2   2   3   3   3   3   3   3   
+20 FT wind gust.10  8   8   8   8   8   8   10  10  10  10  10  
+Mix hgt (kft)...1.2 0.6 0.5 0.5 0.5 0.6 0.6 0.6 0.6 0.6 0.7 0.7 
+Transp wind dir.W   SW  SW  SW  SW  SW  W   W   W   W   W   W   
+Transp wind spd.10  10  9   10  12  12  12  13  14  13  14  13  
+Dispersion idx..16  7   6   6   7   8   5   6   6   6   6   6   
+LVORI...........1   2   2   2   3   3   3   3   3   3   5   5   
+
+.SATURDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+CWR.................10 percent. 
+Max temperature.....Around 82. 
+Min humidity........40 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the late morning and afternoon. 
+Mixing height.......4700 ft AGL. 
+Transport winds.....West 12 to 15 mph. 
+Dispersion index....6 increasing to 43 late in the morning, then 
+                    increasing to 55 early in the afternoon 
+                    increasing to 68 early in the afternoon 
+                    increasing to 82 decreasing to 62 late in the 
+                    afternoon. 
+LVORI...............3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........30  28  31  26  21  19  18  16  14  11  9   9   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   10  10  10  10  10  
+Temp............55  54  56  61  67  72  76  79  81  82  82  80  
+RH..............83  86  83  72  63  55  50  45  42  40  40  42  
+20 FT wind dir..SW  SW  SW  SW  W   W   W   W   W   SW  SW  SW  
+20 FT wind dir..220 220 230 240 250 250 250 250 250 240 240 240 
+20 FT wind spd..3   2   3   5   5   5   5   5   6   6   6   5   
+20 FT wind gust.10  10  10  10  10  10  11  11  11  11  11  10  
+Mix hgt (kft)...0.6 0.6 0.8 1.2 1.7 2.2 2.8 3.4 4.1 4.7 4.7 3.5 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.13  13  12  13  14  14  13  13  14  15  15  14  
+Dispersion idx..6   6   5   6   6   40  46  55  68  82  82  62  
+LVORI...........5   4   4   4   1   1   1   1   1   1   1   1   
+
+$$
+Forecaster...Aaron
+Requested by...McFarland
+Type of request...PRESCRIBED
+.TAG 2606730.0/BMX
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+

@@ -1,0 +1,111 @@
+
+000
+FNUS74 KLZK 180634
+FWSLZK
+
+Spot Forecast for BP - Middle Mt...USFS
+National Weather Service Little Rock AR
+134 AM CDT Wed Mar 18 2026
+
+Forecast is based on ignition time of 0900 CDT on March 18. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+A period of quiet weather is expect over the next several days as
+an upper level ridge of high pressure becomes entrenched over the
+Southwestern region of the CONUS. Across Arkansas, temperatures
+will continue to increase through the weekend rapidly. High
+temperature values will be in the upper 60s to low 70s across the
+state on Wednesday and rise into the mid 70s to mid 80s on
+Thursday. Surface winds will be gusty at times across the state on
+Wednesday as a warm front has pushed through the area and will
+promote winds out of the southwest this morning remaining through
+the forecast period. Min RH values may approach critical values
+across parts of the state on Wednesday afternoon into early
+Wednesday evening.  
+
+
+.REST OF TODAY...
+
+Max temperature.....44 at ignition...Max 67. 
+Min humidity........51 percent at ignition...Min 33 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Mostly sunny (35-45 percent). 
+Category Day........3. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  MC  MC  MC  PC  PC  PC  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............44  49  52  56  60  63  65  66  67  
+RH..............51  44  43  40  36  34  33  34  33  
+20 FT wind dir..SW  SW  SW  W   W   W   W   W   W   
+20 FT wind spd..6   7   7   7   7   7   7   7   6   
+20 FT wind gust.14  16  16  17  17  16  14  14  13  
+MixHgtAGL (kft).0.7 1.1 1.4 1.7 2.0 2.3 2.5 2.4 1.8 
+Transp wind dir.SW  W   W   W   W   W   W   W   W   
+Transp wind spd.13  15  17  18  18  18  17  15  13  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 49. 
+Max humidity........Max 74 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Mostly clear (15-25 percent). 
+Category Day........1. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......PC  PC  PC  MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............65  63  60  57  55  54  52  52  52  52  50  50  
+RH..............37  43  46  51  55  59  63  63  63  63  71  71  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..5   2   2   2   2   2   2   1   1   1   1   1   
+20 FT wind gust.10  8   7   6   6   5   5   4   4   4   4   4   
+MixHgtAGL (kft).0.9 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.9   7   6   6   6   6   6   6   6   6   6   6   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.THURSDAY...
+
+Max temperature.....Max 79. 
+Min humidity........Min 36 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Sunny (10-20 percent). 
+Category Day........2. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  PC  PC  MCR MCR MCR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............50  49  51  55  60  65  68  73  75  77  79  77  
+RH..............71  74  71  66  62  54  51  44  41  39  36  40  
+20 FT wind dir..W   W   W   W   SW  SW  SW  SW  SW  W   W   W   
+20 FT wind spd..1   1   2   2   2   2   3   5   5   5   5   3   
+20 FT wind gust.2   4   4   6   6   8   10  11  11  11  11  10  
+MixHgtAGL (kft).0.1 0.1 0.1 0.3 0.5 0.8 1.2 1.5 2.0 2.3 2.3 1.7 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.6   7   8   9   10  12  12  12  12  10  9   8   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...C POPE
+Requested by...Bradley Taylor
+Type of request...PRESCRIBED
+.TAG 2606183.0/LZK
+.DELDT 03/18/26
+.FormatterVersion 2.0.0
+.EMAIL bradley.taylor@usda.gov,bradley.taylor@usda.gov.
+

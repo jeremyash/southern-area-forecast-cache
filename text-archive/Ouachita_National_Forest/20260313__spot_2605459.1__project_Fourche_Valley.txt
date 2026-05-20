@@ -1,0 +1,146 @@
+
+000
+FNUS74 KLZK 130650
+FWSLZK
+
+Spot Forecast for Fourche Valley...USFS
+National Weather Service Little Rock AR
+150 AM CDT Fri Mar 13 2026
+
+Forecast is based on ignition time of 0400 CDT on March 13. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Winds will be more southerly today compared to Thursday...along
+with increasing RH values. This trend will continue into Saturday
+as well...with increasing temperatures and humidity levels.
+
+
+.REST OF TONIGHT...
+
+Min temperature.....45 at ignition...Min 43. 
+Max humidity........60 percent at ignition...Max 64 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............2. 
+Sky/weather.........Clear (0-10 percent). 
+Dispersion..........6. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      4AM 5AM 
+Sky cover.......CLR CLR 
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+Temp............45  44  
+RH..............60  64  
+20 FT wind dir..SW  SW  
+20 FT wind spd..6   6   
+20 FT wind gust.16  16  
+MixHgtAGL (kft).0.7 0.6 
+MixHgtMSL (kft).1.3 1.2 
+Transp wind dir.SW  SW  
+Transp wind spd.13  13  
+Chc of pcpn (%).0   0   
+
+.TODAY...
+
+Max temperature.....Max 73. 
+Min humidity........Min 32 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............2 early in the morning. 
+Sky/weather.........Sunny (0-10 percent). 
+Dispersion..........15 increasing to 25 in the late morning and 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....70. 
+Category Day........3. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............43  44  44  48  54  59  63  67  70  71  72  72  
+RH..............62  61  62  59  51  45  40  36  33  33  32  34  
+20 FT wind dir..SW  SW  SW  SW  W   W   W   SW  SW  SW  S   S   
+20 FT wind spd..5   5   5   5   5   3   2   2   2   2   2   2   
+20 FT wind gust.14  14  13  12  12  11  10  10  8   8   8   8   
+MixHgtAGL (kft).0.6 0.7 1.0 1.4 1.8 2.3 2.8 3.3 3.9 4.3 4.2 3.2 
+MixHgtMSL (kft).1.2 1.3 1.6 2.0 2.5 2.9 3.4 3.9 4.5 4.9 4.8 3.8 
+Transp wind dir.SW  SW  SW  W   W   W   W   W   W   SW  SW  SW  
+Transp wind spd.12  12  13  14  14  13  12  10  9   9   8   7   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 48. 
+Max humidity........Max 88 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............3. 
+Sky/weather.........Mostly clear (0-10 percent). 
+Dispersion..........9. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR CLR CLR CLR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............71  68  64  59  57  56  54  53  51  51  50  49  
+RH..............35  42  47  56  62  65  66  69  73  75  79  79  
+20 FT wind dir..S   S   S   S   SW  SW  SW  SW  SW  S   SW  SW  
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.7   7   6   6   6   6   6   6   6   6   6   6   
+MixHgtAGL (kft).1.8 0.7 0.4 0.4 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.5 
+MixHgtMSL (kft).2.4 1.3 1.0 1.0 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.1 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.7   7   7   7   8   8   8   8   8   8   8   8   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.SATURDAY...
+
+Max temperature.....Max 76. 
+Min humidity........Min 41 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............3 early in the morning. 
+Sky/weather.........Sunny (10-20 percent). 
+Dispersion..........14 increasing to 57. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....70. 
+Category Day........4. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR MCR MCR MCR PC  PC  PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............49  48  49  52  59  64  67  71  72  74  75  74  
+RH..............82  85  87  82  70  60  54  47  46  43  41  43  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..2   2   2   3   5   6   6   7   7   7   8   7   
+20 FT wind gust.6   6   8   10  12  13  14  16  17  17  18  17  
+MixHgtAGL (kft).0.5 0.6 0.8 1.1 1.6 2.2 2.8 3.4 3.9 4.2 4.1 3.3 
+MixHgtMSL (kft).1.1 1.2 1.4 1.8 2.2 2.8 3.5 4.0 4.5 4.8 4.7 3.9 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.8   8   10  12  14  16  17  18  20  21  21  20  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...62
+Requested by...Brandon Hankla
+Type of request...PRESCRIBED
+.TAG 2605459.1/LZK
+.DELDT 03/13/26
+.FormatterVersion 2.0.0
+.EMAIL brandon.hankla@usda.gov
+

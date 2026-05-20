@@ -1,0 +1,120 @@
+
+000
+FNUS74 KHUN 191217
+FWSHUN
+
+Spot Forecast for Hall Prescribed Burn...USFS
+National Weather Service Huntsville AL
+717 AM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 1000 CDT on March 19. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Good burning conditions will be in place today and tomorrow as 
+dew points rise and bring min RH well above critical levels. Winds 
+will be primarily from the SSW today with transport wind between 
+10-15 MPH. Clear skies and no rain chances will promote high 
+mixing heights. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Max temperature.....Around 70. 
+Min humidity........40 percent. 
+Wind (20 ft)........Southwest winds 5 to 6 mph in the late morning 
+                    and afternoon becoming light. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....Southwest 9 to 13 mph. 
+LVORI...............2. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........50  37  25  13  14  18  37  21  
+WEATHER COV.....                                
+WEATHER TYPE....                                
+TEMP............54  58  62  66  68  69  69  70  
+RH..............55  51  48  43  41  40  40  40  
+20 FT WIND DIR..210 220 220 220 230 230 230 230 
+20 FT WIND SPD..5   6   6   6   5   5   5   2   
+20 FT WIND GUST.14  14  13  13  12  12  10  9   
+MIX HGT (KFT)...1.2 1.8 2.8 3.9 4.4 5.0 5.2 4.3 
+TRANSP WIND DIR.210 210 240 240 260 260 260 260 
+TRANSP WIND SPD.13  12  12  12  12  12  10  9   
+DISPERSION IDX..8   26  41  57  63  71  67  50  
+LVORI...........2   2   2   1   1   1   1   1   
+CWR.............0   0   0   0   0   0   0   0   
+CHC OF PCPN (%).0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Min temperature.....Around 47. 
+Max humidity........91 percent. 
+Wind (20 ft)........Light winds. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Mixing height.......100 ft AGL. 
+Transport winds.....West around 7 mph shifting to the south 6 to 10 
+                    mph early in the evening. 
+LVORI...............4. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+SKY (%).........22  16  5   3   4   2   3   1   2   4   2   9   
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............68  64  60  56  54  53  52  50  50  49  49  48  
+RH..............46  52  61  72  74  80  80  86  86  86  91  90  
+20 FT WIND DIR..230 210 190 190 190 190 180 180 180 190 180 180 
+20 FT WIND SPD..2   1   1   1   1   1   1   1   2   2   2   2   
+20 FT WIND GUST.8   7   7   7   7   7   8   8   8   8   9   10  
+MIX HGT (KFT)...2.6 0.4 0.2 0.3 0.2 0.2 0.2 0.2 0.2 0.2 0.1 0.1 
+TRANSP WIND DIR.260 240 200 200 200 200 200 190 200 200 200 200 
+TRANSP WIND SPD.7   7   6   6   6   7   7   8   9   9   10  9   
+DISPERSION IDX..23  3   1   1   1   1   3   4   4   4   5   4   
+LVORI...........1   3   3   3   4   4   4   6   6   6   6   6   
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+CHC OF PCPN (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Max temperature.....Around 76. 
+Min humidity........44 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the late morning and afternoon. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....Southwest 12 to 20 mph. 
+LVORI...............4. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........30  40  43  35  27  23  19  15  18  21  24  22  
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............48  47  49  55  62  67  70  73  75  76  76  74  
+RH..............90  91  85  73  62  56  51  48  45  44  44  46  
+20 FT WIND DIR..180 180 180 190 190 200 210 210 210 220 220 220 
+20 FT WIND SPD..2   2   2   3   5   6   6   6   7   7   7   6   
+20 FT WIND GUST.10  12  12  12  13  14  14  15  15  15  15  14  
+MIX HGT (KFT)...0.2 0.1 0.4 0.7 1.3 2.1 3.1 3.9 4.6 5.0 4.8 3.5 
+TRANSP WIND DIR.200 190 190 200 200 210 220 220 220 230 230 230 
+TRANSP WIND SPD.12  12  13  14  16  17  18  18  18  20  18  16  
+DISPERSION IDX..5   5   6   6   7   47  72  91  99  113 102 72  
+LVORI...........6   5   5   5   1   1   1   1   1   1   1   1   
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+CHC OF PCPN (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...Darish
+Requested by...Chris Horne
+Type of request...PRESCRIBED
+.TAG 2606514.0/HUN
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL Kerry.clark@usda.gov,Christopher.horne@usda.gov
+

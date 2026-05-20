@@ -1,0 +1,92 @@
+
+000
+FNUS74 KHGX 201053
+FWSHGX
+
+Spot Forecast for SHNF C 37 West...USFS
+National Weather Service Houston/Galveston TX
+553 AM CDT Mon Apr 20 2026
+
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Generally light easterly winds are expected through the day today
+with sustained winds around 5-7 mph and gusts around 15 mph. Some
+light showers may move into the burn site late morning and
+afternoon, but not all of it will reach the ground with some dry
+air near the surface. RH values today will drop to the low 40s
+this afternoon.
+
+Heading into tonight, the chance of showers will increase
+overnight with possibly a thunderstorm or two near sunrise. Winds
+will remain light out of the east generally. If a thunderstorm
+were to occur, a gust near 20 mph would be possible. Fog potential
+tonight is very low (less than 10% chance).
+
+Off and on showers are expected through the day Tuesday with light
+easterly winds continuing, but some increase in gusts to near 20
+mph are possible Tuesday afternoon.
+
+
+.REST OF TODAY...
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CDY MC  MC  MC  MC  MC  MC  MC  MC  MC  
+Sky (%).........89  86  79  71  69  76  71  75  83  67  
+Weather cov.....            SCH SCH SCH SCH SCH SCH SCH 
+Weather type....            RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                                        
+CWR.............10  10  10  20  20  20  20  20  20  20  
+Temp............56  58  61  64  66  67  68  70  71  70  
+RH..............64  62  56  52  48  47  45  42  42  46  
+20 FT wind dir..E   E   E   E   E   E   SE  SE  SE  SE  
+20 FT wind spd..5   5   6   6   6   6   6   6   6   5   
+20 FT wind gust.13  13  15  16  15  15  14  14  13  12  
+Mix hgt (kft)...0.5 0.9 1.5 2.4 3.0 2.8 3.1 3.3 3.4 2.5 
+Transp wind dir.E   E   E   E   E   E   E   E   E   SE  
+Transp wind spd.10  12  15  15  14  12  12  12  10  10  
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  MC  CDY 
+Sky (%).........75  83  76  75  85  77  80  82  68  81  85  88  
+Weather cov.....CHC SCH SCH SCH SCH SCH SCH LKY LKY LKY LKY LKY 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                                        SCH SCH 
+CWR.............30  20  20  20  20  20  20  60  60  60  60  60  
+Temp............69  67  65  63  62  61  61  60  59  58  58  58  
+RH..............47  52  58  65  70  72  75  78  80  83  83  87  
+20 FT wind dir..SE  SE  E   SE  SE  SE  E   NE  NE  NE  NE  NE  
+20 FT wind spd..3   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.10  9   8   8   7   7   7   7   7   7   8   8   
+Mix hgt (kft)...1.9 0.9 0.5 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.5 
+Transp wind dir.SE  SE  E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.8   6   8   8   5   7   7   8   9   9   9   9   
+
+.TUESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CDY MC  CDY CDY CDY CDY CDY CDY CDY MC  MC  MC  
+Sky (%).........88  86  91  90  88  88  88  88  88  87  87  84  
+Weather cov.....LKY DEF DEF DEF DEF DEF DEF DEF DEF DEF DEF DEF 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........SCH CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC CHC 
+CWR.............60  80  80  80  80  80  80  80  80  80  80  80  
+Temp............58  57  58  59  61  63  65  66  66  67  68  68  
+RH..............90  93  90  90  87  84  81  81  81  78  76  76  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   E   E   E   
+20 FT wind spd..2   2   3   5   5   6   6   6   6   6   6   6   
+20 FT wind gust.9   9   12  13  13  14  16  17  18  18  18  18  
+Mix hgt (kft)...0.5 0.6 0.8 0.9 1.0 1.2 1.4 1.5 1.7 1.9 1.9 1.8 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.10  12  15  16  16  17  18  18  18  17  17  17  
+
+$$
+Forecaster...Young
+Requested by...steve Foster
+Type of request...PRESCRIBED
+.TAG 2610811.0/HGX
+.DELDT 04/20/26
+.FormatterVersion 2.0.0
+.EMAIL steven.foster@usda.gov
+

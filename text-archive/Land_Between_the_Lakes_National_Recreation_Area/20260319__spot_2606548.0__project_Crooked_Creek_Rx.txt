@@ -1,0 +1,122 @@
+
+000
+FNUS73 KPAH 191340
+FWSPAH
+
+Spot Forecast for Crooked Creek Rx...USFS
+National Weather Service Paducah KY
+840 AM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 1100 CDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Light to moderate southwesterly winds will start up later this morning
+with mixing heights building to 4000 to 4500 ft AGL. This should lead to
+fair smoke dispersion conditions with minimum afternoon RH 35 to 40 percent.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+CWR.................0 percent. 
+Temperature.........60 at ignition...Max 71. 
+RH..................51 percent at ignition...Min 38 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Winds southwest at 6 mph at 
+                    ignition...otherwise Southwest winds around 5 
+                    mph late in the morning becoming light. 
+Mixing height.......1100 ft AGL at ignition...otherwise 4400 ft 
+                    AGL. 
+Transport winds.....Southwest 8 to 12 mph. 
+Smoke dispersal.....Poor /7700 knot-ft/ at ignition. Max...fair 
+                    /43900 knot-ft/. 
+
+TIME (CDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  MCR MCR MCR MCR MCR MCR 
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+CWR.............0   0   0   0   0   0   0   
+Temp............60  64  66  69  70  71  71  
+RH..............51  46  45  39  39  38  38  
+20 FT wind dir..S   S   SW  SW  SW  SW  SW  
+20 FT wind spd..5   5   5   5   5   5   3   
+20 FT wind gust.12  12  12  10  9   9   8   
+Mix hgt (kft)...1.1 1.9 2.4 3.3 3.9 4.4 3.9 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.8   8   12  10  10  12  12  
+Vrate kt-ft/1K..8   14  24  30  35  44  39  
+Ventrate Cat....PR  PR  PR  PR  PR  FR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+CWR.................0 percent. 
+Temperature.........Min 52. 
+RH..................Max 89 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....South 7 to 14 mph. 
+Smoke dispersal.....Poor (1700 knot-ft). 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR CLR MCR MCR MCR MCR MCR PC  PC  PC  PC  MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............69  66  64  60  58  57  56  55  55  55  54  54  
+RH..............40  48  52  62  64  69  72  74  74  74  80  80  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.6   6   5   5   5   6   7   7   7   8   8   8   
+Mix hgt (kft)...2.2 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.4 
+Transp wind dir.S   SW  SW  S   S   S   S   S   S   S   S   S   
+Transp wind spd.8   7   7   7   8   9   10  12  13  13  14  14  
+Vrate kt-ft/1K..15  2   2   2   2   2   3   3   3   4   4   4   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.FRIDAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+CWR.................0 percent. 
+Temperature.........Max 78. 
+RH..................Min 47 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Light winds becoming southwest 5 to 6 mph in 
+                    the late morning and afternoon. 
+Mixing height.......4500 ft AGL. 
+Transport winds.....Southwest 15 to 24 mph shifting to the west 18 
+                    to 22 mph late in the afternoon. 
+Smoke dispersal.....Poor (5100 knot-ft) early in the morning 
+                    increasing to good (80800 knot-ft) in the 
+                    afternoon. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky cover.......PCLDY  MCLEAR PCLDY  PCLDY  PCLDY  MCLEAR 
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............54     55     64     71     76     78     
+RH..............83     83     70     59     50     47     
+20 FT wind dir..S      S      S      SW     SW     SW     
+20 FT wind spd..2      3      5      6      6      6      
+20 FT wind gust.9      12     13     14     15     15     
+Mix hgt (kft)...0.4    0.4    1.4    2.8    3.5    4.5    
+Transp wind dir.S      SW     SW     SW     W      W      
+Transp wind spd.16     17     23     23     22     21     
+Vrate kt-ft/1K..6      7      29     55     67     81     
+Ventrate Cat....POOR   POOR   POOR   FAIR   GOOD   GOOD   
+
+$$
+Forecaster...GIBBS
+Requested by...Doug Phelps
+Type of request...PRESCRIBED
+.TAG 2606548.0/PAH
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL douglas.phelps@usda.gov
+

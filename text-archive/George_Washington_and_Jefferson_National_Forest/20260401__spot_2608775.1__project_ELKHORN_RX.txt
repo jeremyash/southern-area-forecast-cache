@@ -1,0 +1,167 @@
+
+000
+FNUS71 KLWX 011355
+FWSLWX
+
+Spot Forecast for ELKHORN RX...USFS
+National Weather Service Baltimore MD/Washington DC
+955 AM EDT Wed Apr 1 2026
+
+Forecast is based on ignition time of 1530 EDT on April 01. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+A frontal system slowly approaching from the Great Lakes and 
+Northeast will drop into the area tonight. Near record warm  
+temperatures are expected ahead of the front. Even though dew 
+points will also be rising, the large spread with the temperatures
+will result in afternoon RH in the 30s and 40s. Winds will be west
+to southwest but not quite as gusty as recent days, with a shift
+to south possible for a time this evening east of the Blue Ridge
+Mountains and south of US-50. Shifts to the north, east, then
+southeast are anticipated tonight as the front drops south.
+
+The front will stall nearby or overhead through Thursday, 
+increasing the potential for showers and thunderstorms. There will
+also be a large contrast in temperatures from northeast to 
+southwest across the area on Thursday. Winds should be light but
+with variable directions given the front nearby. RH will also be
+notably higher given onshore flow.
+
+The front will lift northward as a warm front Friday ahead of a 
+strong cold front approaching from the west. The next opportunity
+for more numerous showers and perhaps some thunderstorms will 
+occur with this front on Sunday.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Numerous showers 
+                    and scattered thunderstorms. 
+CWR.................60 percent decreasing to 50 percent late in the 
+                    afternoon. 
+Chance of thunder...41 percent. 
+Temperature.........77 at ignition...Max 78. 
+RH..................50 percent at ignition...Min 47 percent. 
+Wind (20 ft)........Winds southwest at 7 mph at 
+                    ignition...otherwise Southwest winds around 7 
+                    mph. Gusty and erratic winds expected near 
+                    thunderstorms. 
+Mixing height.......4500 ft AGL at ignition...otherwise 4500 ft 
+                    AGL. 
+Transport winds.....West 17 to 20 mph. 
+Smoke dispersal.....Excellent /76400 knot-ft/ at ignition. 
+                    Max...excellent /76400 knot-ft/. 
+
+TIME (EDT)      3PM 4PM 5PM 
+Sky (%).........70  73  68  
+Weather cov.....SCT NUM SCT 
+Weather type....RW  RW  RW  
+Tstm cov........SCT SCT SCT 
+CWR.............50  60  50  
+Chc of thdr (%).40  40  40  
+Temp............77  76  78  
+RH..............50  50  47  
+20 FT wind dir..SW  SW  SW  
+20 FT wind spd..7   7   7   
+20 FT wind gust.18  18  17  
+Mix hgt (kft)...4.5 3.6 3.4 
+Transp wind dir.W   W   W   
+Transp wind spd.20  18  17  
+Vrate kt-ft/1K..76  58  51  
+Ventrate Cat....GD  FR  FR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (55-65 percent) then becoming 
+                    partly cloudy (45-55 percent) then becoming 
+                    mostly cloudy (50-60 percent) then becoming 
+                    partly cloudy (30-40 percent). Scattered 
+                    showers and thunderstorms in the evening. 
+                    Patchy dense fog overnight. 
+CWR.................50 percent decreasing to 30 percent early in 
+                    the evening, then increasing to 40 percent 
+                    early in the evening decreasing to 30 percent 
+                    late in the evening decreasing to 20 percent 
+                    decreasing to 10 percent overnight. 
+Chance of thunder...39 percent. 
+Temperature.........Min 57. 
+RH..................Max 96 percent. 
+Wind (20 ft)........Southwest winds 5 to 6 mph early in the evening 
+                    becoming light. Gusty and erratic winds 
+                    expected near thunderstorms early in the 
+                    evening. Gusty and erratic winds expected near 
+                    thunderstorms early in the evening. 
+Mixing height.......300 ft AGL. 
+Transport winds.....West 8 to 16 mph. 
+Smoke dispersal.....Good (37100 knot-ft) early in the evening 
+                    decreasing to poor (2300 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........69     57     52     49     47     31     
+Weather cov.....SCTTRD SCTTRD SCTTRD        PATCHY PATCHY 
+Weather type....RNSHWR RNSHWR RNSHWR NONE   FOG    FOG    
+Tstm cov........SCTTRD ISOLTD ISOLTD                      
+CWR.............50     40     30     10     0      0      
+Chc of thdr (%).40     20     20     10     0      0      
+Temp............74     68     65     62     60     60     
+RH..............53     63     73     78     87     90     
+20 ft wind......SW 6   SW 3   SW 2   W 2    W 2    W 1    
+20 ft wind gust.16     14     12     10     8      7      
+Mix hgt (ft)....2600   600    400    400    400    300    
+Transport wind..SW 16  SW 12  W 12   W 12   W 12   W 9    
+Vrate kt-ft/1K..37     6      4      4      4      3      
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   POOR   
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent). Patchy fog early 
+                    in the morning. Slight chance of showers and 
+                    thunderstorms in the morning, then chance of 
+                    showers and thunderstorms in the afternoon. 
+CWR.................0 percent increasing to 50 percent. 
+Chance of thunder...26 percent. 
+Temperature.........Max 78. 
+RH..................Min 56 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 8 mph with 
+                    gusts to around 20 mph late in the morning. 
+                    Gusty and erratic winds expected near 
+                    thunderstorms late in the morning. Gusty and 
+                    erratic winds expected near thunderstorms late 
+                    in the afternoon. 
+Mixing height.......5400 ft AGL. 
+Transport winds.....Southwest 6 to 13 mph shifting to the south 14 
+                    to 18 mph late in the afternoon. 
+Smoke dispersal.....Poor (1800 knot-ft) early in the morning 
+                    increasing to excellent (75300 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........28        35        46        69        
+Weather cov.....PATCHY    S CHC     S CHC     CHANCE    
+Weather type....FOG       RN/FG     RNSHWR    RNSHWR    
+Tstm cov........                    S CHC     CHANCE    
+CWR.............0         20        20        50        
+Chc of thdr (%).0         10        20        30        
+Temp............59        61        74        77        
+RH..............90        93        66        56        
+20 FT wind......W 1G6     SW 2G9    S 6G15    S 8G18    
+Mix hgt (ft)....400       1200      3200      5400      
+Transport wind..W 6       W 12      SW 12     S 16      
+Vrate kt-ft/1K..2         12        32        75        
+Ventrate Cat....POOR      POOR      POOR      GOOD      
+
+$$
+Forecaster...Rosa
+Requested by...AARON STROBEL
+Type of request...PRESCRIBED
+.TAG 2608775.1/LWX
+.DELDT 04/01/26
+.FormatterVersion 2.0.0
+.EMAIL aaron.p.strobel@usda.gov,james.collett@usda.gov,colten.moor@usda.gov
+

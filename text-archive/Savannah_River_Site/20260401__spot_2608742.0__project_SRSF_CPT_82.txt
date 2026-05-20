@@ -1,0 +1,140 @@
+
+000
+FNUS72 KCAE 010713
+FWSCAE
+
+Spot Forecast for SRSF CPT 82...USFS
+National Weather Service Columbia SC
+313 AM EDT Wed Apr 1 2026
+
+Forecast is based on ignition time of 0800 EDT on April 01. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Another warm day expected at the burn site with generally
+southerly winds around 5 mph or less. A few gusts of 10-15 mph are
+possible as well. With the southerly winds, elevated moisture
+keeps afternoon RH values well above critical levels, generally in
+the 40-45% range. A few showers near the burn site are possible in
+the afternoon, potentially affecting the burn. However, any rain
+is expected to be light. Good RH recovery is expected once again
+overnight with patchy fog possible. Drier conditions are expected
+at the burn site for Thursday.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). Patchy fog possible 
+                    early in the morning. Slight chance of showers late 
+                    in the afternoon. 
+Chance of pcpn......20 percent. 
+Max temperature.....Around 84. 
+Min humidity........44 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5900 ft AGL. 
+Transport winds.....Southwest 6 to 12 mph. 
+LVORI...............5. 
+ADI.................8 early in the morning increasing to 52 in the 
+                    afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........50  34  19  12  17  23  33  38  47  39  
+Weather cov.....PTY                                 SCH 
+Weather type....FOG                                 RW  
+Tstm cov........                                        
+Chc of pcpn (%).0   0   10  10  10  10  10  10  10  20  
+Temp............60  64  69  74  77  80  81  83  83  84  
+RH..............100 93  78  66  60  54  51  48  46  44  
+Aparnt tmp (F)..60  64  69  74  77  81  82  83  83  84  
+20 FT wind dir..S   S   SW  SW  SW  S   S   S   S   S   
+20 FT wind dir..190 200 210 210 210 200 190 170 170 160 
+20 FT wind spd..2   2   2   2   2   2   3   3   3   3   
+20 FT wind gust.9   9   10  10  10  10  10  10  10  12  
+Mix hgt (kft)...0.3 1.0 1.5 2.2 3.3 4.6 5.7 5.9 5.7 4.9 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  S   S   S   
+Transp wind dir.210 210 220 220 230 230 210 200 190 180 
+Transp wind spd.8   12  12  9   8   7   6   7   8   9   
+LVORI...........8   5   3   3   1   1   1   1   1   1   
+ADI.............8   16  22  26  32  37  37  45  52  52  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). Slight chance of 
+                    showers early in the evening. 
+Chance of pcpn......20 percent. 
+Min temperature.....Around 59. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds becoming southeast around 5 mph 
+                    early in the evening, then becoming light 
+                    overnight. 
+Mixing height.......300 ft AGL. 
+Transport winds.....South 9 to 14 mph. 
+LVORI...............5. 
+ADI.................46 early in the evening decreasing to 4 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........43  41  38  33  26  19  15  15  10  6   10  14  
+Weather cov.....SCH SCH                                         
+Weather type....RW  RW                                          
+Tstm cov........                                                
+Chc of pcpn (%).20  20  0   0   0   0   0   0   0   0   0   0   
+Temp............82  80  77  73  71  69  67  66  64  63  61  61  
+RH..............47  51  58  66  71  73  78  84  87  93  97  97  
+Aparnt tmp (F)..82  81  77  73  71  69  67  66  64  63  61  61  
+20 FT wind dir..S   S   SE  SE  S   S   S   S   S   SE  SE  SE  
+20 FT wind dir..160 160 150 150 160 160 160 160 160 150 150 150 
+20 FT wind spd..3   3   5   5   5   5   3   3   2   2   2   2   
+20 FT wind gust.13  13  14  15  14  14  13  12  12  10  9   9   
+Mix hgt (kft)...3.7 1.0 0.6 0.6 0.5 0.4 0.4 0.4 0.5 0.4 0.3 0.3 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind dir.180 180 170 170 170 170 170 170 170 170 170 160 
+Transp wind spd.10  9   10  12  14  14  13  13  12  10  9   9   
+LVORI...........1   2   3   3   3   3   4   5   5   6   8   9   
+ADI.............46  4   5   5   6   6   6   6   5   5   4   4   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (20-30 percent). Patchy fog possible 
+early in the morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 83. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 6 mph late 
+                    in the afternoon. 
+Mixing height.......6700 ft AGL. 
+Transport winds.....Southeast 7 to 13 mph. 
+LVORI...............5. 
+ADI.................4 early in the morning increasing to 90 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........24  33  41  30  24  18  20  23  25  20  14  9   
+Weather cov.....    PTY PTY                                     
+Weather type....    FOG FOG                                     
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............61  59  61  63  68  73  76  79  81  82  83  83  
+RH..............97  100 97  93  78  64  56  47  42  40  37  37  
+Aparnt tmp (F)..61  59  61  63  68  73  76  79  81  81  82  82  
+20 FT wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind dir..140 130 130 150 150 150 150 140 140 140 140 140 
+20 FT wind spd..2   2   2   2   2   2   2   3   5   6   7   7   
+20 FT wind gust.8   8   7   8   9   10  12  12  13  14  15  16  
+Mix hgt (kft)...0.3 0.3 0.3 1.4 2.6 3.8 4.5 5.0 5.4 6.2 6.7 6.5 
+Transp wind dir.SE  S   SE  S   S   S   S   SE  SE  SE  SE  SE  
+Transp wind dir.150 160 150 170 170 160 160 150 140 140 150 150 
+Transp wind spd.8   8   7   9   9   9   9   9   9   10  12  13  
+LVORI...........9   8   8   5   3   1   1   1   1   1   1   1   
+ADI.............4   8   7   16  30  42  49  53  57  71  84  90  
+
+$$
+Forecaster...Carlberg
+Requested by...Anthony Rojo
+Type of request...PRESCRIBED
+.TAG 2608742.0/CAE
+.DELDT 04/01/26
+.FormatterVersion 2.0.0
+.EMAIL anthony.rojo@usda.gov
+

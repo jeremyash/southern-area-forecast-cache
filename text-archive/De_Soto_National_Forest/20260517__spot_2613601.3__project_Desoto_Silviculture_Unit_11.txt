@@ -1,0 +1,147 @@
+
+000
+FNUS74 KLIX 170933
+FWSLIX
+
+Spot Forecast for Desoto Silviculture Unit 11...USFS
+National Weather Service New Orleans LA
+433 AM CDT Sun May 17 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+Breezy southeast winds of around 10 mph will be in place today and
+again tomorrow.  Winds will drop to around 5 mph tonight, but will
+remain strong enough to keep any fog from forming even as humidity
+recovers to around 90 percent.  Minimum humidity will fall to around
+60 percent this afternoon and again tomorrow afternoon. 
+
+1. There is a near zero percent chance of fog development tonight.
+
+2. There will not be a seabreeze as the prevailing wind is from the
+southeast and is also fairly strong around 10 mph. 
+
+.TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 84. 
+Min humidity........59 percent. 
+Dewpoint............66. 
+Max apparent temp...87. 
+Wind (20 ft)........Light winds becoming southeast 6 to 9 mph in 
+                    the late morning and afternoon. 
+Mixing height (m)...122-1311 meters AGL. 
+Transport winds.....South 7 to 13 mph. 
+Transport winds m/s.South 3 to 6 meters/second. 
+LVORI...............4. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........10     6      16     25     36     42     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      10     0      
+Temp............65     70     79     83     84     83     
+Dewpoint........64     66     68     68     68     68     
+RH..............97     87     69     61     59     61     
+Aparnt tmp (F)..65     70     79     86     87     86     
+20 FT wind dir..ESE    SE     SSE    SSE    SSE    SSE    
+20 FT wind spd..2      3      8      9      10     10     
+20 FT wind gust.7      7      13     16     18     17     
+Mix hgt (m).....120    300    1010   1250   1280   1100   
+Transp wind dir.SE     SE     S      S      S      S      
+Transp wind spd.7      9      10     12     12     13     
+Trans wind dir..SE     SE     S      S      S      S      
+Trans spd (m/s).3      4      4      5      5      6      
+LVORI...........7      5      1      1      1      1      
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (40-50 percent) then becoming 
+                    mostly cloudy (55-65 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 70. 
+Max humidity........90 percent. 
+Dewpoint............68. 
+Max apparent temp...83. 
+Wind (20 ft)........Southeast winds 5 to 8 mph in the evening and 
+                    overnight becoming light, then becoming 
+                    southeast around 5 mph after 3 am. 
+Mixing height (m)...152-792 meters AGL. 
+Transport winds.....Southeast 9 to 14 mph. 
+Transport winds m/s.Southeast 4 to 6 meters/second. 
+LVORI...............4. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........43     60     61     68     52     62     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............80     75     73     73     72     71     
+Dewpoint........68     68     68     68     68     68     
+RH..............67     79     84     84     87     90     
+Aparnt tmp (F)..83     75     73     73     72     71     
+20 FT wind dir..SSE    SSE    SE     SE     SE     SE     
+20 FT wind spd..9      7      6      5      3      5      
+20 FT wind gust.15     12     10     9      9      9      
+Mix hgt (m).....790    340    180    210    180    150    
+Transp wind dir.S      SSE    SSE    SSE    SSE    SE     
+Transp wind spd.14     13     10     10     12     9      
+Trans wind dir..S      SSE    SSE    SSE    SSE    SE     
+Trans spd (m/s).6      6      4      4      5      4      
+LVORI...........1      4      5      5      5      6      
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (25-35 percent). 
+Chance of pcpn......20 percent. 
+Max temperature.....Around 86. 
+Min humidity........63 percent. 
+Dewpoint............70. 
+Max apparent temp...92. 
+Wind (20 ft)........Southeast winds 5 to 10 mph. 
+Mixing height (m)...152-1341 meters AGL. 
+Transport winds.....South 9 to 17 mph. 
+Transport winds m/s.South 4 to 8 meters/second. 
+LVORI...............3. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........75     81     77     58     53     32     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      10     0      10     20     20     
+Temp............71     73     81     84     85     86     
+Dewpoint........68     70     71     71     72     72     
+RH..............90     90     72     65     65     63     
+Aparnt tmp (F)..71     73     85     89     91     92     
+20 FT wind dir..SE     SE     SE     SSE    SSE    SSE    
+20 FT wind spd..5      7      10     12     12     12     
+20 FT wind gust.10     14     16     20     22     21     
+Mix hgt (m).....150    520    940    1190   1340   1160   
+Transp wind dir.SSE    SE     SSE    SSE    SSE    SSE    
+Transp wind spd.9      12     14     16     17     16     
+Trans wind dir..SSE    SE     SSE    SSE    SSE    SSE    
+Trans spd (m/s).4      5      6      7      8      7      
+LVORI...........5      4      3      1      1      1      
+
+$$
+Forecaster...GRIGSBY
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2613601.3/LIX
+.DELDT 05/17/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

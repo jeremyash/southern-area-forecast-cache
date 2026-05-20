@@ -1,0 +1,172 @@
+
+000
+FNUS74 KMEG 221254
+FWSMEG
+
+Spot Forecast for STF - LaGrange...USFS
+National Weather Service Memphis TN
+754 AM CDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 1000 CDT on March 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Minimum relative humidity values will be around 35-40% Monday.
+Northeast 20 ft winds will be predominately sub 10 mph with gusts
+up to 25 mph, behind a cold front, through the afternoon hours 
+Monday. No appreciable rain fall is anticipated. 
+
+
+.MONDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Chance of thunder...1 percent. 
+Max temperature.....Around 67. 
+Min humidity........37 percent. 
+Dewpoint............40. 
+Wind (20 ft)........Northeast winds 7 to 8 mph. Gusts up to 25 mph 
+                    in the late morning and afternoon. 
+Mixing height.......3100 ft AGL. 
+Mixing height (MSL).2000-3100 ft MSL. 
+Mixing height (m)...610-945 meters AGL. 
+Transport winds.....Northeast 20 to 24 mph. 
+Transport winds m/s.Northeast 9 to 11 meters/second. 
+2000 ft winds.......Northeast 20 to 24 mph. 
+5000 ft winds.......Northeast 22 to 25 mph decreasing to around 20 
+                    mph in the afternoon. 
+Smoke dispersal.....Poor (6000 knot-ft). 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........44  40  37  33  31  28  26  33  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+CWR.............0   0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   
+Temp............55  57  60  63  65  66  67  66  
+Dewpoint........40  40  41  41  41  40  40  40  
+RH..............57  53  49  44  41  38  37  38  
+20 FT wind dir..N   N   NE  NE  NE  NE  NE  NE  
+20 FT wind spd..8   8   8   8   8   7   7   7   
+20 FT wind gust.20  19  18  17  16  16  16  14  
+Mix hgt (kft)...2.0 2.1 2.3 2.6 2.9 3.1 3.0 2.3 
+Mx ht msl (kft).2.0 2.1 2.3 2.6 2.9 3.1 3.0 2.3 
+Mix hgt (km)....0.6 0.6 0.7 0.8 0.9 0.9 0.9 0.7 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.23  24  24  23  23  23  22  20  
+Trans wind dir..NE  NE  NE  NE  NE  NE  NE  NE  
+Trans spd (m/s).10  11  11  10  10  10  10  9   
+2000 ft wnd dir.NE  N   N   N   N   NE  NE  NE  
+2000 ft wnd spd.24  22  21  20  20  20  20  20  
+5000 ft wnd dir.NE  NE  NE  NE  NE  NE  NE  NE  
+5000 ft wnd spd.25  23  22  20  20  20  20  20  
+Vrate kt-ft/1K..6   7   8   8   9   10  9   6   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  
+
+.MONDAY NIGHT...
+
+Sky/weather.........Partly cloudy (40-50 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+CWR.................10 percent. 
+Chance of pcpn......10 percent. 
+Chance of thunder...5 percent. 
+Min temperature.....Around 51. 
+Max humidity........61 percent. 
+Dewpoint............39. 
+Wind (20 ft)........Northeast winds 5 to 7 mph. 
+Mixing height.......400 ft AGL. 
+Mixing height (MSL).400-1300 ft MSL. 
+Mixing height (m)...122-396 meters AGL. 
+Transport winds.....Northeast 13 to 18 mph. 
+Transport winds m/s.Northeast 6 to 8 meters/second. 
+2000 ft winds.......Northeast 21 to 25 mph shifting to the east 
+                    around 21 mph early in the morning. 
+5000 ft winds.......East 14 to 18 mph decreasing to 10 to 13 mph 
+                    after 3 am. 
+Smoke dispersal.....Poor (900 knot-ft). 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........39        56        66        73        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+CWR.............0         0         0         10        
+Chc of pcpn (%).0         0         0         10        
+Chc of thdr (%).0         0         0         10        
+Temp............65        58        54        53        
+Dewpoint........41        40        38        37        
+RH..............41        51        55        54        
+20 FT wind......NE 7G14   NE 6G14   NE 5G13   NE 5G12   
+Mix hgt (ft)....1300      500       600       600       
+Mx ht msl (ft)..1300      500       600       600       
+Mix hgt (m).....400       150       180       180       
+Transport wind..NE 18     NE 15     E 14      E 13      
+Tran wind (m/s).NE 8      NE 7      E 6       E 6       
+2000 ft wind....NE 21     NE 25     E 26      E 23      
+5000 ft wind....NE 18     E 17      E 16      E 13      
+Vrate kt-ft/1K..3         1         1         1         
+Ventrate Cat....POOR      POOR      POOR      POOR      
+
+.TUESDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (40-50 percent). Slight chance of 
+                    rain showers in the morning. 
+CWR.................10 percent. 
+Chance of pcpn......20 percent. 
+Chance of thunder...5 percent. 
+Max temperature.....Around 68. 
+Min humidity........47 percent. 
+Dewpoint............39 increasing to 47. 
+Wind (20 ft)........Northeast winds around 5 mph early in the 
+                    morning becoming light. 
+Mixing height.......2400 ft AGL. 
+Mixing height (MSL).1000-2400 ft MSL. 
+Mixing height (m)...305-732 meters AGL. 
+Transport winds.....East 5 to 14 mph. 
+Transport winds m/s.East 2 to 6 meters/second. 
+2000 ft winds.......East 17 to 20 mph becoming southeast 1 to 3 
+                    mph. 
+5000 ft winds.......East 6 to 10 mph becoming southeast 1 to 5 mph 
+                    in the late morning and afternoon. 
+Smoke dispersal.....Poor (1300 knot-ft). 
+Rainfall amount.....0.03 inches. 
+
+TIME (CDT)      6 AM         10 AM        2 PM         
+Sky (%).........83           84           55           
+Weather cov.....             S CHC                     
+Weather type....NONE         RNSHWR       NONE         
+Tstm cov........                                       
+CWR.............10           20           10           
+Chc of pcpn (%).10           20           10           
+Chc of thdr (%).10           0            0            
+Temp............51           55           65           
+Dewpoint........37           41           46           
+RH..............59           59           50           
+20 FT wind......NE 5G11      E 3G10       E 2G6        
+Mix hgt (ft)....1000         1000         2000         
+Mx ht msl (ft)..1000         1000         2000         
+Mix hgt (m).....300          300          610          
+Transport wind..E 14         E 10         E 5          
+Tran wind (m/s).E 6          E 4          E 2          
+2000 ft wind....E 20         SE 9         E 1          
+5000 ft wind....E 10         SE 5         SE 1         
+Vrate kt-ft/1K..2            1            1            
+Ventrate Cat....POOR         POOR         POOR         
+
+$$
+Forecaster...Herdliska
+Requested by...FMO
+Type of request...PRESCRIBED
+.TAG 2607098.0/MEG
+.DELDT 03/22/26
+.FormatterVersion 2.0.0
+.EMAIL william.hilton@usda.gov
+

@@ -1,0 +1,140 @@
+
+000
+FNUS72 KMHX 111131
+FWSMHX
+
+Spot Forecast for C-14 Hope Rd...USFS
+National Weather Service Newport/Morehead City NC
+731 AM EDT Wed Mar 11 2026
+
+Forecast is based on ignition time of 0800 EDT on March 11. 
+If conditions become unrepresentative, or if you have questions 
+or concerns about this forecast, contact the National Weather 
+Service in Newport at (252)223-2328.
+
+.DISCUSSION...
+Gusty SSW winds will develop today ahead of a cold front with
+gusts up to around 25 mph this afternoon. The strength of the
+wind will limit sea breeze activity with wind direction expected 
+to remain around 190-210 degrees throughout the afternoon. 
+Temperatures will be above normal with highs around 80 across the
+burn area with minimum relative humidity in the mid 60 percent
+range. 
+
+A cold front will push across the area Thursday with gusty W-NW
+winds developing behind the front with widespread rain chances and
+isolated thunderstorm along the front. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy then becoming mostly sunny. 
+Max temperature.....Around 79. 
+Min humidity........66 percent. 
+Wind (20 ft)........South winds 5 to 13 mph. Gusts up to 25 mph 
+                    in the afternoon. 
+Mixing Height.......Max 2200 ft AGL. 
+Transport winds.....Southwest 8 to 17 mph increasing to 21 to 25 
+                    mph late in the afternoon. 
+Vent Rate...........Max 47839 mph-ft. 
+LVORI...............Max 6. 
+ADI.................Max 56. 
+Stability class.....3. 
+Sfc pressure........29.96 to 30.07 inHg. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........70  44  16  8   21  31  35  27  23  15  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Temp............61  66  71  74  76  78  78  78  78  77  
+RH..............97  86  80  75  70  67  66  64  64  66  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..4   5   5   5   7   8   10  11  13  13  
+20 FT wind gust.5               14  14  18  18  23  23  
+Mix hgt (kft)...0.3 0.5 0.7 1.0 1.5 1.9 2.2 2.0 1.7 1.4 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.8   9   9   10  14  17  21  23  24  25  
+LVORI...........6   6   5   4   3   1   1   1   1   1   
+ADI.............9   10  10  14  27  41  56  56  51  47  
+Vrate mph-ft/1K.3   4   6   11  21  33  48  45  40  37  
+Sfc pres (in)...005 006 007 006 005 004 002 000 998 996 
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy then becoming mostly cloudy. 
+Min temperature.....Around 65. 
+Max humidity........100 percent. 
+Wind (20 ft)........Southwest winds 10 to 15 mph. Gusts up to 25 
+                    mph in the evening. 
+Mixing Height.......Min 800 ft AGL. 
+Transport winds.....Southwest 22 to 24 mph. 
+Vent Rate...........Min 18515 mph-ft. 
+LVORI...............Max 4. 
+ADI.................Min 19. 
+Stability class.....4. 
+Sfc pressure........29.82 to 29.96 inHg. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........33  31  38  66  69  89  90  88  79  76  81  69  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............75  72  70  69  68  67  67  67  68  68  68  68  
+RH..............69  73  76  78  81  86  86  86  84  86  87  89  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..13  13  13  13  13  13  13  12  12  13  13  13  
+20 FT wind gust.23  23  18  18  18  18  18  14  14  18  18  18  
+Mix hgt (kft)...1.4 1.2 0.8 1.3 1.4 1.5 1.5 1.5 1.5 1.6 1.7 1.8 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.24  22  22  24  24  24  24  24  23  23  22  22  
+LVORI...........3   4   4   3   4   4   4   3   3   4   4   4   
+ADI.............44  20  19  27  28  27  27  26  26  25  25  24  
+Vrate mph-ft/1K.35  27  19  32  37  37  37  37  36  37  38  40  
+Sfc pres (in)...996 996 996 996 996 995 994 992 990 987 984 982 
+
+.THURSDAY...
+
+Sky/weather.........Cloudy. Rain likely early in the morning. 
+                    Slight chance of thunderstorms late in the 
+                    morning. Rain late in the afternoon. 
+Max temperature.....Around 71. 
+Min humidity........70 percent. 
+Wind (20 ft)........Southwest winds 12 to 16 mph shifting to the 
+                    northwest 12 to 15 mph with gusts to around 27 
+                    mph late in the afternoon. Gusty and erratic 
+                    winds expected near thunderstorms late in the 
+                    morning. 
+Mixing Height.......Max 3400 ft AGL. 
+Transport winds.....Southwest 20 to 21 mph shifting to the north 29 
+                    to 30 mph late in the afternoon. 
+Vent Rate...........Max 83375 mph-ft. 
+LVORI...............Max 4. 
+ADI.................Max 68. 
+Stability class.....4. 
+Sfc pressure........29.80 to 30.03 inHg. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........80     90     77     82     98     98     
+Weather cov.....       LIKELY LIKELY LIKELY DEFNTE DEFNTE 
+Weather type....NONE   RAIN   RAIN   RAIN   RAIN   RAIN   
+Tstm cov........                     S CHC  S CHC  S CHC  
+Temp............67     67     70     70     66     54     
+RH..............89     87     84     81     75     90     
+20 ft wind......SW 13  SW 13  SW 15  SW 12  W 11   NW 15  
+20 ft wind gust.18     23     23     18     18     23     
+Mix hgt (ft)....1800   1800   2400   2900   3400   2900   
+Transport wind..SW 21  SW 20  W 21   W 21   NW 23  N 29   
+LVORI...........4      4      4      3      1      3      
+ADI.............24     36     43     50     60     68     
+Vrate mph-ft/1K.38     35     48     63     82     83     
+Sfc pres (in)...29.81  29.80  29.80  29.84  29.91  29.99  
+
+$$
+Forecaster...Kennedy
+Requested by...David Nelson
+Type of request...PRESCRIBED
+.TAG 2605416.0/MHX
+.DELDT 03/11/26
+.FormatterVersion 2.0.0
+.EMAIL david.l.nelson@usda.gov,shane.benson@usda.gov
+

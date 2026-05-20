@@ -1,0 +1,110 @@
+
+000
+FNUS72 KCHS 161825
+FWSCHS
+
+Spot Forecast for C76/78 Planning FMNF...USFS
+National Weather Service Charleston SC
+225 PM EDT Mon Mar 16 2026
+
+Forecast is based on ignition time of 0900 EDT on March 17. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+
+.DISCUSSION...
+A strong cold front will push offshore later today, then high
+pressure will prevail. Northwest winds in the morning will back more 
+to the west-northwest in the afternoon. Afternoon RH values could drop 
+to around 30 percent. No fog is expected Tuesday night. 
+
+
+.TUESDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 52. 
+Min humidity........32 percent. 
+Wind (20 ft)........Northwest winds around 5 mph. 
+Mixing Height.......Max 6000 ft AGL. 
+Transport winds.....Northwest 14 to 16 mph. 
+Max ADI.............115. 
+Inversion End.......None. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........27  27  31  18  30  31  25  17  14  
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............36  40  43  45  47  49  50  52  52  
+RH..............64  55  49  45  42  39  36  33  32  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  W   W   W   
+20 FT wind spd..5   5   5   5   5   5   5   5   5   
+20 FT wind gust.13  13  13  13  13  13  13  13  13  
+Mix hgt (kft)...3.4 3.6 4.0 4.3 4.6 5.0 5.4 5.7 6.0 
+Transp wind dir.NW  NW  NW  NW  NW  NW  W   W   W   
+Transp wind spd.14  14  14  14  14  14  16  16  16  
+LVORI...........1   1   1   1   1   1   1   1   1   
+ADI.............57  61  66  70  74  87  99  110 115 
+
+.TUESDAY NIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 32. 
+Max humidity........69 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........4. 
+Min ADI.............1. 
+Inversion Begin.....2000 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........15     16     9      3      5      11     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............51     46     40     38     35     33     
+RH..............33     42     57     59     69     66     
+20 ft wind......W 4    W 2    NW 1   NW 1   N 1    N 2    
+20 ft wind gust.11     7      5      5      5      7      
+Mix hgt (ft)....5100   800    800    800    800    800    
+Transport wind..W 10   W 10   NW 2   NW 2   NW 2   N 2    
+LVORI...........2      2      3      3      4      4      
+ADI.............1      1      1      1      1      1      
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 56. 
+Min humidity........31 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 5200 ft AGL. 
+Transport winds.....Light winds becoming northeast around 8 mph 
+                    late in the morning, then becoming light in the 
+                    afternoon. 
+Max ADI.............30. 
+Inversion End.......0900
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........21        33        36        53        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............32        36        49        55        
+RH..............63        54        39        32        
+20 FT wind......N 3G9     NE 3G11   NE 3G9    NE 1G5    
+Mix hgt (ft)....800       1600      3600      5100      
+Transport wind..NE 4      NE 8      E 4       SE 4      
+LVORI...........3         2         2         2         
+ADI.............4         19        30        20        
+
+$$
+Forecaster...McGraw
+Requested by...Will McCann
+Type of request...PRESCRIBED
+.TAG 2605928.0/CHS
+.DELDT 03/16/26
+.FormatterVersion 2.0.0
+.EMAIL william.mccann@usda.gov,kelly.wetzelwilson@usda.gov
+

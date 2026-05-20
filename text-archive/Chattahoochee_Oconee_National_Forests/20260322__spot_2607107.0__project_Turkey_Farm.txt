@@ -1,0 +1,180 @@
+
+000
+FNUS72 KFFC 221441
+FWSFFC
+
+Spot Forecast for Turkey Farm...USFS
+National Weather Service Peachtree City GA
+1041 AM EDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 1100 EDT on March 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Expecting dry/rain free conditions today. Relative Humidity
+values currently at 65-70% range according to nearby sites and will
+drop to to the 40-45% range by later this afternoon.
+Southwesterly winds will prevail through much of today with speeds
+from 5-10mph. Winds will be light and variable over night but
+should still have mostly a SW component to them. Expecting winds 
+to turn NW shortly after daybreak Monday and then N by the 
+afternoon hours as a front south through the area. Wind speeds 
+will increase Monday into the 7-12mph with gusts up to 15-20mph. 
+Transport winds will follow a similar direction with speeds of 
+15-20mph Today and Monday afternoon. Mixing heights are expected 
+to peak at 4500 feet this afternoon between around 2 PM and 5 PM. 
+There is a very low chance (<10%) that the burn site could see 
+light showers early Monday morning from 4-7am as the front moves 
+into the area from TN. Not expecting any fog development for 
+Monday with winds and RH values out of range.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 81. 
+Min humidity........40 percent. 
+Dewpoint............56. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph with 
+                    gusts to around 20 mph in the afternoon. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....West 12 to 21 mph. 
+Smoke dispersal.....Fair (19700 knot-ft) early in the morning 
+                    increasing to excellent (78900 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................29 early in the morning increasing to 107 in 
+                    the afternoon. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........4   4   5   6   9   7   4   
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+CWR.............0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   
+Temp............70  73  77  79  80  81  81  
+Dewpoint........57  57  57  56  56  55  55  
+RH..............64  57  51  45  43  41  40  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..3   5   6   7   7   7   7   
+20 FT wind gust.12  14  16  17  18  20  18  
+Mix hgt (kft)...1.9 2.5 3.1 3.8 4.2 4.4 4.4 
+Transp wind dir.W   W   W   W   W   SW  W   
+Transp wind spd.12  13  15  16  20  20  21  
+LVORI...........3   1   1   1   1   1   1   
+ADI.............29  42  58  74  94  103 107 
+Vrate kt-ft/1K..20  29  39  53  69  76  79  
+Ventrate Cat....PR  PR  PR  FR  GD  GD  GD  
+Ceiling (kft)...25  25  25  25  25  25  25  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+CWR.................0 percent. 
+Chance of thunder...4 percent. 
+Min temperature.....Around 60. 
+Max humidity........82 percent. 
+Dewpoint............54. 
+Wind (20 ft)........Southwest winds 5 to 7 mph. Gusts up to 20 mph 
+                    early in the evening then 23 mph in the late 
+                    evening and overnight. 
+Mixing height.......1000 ft AGL. 
+Transport winds.....Southwest 13 to 20 mph. 
+Smoke dispersal.....Excellent (63300 knot-ft) early in the evening 
+                    decreasing to poor (11500 knot-ft) late in the 
+                    night. 
+LVORI...............3. 
+ADI.................88 early in the evening decreasing to 6 late in 
+                    the night. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25 decreasing to 12 early in the morning. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........4   6   7   8   8   8   18  19  22  16  23  32  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............80  78  75  71  70  68  66  65  65  64  63  62  
+Dewpoint........54  54  54  54  54  54  54  54  54  54  55  55  
+RH..............41  43  48  55  58  62  64  66  67  70  75  77  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  W   W   W   W   
+20 FT wind spd..7   6   5   5   6   6   6   6   6   6   6   6   
+20 FT wind gust.20  18  18  18  20  21  22  23  22  22  22  22  
+Mix hgt (kft)...3.7 1.9 1.0 1.0 1.1 1.2 1.1 1.0 1.0 1.0 1.0 1.0 
+Transp wind dir.W   SW  SW  SW  SW  SW  SW  W   W   W   W   W   
+Transp wind spd.20  16  13  13  15  16  16  16  16  17  15  14  
+LVORI...........1   2   2   3   3   3   3   3   3   4   4   4   
+ADI.............88  7   6   6   7   7   7   7   7   8   7   9   
+Vrate kt-ft/1K..63  26  12  12  14  16  15  15  15  15  13  13  
+Ventrate Cat....GD  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  12  
+
+.MONDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent). 
+CWR.................10 percent. 
+Chance of thunder...4 percent. 
+Max temperature.....Around 73. 
+Min humidity........43 percent. 
+Dewpoint............56 decreasing to 47. 
+Wind (20 ft)........West winds 5 to 7 mph with gusts to around 21 
+                    mph shifting to the north 7 to 8 mph in the 
+                    afternoon. 
+Mixing height.......2700 ft AGL. 
+Transport winds.....West 13 to 17 mph shifting to the north 17 to 
+                    21 mph late in the morning. 
+Smoke dispersal.....Poor (8400 knot-ft) early in the morning 
+                    increasing to good (48000 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................9 early in the morning increasing to 69 in the 
+                    afternoon. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......10 decreasing to 6.0 early in the morning, then 
+                    decreasing to 3.0 early in the morning 
+                    decreasing to 2.5 late in the morning 
+                    decreasing to 1.5 increasing to 3.5 early in 
+                    the afternoon increasing to 6.0 increasing to 
+                    9.0 early in the afternoon increasing to 15 
+                    increasing to 20 late in the afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........50  50  58  50  69  74  62  50  38  34  30  26  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............10  10  0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............62  61  62  62  64  65  66  71  71  72  71  70  
+Dewpoint........55  55  55  55  56  58  58  56  54  52  49  47  
+RH..............78  82  77  78  77  78  74  60  54  49  46  44  
+20 FT wind dir..W   W   W   W   NW  NW  NW  N   N   N   N   N   
+20 FT wind spd..6   5   5   6   6   7   7   8   8   8   8   7   
+20 FT wind gust.21  18  18  17  18  21  21  21  21  21  20  21  
+Mix hgt (kft)...0.8 0.7 0.8 1.4 1.7 1.8 2.1 2.4 2.6 2.7 2.7 2.5 
+Transp wind dir.W   W   W   W   NW  NW  N   N   N   N   N   N   
+Transp wind spd.14  13  13  16  17  17  17  20  20  21  21  20  
+LVORI...........4   4   4   3   3   3   1   1   1   1   1   1   
+ADI.............9   13  10  29  37  39  45  57  64  69  69  64  
+Vrate kt-ft/1K..10  8   9   20  25  27  33  39  44  48  48  44  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  FR  FR  FR  FR  
+Ceiling (kft)...10  6.0 3.0 2.5 1.8 1.5 3.5 6.0 9.0 15  20  20  
+
+$$
+Forecaster...Smith
+Requested by...Barberi
+Type of request...PRESCRIBED
+.TAG 2607107.0/FFC
+.DELDT 03/22/26
+.FormatterVersion 2.0.0
+.EMAIL james.e.barberi@usda.gov
+

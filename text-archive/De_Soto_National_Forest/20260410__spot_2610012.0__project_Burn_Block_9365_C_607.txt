@@ -1,0 +1,149 @@
+
+000
+FNUS74 KMOB 102054
+FWSMOB
+
+Spot Forecast for Burn Block 9365 C-607...MS-MNF
+National Weather Service Mobile AL
+354 PM CDT Fri Apr 10 2026
+
+Forecast is based on ignition time of 1600 CDT on April 10. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...For the rest of today, the minimum relative
+humidity is near 45%, transport winds will be mostly
+southeasterly, and dispersion values will be good. For Saturday,
+the minimum relative humidity is near 35%, transport winds will
+be mostly easterly to northeasterly, and dispersion values will
+be good. 
+
+Fog potential and other remarks...There is a low (20%) chance for
+fog development late tonight.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (40-50 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 82. 
+Min humidity........46 percent. 
+Wind (20 ft)........Southeast winds around 7 mph. 
+Mixing height.......4600 ft AGL. 
+Mixing height (m)...1402 meters AGL. 
+Transport winds.....Southeast 10 to 12 mph. 
+Transport winds m/s.Southeast 4 to 5 meters/second. 
+Dispersion index....64. 
+LVORI...............1. 
+Stability class.....2. 
+
+TIME (CDT)      4PM 5PM 
+Sky (%).........46  39  
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+Chc of pcpn (%).0   0   
+Temp............81  79  
+RH..............46  49  
+20 FT wind dir..SSE SSE 
+20 FT wind spd..8   8   
+20 FT wind gust.13  13  
+Mix hgt (kft)...4.6 4.6 
+Mix hgt (km)....1.4 1.4 
+Transp wind dir.SE  SE  
+Transp wind spd.10  12  
+Trans wind dir..SE  SE  
+Trans spd (m/s).4   5   
+Dispersion idx..57  64  
+LVORI...........1   1   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 57. 
+Max humidity........96 percent. 
+Wind (20 ft)........South winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height.......300 ft AGL. 
+Mixing height (m)...91-1402 meters AGL. 
+Transport winds.....Southeast 5 to 13 mph shifting to the northeast 
+                    around 5 mph after 3 am. 
+Transport winds m/s.South around 6 meters/second shifting to the 
+                    northeast around 2 meters/second early in the 
+                    morning. 
+Dispersion index....74 decreasing to 4. 
+LVORI...............6. 
+Stability class.....4. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........35  36  26  11  5   7   4   3   4   11  11  15  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............78  75  69  66  64  63  61  60  60  59  58  58  
+RH..............50  56  70  78  87  90  93  96  93  96  96  93  
+20 FT wind dir..SSE SSE SSE S   S   SSE N   N   N   NNE NNE NNE 
+20 FT wind spd..6   6   3   2   1   1   0   0   0   1   1   2   
+20 FT wind gust.10  9   7   5   3   2   1   1   1   2   3   3   
+Mix hgt (kft)...4.6 1.4 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 
+Mix hgt (km)....1.4 0.4 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.SSE S   SSE SSE SSE SSE SE  ESE ESE E   ENE NE  
+Transp wind spd.13  13  9   7   5   5   5   5   5   5   5   5   
+Trans wind dir..SSE S   SSE SSE SSE SSE SE  ESE ESE E   ENE NE  
+Trans spd (m/s).6   6   4   3   2   2   2   2   2   2   2   2   
+Dispersion idx..74  6   4   3   2   2   2   2   2   2   2   2   
+LVORI...........1   3   3   5   6   7   7   8   7   10  10  7   
+
+.SATURDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 85. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 8 mph late 
+                    in the morning, then shifting to the south 
+                    around 8 mph late in the afternoon. 
+Mixing height.......7000 ft AGL. 
+Mixing height (m)...91-2134 meters AGL. 
+Transport winds.....Northeast 5 to 12 mph shifting to the south 
+                    around 12 mph late in the afternoon. 
+Transport winds m/s.Northeast 2 to 5 meters/second shifting to the 
+                    south around 5 meters/second late in the 
+                    afternoon. 
+Dispersion index....5 increasing to 13 late in the morning, then 
+                    increasing to 40 late in the morning increasing 
+                    to 68 late in the morning decreasing to 61 
+                    increasing to 72 late in the afternoon. 
+LVORI...............5. 
+Stability class.....2. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........17  21  19  2   2   2   10  10  17  20  21  4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............57  57  60  66  74  78  81  83  83  83  84  82  
+RH..............96  96  87  73  55  47  42  38  38  38  37  40  
+20 FT wind dir..NNE NNE NE  ENE E   E   E   ESE ESE SSE SSE SSE 
+20 FT wind spd..2   2   2   3   5   6   7   8   8   9   9   9   
+20 FT wind gust.5   6   6   7   8   10  12  13  13  13  14  14  
+Mix hgt (kft)...0.3 0.3 0.5 1.1 2.9 5.0 6.0 7.0 6.8 6.5 5.6 5.6 
+Mix hgt (km)....0.1 0.1 0.2 0.3 0.9 1.5 1.8 2.1 2.1 2.0 1.7 1.7 
+Transp wind dir.NE  NE  NE  E   E   E   E   E   ESE SE  SSE SSE 
+Transp wind spd.5   7   7   10  12  10  10  9   8   9   10  12  
+Trans wind dir..NE  NE  NE  E   E   E   E   E   ESE SE  SSE SSE 
+Trans spd (m/s).2   3   3   4   5   4   4   4   4   4   4   5   
+Dispersion idx..2   6   7   13  40  67  72  69  63  63  61  71  
+LVORI...........8   7   5   4   1   1   1   1   1   1   1   1   
+
+$$
+Forecaster...29
+Requested by...Joseph Kinkead
+Type of request...PRESCRIBED
+.TAG 2610012.0/MOB
+.DELDT 04/10/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov,msmic@firenet.gov
+

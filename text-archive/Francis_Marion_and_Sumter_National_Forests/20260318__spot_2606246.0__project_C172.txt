@@ -1,0 +1,114 @@
+
+000
+FNUS72 KCHS 181123
+FWSCHS
+
+Spot Forecast for C172...USDA Forest Service
+National Weather Service Charleston SC
+723 AM EDT Wed Mar 18 2026
+
+Forecast is based on ignition time of 0800 EDT on March 18. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail today with relative humidity values 
+falling to as low as around 30 percent. Winds will be out of the 
+northeast for most of the day, potentially turning more easterly 
+early this evening late this afternoon with a subtle sea breeze. 
+The forecast remains dry with warming temperatures through the rest 
+of the week. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 58. 
+Min humidity........34 percent. 
+Wind (20 ft)........Northeast winds around 5 mph with gusts to 
+                    around 14 mph early in the morning becoming 
+                    light. 
+Mixing Height.......Max 4900 ft AGL. 
+Transport winds.....Northeast 6 to 14 mph. 
+Max ADI.............44. 
+Inversion End.......0900.
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........54  48  50  57  40  41  44  45  41  34  
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   
+Temp............34  37  41  46  50  53  56  56  56  57  
+RH..............64  56  55  47  42  39  35  37  37  34  
+20 FT wind dir..N   NE  NE  NE  NE  NE  NE  NE  N   N   
+20 FT wind spd..5   5   5   5   5   4   3   3   2   2   
+20 FT wind gust.14  13  13  13  13  11  11  9   9   9   
+Mix hgt (kft)...0.7 1.4 1.9 2.3 3.0 4.0 4.7 4.9 4.9 4.7 
+Transp wind dir.N   NE  NE  NE  NE  NE  NE  N   N   N   
+Transp wind spd.6   14  14  14  10  10  10  6   6   6   
+LVORI...........3   2   1   1   1   1   1   1   1   1   
+ADI.............6   28  33  40  42  44  38  33  33  31  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy then becoming mostly cloudy then 
+                    becoming mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 37. 
+Max humidity........72 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........4. 
+Min ADI.............1. 
+Inversion Begin.....1900.
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........50     57     32     38     23     8      
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............55     50     44     42     40     39     
+RH..............37     48     57     60     59     62     
+20 ft wind......N 2    NE 1   N 1    N 2    N 2    N 2    
+20 ft wind gust.7      5      5      7      7      9      
+Mix hgt (ft)....3700   500    500    500    500    400    
+Transport wind..NE 4   NE 4   NE 2   N 2    N 2    N 2    
+LVORI...........2      2      3      3      3      3      
+ADI.............1      1      1      1      1      1      
+
+.THURSDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 65. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4200 ft AGL. 
+Transport winds.....Light winds becoming north 8 to 10 mph in the 
+                    late morning and early afternoon, then becoming 
+                    light late in the afternoon. 
+Max ADI.............41. 
+Inversion End.......0900.
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........5         3         12        21        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............37        42        58        64        
+RH..............70        62        36        34        
+20 FT wind......N 2G9     N 2G9     N 3G9     NE 3G9    
+Mix hgt (ft)....400       1100      3200      4000      
+Transport wind..N 2       N 10      N 8       NE 4      
+LVORI...........3         2         1         2         
+ADI.............2         12        41        27        
+
+$$
+
+Forecaster...Holloway
+Requested by...Francis Marion Ranger District
+Type of request...PRESCRIBED
+.TAG 2606246.0/CHS
+.DELDT 03/18/26
+.FormatterVersion 2.0.0
+.EMAIL benjamin.kuhn@usda.gov,kelly.wetzelwilson@usda.gov
+

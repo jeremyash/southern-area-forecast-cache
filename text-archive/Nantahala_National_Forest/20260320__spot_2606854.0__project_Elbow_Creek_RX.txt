@@ -1,0 +1,114 @@
+
+000
+FNUS74 KMRX 201957
+FWSMRX
+
+Spot Forecast for Elbow Creek RX...USFS
+National Weather Service Morristown TN
+357 PM EDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 1100 EDT on March 21. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+For Saturday, winds will be westerly with RH's staying in the 40s. 
+Showers and storms are possible in the late afternoon to the evening
+hours with potential for hail. Sunday will see a breezy southwesterly
+wind again with gusts of 20 to 30 mph. 
+
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). Chance of showers 
+                    and thunderstorms late in the afternoon. 
+Max temperature.....Around 79. 
+Min humidity........39 percent. 
+Wind (20 ft)........Light winds becoming west 4 to 8 mph in 
+                    the afternoon. Gusty and erratic winds expected 
+                    near thunderstorms late in the afternoon. 
+Mixing height.......3900 ft AGL. 
+Transport winds.....West 9 to 15 mph. 
+Rainfall amount.....0.05 inches. 
+
+TIME (EDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........40  42  42  33  27  29  30  
+Weather cov.....                        CHC 
+Weather type....                        RW  
+Tstm cov........                        CHC 
+Temp............66  69  73  75  77  78  79  
+RH..............68  59  49  46  43  40  39  
+20 FT wind dir..W   W   W   W   W   W   W   
+20 FT wind spd..3   4   4   5   5   6   6   
+20 FT wind gust.10  11  11  12  12  12  13  
+Mix hgt (kft)...2.1 2.6 3.1 3.7 3.8 3.9 3.7 
+Transp wind dir.W   W   W   W   W   W   W   
+Transp wind spd.9   9   9   13  13  14  15  
+
+.SATURDAY NIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). Slight chance of 
+                    showers and thunderstorms in the evening and 
+                    overnight. 
+Min temperature.....Around 56. 
+Max humidity........96 percent. 
+Wind (20 ft)........West winds around 5 mph early in the evening 
+                    becoming light. Gusty and erratic winds 
+                    expected near thunderstorms in the evening and 
+                    overnight. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Southwest 7 to 13 mph. 
+Rainfall amount.....0.03 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........32  20  19  28  29  30  30  31  31  28  25  22  
+Weather cov.....SCH SCH SCH SCH SCH SCH SCH SCH                 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW                  
+Tstm cov........SCH SCH SCH SCH SCH SCH SCH SCH                 
+Temp............77  75  72  67  64  63  62  61  60  59  58  58  
+RH..............42  48  55  63  70  75  78  81  84  87  90  90  
+20 FT wind dir..W   W   W   W   SW  S   S   S   S   S   S   S   
+20 FT wind spd..5   4   3   3   2   2   2   2   1   1   1   1   
+20 FT wind gust.13  12  11  10  10  10  8   8   7   7   6   6   
+Mix hgt (kft)...2.7 1.2 0.6 0.6 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+Transp wind dir.W   W   W   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.13  10  10  10  10  9   8   8   7   7   7   7   
+
+.SUNDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 82. 
+Min humidity........35 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph with 
+                    gusts to around 16 mph in the afternoon. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....Southwest 6 to 13 mph increasing to 16 to 21 
+                    mph late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........22  21  21  19  16  14  12  9   7   10  12  15  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............57  56  57  61  65  70  74  77  79  81  82  82  
+RH..............93  96  93  84  75  66  57  47  42  38  37  35  
+20 FT wind dir..S   S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..1   1   1   2   3   4   5   6   6   6   6   6   
+20 FT wind gust.6   6   6   7   10  10  12  13  14  14  16  16  
+Mix hgt (kft)...0.5 0.4 0.5 0.9 1.4 2.1 2.9 3.6 4.2 4.8 5.0 4.7 
+Transp wind dir.SW  SW  S   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.7   6   6   6   7   8   9   10  13  16  20  21  
+
+$$
+Forecaster...Doug Schneider
+Requested by...Drew Ford
+Type of request...PRESCRIBED
+.TAG 2606854.0/MRX
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL drew.ford@usda.gov
+

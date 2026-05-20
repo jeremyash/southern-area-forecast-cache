@@ -1,0 +1,146 @@
+
+000
+FNUS74 KLIX 191038
+FWSLIX
+
+Spot Forecast for Desoto 9370 C-507 508 509...USFS
+National Weather Service New Orleans LA
+538 AM CDT Sun Apr 19 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+A cold front has moved through the area this morning. This will
+cause RH values to plummet to near 30 percent later today, and likely
+below 25 percent on Monday. A slow moderation in RH values will 
+occur through the remainder of the week. The next chance of 
+measureable rain will be toward the end of the week.
+
+No fog is expected through Monday afternoon. There is potential 
+for a sea breeze Monday afternoon.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (35-45 percent). Chance of rain 
+                    showers early in the morning. 
+Chance of pcpn......50 percent. 
+Max temperature.....Around 73. 
+Min humidity........28 percent. 
+Dewpoint............49 decreasing to 38. 
+Max apparent temp...72. 
+Wind (20 ft)........North winds 10 to 17 mph. 
+Mixing height (m)...427-1341 meters AGL. 
+Transport winds.....Northeast 21 to 28 mph. 
+Transport winds m/s.Northeast 9 to 13 meters/second. 
+LVORI...............4. 
+Rainfall amount.....0.08 inches. 
+
+TIME (CDT)      7 AM   9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........89     77     78     71     53     38     
+Weather cov.....CHANCE CHANCE                             
+Weather type....RNSHWR RNSHWR NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).50     30     0      0      0      0      
+Temp............53     55     61     67     71     71     
+Dewpoint........50     48     44     39     38     38     
+RH..............89     77     53     36     30     30     
+Aparnt tmp (F)..53     55     61     67     71     71     
+20 FT wind dir..N      NNE    NNE    NNE    NNE    NNE    
+20 FT wind spd..20     17     15     13     13     12     
+20 FT wind gust.28     28     28     25     24     21     
+Mix hgt (m).....520    430    670    1070   1250   1220   
+Transp wind dir.NNE    NNE    NNE    NNE    NNE    NNE    
+Transp wind spd.28     24     23     25     24     21     
+Trans wind dir..NNE    NNE    NNE    NNE    NNE    NNE    
+Trans spd (m/s).13     11     10     11     11     9      
+LVORI...........7      4      2      2      1      1      
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 49. 
+Max humidity........59 percent. 
+Dewpoint............37. 
+Max apparent temp...70. 
+Wind (20 ft)........North winds 6 to 9 mph. 
+Mixing height (m)...122-1067 meters AGL. 
+Transport winds.....North 15 to 22 mph shifting to the northeast 10 
+                    to 12 mph early in the evening. 
+Transport winds m/s.Northeast 4 to 7 meters/second. 
+LVORI...............2. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........36     31     21     15     23     30     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............70     63     58     55     53     51     
+Dewpoint........38     39     39     38     37     36     
+RH..............31     41     49     53     54     56     
+Aparnt tmp (F)..70     63     58     55     53     51     
+20 FT wind dir..NNE    NNE    NNE    NNE    NNE    NNE    
+20 FT wind spd..10     8      7      6      6      7      
+20 FT wind gust.18     14     14     14     14     15     
+Mix hgt (m).....1070   150    120    120    120    120    
+Transp wind dir.NNE    NNE    NNE    NNE    NNE    NE     
+Transp wind spd.22     12     10     12     12     12     
+Trans wind dir..NNE    NNE    NNE    NNE    NNE    NE     
+Trans spd (m/s).10     5      4      5      5      5      
+LVORI...........1      2      2      2      2      3      
+
+.MONDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 80. 
+Min humidity........22 percent. 
+Dewpoint............37 increasing to 41 late in the afternoon. 
+Max apparent temp...79. 
+Wind (20 ft)........Northeast winds 6 to 9 mph. 
+Mixing height (m)...122-1829 meters AGL. 
+Transport winds.....East 12 to 20 mph decreasing to around 10 mph 
+                    late in the afternoon. 
+Transport winds m/s.East 5 to 9 meters/second decreasing to around 
+                    4 meters/second late in the afternoon. 
+LVORI...............2. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........39     30     45     44     44     43     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............49     54     67     75     79     80     
+Dewpoint........36     37     38     37     37     39     
+RH..............61     52     34     25     22     23     
+Aparnt tmp (F)..46     54     67     75     79     79     
+20 FT wind dir..NNE    NE     ENE    ENE    ENE    ENE    
+20 FT wind spd..7      8      10     9      8      7      
+20 FT wind gust.15     15     18     18     17     14     
+Mix hgt (m).....120    370    850    1250   1650   1770   
+Transp wind dir.NE     ENE    ENE    ENE    ENE    E      
+Transp wind spd.12     17     20     17     15     13     
+Trans wind dir..NE     ENE    ENE    ENE    ENE    E      
+Trans spd (m/s).5      8      9      8      7      6      
+LVORI...........2      2      1      1      1      1      
+
+$$
+Forecaster...WAGNER
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2610541.3/LIX
+.DELDT 04/19/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

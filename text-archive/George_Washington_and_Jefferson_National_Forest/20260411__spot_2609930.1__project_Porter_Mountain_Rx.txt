@@ -1,0 +1,123 @@
+
+000
+FNUS71 KRNK 110741
+FWSRNK
+
+Spot Forecast for Porter Mountain Rx...USFS
+National Weather Service Blacksburg VA
+341 AM EDT Sat Apr 11 2026
+
+Forecast is based on ignition time of 0800 EDT on April 11. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Front will slide through this morning with 20 foot winds 
+from the northwest at 5 to 10 mph, with gusts to 20 mph.
+More sunshine than clouds today, though RH values will sink
+to 30 to 40 percent.
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+CWR (0.01 in).......10 percent. 
+Max temperature.....Around 68. 
+Min humidity........33 percent. 
+Wind (20 ft)........Northwest winds 6 to 8 mph. Gusts up to 20 mph 
+                    late in the morning then 20 mph early in the 
+                    afternoon. 
+Mixing height.......5800 ft AGL. 
+Mixing winds........West 7 to 12 mph shifting to the northwest 13 
+                    to 21 mph in the late morning and afternoon. 
+Smoke dispersal.....Poor (2000 knot-ft) early in the morning 
+                    increasing to excellent (83500 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........61  54  46  42  36  40  30  32  26  20  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   0   0   0   10  10  
+Temp............53  56  60  63  65  67  67  68  68  68  
+RH..............48  45  42  38  37  34  33  33  33  34  
+20 FT wind dir..W   W   NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..6   6   7   8   8   8   8   7   6   6   
+20 FT wind gust.12  13  14  16  16  14  16  14  14  13  
+Mix hgt (kft)...0.3 0.9 2.0 3.1 4.0 4.7 5.6 5.8 5.6 5.3 
+Mixng wind dir..W   W   NW  NW  NW  NW  NW  NW  NW  NW  
+Mixng wind spd..7   12  17  21  21  20  17  16  15  13  
+VRate mph-ft/1K.2   10  33  64  84  92  96  92  81  67  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 47. 
+Max humidity........80 percent. 
+Wind (20 ft)........Northwest winds 5 to 6 mph early in the evening 
+                    becoming light. 
+Mixing height.......300 ft AGL. 
+Mixing winds........Northwest 2 to 10 mph shifting to the north 
+                    around 1 mph overnight, then shifting to the 
+                    southeast 1 to 2 mph overnight. 
+Smoke dispersal.....Good (33900 knot-ft) early in the evening 
+                    decreasing to poor (300 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........15  22  14  15  14  16  11  16  27  25  28  38  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............66  66  62  60  58  56  55  54  52  52  50  50  
+RH..............41  42  51  54  59  63  65  68  70  71  73  73  
+20 FT wind dir..NW  NW  NW  NW  N   NE  E   SE  SE  SE  SE  SE  
+20 FT wind spd..6   5   4   3   3   2   2   2   2   2   3   4   
+20 FT wind gust.11  10  8   6   6   5   5   5   6   5   6   7   
+Mix hgt (kft)...3.9 2.5 0.4 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 
+Mixng wind dir..NW  NW  NW  NW  NW  NW  N   E   SE  SE  SE  SE  
+Mixng wind spd..10  7   5   3   2   2   1   1   1   1   2   2   
+VRate mph-ft/1K.39  18  2   1   1   1   0   0   0   0   0   1   
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 71. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 9 mph with 
+                    gusts to around 17 mph. 
+Mixing height.......3700 ft AGL. 
+Mixing winds........Southeast 2 to 9 mph shifting to the south 13 
+                    to 17 mph in the afternoon. 
+Smoke dispersal.....Poor (700 knot-ft) early in the morning 
+                    increasing to good (54100 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........41  51  54  34  29  23  30  37  44  44  44  44  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............50  49  51  53  58  63  67  69  71  71  71  70  
+RH..............75  80  79  75  65  55  49  44  38  36  36  38  
+20 FT wind dir..SE  SE  SE  SE  S   S   S   S   S   S   S   S   
+20 FT wind spd..4   5   5   5   6   6   7   7   8   8   8   9   
+20 FT wind gust.7   8   8   10  11  12  13  14  16  17  17  16  
+Mix hgt (kft)...0.3 0.3 0.4 0.9 1.1 1.4 2.0 2.7 3.5 3.6 3.6 3.7 
+Mixng wind dir..SE  SE  SE  SE  SE  S   S   S   S   S   S   S   
+Mixng wind spd..2   2   3   5   7   9   13  15  17  17  16  15  
+VRate mph-ft/1K.1   1   1   4   8   13  24  41  60  62  60  55  
+
+$$
+Forecaster...Perry
+Requested by...Burn Boss
+Type of request...PRESCRIBED
+.TAG 2609930.1/RNK
+.DELDT 04/11/26
+.FormatterVersion 2.0.0
+.EMAIL todd.caudill@usda.gov,jonathan.catron@usda.gov
+

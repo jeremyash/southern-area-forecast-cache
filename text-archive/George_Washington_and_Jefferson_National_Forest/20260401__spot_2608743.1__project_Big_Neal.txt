@@ -1,0 +1,149 @@
+
+000
+FNUS71 KRNK 010846
+FWSRNK
+
+Spot Forecast for Big Neal...USFS
+National Weather Service Blacksburg VA
+446 AM EDT Wed Apr 1 2026
+
+Forecast is based on ignition time of 0700 EDT on April 01. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry start to the day with morning sunshine giving way to
+increasing afternoon clouds.  A front to our north will be
+the focus for showers and thunderstorms this afternoon with
+greatest coverage during the late afternoon (1500-1800).
+Storms will be capable of producing strong gusty winds and hail. 
+
+After today, warm, late spring-like weather is expected for the
+remainder of the week with above seasonal temperatures. There is a 
+daily threat for an afternoon thunderstorm through Saturday.
+A strong cold front will cross the area Sunday, bringing rain, 
+followed by cooler temperatures and mainly dry weather for next week. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Increasing clouds (40-75 percent). Rain showers and 
+                    chance of thunderstorms in the afternoon. 
+CWR (0.01 in).......10 percent this morning, increasing to 60 percent 
+                    after 1400, and 80 percent around 1600 before 
+                    decreasing in the evening.  
+Max temperature.....Around 75. 
+Min humidity........50 percent. 
+Wind (20 ft)........Southwest winds 4 to 8 mph. Gusty and erratic 
+                    winds expected near thunderstorms in the afternoon. 
+Mixing height.......5100 ft AGL. 
+Mixing winds........West 6 to 12 mph increasing to 14 to 22 mph in 
+                    the late morning and afternoon. 
+Smoke dispersal.....Poor (4600 knot-ft) early in the morning 
+                    increasing to excellent (77000 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................7 early in the morning increasing to 59 in the 
+                    afternoon. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........30  34  42  50  58  59  64  76  80  84  71  
+Weather cov.....                    SCH CHC LKY LKY DEF LKY 
+Weather type....                    RW  RW  RW  RW  RW  RW  
+Tstm cov........                    SCH CHC CHC CHC CHC CHC 
+CWR.............0   10  10  10  10  20  30  60  70  80  60  
+Temp............57  58  60  65  69  72  74  74  75  74  74  
+RH..............82  84  79  71  63  57  55  52  52  51  52  
+20 FT wind dir..W   W   W   W   W   W   SW  SW  SW  SW  W  
+20 FT wind spd..5   5   5   5   6   6   6   6   6   6   6   
+20 FT wind gust.13  13  14  14  14  14  14  14  14  14  13  
+Mix hgt (kft)...0.9 1.0 1.7 2.8 3.8 4.3 4.7 5.1 4.7 4.4 3.6 
+Mixng wind dir..W   W   W   W   W   W   W   W   SW  SW  W  
+Mixng wind spd..6   7   12  17  22  21  17  14  14  14  14  
+LVORI...........4   4   3   3   1   1   1   1   1   1   1   
+ADI.............7   9   25  41  59  59  51  43  41  41  37  
+VRate mph-ft/1K.5   7   20  50  84  89  81  72  67  63  50  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (75-85 percent) then becoming 
+                    partly cloudy (45-55 percent) after midnight. 
+                    Chance of showers and thunderstorms in the
+                    evening. 
+CWR (0.01 in).......50 percent decreasing to 10 percent. 
+Min temperature.....Around 56. 
+Max humidity........95 percent. 
+Wind (20 ft)........Variable winds around 5 mph early in the 
+                    evening becoming light.  
+Mixing height.......500 ft AGL. 
+Mixing winds........Southwest 5 to 13 mph decreasing to 2 to 3 mph 
+                    after 3 am. 
+Smoke dispersal.....Fair (26600 knot-ft) early in the evening 
+                    decreasing to poor (1100 knot-ft) late in the 
+                    night. 
+LVORI...............5. 
+ADI.................1 to 35. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........85     76     63     51     73     50     
+Weather cov.....CHANCE CHANCE CHANCE                      
+Weather type....RNSHWR RNSHWR RNSHWR NONE   NONE   NONE   
+Tstm cov........CHANCE CHANCE CHANCE                      
+CWR.............50     40     30     10     10     10     
+Temp............72     66     62     60     58     56     
+RH..............56     70     76     84     92     95     
+20 ft wind......NW 5   SW 3   SW 2   SW 2   S 2    W 1    
+20 ft wind gust.12     10     8      6      5      5      
+Mix hgt (ft)....2500   700    800    600    600    500    
+Mixing wind.....SW 12  S 8    SW 12  SW 10  SW 5   SW 2   
+LVORI...........2      3      4      5      6      7      
+ADI.............35     4      5      5      2      1      
+VRate mph-ft/1K.31     6      10     7      3      1      
+
+.THURSDAY...
+
+Sky/weather.........Partly sunny (50-60 percent). Slight chance of 
+                    rain showers early in the morning. Chance of 
+                    rain showers and slight chance of thunderstorms 
+                    late in the afternoon. 
+CWR (0.01 in).......10 percent increasing to 50 percent. 
+Max temperature.....Around 78. 
+Min humidity........48 percent. 
+Wind (20 ft)........Light winds becoming south 4 to 8 mph with 
+                    gusts to around 16 mph in the afternoon. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    late in the afternoon. 
+Mixing height.......5100 ft AGL. 
+Mixing winds........West 5 to 10 mph shifting to the southwest 13 
+                    to 17 mph in the afternoon. 
+Smoke dispersal.....Poor (300 knot-ft) early in the morning 
+                    increasing to excellent (67700 knot-ft) in the 
+                    afternoon. 
+LVORI...............5. 
+ADI.................1 early in the morning increasing to 71 in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........42        44        43        64        
+Weather cov.....          S CHC     S CHC     CHANCE    
+Weather type....NONE      RNSHWR    RNSHWR    RNSHWR    
+Tstm cov........                              S CHC     
+CWR.............10        20        20        50        
+Temp............56        58        74        78        
+RH..............93        90        58        48        
+20 FT wind......SW 1G4    S 2G6     S 4G11    S 6G14    
+Mix hgt (ft)....500       1100      3300      4800      
+Mixing wind.....W 1       W 3       SW 13     SW 16     
+LVORI...........8         6         1         1         
+ADI.............1         5         51        49        
+VRate mph-ft/1K.1         4         42        77        
+
+$$
+Forecaster...Manuel
+Requested by...Joe Jarrells
+Type of request...PRESCRIBED
+.TAG 2608743.1/RNK
+.DELDT 04/01/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.jarrells@usda.gov
+

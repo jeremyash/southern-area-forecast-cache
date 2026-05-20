@@ -1,0 +1,93 @@
+
+000
+FNUS74 KSHV 261234
+FWSSHV
+
+Spot Forecast for Winn BU-037...USDA Forest Service
+National Weather Service Shreveport LA
+734 AM CDT Thu Mar 26 2026
+
+Forecast is based on ignition time of 0800 CDT on March 26. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have 
+questions or concerns with this forecast.
+
+.DISCUSSION...
+
+Clouds this morning will gradually give way to more sunshine this
+afternoon with high temperatures climbing well into the mid 80s. 
+Minimum RH values will remain in the 35 to 40 percent range with 
+southerly winds at 5-10 mph in the afternoon ahead of tomorrow's 
+frontal boundary (transport winds near 10-15 mph). LVORI values 
+will briefly remain in the 4-7 range due to low clouds and patchy
+fog that will lift later this morning. Mixing heights will max out 
+near 5Kft this afternoon.
+
+.REST OF TODAY...
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........52  59  54  41  26  15  17  28  28  25  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   0   0   0   0   0   
+Temp............61  63  68  71  76  79  83  84  85  85  
+RH..............100 97  84  73  62  54  46  41  40  39  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..3   5   6   6   6   6   7   7   7   7   
+20 FT wind gust.14  14  15  16  16  16  17  17  16  17  
+Mix hgt (kft)...0.4 1.2 1.7 2.3 2.9 3.6 4.3 4.6 5.0 4.6 
+Mix hgt (km)....0.1 0.4 0.5 0.7 0.9 1.1 1.3 1.4 1.5 1.4 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.13  14  15  15  16  16  16  15  16  17  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).6   6   7   7   7   7   7   7   7   8   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........19  22  19  11  1   7   7   5   6   26  39  45  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............84  81  77  73  72  69  68  66  64  63  62  62  
+RH..............40  46  50  57  59  66  70  78  84  90  97  97  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   SW  SW  
+20 FT wind mph..6   6   6   6   6   6   6   6   6   6   6   5   
+20 FT wind gust.16  16  17  17  18  20  18  18  17  17  16  14  
+Mix hgt (kft)...3.8 0.4 0.4 0.4 0.5 0.4 0.5 0.6 0.6 0.8 0.8 0.6 
+Mix hgt (km)....1.2 0.1 0.1 0.1 0.2 0.1 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.S   S   S   S   S   S   S   S   SW  SW  SW  SW  
+Transp wind spd.16  12  13  15  16  16  15  16  16  15  14  14  
+Trans wind dir..S   S   S   S   S   S   S   S   SW  SW  SW  SW  
+Trans spd (m/s).7   5   6   7   7   7   7   7   7   7   6   6   
+
+.FRIDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........64  64  51  55  57  46  23  12  12  12  12  19  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............62  62  61  65  69  72  76  79  80  81  82  80  
+RH..............97  97  100 90  81  71  60  52  49  47  44  47  
+20 FT wind dir..S   SW  S   SW  SW  SW  SW  SW  W   W   NW  NW  
+20 FT wind mph..3   2   2   2   3   3   3   3   3   3   5   6   
+20 FT wind gust.13  12  10  10  12  12  10  10  10  10  12  13  
+Mix hgt (kft)...0.6 0.7 0.7 1.6 2.4 2.9 3.4 3.6 3.9 5.1 6.0 4.8 
+Mix hgt (km)....0.2 0.2 0.2 0.5 0.7 0.9 1.0 1.1 1.2 1.6 1.8 1.5 
+Transp wind dir.SW  SW  SW  SW  SW  SW  W   W   W   NW  NW  N   
+Transp wind spd.13  10  8   9   9   10  8   7   7   6   6   7   
+Trans wind dir..SW  SW  SW  SW  SW  SW  W   W   W   NW  NW  N   
+Trans spd (m/s).6   4   4   4   4   4   4   3   3   3   3   3   
+
+$$
+Forecaster...HEMINGWAY
+Requested by...Charles Davis
+Type of request...PRESCRIBED
+.TAG 2607995.0/SHV
+.DELDT 03/26/26
+.FormatterVersion 2.0.0
+.EMAIL charles.g.davis@usda.gov
+

@@ -1,0 +1,120 @@
+
+000
+FNUS74 KLZK 190550
+FWSLZK
+
+Spot Forecast for SYL - Tarwater 1...USFS
+National Weather Service Little Rock AR
+1250 AM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 1000 CDT on March 19. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Surface winds will begin light and variable across most of the
+state before becoming established out of the southwest to south-
+southwest this morning. No precipitation of any type is expected
+as dry conditions will continue. RH values will approach critical
+values on Thursday afternoon. 
+
+.REST OF TODAY...
+
+Max temperature.....61 at ignition...Max 80. 
+Min humidity........53 percent at ignition...Min 30 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............1. 
+Sky/weather.........Sunny (10-20 percent). 
+Dispersion..........10 increasing to 27 in the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....76. 
+Category Day........4. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR MCR MCR CLR CLR CLR 
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Temp............61  67  71  76  78  79  80  79  
+RH..............53  45  41  34  32  30  30  31  
+20 FT wind dir..S   SE  SE  SE  S   S   S   S   
+20 FT wind spd..2   2   2   2   3   3   3   3   
+20 FT wind gust.4   5   6   6   6   7   8   8   
+MixHgtAGL (kft).1.1 1.5 2.0 2.7 3.8 4.9 5.2 3.9 
+MixHgtMSL (kft).1.9 2.3 2.9 3.5 4.7 5.7 6.0 4.8 
+Transp wind dir.W   SW  S   S   S   S   S   S   
+Transp wind spd.6   6   6   7   8   10  12  12  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 53. 
+Max humidity........Max 86 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............3. 
+Sky/weather.........Mostly clear (15-25 percent). 
+Dispersion..........22 decreasing to 5 in the late evening and 
+                    overnight. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....MISSING. 
+Category Day........2. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky cover.......MCLEAR MCLEAR MCLEAR PCLDY  PCLDY  MCLEAR 
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Temp............78     71     66     63     61     57     
+RH..............32     46     56     62     70     80     
+20 ft wind......S 3    S 3    S 2    SW 2   SW 2   SW 2   
+20 ft wind gust.8      6      6      6      4      4      
+MixHgtAGL (ft)..2100   100    300    300    300    300    
+MixHgtMSL (ft)..3000   1000   1200   1200   1200   1200   
+Transp wind dir.S      S      S      SW     SW     W      
+Transp wind spd.12     10     9      10     9      7      
+Chc of pcpn (%).0      0      0      0      0      0      
+
+.FRIDAY...
+
+Max temperature.....Max 87. 
+Min humidity........Min 26 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............3 early in the morning. 
+Sky/weather.........Sunny (5-15 percent). 
+Dispersion..........11 increasing to 23 in the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....81. 
+Category Day........3. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky cover.......MCLEAR MCLEAR MCLEAR CLEAR  CLEAR  MCLEAR 
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Temp............55     55     67     77     84     87     
+RH..............83     83     63     43     32     26     
+20 ft wind......SW 2   SW 2   W 2    W 2    W 2    SW 3   
+20 ft wind gust.              4      6      7      8      
+MixHgtAGL (ft)..200    300    1000   2900   5200   6300   
+MixHgtMSL (ft)..1100   1200   1800   3700   6100   7100   
+Transp wind dir.W      W      W      W      W      W      
+Transp wind spd.7      8      9      8      7      9      
+Chc of pcpn (%).0      0      0      0      0      0      
+
+$$
+Forecaster...C POPE
+Requested by...FMO
+Type of request...PRESCRIBED
+.TAG 2606400.0/LZK
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL william.hilton@usda.gov,casey.galloway@usda.gov
+

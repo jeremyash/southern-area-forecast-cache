@@ -1,0 +1,141 @@
+
+000
+FNUS74 KLCH 081010
+FWSLCH
+
+Spot Forecast for BU 365...USFS
+National Weather Service Lake Charles LA
+510 AM CDT Wed Apr 8 2026
+
+Forecast is based on ignition time of 0700 CDT on April 08. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (337) 477-5285, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+High pressure shifts into the eastern seaboard starting today, 
+allowing for moisture to begin returning to the region as winds
+generally turn towards the east-southeast. 20 ft wind speeds will
+be sustained at around 5 to 10 knots, though there may be some
+variance in direction at times during daytime hours when mixing
+takes place. RH values will vary in the 30 to 40 percent range today.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (25-35 percent). 
+Max temperature.....Around 81. 
+Min humidity........32 percent. 
+Eye level winds.....Light winds becoming east around 4 mph in the 
+                    late morning and afternoon. 
+Wind (20 ft)........East winds 5 to 6 mph early in the morning 
+                    becoming light, then becoming southeast around 
+                    6 mph in the late morning and afternoon. 
+Mixing height.......6900 ft AGL. 
+Transport winds.....East 7 to 14 mph shifting to the southeast 9 to 
+                    13 mph in the afternoon. 
+Mixing height (m)...91-2103 meters AGL. 
+Transport winds m/s.Southeast 3 to 6 meters/second. 
+
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........82  67  57  44  28  30  23  19  15  19  13  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Temp............55  56  62  67  72  76  78  79  80  80  81  
+RH..............69  69  59  50  44  37  35  34  33  33  32  
+20 FT wind dir..NE  E   E   E   E   SE  SE  SE  SE  E   E   
+20 FT wind spd..2   3   3   6   6   6   6   6   6   6   6   
+20 FT wind gust.10  10  12  13  14  13  13  13  13  13  14  
+Eye lvl wnd dir.NE  E   E   E   E   SE  SE  SE  SE  E   E   
+Eye lvl wnd spd.1   2   2   4   4   4   4   4   4   4   4   
+Eye lvl wnd gst.6   6   7   8   8   8   8   8   8   8   8   
+Mix hgt (kft)...0.3 0.4 0.7 1.3 3.3 4.9 6.0 6.6 6.9 6.9 5.7 
+Mix hgt (km)....0.1 0.1 0.2 0.4 1.0 1.5 1.8 2.0 2.1 2.1 1.7 
+Transp wind dir.E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+Transp wind spd.7   7   9   10  14  13  12  12  10  9   9   
+Trans wind dir..E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+Trans spd (m/s).3   3   4   4   6   6   5   5   4   4   4   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Min temperature.....Around 57. 
+Max humidity........93 percent. 
+Eye level winds.....Southeast winds up to 4 mph in the evening 
+                    becoming light. 
+Wind (20 ft)........Southeast winds around 5 mph in the evening 
+                    becoming light. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southeast 9 to 16 mph. 
+Mixing height (m)...122-1341 meters AGL. 
+Transport winds m/s.Southeast 4 to 7 meters/second. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........7   6   10  15  8   11  11  5   7   8   6   14  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............79  77  73  69  67  65  64  63  62  60  59  59  
+RH..............35  39  44  49  53  58  65  71  75  84  92  92  
+20 FT wind dir..E   E   SE  SE  SE  SE  SE  SE  SE  SE  E   E   
+20 FT wind spd..6   5   5   5   5   5   3   3   2   2   2   2   
+20 FT wind gust.13  13  13  14  14  13  13  12  10  10  10  10  
+Eye lvl wnd dir.E   E   SE  SE  SE  SE  SE  SE  SE  SE  E   E   
+Eye lvl wnd spd.4   3   3   3   3   3   2   2   1   1   1   1   
+Eye lvl wnd gst.8   8   8   8   8   8   8   7   6   6   6   6   
+Mix hgt (kft)...4.4 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mix hgt (km)....1.3 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.E   E   SE  SE  SE  SE  SE  SE  SE  SE  SE  E   
+Transp wind spd.10  10  12  13  15  16  14  12  10  9   9   9   
+Trans wind dir..E   E   SE  SE  SE  SE  SE  SE  SE  SE  SE  E   
+Trans spd (m/s).4   4   5   6   7   7   6   5   4   4   4   4   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Max temperature.....Around 81. 
+Min humidity........43 percent. 
+Eye level winds.....Light winds becoming east up to 4 mph in the 
+                    late morning and afternoon. 
+Wind (20 ft)........East winds 5 to 6 mph early in the morning 
+                    becoming light, then becoming east 5 to 6 mph 
+                    in the late morning and afternoon. 
+Mixing height.......5900 ft AGL. 
+Transport winds.....Southeast 8 to 15 mph. 
+Mixing height (m)...122-1798 meters AGL. 
+Transport winds m/s.Southeast 4 to 7 meters/second. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........25  28  12  14  16  18  21  23  26  30  33  32  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............58  57  59  64  69  73  76  78  80  81  81  80  
+RH..............90  93  93  81  70  62  56  50  46  43  43  44  
+20 FT wind dir..E   E   E   E   E   E   SE  SE  SE  E   E   E   
+20 FT wind spd..2   3   3   5   6   6   6   6   6   6   6   6   
+20 FT wind gust.10  12  13  14  14  14  14  13  13  13  13  13  
+Eye lvl wnd dir.E   E   E   E   E   E   SE  SE  SE  E   E   E   
+Eye lvl wnd spd.1   2   2   3   4   4   4   4   4   4   4   4   
+Eye lvl wnd gst.6   7   8   8   8   8   8   8   8   8   8   8   
+Mix hgt (kft)...0.4 0.4 0.9 1.9 2.9 3.8 4.6 5.1 5.7 5.9 5.5 4.0 
+Mix hgt (km)....0.1 0.1 0.3 0.6 0.9 1.2 1.4 1.6 1.7 1.8 1.7 1.2 
+Transp wind dir.E   E   E   SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Transp wind spd.8   10  12  13  15  14  13  10  10  10  10  10  
+Trans wind dir..E   E   E   SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Trans spd (m/s).4   4   5   6   7   6   6   4   4   4   4   4   
+
+$$
+Forecaster...SILAS
+Requested by...Jason French
+Type of request...PRESCRIBED
+.TAG 2609385.0/LCH
+.DELDT 04/08/26
+.FormatterVersion 2.0.0
+.EMAIL brian.gidcumb@usda.gov,jason.french@usda.gov
+

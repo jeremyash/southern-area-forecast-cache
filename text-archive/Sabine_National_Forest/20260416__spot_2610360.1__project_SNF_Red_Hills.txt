@@ -1,0 +1,87 @@
+
+000
+FNUS74 KSHV 160825
+FWSSHV
+
+Spot Forecast for SNF Red Hills...USFS
+National Weather Service Shreveport LA
+325 AM CDT Thu Apr 16 2026
+
+Forecast is based on ignition time of 0700 CDT on April 16. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Very warm and dry conditions will continue today, with the morning low clouds 
+giving way to a mix of clouds and sun for the afternoon. Look for min RH's 
+to fall to 50-55% this afternoon, with southerly 20ft winds increasing to 
+6-10 mph by mid-morning through the afternoon. Winds will quickly decouple 
+after sunset, with good RH recovery expected tonight. No patchy fog is 
+expected, but low clouds will again redevelop late and shift north over the 
+area. Slightly lower min RH's are expected Friday, with southerly 20ft winds 
+increasing to around 10 mph with occasional higher gusts Friday.
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........68  65  52  54  36  33  33  40  47  37  35  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   10  10  10  0   0   
+Temp............67  68  71  75  78  80  82  84  85  85  84  
+RH..............100 100 94  82  72  65  60  55  53  53  54  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..2   2   4   7   8   8   8   8   7   7   5   
+20 FT wind gust.            13  15  15  15  14  14  14  12  
+Mix hgt (kft)...0.6 1.2 2.0 2.7 3.3 3.9 4.6 5.1 5.3 5.3 4.0 
+Mix hgt (km)....0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.6 1.6 1.2 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.13  14  14  15  15  14  13  12  13  12  14  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).6   6   6   7   7   6   6   5   6   5   6   
+
+.TONIGHT...
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........39     38     4      13     33     53     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............85     78     73     70     68     66     
+RH..............53     69     81     87     93     97     
+20 ft wind......S 5    S 3    S 3    S 2    S 2    S 2    
+20 ft wind gust.10          
+Mix hgt (ft)....2000   500    600    500    600    600    
+Mix hgt (m).....610    150    180    150    180    180    
+Transport wind..S 14   S 13   S 14   S 13   S 12   S 12   
+Tran wind (m/s).S 6    S 6    S 6    S 6    S 5    S 5    
+
+.FRIDAY...
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........60     51     27     20     17     20     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............66     66     75     81     84     86     
+RH..............100    100    76     60     51     46     
+20 ft wind......S 2    S 3    S 7    S 8    S 8    S 8    
+20 ft wind gust.              16     18     18     20     
+Mix hgt (ft)....700    1300   2500   3800   5200   5600   
+Mix hgt (m).....210    400    760    1160   1580   1710   
+Transport wind..S 12   S 15   S 16   S 17   S 20   S 20   
+Tran wind (m/s).S 5    S 7    S 7    S 8    S 9    S 9    
+
+$$
+
+Forecaster...HANSFORD
+Requested by...Matt Laricos
+Type of request...PRESCRIBED
+.TAG 2610360.1/SHV
+.DELDT 04/16/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.laricos@usda.gov
+

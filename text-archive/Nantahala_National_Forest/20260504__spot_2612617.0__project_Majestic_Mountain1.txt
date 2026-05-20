@@ -1,0 +1,110 @@
+
+000
+FNUS74 KMRX 041305
+FWSMRX
+
+Spot Forecast for Majestic Mountain1...USDA Forest Service
+National Weather Service Morristown TN
+905 AM EDT Mon May 4 2026
+
+Forecast is based on ignition time of 1100 EDT on May 04. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+It will be dry and mostly clear today with low afternoon relative
+humidity values. Winds should be light for the most part, with 
+an occasional gust into the 10-12 mph range by mid afternoon.
+
+Next best chance of widespread rain and storms comes in the middle 
+of the week. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Max temperature.....Around 78. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds becoming west 5 to 6 mph in the 
+                    afternoon. 
+Mixing height.......6400 ft AGL. 
+Transport winds.....Southwest 7 to 12 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........16  8   14  19  17  26  41  
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+Temp............64  68  71  75  75  76  77  
+RH..............48  44  41  36  36  34  33  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   3   3   4   5   5   6   
+20 FT wind gust.6   7   7   10  10  10  11  
+Mix hgt (kft)...2.9 3.9 5.0 5.8 6.2 6.4 6.2 
+Transp wind dir.W   W   W   SW  SW  SW  SW  
+Transp wind spd.7   7   8   8   9   10  12  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). 
+Min temperature.....Around 47. 
+Max humidity........89 percent. 
+Wind (20 ft)........West winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height.......800 ft AGL. 
+Transport winds.....South 7 to 13 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........27  39  41  35  29  22  10  13  13  21  21  23  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............76  74  71  64  61  58  56  54  53  52  50  49  
+RH..............34  37  42  56  62  69  74  77  77  83  86  89  
+20 FT wind dir..SW  SW  SW  S   SE  SE  SE  E   E   E   E   E   
+20 FT wind spd..5   4   3   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.10  10  10  7   6   6   6   6   6   6   6   6   
+Mix hgt (kft)...5.5 2.0 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.8 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   SE  SE  
+Transp wind spd.13  12  8   7   7   7   8   7   7   8   7   7   
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent) then becoming 
+                    mostly cloudy (70-80 percent). 
+Max temperature.....Around 77. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds becoming west 5 to 7 mph with gusts 
+                    to around 16 mph. 
+Mixing height.......6400 ft AGL. 
+Transport winds.....Southeast 6 to 15 mph shifting to the south 17 
+                    to 22 mph late in the morning. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........22  21  35  34  38  41  47  53  59  64  68  73  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............49  48  50  54  61  68  72  74  75  76  77  76  
+RH..............86  89  89  83  65  49  43  38  37  36  36  37  
+20 FT wind dir..E   E   SE  SE  S   S   S   S   S   S   S   S   
+20 FT wind spd..2   2   2   2   3   5   6   6   7   7   7   7   
+20 FT wind gust.6   5   6   7   10  11  13  14  14  16  16  16  
+Mix hgt (kft)...0.8 0.8 0.8 1.8 3.4 5.1 6.0 6.4 6.2 5.9 5.3 4.4 
+Transp wind dir.SE  SE  SE  S   S   S   S   S   S   S   S   S   
+Transp wind spd.6   7   7   10  15  20  22  22  22  21  20  17  
+
+$$
+Forecaster...Charles Dalton
+Requested by...Drew Ford
+Type of request...PRESCRIBED
+.TAG 2612617.0/MRX
+.DELDT 05/04/26
+.FormatterVersion 2.0.0
+.EMAIL drew.ford@usda.gov
+

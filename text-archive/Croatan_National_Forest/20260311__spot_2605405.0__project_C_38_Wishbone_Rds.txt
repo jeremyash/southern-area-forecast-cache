@@ -1,0 +1,144 @@
+
+000
+FNUS72 KMHX 110917
+FWSMHX
+
+Spot Forecast for C 38 Wishbone Rds...USFS
+National Weather Service Newport/Morehead City NC
+517 AM EDT Wed Mar 11 2026
+
+Forecast is based on ignition time of 0600 EDT on March 11. 
+If conditions become unrepresentative, or if you have questions 
+or concerns about this forecast, contact the National Weather 
+Service in Newport at (252)223-2328.
+
+.DISCUSSION...
+Gusty SSW winds will develop today ahead of a cold front with
+gusts up to around 25 mph this afternoon. The strength of the
+wind will limit sea breeze activity with wind direction expected 
+to remain around 190-210 degrees throughout the afternoon. 
+Temperatures will be above normal with highs around 80 across the
+burn area with minimum relative humidity in the lower 60 percent
+range. 
+
+A cold front will push across the area Thursday with gusty W-NW
+winds developing behind the front with widespread rain chances and
+isolated thunderstorm along the front. 
+
+.TODAY...
+
+Sky/weather.........Partly sunny then becoming mostly sunny. Patchy 
+                    fog early in the morning. 
+Max temperature.....Around 80. 
+Min humidity........62 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 12 mph with 
+                    gusts to around 25 mph in the late morning and 
+                    afternoon. 
+Mixing Height.......Max 1900 ft AGL. 
+Transport winds.....Southwest 7 to 14 mph increasing to 18 to 25 
+                    mph in the afternoon. 
+Vent Rate...........Max 39790 mph-ft. 
+LVORI...............Max 9. 
+ADI.................Max 49. 
+Stability class.....4. 
+Sfc pressure........29.96 to 30.06 inHg. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........56  61  68  36  19  12  17  27  40  31  25  21  
+Weather cov.....PTY PTY PTY                                  
+Weather type....FOG FOG FOG                                 
+Tstm cov........                                                
+Temp............58  59  59  65  70  74  76  78  78  79  79  78  
+RH..............100 100 100 84  78  71  69  64  62  60  60  62  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..3   3   3   4   4   5   7   9   11  12  13  13  
+20 FT wind gust.5   5   5   5   5       14  14  18  18  23  23  
+Mix hgt (kft)...0.3 0.4 0.3 0.5 0.8 1.1 1.4 1.8 1.9 1.7 1.6 1.4 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.8   8   7   8   8   10  14  18  21  22  23  25  
+LVORI...........8   8   9   5   4   3   3   1   1   1   1   1   
+ADI.............4   6   5   8   8   15  26  41  49  48  46  46  
+Vrate mph-ft/1K.3   3   2   4   6   12  20  32  40  38  36  36  
+Sfc pres (in)...002 004 005 005 006 006 005 003 001 999 997 996 
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy then becoming mostly cloudy. 
+Min temperature.....Around 65. 
+Max humidity........100 percent. 
+Wind (20 ft)........Southwest winds 9 to 10 mph. Gusts up to 25 mph 
+                    early in the evening. 
+Mixing Height.......Min 800 ft AGL. 
+Transport winds.....Southwest 18 to 24 mph. 
+Vent Rate...........Min 18400 mph-ft. 
+LVORI...............Max 4. 
+ADI.................Min 15. 
+Stability class.....4. 
+Sfc pressure........29.82 to 29.96 inHg. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........23  29  47  60  66  81  77  76  78  73  77  72  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............76  73  70  68  67  66  66  67  67  67  67  67  
+RH..............64  68  76  78  81  84  87  81  84  84  87  87  
+20 FT wind dir..S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..13  12  12  12  12  11  11  11  11  11  11  11  
+20 FT wind gust.23  18  14  14  14  14  14  14  14  14  14  14  
+Mix hgt (kft)...1.4 1.2 0.8 1.3 1.5 1.6 1.6 1.6 1.6 1.7 1.8 1.8 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.22  22  22  24  24  22  20  18  18  18  18  18  
+LVORI...........3   4   3   3   4   4   4   3   3   3   4   4   
+ADI.............39  15  20  27  27  24  22  21  21  20  21  21  
+Vrate mph-ft/1K.30  26  18  32  36  34  31  30  30  31  32  34  
+Sfc pres (in)...995 995 996 996 996 995 994 992 990 987 984 982 
+
+.THURSDAY...
+
+Sky/weather.........Cloudy. Rain likely early in the morning. 
+                    Slight chance of thunderstorms late in the 
+                    morning. Rain late in the afternoon. 
+Max temperature.....Around 72. 
+Min humidity........66 percent. 
+Wind (20 ft)........Southwest winds 10 to 14 mph shifting to the 
+                    northwest 12 to 15 mph with gusts to around
+                    25 mph late in the afternoon. Gusty and erratic 
+                    winds expected near thunderstorms late in the 
+                    morning. 
+Mixing Height.......Max 3600 ft AGL. 
+Transport winds.....Southwest 17 to 20 mph shifting to the 
+                    northwest 22 to 29 mph late in the afternoon, 
+                    then shifting to the north around 29 mph late 
+                    in the afternoon. 
+Vent Rate...........Max 86250 mph-ft. 
+LVORI...............Max 4. 
+ADI.................Max 66. 
+Stability class.....3. 
+Sfc pressure........29.80 to 30.04 inHg. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........85     88     80     84     98     98     
+Weather cov.....       LIKELY LIKELY LIKELY DEFNTE DEFNTE 
+Weather type....NONE   RAIN   RAIN   RAIN   RAIN   RAIN   
+Tstm cov........                     S CHC  S CHC  S CHC  
+Temp............66     67     70     71     67     55     
+RH..............90     84     81     76     73     86     
+20 ft wind......SW 11  SW 11  SW 12  SW 12  SW 10  NW 15  
+20 ft wind gust.14     18     18     18     18     23     
+Mix hgt (ft)....1800   1800   2400   3000   3600   2800   
+Transport wind..SW 18  SW 17  W 17   W 20   NW 24  N 29   
+LVORI...........4      4      3      1      1      3      
+ADI.............20     38     50     48     63     66     
+Vrate mph-ft/1K.33     30     43     61     86     80     
+Sfc pres (in)...29.81  29.80  29.80  29.84  29.91  29.99  
+
+$$
+Forecaster...Kennedy
+Requested by...David Nelson
+Type of request...PRESCRIBED
+.TAG 2605405.0/MHX
+.DELDT 03/11/26
+.FormatterVersion 2.0.0
+.EMAIL david.l.nelson@usda.gov
+

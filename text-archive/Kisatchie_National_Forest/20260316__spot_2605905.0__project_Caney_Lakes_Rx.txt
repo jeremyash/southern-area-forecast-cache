@@ -1,0 +1,93 @@
+
+000
+FNUS74 KSHV 161314
+FWSSHV
+
+Spot Forecast for Caney Lakes Rx...USDA Forest Service
+National Weather Service Shreveport LA
+814 AM CDT Mon Mar 16 2026
+
+Forecast is based on ignition time of 0900 CDT on March 17. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have 
+questions or concerns with this forecast.
+
+...WIND ADVISORY IN EFFECT UNTIL 7 PM CDT THIS EVENING...
+
+.DISCUSSION...
+
+Expect near freezing temperatures areawide on Tuesday morning, 
+but afternoon temperatures will gradually warm into the mid to upper
+50s. As high pressure builds across the region tonight into Tuesday,
+20ft winds will drop off sharply and be very light as high pressure
+will dominate, with min RH values averaging near 20 percent on 
+Tuesday afternoon.
+
+.TUESDAY...
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........6   9   15  20  26  32  39  45  38  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+CWR.............0   0   0   0   0   0   0   0   0   
+Temp............35  41  45  48  52  54  55  57  55  
+RH..............40  30  27  25  23  22  22  21  25  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   
+20 FT wind mph..1   1   1   1   2   2   2   2   2   
+20 FT wind gust.3   5   5   6   6   7   8   9   9   
+Mix hgt (kft)...1.6 2.5 3.0 3.6 4.0 4.4 4.5 4.3 3.2 
+Mix hgt (km)....0.5 0.8 0.9 1.1 1.2 1.3 1.4 1.3 1.0 
+Transp wind dir.S   S   W   SW  SW  SW  SW  SW  SW  
+Transp wind spd.3   3   3   3   5   7   9   12  12  
+Trans wind dir..S   S   W   SW  SW  SW  SW  SW  SW  
+Trans spd (m/s).1   1   1   1   2   3   4   5   5   
+
+.TUESDAY NIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........31  24  29  34  39  38  36  35  39  44  48  50  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............54  53  50  48  45  44  44  43  43  42  42  41  
+RH..............28  32  37  40  45  47  49  51  51  53  53  57  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..2   2   2   2   3   3   3   5   5   5   5   5   
+20 FT wind gust.8   8   9   10  12  12  13  13  13  14  14  14  
+Mix hgt (kft)...1.9 0.8 0.4 0.3 0.4 0.4 0.4 0.5 0.5 0.5 0.5 0.5 
+Mix hgt (km)....0.6 0.2 0.1 0.1 0.1 0.1 0.1 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.S   S   S   S   S   S   S   S   S   SW  SW  SW  
+Transp wind spd.12  10  10  10  10  12  14  15  15  15  14  13  
+Trans wind dir..S   S   S   S   S   S   S   S   S   SW  SW  SW  
+Trans spd (m/s).5   4   4   4   4   5   6   7   7   7   6   6   
+
+.WEDNESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........52  54  55  55  56  49  41  34  27  19  12  12  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............41  41  44  48  51  56  60  65  67  69  70  69  
+RH..............59  62  60  58  56  49  44  38  36  35  34  36  
+20 FT wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind mph..5   5   5   5   7   7   7   7   7   7   5   5   
+20 FT wind gust.14  14  15  15  16  17  17  17  17  16  15  14  
+Mix hgt (kft)...0.5 0.6 0.9 1.3 1.8 2.3 2.8 3.3 3.8 4.2 4.1 3.2 
+Mix hgt (km)....0.2 0.2 0.3 0.4 0.5 0.7 0.9 1.0 1.2 1.3 1.2 1.0 
+Transp wind dir.S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.13  13  15  17  20  21  21  20  18  17  15  13  
+Trans wind dir..S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Trans spd (m/s).6   6   7   8   9   9   9   9   8   8   7   6   
+
+$$
+Forecaster...HEMINGWAY
+Requested by...Charles Davis
+Type of request...PRESCRIBED
+.TAG 2605905.0/SHV
+.DELDT 03/16/26
+.FormatterVersion 2.0.0
+.EMAIL edward.hardesty@usda.gov,charles.g.davis@usda.gov
+

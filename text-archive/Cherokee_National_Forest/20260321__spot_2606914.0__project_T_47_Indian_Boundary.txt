@@ -1,0 +1,147 @@
+
+000
+FNUS74 KMRX 210740
+FWSMRX
+
+Spot Forecast for T-47 Indian Boundary...USFS
+National Weather Service Morristown TN
+340 AM EDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 0500 EDT on March 21. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+Dry this morning into the early afternoon, until a chance of 
+showers and storms increases for later this afternoon and evening.
+Some storms could reach severe limits tonight, with the main
+threat being large hail. Weather will dry out in the area of the
+burn around the early hours Sunday, and conditions will continue 
+to be dry the rest of the day. Wind direction will vary from the
+south, southwest, or west through Sunday. Minimum RH today and
+Sunday will be in the 30 percent range.
+
+.REST OF TONIGHT...
+
+Sky/weather.........Mostly cloudy (45-55 percent). 
+Min temperature.....Around 58. 
+Max humidity........72 percent. 
+Wind (20 ft)........South winds around 5 mph. 
+Mixing height.......700 ft AGL. 
+Transport winds.....Southwest around 13 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      5AM 
+Sky (%).........52  
+Weather cov.....    
+Weather type....    
+Tstm cov........    
+Temp............59  
+RH..............64  
+20 FT wind dir..S   
+20 FT wind spd..5   
+20 FT wind gust.13  
+Mix hgt (kft)...0.7 
+Transp wind dir.SW  
+Transp wind spd.13  
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). Slight chance of 
+                    rain showers late in the afternoon. Slight 
+                    chance of thunderstorms late in the afternoon. 
+                    Chance of rain showers late in the afternoon. 
+Max temperature.....Around 79. 
+Min humidity........38 percent. 
+Wind (20 ft)........South winds around 5 mph early in the morning 
+                    becoming light, then becoming west around 5 mph 
+                    in the afternoon. Gusty and erratic winds 
+                    expected near thunderstorms late in the 
+                    afternoon. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....Southwest 10 to 14 mph shifting to the west 12 
+                    to 17 mph in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........48  43  53  49  34  36  32  25  24  32  36  44  
+Weather cov.....                                    SCH SCH CHC 
+Weather type....                                    RW  RW  RW  
+Tstm cov........                                    SCH SCH SCH 
+Temp............59  58  59  60  64  68  72  74  77  78  79  79  
+RH..............67  69  69  72  65  59  51  46  42  40  38  38  
+20 FT wind dir..S   S   S   SW  SW  SW  SW  W   W   W   W   W   
+20 FT wind spd..5   4   3   4   4   4   4   5   5   5   5   5   
+20 FT wind gust.12  10  10  10  10  10  11  11  12  12  13  13  
+Mix hgt (kft)...0.7 0.7 0.7 0.8 1.7 1.9 2.6 3.0 3.5 3.9 4.4 4.4 
+Transp wind dir.SW  SW  SW  SW  W   W   W   W   W   W   W   W   
+Transp wind spd.12  12  10  12  14  12  12  13  14  16  17  17  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent). Chance of 
+                    showers and thunderstorms in the evening, then 
+                    slight chance of showers and thunderstorms 
+                    overnight. 
+Min temperature.....Around 61. 
+Max humidity........87 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms early in the evening. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    early in the evening. 
+Mixing height.......700 ft AGL. 
+Transport winds.....Southwest 12 to 16 mph. 
+Rainfall amount.....0.15 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........26  40  40  38  37  39  31  36  33  20  34  33  
+Weather cov.....CHC SCH CHC SCH CHC SCH SCH SCH                 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW                  
+Tstm cov........SCH SCH CHC SCH CHC SCH SCH SCH                 
+Temp............77  75  72  69  68  67  66  65  64  64  63  63  
+RH..............39  43  49  57  59  63  68  73  75  75  78  78  
+20 FT wind dir..W   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  S   
+20 FT wind spd..4   3   3   3   4   4   4   4   4   4   4   4   
+20 FT wind gust.11  10  10  10  10  11  11  11  11  10  10  10  
+Mix hgt (kft)...2.8 1.3 1.0 0.7 0.8 0.8 0.8 0.8 0.7 0.7 0.7 0.7 
+Transp wind dir.W   SW  SW  SW  SW  SW  SW  SW  W   SW  SW  SW  
+Transp wind spd.16  14  13  12  13  13  14  14  13  13  14  14  
+
+.SUNDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Max temperature.....Around 82. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph with 
+                    gusts to around 17 mph late in the morning. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....Southwest 10 to 18 mph increasing to 21 to 24 
+                    mph late in the afternoon. 
+Rainfall amount.....0.01 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........28  25  25  21  17  12  12  11  11  13  14  16  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............63  61  63  64  68  72  75  78  80  82  82  82  
+RH..............78  87  81  75  65  55  48  42  38  34  33  33  
+20 FT wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..4   4   4   4   4   5   6   6   6   6   7   7   
+20 FT wind gust.10  10  10  10  11  12  13  14  14  16  17  17  
+Mix hgt (kft)...0.7 0.7 0.6 1.0 1.8 2.8 3.6 4.2 4.7 5.1 5.2 4.9 
+Transp wind dir.SW  S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.12  10  12  10  12  13  14  16  18  21  23  24  
+
+$$
+Forecaster...Kerrie Simmons
+Requested by...Cody Daniels
+Type of request...PRESCRIBED
+.TAG 2606914.0/MRX
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL brian.matoy@usda.gov,charles.daniels@usda.gov,cnfsouthzonefire@gmail.com
+

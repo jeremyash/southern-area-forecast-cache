@@ -1,0 +1,142 @@
+
+000
+FNUS72 KCAE 230839
+FWSCAE
+
+Spot Forecast for CONG RX 23Mar2026 Monday...National Park Service
+National Weather Service Columbia SC
+439 AM EDT Mon Mar 23 2026
+
+Forecast is based on ignition time of 0800 EDT on March 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+A cold front will move through the area this afternoon bringing a
+significant wind shift as it passes. Ahead of the front
+southwesterly winds around 10 mph will gradually shift to the
+west by mid morning and increase to 10 to 15 mph with gusts around
+20 mph until the front passes. Wind will shift to the northwest 
+as the front moves through and then eventually to the north by 
+evening. The front should arrive at the burn site between 3-5pm. 
+Breezy conditions will continue overnight with strong cold 
+advection expected. There is isolated chance of a shower or 
+thunderstorm but not likely. Fog overnight will not be a concern.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (20-30 percent) then becoming partly 
+                    sunny (50-60 percent). 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 88. 
+Min humidity........35 percent. 
+Wind (20 ft)........West winds 7 to 9 mph shifting to the northwest 
+                    8 to 9 mph late in the afternoon. Gusts up to 
+                    22 mph. 
+Mixing height.......6600 ft AGL. 
+Transport winds.....West 16 to 22 mph shifting to the north around 
+                    16 mph late in the afternoon. 
+LVORI...............2. 
+ADI.................17 early in the morning increasing to 80 in the 
+                    afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........18  21  9   5   21  39  28  42  56  57  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   0   0   0   0   0   10  10  10  10  
+Temp............66  69  74  78  82  85  86  87  86  85  
+RH..............73  68  62  54  49  45  40  39  40  40  
+Aparnt tmp (F)..66  69  74  78  83  85  85  86  85  84  
+20 FT wind dir..SW  W   W   W   W   W   NW  NW  NW  NW  
+20 FT wind dir..240 260 260 270 270 280 300 300 310 330 
+20 FT wind spd..8   9   10  10  10  9   9   9   10  10  
+20 FT wind gust.21  22  22  22  22  20  20  21  21  21  
+Mix hgt (kft)...0.7 1.7 2.3 2.9 3.6 4.9 6.1 6.6 6.0 5.5 
+Transp wind dir.W   W   W   W   W   W   NW  NW  NW  N   
+Transp wind dir.260 260 270 280 280 280 300 300 310 340 
+Transp wind spd.16  22  22  22  21  20  17  16  17  16  
+LVORI...........3   1   1   1   1   1   1   1   1   1   
+ADI.............17  46  59  68  74  80  77  75  77  69  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 48. 
+Max humidity........44 percent. 
+Wind (20 ft)........North winds 8 to 9 mph with gusts to around 23 
+                    mph. 
+Mixing height.......700 ft AGL. 
+Transport winds.....Northeast 18 to 25 mph. 
+LVORI...............2. 
+ADI.................74 early in the evening decreasing to 12 late 
+                    in the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........37  26  29  13  13  19  21  24  25  30  32  38  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............84  81  75  70  66  63  61  58  56  53  52  50  
+RH..............37  35  36  36  37  35  33  36  35  36  38  41  
+Aparnt tmp (F)..83  80  75  70  66  63  61  58  56  53  52  46  
+20 FT wind dir..N   N   N   N   N   N   NE  NE  NE  NE  NE  NE  
+20 FT wind dir..350 000 010 020 020 020 030 030 030 030 040 040 
+20 FT wind spd..10  9   9   10  10  10  10  10  9   9   9   9   
+20 FT wind gust.21  20  20  22  22  23  23  23  21  21  21  22  
+Mix hgt (kft)...4.2 1.3 1.2 0.9 0.7 1.7 1.9 1.0 1.1 1.1 1.1 1.1 
+Transp wind dir.N   N   N   N   NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind dir.350 000 010 010 030 030 030 040 040 040 040 040 
+Transp wind spd.20  18  23  24  23  25  25  22  21  20  20  20  
+LVORI...........1   2   2   2   2   2   2   2   2   2   2   2   
+ADI.............74  12  15  16  15  17  17  15  14  13  13  13  
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent) then becoming 
+                    mostly cloudy (65-75 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 64. 
+Min humidity........27 percent. 
+Wind (20 ft)........Northeast winds 6 to 8 mph. Gusts up to 21 mph 
+                    in the morning. 
+Mixing height.......4000 ft AGL. 
+Transport winds.....Northeast 14 to 22 mph shifting to the east 
+                    around 12 mph late in the afternoon. 
+LVORI...............2. 
+ADI.................23 early in the morning increasing to 68 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........42  50  36  40  43  45  47  49  51  57  64  70  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............49  49  48  50  52  54  57  59  61  63  64  63  
+RH..............42  42  44  44  41  38  34  32  30  28  27  28  
+Aparnt tmp (F)..45  45  44  46  52  54  57  59  61  63  64  63  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  E   E   
+20 FT wind dir..040 050 050 050 050 050 050 060 060 060 070 070 
+20 FT wind spd..9   9   8   9   9   9   9   8   8   8   7   7   
+20 FT wind gust.21  21  21  21  21  20  18  18  17  16  16  15  
+Mix hgt (kft)...1.4 1.3 1.7 2.7 3.2 3.3 3.5 3.7 3.9 4.0 3.9 3.6 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  E   E   E   E   E   
+Transp wind dir.050 050 050 050 060 060 060 070 070 070 070 070 
+Transp wind spd.21  20  20  22  21  18  16  14  12  12  12  12  
+LVORI...........2   1   1   1   1   1   1   1   1   1   1   1   
+ADI.............23  33  44  66  68  62  56  62  53  54  54  51  
+
+$$
+Forecaster...Coleman
+Requested by...Jeff Gouveia
+Type of request...PRESCRIBED
+.TAG 2607197.0/CAE
+.DELDT 03/23/26
+.FormatterVersion 2.0.0
+.EMAIL jeffrey.gouveia@usda.gov,jason_johnson@nps.gov,cynthia_worthington@nps.gov
+

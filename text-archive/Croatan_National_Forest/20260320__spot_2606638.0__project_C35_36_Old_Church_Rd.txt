@@ -1,0 +1,117 @@
+
+000
+FNUS72 KMHX 200858
+FWSMHX
+
+Spot Forecast for C35/36 Old Church Rd...USFS
+National Weather Service Newport/Morehead City NC
+458 AM EDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 0900 EDT on March 20. 
+If conditions become unrepresentative, or if you have questions 
+or concerns about this forecast, contact the National Weather 
+Service in Newport at (252)223-2328.
+
+.DISCUSSION...
+High pressure will remain over the area through today, keeping winds 
+light and conditions dry. Sea breeze moves through this afternoon 
+around 2-3 pm, with southerly winds at 5-10 mph behind it. Scattered 
+showers tonight and early Saturday morning ahead of a cold front but 
+rainfall totals are expected to be less than 0.1". Winds switch to 
+become westerly then northerly behind the weak cold front. There 
+is some uncertainty in the minimum relative humidity forecast for 
+Saturday behind the front, although 40-50% is the most likely scenario.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Max temperature.....Around 68. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 10 mph late in 
+                    the afternoon. 
+Mixing Height.......Max 3300 ft AGL. 
+Transport winds.....North 2 to 5 mph shifting to the south 5 to 10 
+                    mph in the afternoon. 
+Vent Rate...........Max 17020 mph-ft. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   1   1   1   1   1   5   3   2   
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Temp............44  52  59  63  65  66  67  66  66  
+RH..............76  61  47  41  38  37  36  37  38  
+20 FT wind dir..N   N   N   E   S   SE  S   S   S   
+20 FT wind spd..0   1   1   1   1   2   4   7   8   
+20 FT wind gust.        5               5   9   14  
+Mix hgt (kft)...0.5 1.3 2.0 2.7 2.9 3.3 3.0 2.5 1.7 
+Transp wind dir.N   N   N   NE  SE  S   S   S   S   
+Transp wind spd.2   3   5   3   3   3   5   7   9   
+Vrate mph-ft/1K.1   4   9   9   10  11  14  17  16  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear then becoming mostly cloudy. 
+                    Slight chance of rain showers overnight. 
+Min temperature.....Around 51. 
+Max humidity........86 percent. 
+Wind (20 ft)........South winds 5 to 10 mph early in the evening 
+                    becoming light, then becoming southwest 5 
+                    mph late in the evening. 
+Mixing Height.......Min 500 ft AGL. 
+Transport winds.....Southwest 10 to 20 mph. 
+Vent Rate...........Min 5750 mph-ft. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........12  20  38  73  81  71  66  71  79  78  68  61  
+Weather cov.....                                SCH SCH SCH SCH 
+Weather type....                                RW  RW  RW  RW  
+Tstm cov........                                                
+Temp............63  59  56  53  52  52  52  52  52  52  51  51  
+RH..............44  53  62  74  80  83  86  86  86  83  83  83  
+20 FT wind dir..S   S   S   S   S   S   SW  SW  SW  SW  SW  SW  
+20 FT wind spd..7   5   4   4   3   4   4   4   4   5   6   6   
+20 FT wind gust.14  9   5   5   5   5   5   5   5           9   
+Mix hgt (kft)...1.2 0.5 0.5 0.5 0.6 0.6 0.6 0.6 0.6 0.7 0.7 0.8 
+Transp wind dir.S   S   S   S   S   S   SW  SW  SW  SW  SW  SW  
+Transp wind spd.10  12  13  14  14  16  14  16  15  17  17  17  
+Vrate mph-ft/1K.13  6   6   7   8   9   8   9   9   11  12  14  
+
+.SATURDAY...
+
+Sky/weather.........Partly sunny. 
+Max temperature.....Around 76. 
+Min humidity........44 percent. 
+Wind (20 ft)........Southwest winds 5 to 10 mph in the morning 
+                    shifting to the northwest around 5 mph, then 
+                    shifting to the north around 5 mph late in the 
+                    afternoon becoming light. 
+Mixing Height.......Max 4000 ft AGL. 
+Transport winds.....West 15 to 20 mph shifting to the northwest 10 
+                    to 20 mph late in the morning, then shifting to 
+                    the north 5 to 10 mph late in the afternoon. 
+Vent Rate...........Max 41860 mph-ft. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........61     65     60     56     57     60     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Temp............52     53     60     69     75     75     
+RH..............77     74     62     51     46     46     
+20 ft wind......SW 7   SW 6   W 6    NW 6   N 6    N 4    
+20 ft wind gust.9      9             9      9      5      
+Mix hgt (ft)....800    900    1700   2600   3900   4000   
+Transport wind..SW 18  W 15   W 17   NW 16  NW 9   N 6    
+Vrate mph-ft/1K.15     14     29     41     36     23     
+
+$$
+Forecaster...Jain
+Requested by...David Nelson
+Type of request...PRESCRIBED
+.TAG 2606638.0/MHX
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL david.l.nelson@usda.gov
+

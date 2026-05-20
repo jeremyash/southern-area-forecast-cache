@@ -1,0 +1,97 @@
+
+000
+FNUS72 KRAH 140833
+FWSRAH
+
+Spot Forecast for Dutch John Rx...USFS
+National Weather Service Raleigh NC
+433 AM EDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 0600 EDT on March 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact this NWS office if you have questions or
+concerns with this forecast.
+
+.DISCUSSION...
+A weak front will settle southward into North Carolina today. This 
+front will lift back northward as a warm front Sunday, then our next 
+strong cold front will pass through central NC Monday into Tuesday.
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 71. 
+Min humidity........30 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4500 ft AGL. 
+Transport winds.....West 3 to 8 mph shifting to the north in the 
+                    late morning and early afternoon, then shifting 
+                    to the southeast 3 to 7 mph late in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................3 to 27. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   1   2   5   9   5   6   11  8   7   6   4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............43  42  42  47  54  59  63  65  68  69  70  70  
+RH..............73  76  76  68  57  45  38  35  32  31  31  30  
+20 FT wind dir..SW  W   NW  N   N   N   NE  NE  NE  E   SE  SE  
+20 FT wind spd..2   1   1   1   1   2   2   2   2   2   3   3   
+20 FT wind gust.6   5   3   3   5   7   6   6   6   6   6   7   
+Mix hgt (kft)...0.2 0.2 0.2 0.5 1.1 2.1 2.7 3.2 3.8 4.0 4.3 4.5 
+Transp wind dir.W   W   W   NW  N   N   N   N   N   SE  SE  SE  
+Transp wind spd.8   6   6   3   5   8   7   6   3   3   5   7   
+LVORI...........3   3   3   3   3   2   2   2   2   2   2   2   
+ADI.............3   3   4   4   4   23  23  23  12  12  12  27  
+Visibility (sm).10  10  10  10  10  10  10  10  10  10  10  10  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 48. 
+Max humidity........80 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Southeast 7 to 12 mph. 
+LVORI...............4. 
+ADI.................4 to 27. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10 decreasing to 7 overnight. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   5   8   8   3   3   3   3   5   5   9   16  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............69  67  62  59  57  56  55  54  53  52  51  50  
+RH..............33  37  46  53  57  57  59  61  64  69  74  80  
+20 FT wind dir..SE  E   E   E   E   E   SE  SE  SE  SE  E   E   
+20 FT wind spd..3   2   2   2   2   3   3   3   3   3   2   3   
+20 FT wind gust.7   7   7   7   8   8   7   8   8   8   7   7   
+Mix hgt (kft)...3.6 0.4 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 
+Transp wind dir.SE  SE  E   E   E   SE  SE  S   SE  SE  SE  E   
+Transp wind spd.9   7   8   8   10  12  12  12  12  10  9   9   
+LVORI...........2   2   2   2   2   3   3   3   3   3   3   5   
+ADI.............27  27  4   4   4   5   5   5   5   5   5   4   
+Visibility (sm).10  10  10  10  10  10  10  10  7   7   7   7   
+
+$$
+Forecaster...ANDERSON
+Requested by...Sergio Olvera
+Type of request...PRESCRIBED
+.TAG 2605680.0/RAH
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.cagle@usda.gov,jeffery.greene@usda.gov,robert.jefferson@usda.gov,sergio.olvera@usda.gov
+

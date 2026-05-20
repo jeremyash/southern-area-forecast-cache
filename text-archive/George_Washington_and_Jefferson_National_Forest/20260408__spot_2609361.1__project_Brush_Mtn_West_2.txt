@@ -1,0 +1,129 @@
+
+000
+FNUS71 KRNK 080910
+FWSRNK
+
+Spot Forecast for Brush Mtn West 2...USFS
+National Weather Service Blacksburg VA
+510 AM EDT Wed Apr 8 2026
+
+Forecast is based on ignition time of 0600 EDT on April 08. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Surface inversion breaks around 8-9am, expecting good mixing
+by noon. 20 foot winds will be east for much of the day, but 
+some upslope component also expected by 11am. A few gusts
+around 15 to 18 mph possible from 9am-noon. RH values sink
+to around 25 percent this afternoon, then only recover to 75 
+percent late Wednesday night. 
+
+Dry weather and warming temperatures expected to close out the week
+into the weekend.
+
+.TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 56. 
+Min humidity........24 percent. 
+Wind (20 ft)........East winds 5 to 6 mph. 
+Mixing height.......3800 ft AGL. 
+Mixing winds........East 9 to 16 mph. 
+Smoke dispersal.....Poor (5900 knot-ft) early in the morning 
+                    increasing to good (33900 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................7 early in the morning increasing to 50 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   0   0   0   0   0   0   0   13  1   7   18  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............33  32  33  37  40  44  46  48  51  52  53  54  
+RH..............50  52  50  41  36  32  30  29  29  28  27  26  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   E   SE  SE  
+20 FT wind spd..6   5   6   8   8   8   8   8   6   6   6   5   
+20 FT wind gust.11  10  10  13  13  12  11  10  10  10  10  10  
+Mix hgt (kft)...0.4 0.5 1.2 1.8 2.1 2.6 2.9 3.2 3.5 3.6 3.8 3.8 
+Mixng wind dir..E   E   E   E   E   E   E   SE  SE  SE  SE  SE  
+Mixng wind spd..16  16  15  14  13  12  10  9   9   9   10  10  
+LVORI...........2   2   2   1   1   1   1   1   1   1   1   1   
+ADI.............7   15  24  32  34  38  39  39  39  41  45  50  
+VRate mph-ft/1K.7   8   18  25  26  30  30  31  32  34  37  39  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 31. 
+Max humidity........73 percent. 
+Wind (20 ft)........Southeast winds around 5 mph early in the 
+                    evening becoming light. 
+Mixing height.......400 ft AGL. 
+Mixing winds........Southeast 3 to 12 mph. 
+Smoke dispersal.....Good (34900 knot-ft) early in the evening 
+                    decreasing to poor (1100 knot-ft) late in the 
+                    night. 
+LVORI...............2. 
+ADI.................51 early in the evening decreasing to 1 late in 
+                    the night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........28     29     35     32     44     38     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............53     47     43     40     37     35     
+RH..............28     35     42     49     52     59     
+20 ft wind......SE 5   SE 5   E 3    E 2    E 2    E 2    
+20 ft wind gust.10     7      6      5      5      4      
+Mix hgt (ft)....3600   500    400    400    400    400    
+Mixing wind......SE 12  SE 12  SE 8   SE 5   SE 3   E 3    
+LVORI...........1      2      2      2      2      3      
+ADI.............51     5      3      2      2      2      
+VRate mph-ft/1K.40     6      3      2      1      1      
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 65. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3500 ft AGL. 
+Mixing winds........Southeast 2 to 6 mph. 
+Smoke dispersal.....Poor (600 knot-ft). 
+LVORI...............3. 
+ADI.................1 to 18. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........37     41     57     66     54     26     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............33     36     42     54     61     65     
+RH..............67     63     55     38     30     28     
+20 ft wind......E 2    E 1    E 1    SE 1   SE 2   SE 2   
+20 ft wind gust.       4      2      2      7      7      
+Mix hgt (ft)....300    300    1400   2200   3000   3300   
+Mixing wind......SE 3   SE 2   SE 5   SE 6   SE 5   S 3    
+LVORI...........3      3      2      2      2      2      
+ADI.............1      2      9      16     18     16     
+VRate mph-ft/1K.1      1      7      13     14     12     
+
+$$
+Forecaster...Perry
+Requested by...Brian Theiler
+Type of request...PRESCRIBED
+.TAG 2609361.1/RNK
+.DELDT 04/08/26
+.FormatterVersion 2.0.0
+.EMAIL brian.theiler@usda.gov
+

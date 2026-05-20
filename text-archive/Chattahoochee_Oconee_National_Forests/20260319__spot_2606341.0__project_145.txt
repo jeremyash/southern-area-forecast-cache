@@ -1,0 +1,167 @@
+
+000
+FNUS72 KFFC 190759
+FWSFFC
+
+Spot Forecast for 145...USFS
+National Weather Service Peachtree City GA
+359 AM EDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 0800 EDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Good morning. Dry and mostly sunny conditions will prevail today 
+with very light winds as high pressure parks overhead. Expect 
+near-surface winds to remain calm to very light through the 
+entire day with direction from any very light winds favoring 
+westerly. Transport winds will only peak at 5-6 mph during the 
+afternoon from the W to NW. Minimum RH values will dip into the 
+mid to upper 20 percent range. Mixing heights will peak around 
+5200 ft. Friday will bring warmer conditions under continued 
+mostly sunny skies. Light winds should persist with direction SW, 
+likely still peaking at under 5 mph. Minimum RH on Friday may be 
+marginally higher, near 30 percent.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 68. 
+Min humidity........28 percent. 
+Dewpoint............30 increasing to 32 late in the morning. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....Southwest 1 to 5 mph shifting to the northwest 
+                    5 to 6 mph in the afternoon. 
+Smoke dispersal.....Poor (600 knot-ft) early in the morning 
+                    increasing to fair (22400 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................2 to 32. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........18  18  21  25  20  17  21  13  8   7   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   
+Temp............34  36  45  52  56  60  64  66  67  68  
+Dewpoint........28  30  32  33  32  32  32  33  33  33  
+RH..............80  79  62  49  41  34  31  29  28  28  
+20 FT wind dir..N   N   N   N   W   W   W   W   W   W   
+20 FT wind spd..0   0   0   0   1   1   1   1   1   1   
+20 FT wind gust.2   2   2   3   5   5   6   6   6   6   
+Mix hgt (kft)...0.3 0.5 0.9 1.7 2.5 3.3 4.0 4.6 5.0 5.2 
+Transp wind dir.SW  SW  SW  W   NW  NW  NW  NW  NW  NW  
+Transp wind spd.2   1   2   5   5   6   6   5   5   5   
+LVORI...........5   4   3   2   2   2   2   2   1   2   
+ADI.............2   2   3   9   16  25  30  29  32  29  
+Vrate kt-ft/1K..1   1   2   6   11  17  20  20  22  20  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (0-10 percent). 
+CWR.................0 percent. 
+Chance of thunder...1 percent. 
+Min temperature.....Around 40. 
+Max humidity........91 percent. 
+Dewpoint............35 increasing to 38 in the late evening and 
+                    overnight. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Northwest 2 to 5 mph shifting to the southwest 
+                    around 3 mph early in the evening, then 
+                    shifting to the south 2 to 3 mph in the late 
+                    evening and overnight shifting to the southwest 
+                    after 3 am. 
+Smoke dispersal.....Fair (16900 knot-ft) early in the evening 
+                    decreasing to poor (800 knot-ft) late in the 
+                    night. 
+LVORI...............4. 
+ADI.................1 to 25. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........8   12  10  10  9   5   3   3   2   2   3   2   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............67  64  60  54  52  50  49  47  46  44  42  42  
+Dewpoint........33  35  37  38  38  38  38  38  38  38  38  38  
+RH..............29  33  42  55  59  65  67  72  74  77  84  85  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..0   0   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.5   3   2   2   2   2   2   2   2   2   2   2   
+Mix hgt (kft)...4.1 0.7 0.3 0.4 0.4 0.4 0.4 0.4 0.3 0.4 0.4 0.3 
+Transp wind dir.NW  NW  SW  S   S   S   S   S   SW  SW  SW  SW  
+Transp wind spd.5   2   3   2   3   3   3   3   3   2   2   3   
+LVORI...........2   2   2   2   3   3   3   3   3   4   6   6   
+ADI.............25  1   2   1   2   2   2   2   2   1   1   1   
+Vrate kt-ft/1K..17  2   1   1   1   1   1   1   1   1   1   1   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  25  
+
+.FRIDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 75. 
+Min humidity........32 percent. 
+Dewpoint............40 increasing to 44 late in the morning. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6300 ft AGL. 
+Transport winds.....West 2 to 9 mph. 
+Smoke dispersal.....Poor (600 knot-ft) early in the morning 
+                    increasing to good (45400 knot-ft) in the 
+                    afternoon. 
+LVORI...............4. 
+ADI.................1 early in the morning increasing to 64 in the 
+                    afternoon. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........4   2   3   2   2   2   2   3   3   4   6   8   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............41  41  40  43  50  59  65  69  72  74  75  75  
+Dewpoint........38  38  38  39  42  45  46  45  44  44  43  43  
+RH..............87  90  91  85  72  59  49  41  36  33  32  33  
+20 FT wind dir..N   N   N   N   N   N   N   SW  SW  SW  SW  SW  
+20 FT wind spd..0   0   0   0   0   0   0   1   1   1   1   1   
+20 FT wind gust.2   2   2   2   2   3   5   6   7   8   8   8   
+Mix hgt (kft)...0.3 0.3 0.3 0.5 0.9 1.6 2.7 4.1 5.2 6.0 6.3 5.8 
+Transp wind dir.SW  W   W   W   W   W   W   SW  SW  SW  SW  SW  
+Transp wind spd.2   2   3   3   3   5   5   5   6   7   8   9   
+LVORI...........6   7   6   5   3   3   2   2   1   1   1   1   
+ADI.............1   2   3   3   4   8   15  25  35  49  61  64  
+Vrate kt-ft/1K..1   1   1   2   3   6   10  17  24  35  44  45  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  FR  FR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  25  
+
+$$
+Forecaster...Willis
+Requested by...Tim Kolnik
+Type of request...PRESCRIBED
+.TAG 2606341.0/FFC
+.DELDT 03/18/26
+.FormatterVersion 2.0.0
+.EMAIL Michael.Davis1@usda.gov,stephanie.israel@usda.gov,timothy.kolnik@usda.gov
+

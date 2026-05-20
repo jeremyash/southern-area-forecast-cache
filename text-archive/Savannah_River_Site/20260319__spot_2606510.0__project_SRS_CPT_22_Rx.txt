@@ -1,0 +1,130 @@
+
+000
+FNUS72 KCAE 191212
+FWSCAE
+
+Spot Forecast for SRS CPT 22 Rx...USFS-Savannah River
+National Weather Service Columbia SC
+812 AM EDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 0900 EDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+High pressure over the area today will lead to light and variable
+winds through the day. Air mass continues to be relatively dry, 
+although moisture recovers a bit today. With warmer temperatures, 
+however, relative humidity is still expected to drop below 30 
+percent by mid afternoon. Tonight, lows will be a bit warmer and 
+while moisture will continue to recover, widespread fog is not 
+expected to develop, although patchy fog near creeks remains 
+possible.
+
+.TODAY...
+
+Sky/weather.........Sunny (10-20 percent).
+Chance of pcpn......0 percent. 
+Max temperature.....Around 67. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4600 ft AGL. 
+Transport winds.....Northeast 2 to 5 mph shifting to the north 3 to 
+                    8 mph in the late morning and afternoon. 
+LVORI...............3. 
+ADI.................2 to 29. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........7   7   3   6   10  22  10  23  8   
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............39  47  52  57  59  63  65  66  67  
+RH..............70  51  43  35  36  31  30  29  28  
+Aparnt tmp (F)..39  47  52  57  59  63  65  66  67  
+20 FT wind dir..N   N   N   N   N   N   N   NW  NW  
+20 FT wind dir..000 010 000 350 350 350 340 320 310 
+20 FT wind spd..1   1   1   2   2   2   2   2   2   
+20 FT wind gust.2   3   5   5   5   6   6   6   5   
+Mix hgt (kft)...0.5 1.4 2.2 2.9 3.3 4.0 4.4 4.6 4.6 
+Transp wind dir.N   N   N   N   N   N   N   N   NW  
+Transp wind dir.010 350 350 350 000 010 000 000 330 
+Transp wind spd.2   6   8   8   7   6   5   5   3   
+LVORI...........3   2   2   2   2   2   2   2   2   
+ADI.............2   10  23  29  28  27  24  25  19  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 40. 
+Max humidity........86 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Northwest 1 to 3 mph shifting to the south 2 to 
+                    5 mph in the late evening and overnight. 
+LVORI...............4. 
+ADI.................1 to 17. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........25  18  27  22  16  13  5   5   4   5   4   4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............66  64  60  55  54  51  49  47  45  43  43  42  
+RH..............29  34  42  53  52  61  63  68  73  79  76  79  
+Aparnt tmp (F)..66  64  60  55  54  51  49  47  45  43  43  42  
+20 FT wind dir..NW  W   N   N   N   N   N   N   S   N   N   N   
+20 FT wind dir..300 280 000 000 000 000 000 000 170 000 000 000 
+20 FT wind spd..1   1   0   0   0   0   0   0   1   0   0   0   
+20 FT wind gust.5   3   3   2   2   2   3   3   3   3   2   2   
+Mix hgt (kft)...3.9 0.9 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.3 
+Transp wind dir.NW  NW  W   S   S   S   S   S   S   S   S   S   
+Transp wind dir.320 320 270 200 180 180 200 160 160 160 180 190 
+Transp wind spd.3   3   1   2   2   2   3   2   5   3   3   3   
+LVORI...........2   2   2   2   2   3   3   4   3   4   4   5   
+ADI.............17  2   1   1   1   1   2   1   2   2   2   2   
+
+.FRIDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 74. 
+Min humidity........29 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5900 ft AGL. 
+Transport winds.....Southwest 1 to 6 mph. 
+LVORI...............4. 
+ADI.................1 to 36. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   2   1   1   1   0   4   7   11  10  10  9   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............41  42  41  44  51  59  65  69  72  74  74  74  
+RH..............86  79  86  76  63  51  43  36  33  29  29  29  
+Aparnt tmp (F)..41  42  41  44  51  59  65  69  72  74  74  74  
+20 FT wind dir..N   N   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind dir..000 000 230 240 230 230 230 230 220 220 220 220 
+20 FT wind spd..0   0   1   1   2   3   3   3   3   5   5   6   
+20 FT wind gust.2   2   3   3   5   5   5   6   6   6   7   8   
+Mix hgt (kft)...0.3 0.3 0.3 0.8 1.5 2.4 3.3 4.3 5.0 5.7 5.9 5.5 
+Transp wind dir.W   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind dir.260 240 240 240 230 210 220 230 230 230 240 240 
+Transp wind spd.3   3   3   1   2   3   3   3   3   5   5   6   
+LVORI...........6   5   6   4   3   2   2   2   2   2   2   1   
+ADI.............2   3   3   1   2   10  14  18  20  29  30  36  
+
+$$
+Forecaster...Landolfi
+Requested by...Kevin Pope
+Type of request...PRESCRIBED
+.TAG 2606510.0/CAE
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL kevin.pope@usda.gov
+

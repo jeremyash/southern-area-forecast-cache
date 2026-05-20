@@ -1,0 +1,155 @@
+
+000
+FNUS74 KLIX 081038
+FWSLIX
+
+Spot Forecast for Desoto Block 9370 C-507-509 512 513...USFS
+National Weather Service New Orleans LA
+538 AM CDT Wed Apr 8 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+Gradual moisture return is expected today and into late week as
+easterly flow continues across the region. Winds on Wednesday,
+especially closer to the coast will gust upward of 25 mph.
+However, again, with a bit better moisture return think the
+overall fire weather concerns will be limited. Toward the end of
+the week winds will relax slightly and humidity values will
+continue to gradually increase in time, however, not much
+rainfall is expected through the period.
+
+What are the chances for fog formation density and coverage over the
+burn site?
+
+No fog is currently expected. 
+
+Will we see any chance of a sea-breeze set up over the burn site each
+afternoon?
+
+Wednesday afternoon a weak sea breeze between 3pm and 5pm. 
+Thursday afternoon a better signal for a more pronounced sea breeze between
+3pm and 5pm. 
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (60-70 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 77. 
+Min humidity........41 percent. 
+Dewpoint............49 increasing to 52 late in the afternoon. 
+Max apparent temp...77. 
+Wind (20 ft)........East winds 8 to 10 mph. Gusts up to 21 mph 
+                    early in the afternoon. 
+Mixing height (m)...457-1737 meters AGL. 
+Transport winds.....East 13 to 18 mph. 
+Transport winds m/s.East 6 to 8 meters/second. 
+LVORI...............1. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........77     63     65     64     52     
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Chc of pcpn (%).0      0      0      0      0      
+Temp............63     70     74     76     75     
+Dewpoint........48     48     49     51     53     
+RH..............58     46     41     42     46     
+Aparnt tmp (F)..63     70     74     76     75     
+20 FT wind dir..E      E      E      ESE    ESE    
+20 FT wind spd..9      10     10     10     9      
+20 FT wind gust.16     18     21     20     16     
+Mix hgt (m).....460    850    1340   1740   1220   
+Transp wind dir.E      E      E      E      E      
+Transp wind spd.17     18     18     15     13     
+Trans wind dir..E      E      E      E      E      
+Trans spd (m/s).8      8      8      7      6      
+LVORI...........1      1      1      1      1      
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (40-50 percent) then becoming 
+                    mostly cloudy (55-65 percent) then becoming 
+                    partly cloudy (25-35 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 54. 
+Max humidity........73 percent. 
+Dewpoint............54 decreasing to 50 after 3 am. 
+Max apparent temp...75. 
+Wind (20 ft)........East winds 6 to 7 mph. 
+Mixing height (m)...152-732 meters AGL. 
+Transport winds.....East 8 to 15 mph. 
+Transport winds m/s.East 4 to 7 meters/second. 
+LVORI...............3. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........44     61     39     32     33     32     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............75     68     65     63     62     59     
+Dewpoint........54     56     56     54     52     49     
+RH..............48     65     73     72     70     69     
+Aparnt tmp (F)..75     68     65     63     62     59     
+20 FT wind dir..ESE    E      E      E      E      E      
+20 FT wind spd..7      6      6      7      7      8      
+20 FT wind gust.14     12     13     15     15     15     
+Mix hgt (m).....730    150    150    180    150    180    
+Transp wind dir.E      E      E      E      E      E      
+Transp wind spd.13     8      12     15     13     12     
+Trans wind dir..E      E      E      E      E      E      
+Trans spd (m/s).6      4      5      7      6      5      
+LVORI...........2      3      3      3      3      3      
+
+.THURSDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 78. 
+Min humidity........47 percent. 
+Dewpoint............49 increasing to 54 late in the morning. 
+Max apparent temp...78. 
+Wind (20 ft)........East winds 6 to 9 mph. 
+Mixing height (m)...152-1615 meters AGL. 
+Transport winds.....East 10 to 14 mph. 
+Transport winds m/s.East 4 to 6 meters/second. 
+LVORI...............2. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........25     7      11     7      18     17     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............58     59     68     74     77     78     
+Dewpoint........48     48     51     54     56     56     
+RH..............69     67     55     50     48     47     
+Aparnt tmp (F)..58     59     68     74     77     78     
+20 FT wind dir..ENE    ENE    E      E      E      ESE    
+20 FT wind spd..8      9      10     10     9      9      
+20 FT wind gust.16     17     18     18     17     16     
+Mix hgt (m).....150    430    730    1280   1620   1460   
+Transp wind dir.E      E      E      E      E      E      
+Transp wind spd.12     14     14     13     12     12     
+Trans wind dir..E      E      E      E      E      E      
+Trans spd (m/s).5      6      6      6      5      5      
+LVORI...........3      3      1      1      1      1      
+
+$$
+Forecaster...NWS NEW ORLEANS
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2609417.0/LIX
+.DELDT 04/08/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

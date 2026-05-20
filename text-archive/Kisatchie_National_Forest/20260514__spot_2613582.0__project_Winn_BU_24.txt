@@ -1,0 +1,93 @@
+
+000
+FNUS74 KSHV 140817
+FWSSHV
+
+Spot Forecast for Winn BU-24...uSDA Forest Service
+National Weather Service Shreveport LA
+317 AM CDT Thu May 14 2026
+
+Forecast is based on ignition time of 0800 CDT on May 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Quiet and warmer conditions are expected today with increasing high 
+clouds north and afternoon high temperatures climbing well into the
+80s. No rainfall in anticipated through this forecast period. 
+Minimum relative humidity values will drop into the 30 to 40 
+percent range this afternoon while mixing heights climb to peak 
+values between 4000 and 5000 ft. Winds will remain light and 
+variable throughout with a general easterly component, shifting to
+southeasterly.
+
+.REST OF TODAY...
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   1   1   1   0   11  12  20  27  22  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   0   0   0   0   0   
+Temp............66  69  74  78  81  83  85  86  87  88  
+RH..............70  63  51  47  42  40  39  39  39  38  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   E   
+20 FT wind mph..3   3   3   3   3   2   2   2   1   1   
+20 FT wind gust.13  13  13  12  10  8   7   6   6   7   
+Mix hgt (kft)...0.8 1.4 1.7 2.5 3.4 4.2 4.7 5.1 4.9 4.8 
+Mix hgt (km)....0.2 0.4 0.5 0.8 1.0 1.3 1.4 1.6 1.5 1.5 
+Transp wind dir.E   E   E   E   E   E   E   E   SE  SE  
+Transp wind spd.13  13  12  9   8   6   6   5   5   5   
+Trans wind dir..E   E   E   E   E   E   E   E   SE  SE  
+Trans spd (m/s).6   6   5   4   4   3   3   2   2   2   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........19  11  19  20  25  38  20  25  32  28  22  22  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............86  84  81  75  73  72  71  70  70  68  68  67  
+RH..............43  48  51  62  64  66  68  71  68  73  73  75  
+20 FT wind dir..E   E   E   E   SE  SE  SE  SE  SE  SE  S   S   
+20 FT wind mph..1   2   2   2   3   3   3   2   2   2   2   2   
+20 FT wind gust.7   8   9   10  12  12  13  13  12  12  12  12  
+Mix hgt (kft)...3.9 0.6 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mix hgt (km)....1.2 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.SE  E   E   E   SE  SE  SE  SE  S   S   S   S   
+Transp wind spd.6   7   8   9   10  10  10  10  10  10  9   9   
+Trans wind dir..SE  E   E   E   SE  SE  SE  SE  S   S   S   S   
+Trans spd (m/s).3   3   4   4   4   4   4   4   4   4   4   4   
+
+.FRIDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........17  15  18  6   23  34  17  25  23  21  44  28  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............67  66  69  72  77  81  84  86  89  89  90  91  
+RH..............78  81  76  73  64  56  51  48  44  44  44  41  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..2   3   3   3   6   6   6   8   8   8   9   9   
+20 FT wind gust.12  12  13  14  16  17  18  18  18  18  18  18  
+Mix hgt (kft)...0.4 0.4 0.8 1.4 2.3 3.4 4.2 4.6 6.3 6.5 5.3 6.1 
+Mix hgt (km)....0.1 0.1 0.2 0.4 0.7 1.0 1.3 1.4 1.9 2.0 1.6 1.9 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.9   8   12  14  16  17  18  18  20  20  18  20  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).4   4   5   6   7   8   8   8   9   9   8   9   
+
+$$
+Forecaster...PENDLETON
+Requested by...Charles Davis
+Type of request...PRESCRIBED
+.TAG 2613582.0/SHV
+.DELDT 05/13/26
+.FormatterVersion 2.0.0
+.EMAIL charles.g.davis@usda.gov
+

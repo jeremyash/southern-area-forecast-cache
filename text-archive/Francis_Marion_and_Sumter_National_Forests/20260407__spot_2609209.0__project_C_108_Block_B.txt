@@ -1,0 +1,141 @@
+
+000
+FNUS72 KCAE 070920
+FWSCAE
+
+Spot Forecast for C-108 Block B...USFS
+National Weather Service Columbia SC
+520 AM EDT Tue Apr 7 2026
+
+Forecast is based on ignition time of 0800 EDT on April 07. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...INCREASED FIRE DANGER THIS AFTERNOON AND EVENING DUE TO LOW 
+RELATIVE HUMIDITY AND BREEZY WINDS...
+
+.DISCUSSION...
+Dry high pressure ridging into the area today with winds 
+remaining out of the northeast. Relative humidity expected to drop
+to near 25 percent by this afternoon and evening. While winds 
+will not be quite as strong as yesterday, generally in the teens, 
+gusts up to around 20 mph remain possible, at least for a brief 
+period this afternoon as a cold front approaches. The cold front 
+will move through tonight into Wednesday morning, leading to 
+mixing continuing overnight and improved overnight dispersion. RH 
+will weakly recover to around 50 to 60 percent tonight. As a 
+result, no fog is expected.
+
+.TODAY...
+
+Sky/weather.........Partly sunny (55-65 percent) then becoming 
+                    sunny (15-25 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 70. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds becoming northeast 5 to 6 mph in 
+                    the late morning and afternoon. 
+Mixing height.......6000 ft AGL. 
+Transport winds.....Northeast 7 to 15 mph. 
+LVORI...............2. 
+ADI.................3 early in the morning increasing to 96 in the 
+                    afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........75  75  76  56  53  61  51  37  23  18  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   
+Temp............49  53  58  63  66  68  69  70  70  70  
+RH..............74  66  51  38  33  29  28  26  26  26  
+Aparnt tmp (F)..49  53  58  63  66  68  69  70  70  70  
+20 FT wind dir..N   NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind dir..020 030 040 040 040 030 030 030 030 040 
+20 FT wind spd..2   5   6   7   7   6   7   7   7   7   
+20 FT wind gust.8   12  12  12  13  13  13  13  13  13  
+Mix hgt (kft)...0.4 0.8 1.9 2.9 3.9 4.8 5.3 5.9 6.0 5.7 
+Transp wind dir.N   NE  NE  NE  NE  N   N   N   NE  NE  
+Transp wind dir.020 040 040 040 030 020 020 020 030 040 
+Transp wind spd.9   13  14  15  15  14  15  14  14  15  
+LVORI...........3   2   1   1   1   1   1   1   1   1   
+ADI.............9   13  35  55  70  83  91  90  92  96  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 43. 
+Max humidity........58 percent. 
+Wind (20 ft)........Northeast winds 5 to 6 mph early in the evening 
+                    becoming light, then becoming northeast 5 to 6 
+                    mph overnight. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Northeast 10 to 15 mph. 
+LVORI...............2. 
+ADI.................88 early in the evening decreasing to 5 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........9   11  9   4   3   2   2   2   3   8   9   14  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............69  68  62  58  57  55  54  53  51  50  48  46  
+RH..............28  32  39  45  47  49  47  46  46  44  46  58  
+Aparnt tmp (F)..69  68  62  58  57  55  54  53  51  48  45  42  
+20 FT wind dir..NE  NE  NE  E   E   NE  NE  NE  NE  NE  NE  NE  
+20 FT wind dir..050 060 060 070 070 060 050 050 050 050 050 050 
+20 FT wind spd..6   5   2   3   3   3   3   5   6   6   6   7   
+20 FT wind gust.12  10  9   10  10  12  12  12  14  14  16  18  
+Mix hgt (kft)...5.1 1.7 0.4 0.4 0.4 0.4 0.5 0.5 0.5 0.5 0.5 0.5 
+Transp wind dir.NE  NE  E   E   E   NE  NE  NE  NE  NE  NE  NE  
+Transp wind dir.050 060 070 070 070 060 060 050 050 060 060 060 
+Transp wind spd.14  13  12  12  10  13  13  14  14  15  15  15  
+LVORI...........1   2   2   2   2   2   2   2   2   2   2   3   
+ADI.............88  6   5   5   5   6   6   6   6   7   7   7   
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 65. 
+Min humidity........23 percent. 
+Wind (20 ft)........Northeast winds 6 to 8 mph. Gusts up to 21 mph 
+                    in the morning. 
+Mixing height.......5100 ft AGL. 
+Transport winds.....Northeast 16 to 23 mph. 
+LVORI...............2. 
+ADI.................7 early in the morning increasing to 102 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........20  17  12  18  25  32  37  41  46  44  43  41  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............45  45  44  45  49  54  57  60  62  64  65  65  
+RH..............58  53  53  49  40  32  30  27  26  23  23  23  
+Aparnt tmp (F)..41  41  39  41  46  54  57  60  62  64  65  65  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  E   E   
+20 FT wind dir..050 050 050 050 050 050 050 060 060 060 070 070 
+20 FT wind spd..7   7   8   8   8   9   9   9   9   9   9   9   
+20 FT wind gust.18  20  20  20  21  21  20  18  18  18  18  17  
+Mix hgt (kft)...0.7 0.7 1.8 2.2 2.7 3.1 3.6 4.1 4.5 4.9 5.1 4.8 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  E   E   E   E   E   
+Transp wind dir.050 050 050 060 060 060 060 070 070 070 070 070 
+Transp wind spd.16  17  23  21  20  20  18  18  17  17  17  17  
+LVORI...........3   2   1   1   1   1   1   1   1   1   1   1   
+ADI.............7   18  52  59  65  75  81  90  92  99  102 96  
+
+$$
+Forecaster...Landolfi
+Requested by...Drose
+Type of request...PRESCRIBED
+.TAG 2609209.0/CAE
+.DELDT 04/07/26
+.FormatterVersion 2.0.0
+.EMAIL Richard.Drose@usda.gov
+

@@ -1,0 +1,146 @@
+
+000
+FNUS74 KMOB 150945
+FWSMOB
+
+Spot Forecast for Chick CPT 400...USFS
+National Weather Service Mobile AL
+445 AM CDT Fri May 15 2026
+
+Forecast is based on ignition time of 1100 CDT on May 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...HIGH DISPERSION INDEX AROUND 75 EXPECTED SATURDAY OVER THE 
+BURN AREA...
+
+.DISCUSSION...Dry conditions will persist through the forecast. For
+Friday, the minimum relative humidity is near 40% with
+southeasterly transport winds. Afternoon dispersion values will 
+be fair. Saturday the minimum relative humidity will be between 45
+to 50%. 20 ft wind gusts will be up to near 20 mph during the 
+afternoon with transport winds mostly south-southeasterly around 
+10 mph. Afternoon dispersion values will be good. Max LVORI values
+on Friday night will be 8 to 9. 
+
+
+Fog potential and other remarks...Fog is not expected.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 85. 
+Min humidity........38 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4400 ft AGL. 
+Mixing height (m)...853-1341 meters AGL. 
+Transport winds.....South 5 to 7 mph. 
+Transport winds m/s.South 2 to 3 meters/second. 
+Dispersion index....28. 
+LVORI...............2. 
+Stability class.....2. 
+
+TIME (CDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   9   4   11  17  9   7   
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+Chc of pcpn (%).0   0   0   0   0   0   0   
+Temp............77  79  81  83  84  85  85  
+RH..............47  42  41  38  38  39  40  
+20 FT wind dir..SSE SSE SSE S   S   S   S   
+20 FT wind spd..5   3   3   2   2   2   2   
+20 FT wind gust.10  9   8   7   7   7   7   
+Mix hgt (kft)...2.8 3.2 3.7 4.1 4.3 4.4 4.4 
+Mix hgt (km)....0.9 1.0 1.1 1.2 1.3 1.3 1.3 
+Transp wind dir.S   S   S   SSE SSE SSE SSE 
+Transp wind spd.7   6   5   5   6   6   6   
+Trans wind dir..S   S   S   SSE SSE SSE SSE 
+Trans spd (m/s).3   3   2   2   3   3   3   
+Dispersion idx..25  24  23  25  31  30  32  
+LVORI...........2   2   2   2   1   1   1   
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 60. 
+Max humidity........96 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Mixing height (m)...122-1341 meters AGL. 
+Transport winds.....South 6 to 9 mph. 
+Transport winds m/s.South 3 to 4 meters/second. 
+Dispersion index....33 decreasing to 4. 
+LVORI...............4. 
+Stability class.....4. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........12  11  8   13  20  42  44  25  29  53  77  73  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............84  80  74  71  69  67  65  64  63  62  61  60  
+RH..............46  58  66  73  76  81  84  87  90  90  93  93  
+20 FT wind dir..SSE SSE SSE SSE S   S   S   S   S   S   S   S   
+20 FT wind spd..2   2   3   3   3   3   3   3   2   2   2   2   
+20 FT wind gust.8   9   10  13  13  12  12  10  9   9   8   7   
+Mix hgt (kft)...4.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mix hgt (km)....1.3 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.SSE SSE S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.6   6   8   8   9   9   9   8   9   8   7   7   
+Trans wind dir..SSE SSE S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).3   3   4   4   4   4   4   4   4   4   3   3   
+Dispersion idx..33  3   3   4   4   4   4   4   4   4   3   3   
+LVORI...........1   3   3   3   4   4   5   6   6   6   6   6   
+
+.SATURDAY...
+
+Sky/weather.........Partly sunny (45-55 percent) then becoming 
+                    mostly sunny (25-35 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 84. 
+Min humidity........48 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph late in 
+                    the morning. 
+Mixing height.......5000 ft AGL. 
+Mixing height (m)...122-1524 meters AGL. 
+Transport winds.....South 7 to 13 mph. 
+Transport winds m/s.South 3 to 6 meters/second. 
+Dispersion index....6 increasing to 72. 
+LVORI...............5. 
+Stability class.....2. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........70  71  72  72  64  53  47  41  30  18  38  31  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............60  61  65  71  75  79  81  82  83  84  84  84  
+RH..............96  93  90  79  69  58  54  51  49  49  48  49  
+20 FT wind dir..SSE SE  SSE SSE SSE SSE SSE SSE SSE SSE SSE SSE 
+20 FT wind spd..2   2   2   3   5   6   6   6   7   7   7   7   
+20 FT wind gust.7   8   8   10  12  13  14  15  15  15  15  15  
+Mix hgt (kft)...0.4 0.4 0.9 1.7 2.8 3.4 3.9 4.4 4.8 5.0 4.9 4.9 
+Mix hgt (km)....0.1 0.1 0.3 0.5 0.9 1.0 1.2 1.3 1.5 1.5 1.5 1.5 
+Transp wind dir.S   SSE SSE SSE SSE S   S   S   S   S   S   S   
+Transp wind spd.7   7   7   9   12  12  12  12  13  13  13  13  
+Trans wind dir..S   SSE SSE SSE SSE S   S   S   S   S   S   S   
+Trans spd (m/s).3   3   3   4   5   5   5   5   6   6   6   6   
+Dispersion idx..3   7   8   20  42  50  57  62  71  74  72  70  
+LVORI...........8   6   5   3   1   1   1   1   1   1   1   1   
+
+$$
+Forecaster...8
+Requested by...Rodney Landrum
+Type of request...PRESCRIBED
+.TAG 2613668.0/MOB
+.DELDT 05/15/26
+.FormatterVersion 2.0.0
+.EMAIL rodney.landrum@usda.gov
+

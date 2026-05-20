@@ -1,0 +1,91 @@
+
+000
+FNUS74 KSHV 261020
+FWSSHV
+
+Spot Forecast for Winn BU-022...USDA Forest Service
+National Weather Service Shreveport LA
+520 AM CDT Thu Mar 26 2026
+
+Forecast is based on ignition time of 0900 CDT on March 26. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Minimum RH values will remain in the 35 to 45 percent range with 
+southerly winds at 5-10 mph in the afternoon ahead of tomorrow's 
+frontal boundary (transport winds near 10-15 mph). LVORI values 
+will briefly remain in the 4-7 range due to low clouds/fog that 
+will lift after 11AM this morning. Mixing heights will maximize 
+near 5.0kft, also in the afternoon. /16/
+
+.REST OF TODAY...
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........61  56  43  27  16  17  27  27  24  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+CWR.............0   0   0   0   0   0   0   0   0   
+Temp............63  67  71  76  79  82  83  84  85  
+RH..............97  87  73  62  52  47  43  41  39  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   
+20 FT wind mph..5   6   6   6   6   7   7   7   7   
+20 FT wind gust.14  15  16  16  16  17  16  16  17  
+Mix hgt (kft)...1.2 1.7 2.3 2.9 3.6 4.2 4.6 5.0 4.6 
+Mix hgt (km)....0.4 0.5 0.7 0.9 1.1 1.3 1.4 1.5 1.4 
+Transp wind dir.S   S   S   S   S   S   S   S   S   
+Transp wind spd.14  15  15  16  16  16  15  16  17  
+Trans wind dir..S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).6   7   7   7   7   7   7   7   8   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........18  21  19  11  1   7   7   6   6   28  39  41  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............84  80  77  73  72  69  68  66  64  63  62  62  
+RH..............40  47  50  57  59  66  70  78  84  90  97  97  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   SW  S   
+20 FT wind mph..6   6   6   6   6   6   6   6   6   6   5   5   
+20 FT wind gust.16  16  17  17  18  18  18  18  17  17  16  14  
+Mix hgt (kft)...3.8 0.4 0.4 0.4 0.5 0.4 0.6 0.6 0.6 0.8 0.7 0.6 
+Mix hgt (km)....1.2 0.1 0.1 0.1 0.2 0.1 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.S   S   S   S   S   S   S   S   SW  S   SW  SW  
+Transp wind spd.17  13  13  15  16  15  15  16  16  15  14  13  
+Trans wind dir..S   S   S   S   S   S   S   S   SW  S   SW  SW  
+Trans spd (m/s).8   6   6   7   7   7   7   7   7   7   6   6   
+
+.FRIDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........62  69  51  53  59  48  25  13  13  13  13  20  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............62  61  62  64  67  71  75  79  80  81  82  80  
+RH..............97  100 97  93  87  73  62  52  49  47  44  47  
+20 FT wind dir..S   S   S   SW  SW  SW  SW  SW  W   W   NW  NW  
+20 FT wind mph..3   2   2   2   3   3   3   3   3   3   5   6   
+20 FT wind gust.13  10  10  10  12  12  10  10  10  10  12  13  
+Mix hgt (kft)...0.7 0.7 0.7 1.6 2.4 2.9 3.4 3.6 3.9 5.2 6.2 5.0 
+Mix hgt (km)....0.2 0.2 0.2 0.5 0.7 0.9 1.0 1.1 1.2 1.6 1.9 1.5 
+Transp wind dir.SW  S   SW  SW  SW  SW  W   W   W   NW  N   N   
+Transp wind spd.13  9   7   9   9   10  9   7   7   6   6   7   
+Trans wind dir..SW  S   SW  SW  SW  SW  W   W   W   NW  N   N   
+Trans spd (m/s).6   4   3   4   4   4   4   3   3   3   3   3   
+
+$$
+Forecaster...CASSEL
+Requested by...Charles Davis
+Type of request...PRESCRIBED
+.TAG 2607963.0/SHV
+.DELDT 03/26/26
+.FormatterVersion 2.0.0
+.EMAIL charles.g.davis@usda.gov
+

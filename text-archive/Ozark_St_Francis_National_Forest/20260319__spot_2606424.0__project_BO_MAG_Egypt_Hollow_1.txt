@@ -1,0 +1,121 @@
+
+000
+FNUS74 KLZK 190552
+FWSLZK
+
+Spot Forecast for BO/MAG Egypt Hollow 1...USFS
+National Weather Service Little Rock AR
+1252 AM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 1200 CDT on March 19. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Surface winds will begin light and variable across most of the
+state before becoming established out of the southwest to south-
+southwest this morning. No precipitation of any type is expected
+as dry conditions will continue. RH values will approach critical
+values on Thursday afternoon.
+
+.REST OF TODAY...
+
+Max temperature.....72 at ignition...Max 83. 
+Min humidity........46 percent at ignition...Min 34 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............1. 
+Sky/weather.........Sunny (0-5 percent). 
+Dispersion..........21. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....78. 
+Category Day........3. 
+
+TIME (CDT)      12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR 
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+Temp............72  76  80  81  82  83  
+RH..............46  43  38  37  35  34  
+20 FT wind dir..S   S   S   S   S   S   
+20 FT wind spd..2   2   2   3   3   2   
+20 FT wind gust.6   7   7   8   8   7   
+MixHgtAGL (kft).2.1 2.7 3.4 4.0 4.1 3.2 
+MixHgtMSL (kft).2.6 3.1 3.9 4.5 4.6 3.7 
+Transp wind dir.SW  SW  SW  SW  SW  SW  
+Transp wind spd.7   7   7   8   8   8   
+Chc of pcpn (%).0   0   0   0   0   0   
+
+.TONIGHT...
+
+Min temperature.....Min 52. 
+Max humidity........Max 89 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............3. 
+Sky/weather.........Mostly clear (10-20 percent). 
+Dispersion..........9 decreasing to 3 overnight. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....MISSING. 
+Category Day........1. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............81  77  73  68  65  63  61  60  58  57  55  54  
+RH..............37  45  49  59  65  67  72  75  77  80  86  86  
+20 FT wind dir..S   S   S   S   S   S   SW  S   S   SW  SW  SW  
+20 FT wind spd..2   2   2   2   2   1   1   1   1   1   1   1   
+20 FT wind gust.6   6   6   6   6   5   4   4   4   2   2   2   
+MixHgtAGL (kft).1.8 0.6 0.3 0.4 0.6 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+MixHgtMSL (kft).2.3 1.1 0.8 0.9 1.0 1.0 1.0 1.0 1.0 1.0 1.0 0.9 
+Transp wind dir.S   S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.7   7   7   8   8   8   8   7   6   5   5   5   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.FRIDAY...
+
+Max temperature.....Max 88. 
+Min humidity........Min 31 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....3. 
+LVORI...............3 early in the morning. 
+Sky/weather.........Sunny (0-10 percent). 
+Dispersion..........9 increasing to 15 late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....80. 
+Category Day........2. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR CLR CLR CLR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............54  53  54  59  66  71  76  82  84  86  88  86  
+RH..............86  89  86  80  70  59  52  43  38  35  31  35  
+20 FT wind dir..W   W   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..1   1   1   1   1   1   2   2   2   2   2   2   
+20 FT wind gust.2   2   2   4   4   5   6   6   6   7   7   6   
+MixHgtAGL (kft).0.4 0.4 0.5 0.7 1.0 1.5 2.1 2.8 3.6 4.2 4.3 3.2 
+MixHgtMSL (kft).0.9 0.9 1.0 1.2 1.5 2.0 2.6 3.3 4.1 4.7 4.7 3.7 
+Transp wind dir.SW  SW  SW  W   W   W   SW  SW  SW  W   W   SW  
+Transp wind spd.6   6   6   5   5   5   5   5   5   6   6   6   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...C POPE
+Requested by...Brandon Green
+Type of request...PRESCRIBED
+.TAG 2606424.0/LZK
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL dylan.brown@usda.gov,brandon.h.green@usda.gov
+

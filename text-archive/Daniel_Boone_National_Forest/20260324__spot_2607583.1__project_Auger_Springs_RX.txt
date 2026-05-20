@@ -1,0 +1,152 @@
+
+000
+FNUS73 KJKL 242208
+FWSJKL
+
+Spot Forecast for Auger Springs RX...US Forest Service
+National Weather Service Jackson KY
+608 PM EDT Tue Mar 24 2026
+
+Forecast is based on ignition time of 1100 EDT on March 25. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Warmer air will continue to move into the area 
+over the next couple of days. Moisture will also begin to increase, 
+especially on Thursday. The increase in moisture will lag behind 
+temperatures somewhat yet on Wednesday, and afternoon relative 
+humidity should still make it down to 25-30%. After modest 
+southwest winds on Wednesday, the winds will pick up on Thursday. 
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 73. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the afternoon. 
+Ridgetop wind.......Southwest 6 to 8 mph. 
+Mixing height.......6300 ft AGL. 
+Transport winds.....Southwest 13 to 17 mph. 
+Vent Rate...........Poor (11600 knot-ft) increasing to good (87400 
+                    knot-ft). 
+LVORI...............2. 
+ADI.................18 early in the morning increasing to 119 in 
+                    the afternoon. 
+
+TIME (EDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........39  35  27  36  40  44  46  
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+Chc of pcpn (%).0   0   0   0   0   0   0   
+Temp............59  64  67  71  71  73  73  
+RH..............40  35  32  29  29  28  28  
+20 FT wind dir..S   S   SW  SW  SW  SW  SW  
+20 FT wind spd..5   6   6   6   7   7   7   
+20 FT wind gust.12  13  14  14  15  15  14  
+Ridge wind dir..S   S   SW  SW  SW  SW  SW  
+Ridge wind spd..6   7   7   7   8   8   8   
+Mix hgt (kft)...1.1 2.8 4.5 6.2 6.2 6.2 6.3 
+Transp wind dir.S   S   SW  S   SW  SW  SW  
+Transp wind spd.13  13  14  14  15  16  17  
+LVORI...........2   1   1   1   1   1   1   
+ADI.............18  44  73  94  103 111 119 
+Vrate kt-ft/1K..12  30  54  74  81  87  94  
+Ventrate Cat....PR  PR  FR  GD  GD  GD  GD  
+
+.WEDNESDAY NIGHT...
+
+Sky/weather.........Mostly cloudy (50-60 percent) then becoming 
+                    partly cloudy (35-45 percent). 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 56. 
+Max humidity........77 percent. 
+Wind (20 ft)........Southwest winds around 5 mph early in the 
+                    evening becoming light, then becoming south 
+                    around 5 mph late in the evening. 
+Ridgetop wind.......South 6 to 7 mph. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Southwest 8 to 15 mph. 
+Vent Rate...........Good (56000 knot-ft) decreasing to poor (2400 
+                    knot-ft). 
+LVORI...............3. 
+ADI.................4 to 43. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........57  53  41  30  37  43  44  45  46  46  45  45  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   10  10  10  
+Temp............72  70  65  63  60  59  57  57  56  56  56  56  
+RH..............30  33  41  46  53  60  67  69  74  74  74  77  
+20 FT wind dir..SW  S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..6   6   5   5   5   6   6   6   6   6   6   6   
+20 FT wind gust.13  12  10  10  12  13  14  14  14  14  15  15  
+Ridge wind dir..SW  S   S   S   S   S   S   S   S   S   S   S   
+Ridge wind spd..7   7   6   6   6   7   7   7   7   7   7   7   
+Mix hgt (kft)...4.3 2.3 0.4 0.4 0.3 0.4 0.4 0.4 0.4 0.5 0.5 0.5 
+Transp wind dir.SW  S   S   S   S   S   S   S   SW  SW  SW  SW  
+Transp wind spd.15  12  8   8   8   9   9   9   10  10  10  10  
+LVORI...........1   2   2   2   2   3   3   3   3   3   3   4   
+ADI.............43  8   5   4   4   6   6   6   7   7   7   7   
+Vrate kt-ft/1K..56  23  3   3   2   3   3   3   4   4   5   5   
+Ventrate Cat....FR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). A slight chance 
+                    of showers and thunderstorms late in the 
+                    morning. 
+Chance of pcpn......20 percent. 
+Max temperature.....Around 80. 
+Min humidity........39 percent. 
+Wind (20 ft)........Southwest winds 5 to 9 mph. Gusts up to 24 mph 
+                    in the late morning and afternoon. Gusty and 
+                    erratic winds possible near thunderstorms. 
+Ridgetop wind.......Southwest 7 to 12 mph. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....Southwest 12 to 21 mph increasing to 22 to 25 
+                    mph in the afternoon. 
+Vent Rate...........Poor (5400 knot-ft) increasing to good (86000 
+                    knot-ft) early in the morning increasing to 
+                    excellent (96400 knot-ft) in the afternoon. 
+LVORI...............3. 
+ADI.................8 early in the morning increasing to 99 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........47  48  50  45  41  36  32  28  24  23  21  20  
+Weather cov.....        CHC SCH SCH CHC CHC                     
+Weather type....        RW  RW  RW  RW  RW                      
+Tstm cov........            SCH SCH                             
+Chc of pcpn (%).10  10  10  20  20  10  10  10  0   0   0   0   
+Temp............56  56  57  59  62  66  69  73  76  78  80  80  
+RH..............77  77  75  72  65  58  55  49  46  43  41  41  
+20 FT wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..6   6   6   7   8   9   9   10  10  10  10  10  
+20 FT wind gust.15  16  16  17  21  23  24  24  24  24  24  24  
+Ridge wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  
+Ridge wind spd..7   7   7   8   9   10  10  12  12  12  12  12  
+Mix hgt (kft)...0.5 0.5 0.6 1.1 1.6 2.2 2.7 3.3 3.9 4.1 4.2 4.4 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.12  12  12  15  17  21  22  24  25  25  25  25  
+LVORI...........4   4   4   3   3   1   1   1   1   1   1   1   
+ADI.............8   12  12  21  36  54  66  82  93  95  97  99  
+Vrate kt-ft/1K..5   6   6   14  24  39  52  70  86  90  93  96  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  FR  GD  GD  GD  GD  GD  
+
+$$
+Forecaster...HAL
+Requested by...Mitchell Scates
+Type of request...PRESCRIBED
+.TAG 2607583.1/JKL
+.DELDT 03/24/26
+.FormatterVersion 2.0.0
+.EMAIL mitchell.scates@usda.gov
+

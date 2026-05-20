@@ -1,0 +1,79 @@
+
+000
+FNUS72 KJAX 101742
+FWSJAX
+
+Spot Forecast for Penner  C-5...US Forest Service
+National Weather Service Jacksonville FL
+142 PM EDT Fri Apr 10 2026
+
+Forecast is based on ignition time of 0800 EDT on April 11. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (904) 741-4370 if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+High pressure builds into the region, setting up an extended dry 
+period over the course of this weekend and through next week. 
+Light northeasterly winds continue on Saturday, gradually 
+shifting to become easterly by Sunday. Increasing mixing heights 
+will bring High dispersions to the burn site on Saturday. By 
+Saturday night, winds will begin to taper off, which could see the
+development of some fog during the late evening hours into Sunday
+morning. Otherwise, temperatures will be in the mid 70s tomorrow 
+afternoon, dipping to the lower 60s by Saturday night. 
+
+.SATURDAY...
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........49  40  45  50  50  41  33  19  16  8   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   
+Temp............60  63  68  71  73  75  75  75  76  75  
+RH..............96  93  81  73  66  60  60  55  54  55  
+Heat index (F)..60  63  68  71  73  75  75  75  76  75  
+Wind chill (F)..60  63  68  71  73  75  75  75  76  75  
+20 FT wind dir..N   NE  NE  NE  NE  NE  NE  NE  NE  E   
+20 FT wind spd..2   3   5   6   7   9   9   9   9   9   
+20 FT wind gust.7   9   12  14  16  17  17  18  17  17  
+Mix hgt (kft)...0.4 1.6 2.7 3.8 4.4 4.9 5.4 5.2 5.0 4.8 
+Transp wind dir.NE  NE  NE  E   E   E   E   E   E   E   
+Transp wind spd.7   8   10  12  13  14  14  15  15  14  
+Dispersion idx..7   16  36  58  67  78  84  88  85  79  
+LVORI...........8   5   3   1   1   1   1   1   1   1   
+
+.SATURDAY NIGHT...
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   7   3   4   5   4   5   6   7   10  13  16  
+Weather cov.....                                        PTY PTY 
+Weather type....                                        FOG FOG 
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............75  74  70  67  65  63  62  61  60  60  59  59  
+RH..............54  57  68  75  81  87  90  93  96  93  96  96  
+Heat index (F)..75  74  70  67  65  63  62  61  60  60  59  59  
+Wind chill (F)..75  74  70  67  65  63  62  61  60  60  59  59  
+20 FT wind dir..E   E   E   NE  NE  E   NE  E   E   E   NE  NE  
+20 FT wind spd..9   7   7   3   3   2   2   2   2   2   2   2   
+20 FT wind gust.16  16  14  12  10  8   7   7   6   6   6   6   
+Mix hgt (kft)...3.4 2.0 0.5 0.5 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.14  13  12  10  8   7   7   7   7   8   8   8   
+Dispersion idx..55  31  5   4   4   3   3   3   3   3   3   4   
+LVORI...........1   1   3   3   5   6   6   7   8   8   9   9   
+
+$$
+Forecaster...Cruz
+Requested by...John Ramsay
+Type of request...PRESCRIBED
+.TAG 2609979.0/JAX
+.DELDT 04/10/26
+.FormatterVersion 2.0.0
+.EMAIL john.ramsay@usda.gov
+

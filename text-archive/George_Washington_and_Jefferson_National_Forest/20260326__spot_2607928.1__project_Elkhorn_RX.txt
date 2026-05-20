@@ -1,0 +1,164 @@
+
+000
+FNUS71 KLWX 260333
+FWSLWX
+
+Spot Forecast for Elkhorn RX...USFS
+National Weather Service Baltimore MD/Washington DC
+1133 PM EDT Wed Mar 25 2026
+
+Forecast is based on ignition time of 0500 EDT on March 26. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+A warming trend in temperatures is expected through Thursday. A cold front 
+will approach from the west Thursday before crossing the area 
+Thursday night into Friday bringing the next chance of rain along
+with a few thunderstorms to the region. Cooler weather returns 
+with strong high pressure this weekend. Temperatures warm back up
+next week as a frontal boundary remains off to the north.
+
+.REST OF TONIGHT...
+
+Sky/weather.........Mostly cloudy (50-60 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 45. 
+Max humidity........74 percent. 
+Wind (20 ft)........West winds around 9 mph. 
+Mixing height.......500 ft AGL. 
+Transport winds.....West around 14 mph. 
+Smoke dispersal.....Poor (5800 knot-ft). 
+
+TIME (EDT)      5AM 
+Sky (%).........55  
+Weather cov.....    
+Weather type....    
+Tstm cov........    
+CWR.............0   
+Chc of thdr (%).0   
+Temp............47  
+RH..............65  
+20 FT wind dir..W   
+20 FT wind spd..9   
+20 FT wind gust.10  
+Mix hgt (kft)...0.5 
+Transp wind dir.W   
+Transp wind spd.14  
+Vrate kt-ft/1K..6   
+Ventrate Cat....PR  
+
+.THURSDAY...
+
+Sky/weather.........Partly sunny (50-60 percent). Slight chance of 
+                    rain early in the afternoon. 
+CWR.................10 percent. 
+Chance of thunder...5 percent. 
+Max temperature.....Around 71. 
+Min humidity........57 percent. 
+Wind (20 ft)........Southwest winds 9 to 15 mph. 
+Mixing height.......2800 ft AGL. 
+Transport winds.....West 14 to 21 mph shifting to the southwest 24 
+                    to 26 mph late in the afternoon. 
+Smoke dispersal.....Poor (5400 knot-ft) early in the morning 
+                    increasing to excellent (64200 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........54     49     72     72     50     43     
+Weather cov.....                     S CHC                
+Weather type....NONE   NONE   NONE   RAIN   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      10     10     20     10     10     
+Chc of thdr (%).0      0      0      0      10     10     
+Temp............48     49     58     64     68     71     
+RH..............68     74     69     63     61     57     
+20 ft wind......W 9    W 9    W 10   SW 12  SW 13  SW 15  
+20 ft wind gust.10     10     12     15     16     24     
+Mix hgt (ft)....500    500    1200   1300   1900   2800   
+Transport wind..W 14   W 14   W 15   W 15   SW 21  SW 26  
+Vrate kt-ft/1K..6      6      15     17     34     64     
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   GOOD   
+
+.THURSDAY NIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent) then becoming 
+                    mostly cloudy (65-75 percent). Slight chance of 
+                    rain early in the morning. 
+CWR.................10 percent increasing to 20 percent early in 
+                    the morning. 
+Chance of thunder...5 percent. 
+Min temperature.....Around 55. 
+Max humidity........90 percent. 
+Wind (20 ft)........Southwest winds 14 to 16 mph. 
+Mixing height.......800 ft AGL. 
+Transport winds.....West 17 to 26 mph increasing to around 28 mph 
+                    overnight. 
+Smoke dispersal.....Good (49000 knot-ft) early in the evening 
+                    decreasing to fair (15800 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........45        26        55        80        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+CWR.............10        0         0         10        
+Chc of thdr (%).0         0         0         0         
+Temp............70        66        64        64        
+RH..............57        63        67        70        
+20 FT wind......SW 15G24  SW 15G20  W 16G21   W 16G21   
+Mix hgt (ft)....2500      1000      900       1400      
+Transport wind..SW 23     W 20      W 24      W 28      
+Vrate kt-ft/1K..49        17        19        34        
+Ventrate Cat....FAIR      POOR      POOR      POOR      
+
+.FRIDAY...
+
+Sky/weather.........Mostly cloudy (80-90 percent). Chance of rain 
+                    early in the morning, then rain likely early in 
+                    the morning. Rain late in the afternoon. 
+CWR.................30 percent increasing to 90 percent. 
+Chance of thunder...7 percent. 
+Max temperature.....Around 66. 
+Min humidity........75 percent. 
+Wind (20 ft)........West winds 13 to 15 mph shifting to the 
+                    northeast around 9 mph late in the afternoon. 
+Mixing height.......3200 ft AGL. 
+Transport winds.....West 22 to 28 mph becoming northwest 9 to 17 
+                    mph in the late morning and early afternoon, 
+                    then shifting to the north around 9 mph late in 
+                    the afternoon. 
+Smoke dispersal.....Poor (12000 knot-ft) early in the morning 
+                    increasing to good (42600 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........85           84           94           
+Weather cov.....CHANCE       LIKELY       DEFNTE       
+Weather type....RAIN         RAIN         RAIN         
+Tstm cov........                                       
+CWR.............30           70           90           
+Chc of thdr (%).10           10           10           
+Temp............62           63           60           
+RH..............78           78           84           
+20 FT wind......W 15G20      N 10G12      N 9G10       
+Mix hgt (ft)....1700         2800         2700         
+Transport wind..W 28         W 17         N 9          
+Vrate kt-ft/1K..42           42           22           
+Ventrate Cat....FAIR         FAIR         POOR         
+
+$$
+Forecaster...Rosa
+Requested by...Aaron Strobel
+Type of request...PRESCRIBED
+.TAG 2607928.1/LWX
+.DELDT 03/26/26
+.FormatterVersion 2.0.0
+.EMAIL aaron.p.strobel@usda.gov,ted.docev@usda.gov,james.collett@usda.gov
+

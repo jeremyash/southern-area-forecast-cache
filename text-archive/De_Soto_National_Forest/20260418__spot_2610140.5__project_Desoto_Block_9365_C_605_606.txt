@@ -1,0 +1,138 @@
+
+000
+FNUS74 KMOB 181016
+FWSMOB
+
+Spot Forecast for Desoto Block 9365 C-605/606...USFS
+National Weather Service Mobile AL
+516 AM CDT Sat Apr 18 2026
+
+Forecast is based on ignition time of 0700 CDT on April 18. 
+If conditions become unrepresentative...contact the National
+Weather Service.
+
+...HIGH DISPERSION INDEX AROUND 90 EXPECTED SUNDAY OVER THE BURN
+AREA...
+
+.DISCUSSION...There is a 70% chance of rain tonight, and a 70%
+chance of rain early Sunday morning. For today, the minimum
+relative humidity is near 45%, transport winds will be mostly
+southwesterly, and dispersion values will be generally good.
+For Sunday, the minimum relative humidity is near 25%, 20 ft
+wind gusts will be up to near 30 mph, transport winds will be
+mostly north-northeasterly, and dispersion values will be good.
+
+Fog potential and other remarks...Fog is possible this morning. 
+
+.TODAY...
+
+Sky/weather.........Partly sunny (55-65 percent). Patchy fog early 
+                    in the morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 86. 
+Min humidity........46 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph late 
+                    in the morning. 
+Mixing height.......5900 ft AGL. 
+Transport winds.....Southwest 5 to 10 mph. 
+Dispersion index....5 increasing to 53 early afternoon decreasing
+                    to 48 late in the afternoon.
+
+TIME (CDT)      7 AM   9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........60     53     52     59     64     57     
+Weather cov.....PATCHY                                    
+Weather type....FOG    NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............61     70     80     83     84     84     
+RH..............100    84     56     49     48     49     
+20 FT wind dir..SSW    SSW    SW     SW     SSW    SSW    
+20 FT wind spd..2      2      6      7      8      8      
+20 FT wind gust.5      7      10     12     13     13     
+Mix hgt (ft)....300    2700   4300   5700   5900   4800   
+Transp wind dir.SSW    SW     WSW    WSW    WSW    SSW    
+Transp wind spd.5      10     9      8      8      10     
+Dispersion idx..5      34     49     53     49     50     
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (70-80 percent). Chance of rain 
+                    showers and slight chance of thunderstorms in 
+                    the late evening and overnight. Rain showers 
+                    likely and chance of thunderstorms after 3 am. 
+Chance of pcpn......70 percent. 
+Min temperature.....Around 51. 
+Max humidity........93 percent. 
+Wind (20 ft)........South winds 5 to 6 mph early in the evening 
+                    becoming light, then becoming north 5 to 14 mph 
+                    with gusts to around 26 mph overnight. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    in the late evening and overnight. 
+Mixing height.......600 ft AGL. 
+Transport winds.....South 7 to 13 mph shifting to the west late in 
+                    the evening, then shifting to the north 12 to 
+                    17 mph overnight increasing to 22 to 28 mph 
+                    after 3 am. 
+Dispersion index....54 decreasing to 7 in the evening and 
+                    overnight, then increasing to 22 overnight 
+                    increasing to 32 early in the morning. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........58     78     90     89     93     91     
+Weather cov.....              CHANCE CHANCE CHANCE LIKELY 
+Weather type....NONE   NONE   RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........              S CHC  S CHC  S CHC  CHANCE 
+Chc of pcpn (%).0      10     30     30     40     70     
+Temp............82     75     72     70     66     61     
+RH..............55     71     84     87     90     90     
+20 FT wind dir..SSW    S      WSW    NW     N      N      
+20 FT wind spd..7      6      3      5      8      14     
+20 FT wind gust.12     10     9      13     17     25     
+Mix hgt (ft)....4800   600    600    1000   1200   1400   
+Transp wind dir.S      S      SSW    N      N      N      
+Transp wind spd.13     10     7      12     17     23     
+Dispersion idx..54     7      4      8      18     26     
+
+.SUNDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (40-50 percent). Rain showers 
+                    likely and chance of thunderstorms early in the 
+                    morning, then slight chance of rain showers in 
+                    the morning. 
+Chance of pcpn......70 percent. 
+Max temperature.....Around 72. 
+Min humidity........29 percent. 
+Wind (20 ft)........North winds 9 to 16 mph with gusts to around 30 
+                    mph. Gusty and erratic winds expected near 
+                    thunderstorms early in the morning. 
+Mixing height.......4600 ft AGL. 
+Transport winds.....Northeast 21 to 28 mph decreasing to around 18 
+                    mph late in the afternoon. 
+Dispersion index....28 increasing to 90. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........83     90     83     73     61     47     
+Weather cov.....LIKELY S CHC  S CHC  S CHC                
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR NONE   NONE   
+Tstm cov........CHANCE                                    
+Chc of pcpn (%).70     20     20     20     0      0      
+Temp............54     51     57     64     69     71     
+RH..............93     89     69     45     30     25     
+20 FT wind dir..N      N      NNE    NNE    NNE    NNE    
+20 FT wind spd..16     18     18     16     15     14     
+20 FT wind gust.29     30     28     25     24     22     
+Mix hgt (ft)....1200   1400   2000   3200   4300   4500   
+Transp wind dir.N      NNE    NNE    NNE    NNE    NNE    
+Transp wind spd.28     23     24     24     23     21     
+Dispersion idx..28     36     49     61     90     83     
+
+$$
+Forecaster...22
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2610140.5/MOB
+.DELDT 04/18/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

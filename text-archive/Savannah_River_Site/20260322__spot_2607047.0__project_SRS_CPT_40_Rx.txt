@@ -1,0 +1,137 @@
+
+000
+FNUS72 KCAE 220740
+FWSCAE
+
+Spot Forecast for SRS CPT 40 Rx...US Forest Service
+National Weather Service Columbia SC
+340 AM EDT Sun Mar 22 2026
+
+Forecast is based on ignition time of 0800 EDT on March 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+A sunny, warm and breezy day is expected today with an increasing
+pressure gradient ahead of an approaching cold front that will 
+cross the area on Monday. Light and variable winds should 
+increase to around 10 mph by late morning and gradually shift more
+southwesterly and increase to 10 to 15 mph with some gusts around 
+mph this afternoon. Min RH values expected to drop in the 30-35 
+percent range with good mixing expected. Wind gusts should subside
+with sunset but winds expected to remain 5 to 10 mph through the 
+night with a strong low level jet and little chance for fog.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 87. 
+Min humidity........35 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph in 
+                    the late morning and afternoon. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....West 9 to 17 mph increasing to around 20 mph 
+                    late in the afternoon. 
+LVORI...............3. 
+ADI.................10 early in the morning increasing to 118 in 
+                    the afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   1   2   1   1   2   3   2   3   3   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   
+Temp............62  65  70  75  79  82  85  86  87  87  
+RH..............78  75  63  56  50  46  40  39  35  35  
+Aparnt tmp (F)..62  65  70  75  79  82  84  85  86  86  
+20 FT wind dir..SW  W   W   W   W   W   SW  SW  SW  SW  
+20 FT wind dir..240 250 260 260 250 250 240 240 240 240 
+20 FT wind spd..3   3   5   6   6   7   7   8   8   8   
+20 FT wind gust.12  13  14  14  15  16  17  18  18  18  
+Mix hgt (kft)...0.4 0.6 1.3 1.9 3.0 4.0 4.9 5.2 5.2 5.2 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   
+Transp wind dir.260 260 270 270 270 260 260 260 260 260 
+Transp wind spd.9   12  14  14  14  15  17  20  20  20  
+LVORI...........4   4   2   1   1   1   1   1   1   1   
+ADI.............10  12  24  34  52  72  97  116 118 117 
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (0-10 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 63. 
+Max humidity........78 percent. 
+Wind (20 ft)........Southwest winds 5 to 6 mph. 
+Mixing height.......600 ft AGL. 
+Transport winds.....Southwest 14 to 21 mph. 
+LVORI...............2. 
+ADI.................112 early in the evening decreasing to 6 late 
+                    in the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........1   4   3   1   1   1   2   5   3   2   12  4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............86  84  80  75  74  72  71  70  69  68  66  65  
+RH..............35  38  44  52  53  57  57  59  59  63  68  70  
+Aparnt tmp (F)..84  83  80  75  74  72  71  70  69  68  66  65  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  W   W   
+20 FT wind dir..240 230 230 230 230 230 240 240 240 240 250 250 
+20 FT wind spd..7   6   5   5   5   5   6   6   6   6   6   6   
+20 FT wind gust.17  16  14  15  14  15  16  15  16  16  17  17  
+Mix hgt (kft)...4.6 0.9 0.6 0.6 0.7 0.6 0.6 0.6 0.7 0.6 0.6 0.6 
+Transp wind dir.W   SW  SW  SW  SW  SW  SW  W   W   W   W   W   
+Transp wind dir.260 230 230 230 230 240 240 250 260 260 260 260 
+Transp wind spd.21  17  14  15  16  17  16  16  17  16  16  15  
+LVORI...........1   2   2   2   2   3   3   3   3   3   3   3   
+ADI.............112 8   6   7   7   8   7   7   8   7   7   7   
+
+.MONDAY...
+
+Sky/weather.........Sunny (20-30 percent). Slight chance of rain 
+                    late in the afternoon. 
+Chance of pcpn......20 percent. 
+Max temperature.....Around 86. 
+Min humidity........40 percent. 
+Wind (20 ft)........West winds 6 to 7 mph. Gusts up to 20 mph late 
+                    in the morning. 
+Mixing height.......5800 ft AGL. 
+Transport winds.....West 14 to 21 mph. 
+LVORI...............3. 
+ADI.................7 early in the morning increasing to 113 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........4   5   3   9   9   9   15  22  28  33  37  42  
+Weather cov.....                                SCH SCH SCH SCH 
+Weather type....                                RN  RN  RN  RN  
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   20  20  20  20  
+Temp............64  63  63  66  70  74  78  82  84  86  86  85  
+RH..............73  78  78  70  63  59  54  47  44  40  40  40  
+Aparnt tmp (F)..64  63  63  66  70  74  78  82  84  85  85  84  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   NW  NW  
+20 FT wind dir..250 250 250 250 260 260 270 280 280 290 300 300 
+20 FT wind spd..6   6   6   7   8   8   8   8   8   8   8   7   
+20 FT wind gust.18  18  18  18  18  20  20  18  18  18  18  17  
+Mix hgt (kft)...0.7 0.8 0.7 1.6 2.1 2.6 3.3 4.1 4.7 5.4 5.8 5.6 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   NW  NW  
+Transp wind dir.260 260 260 260 270 280 280 280 280 290 300 300 
+Transp wind spd.15  14  14  18  21  21  21  21  20  18  16  15  
+LVORI...........3   4   4   3   1   1   1   1   1   1   1   1   
+ADI.............7   14  14  38  57  68  84  100 107 113 105 95  
+
+$$
+Forecaster...Coleman
+Requested by...Kevin Pope
+Type of request...PRESCRIBED
+.TAG 2607047.0/CAE
+.DELDT 03/22/26
+.FormatterVersion 2.0.0
+.EMAIL kevin.pope@usda.gov
+

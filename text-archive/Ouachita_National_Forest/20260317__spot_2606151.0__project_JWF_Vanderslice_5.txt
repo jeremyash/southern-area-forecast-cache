@@ -1,0 +1,125 @@
+
+000
+FNUS74 KLZK 172027
+FWSLZK
+
+Spot Forecast for JWF Vanderslice 5...USFS
+National Weather Service Little Rock AR
+327 PM CDT Tue Mar 17 2026
+
+Forecast is based on ignition time of 0000 CDT on March 18. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+Continued dry and warming temperatures will continue through the
+middle of the week. Expect increasing moisture levels and winds to
+prevail generally out of the southwesterly to westerly direction 
+during this period.
+
+.REST OF TONIGHT...
+
+Min temperature.....45 at ignition...Min 42. 
+Max humidity........43 percent at ignition...Max 53 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Mostly cloudy (65-75 percent). 
+Category Day........1. 
+
+TIME (CDT)      MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MC  MC  MC  MC  MC  MC  
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+Temp............45  44  44  45  43  44  
+RH..............43  47  49  47  51  51  
+20 FT wind dir..S   S   S   S   SW  SW  
+20 FT wind spd..6   7   7   7   7   7   
+20 FT wind gust.13  13  14  14  14  14  
+MixHgtAGL (kft).0.7 0.7 0.7 0.7 0.7 0.7 
+Transp wind dir.SW  SW  SW  SW  SW  SW  
+Transp wind spd.15  15  15  15  15  15  
+Chc of pcpn (%).0   0   0   0   0   0   
+
+.WEDNESDAY...
+
+Max temperature.....Max 68. 
+Min humidity........Min 32 percent. 
+Chance of pcpn......10 percent. 
+Sky/weather.........Mostly cloudy (80-90 percent) then becoming 
+                    mostly sunny (25-35 percent). 
+Category Day........4. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  PC  PC  PC  MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............45  44  47  47  50  55  58  62  65  67  68  68  
+RH..............49  53  47  49  48  40  37  35  33  32  33  35  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..7   7   7   7   7   7   7   6   6   6   5   5   
+20 FT wind gust.14  14  14  16  16  16  16  14  13  13  12  11  
+MixHgtAGL (kft).0.7 0.8 1.2 1.7 2.1 2.5 2.8 3.0 3.5 3.9 3.8 2.9 
+Transp wind dir.SW  SW  SW  SW  SW  SW  W   W   W   W   W   W   
+Transp wind spd.14  15  18  22  24  24  22  20  18  17  16  14  
+Chc of pcpn (%).10  0   0   0   0   0   10  0   0   0   0   0   
+
+.WEDNESDAY NIGHT...
+
+Min temperature.....Min 49. 
+Max humidity........Max 80 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Mostly clear (5-15 percent). 
+Category Day........3. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............68  66  63  60  57  55  54  53  52  51  51  49  
+RH..............36  43  48  53  59  64  66  69  71  74  74  80  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..3   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.10  7   6   6   6   6   5   5   5   6   6   6   
+MixHgtAGL (kft).1.7 0.7 0.4 0.5 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.6 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.12  9   8   7   7   7   8   8   8   9   9   9   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.THURSDAY...
+
+Max temperature.....Max 80. 
+Min humidity........Min 35 percent. 
+Chance of pcpn......0 percent. 
+Sky/weather.........Sunny (0-10 percent). 
+Category Day........MG1. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR MCR MCR MCR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............49  50  53  57  62  66  71  74  77  79  80  79  
+RH..............80  77  71  67  58  52  46  41  37  36  35  38  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   2   2   2   2   2   3   3   3   5   5   5   
+20 FT wind gust.6   6   7   8   10  10  10  10  11  11  11  10  
+MixHgtAGL (kft).0.5 0.6 0.8 1.1 1.4 1.7 1.9 2.2 2.7 3.2 3.3 2.6 
+Transp wind dir.SW  SW  SW  W   W   W   SW  SW  SW  SW  SW  SW  
+Transp wind spd.9   9   10  13  14  14  14  14  15  17  17  15  
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...A Young
+Requested by...Matthew Will
+Type of request...PRESCRIBED
+.TAG 2606151.0/LZK
+.DELDT 03/17/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.will@usda.gov,lance.robinson@usda.gov,mawill1995@gmail.com
+

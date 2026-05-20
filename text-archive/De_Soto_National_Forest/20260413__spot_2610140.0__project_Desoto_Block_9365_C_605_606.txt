@@ -1,0 +1,130 @@
+
+000
+FNUS74 KMOB 131010
+FWSMOB
+
+Spot Forecast for Desoto Block 9365 C-605/606...USFS
+National Weather Service Mobile AL
+510 AM CDT Mon Apr 13 2026
+
+Forecast is based on ignition time of 0900 CDT on April 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...HIGH DISPERSION INDEX AROUND 86 EXPECTED REST OF TODAY OVER
+THE BURN AREA...
+
+...HIGH DISPERSION INDEX AROUND 76 EXPECTED TUESDAY OVER THE BURN
+AREA...
+
+.DISCUSSION...Dry conditions will persist today and Tuesday. Minimum
+relative humidity this afternoon will be near 40% with 20 ft wind
+gusts around 20 mph. Transport winds will be mostly southerly, 
+and dispersion values will be good. For Tuesday, the minimum 
+relative humidity will be near 40% with 20 ft wind gusts up to 
+near 20 mph. Transport winds will be mostly southerly to south- 
+southeasterly, and dispersion values will be good. 
+
+Fog potential and other remarks... Patchy fog is possible tonight
+and Tuesday morning. Visibilities reduced to around 1 mile will 
+be possible.
+
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 83. 
+Min humidity........41 percent. 
+Wind (20 ft)........Light winds becoming south 6 to 9 mph in the 
+                    late morning and afternoon. 
+Mixing height.......5300 ft AGL. 
+Transport winds.....South 14 to 16 mph. 
+Dispersion index....59 increasing to 77 late in the morning, then 
+                    increasing to 86 early in the afternoon 
+                    decreasing to 75 late in the afternoon. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........51     47     35     33     15     
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Chc of pcpn (%).0      0      0      0      0      
+Temp............69     78     81     83     81     
+RH..............78     54     44     41     46     
+20 FT wind dir..S      S      S      S      S      
+20 FT wind spd..5      9      10     10     10     
+20 FT wind gust.9      14     17     17     16     
+Mix hgt (ft)....2800   4600   5300   5100   4900   
+Transp wind dir.S      S      S      S      S      
+Transp wind spd.16     15     16     15     14     
+Dispersion idx..59     80     86     77     77     
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). Patchy fog 
+                    overnight. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 61. 
+Max humidity........100 percent. 
+Wind (20 ft)........South winds 5 to 8 mph early in the evening 
+                    becoming light. 
+Mixing height.......300 ft AGL. 
+Transport winds.....South 8 to 15 mph. 
+Dispersion index....81 decreasing to 6. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........12     5      9      33     46     39     
+Weather cov.....                            PATCHY PATCHY 
+Weather type....NONE   NONE   NONE   NONE   FOG    FOG    
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............79     71     67     65     64     63     
+RH..............52     73     90     97     100    100    
+20 FT wind dir..S      SSE    SSE    SSE    SSE    SSE    
+20 FT wind spd..9      6      3      2      2      2      
+20 FT wind gust.14     12     9      8      7      6      
+Mix hgt (ft)....4900   300    300    400    500    400    
+Transp wind dir.S      S      SSE    SSE    S      S      
+Transp wind spd.15     12     10     8      10     9      
+Dispersion idx..81     5      4      4      4      4      
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). Patchy fog early 
+                    in the morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 83. 
+Min humidity........43 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 9 mph in the 
+                    late morning and afternoon. 
+Mixing height.......4800 ft AGL. 
+Transport winds.....South 7 to 15 mph. 
+Dispersion index....6 increasing to 72. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........50     44     18     11     6      5      
+Weather cov.....PATCHY PATCHY                             
+Weather type....FOG    FOG    NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............61     64     75     79     82     82     
+RH..............100    97     64     50     43     43     
+20 FT wind dir..SE     S      SSE    SSE    SSE    S      
+20 FT wind spd..2      2      6      9      10     10     
+20 FT wind gust.5      6      10     15     17     17     
+Mix hgt (ft)....400    1200   3800   4600   4800   4400   
+Transp wind dir.SSE    S      S      S      S      S      
+Transp wind spd.8      8      12     14     15     14     
+Dispersion idx..4      14     58     76     71     70     
+
+$$
+Forecaster...8
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2610140.0/MOB
+.DELDT 04/13/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov
+

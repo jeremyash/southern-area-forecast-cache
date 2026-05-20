@@ -1,0 +1,120 @@
+
+000
+FNUS74 KBMX 140639
+FWSBMX
+
+Spot Forecast for Trammel A Rx...USFS
+National Weather Service Birmingham AL
+139 AM CDT Thu May 14 2026
+
+Forecast is based on ignition time of 0600 CDT on May 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+RH values drop into the 30 to 35 percent range at the Trammel A
+burn site this afternoon behind a dry cold front. 20 ft winds will
+be out of the north at 5 to 7 mph, gusting to around 12 mph, while
+transport winds will also be out of the north at 15 to 17 mph.
+20ft winds become very light to calm tonight while transport 
+winds shift from northerly to easterly. RH values drop to around 
+30 percent Friday afternoon with light 20ft winds. Transport winds
+will shift from easterly to southerly. 
+
+
+.TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 74. 
+Min humidity........32 percent. 
+Wind (20 ft)........Light winds becoming north 5 to 7 mph early in 
+                    the morning. 
+Mixing height.......4700 ft AGL. 
+Transport winds.....North 10 to 17 mph. 
+Dispersion index....9 increasing to 74 late in the morning. 
+LVORI...............3. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........1      0      1      1      1      2      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............56     58     66     70     72     73     
+RH..............72     69     48     39     34     33     
+20 FT wind......N 3    N 5    N 7    N 7    N 7    N 6    
+20 FT wind gust.10     13     12     12     12     11     
+20 FT wind dir..000    020    010    350    350    340    
+Mix hgt (ft)....400    1500   3300   4300   4700   4600   
+Transport wind..N 10   N 15   N 17   N 15   N 14   N 14   
+Dispersion idx..5      7      12     75     75     75     
+LVORI...........4      3      1      1      1      1      
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 48. 
+Max humidity........80 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....North 7 to 13 mph shifting to the east 
+                    overnight. 
+Dispersion index....51 decreasing to 5. 
+LVORI...............3. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........4      4      5      2      13     14     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............72     65     56     54     50     48     
+RH..............37     52     64     69     77     80     
+20 FT wind......N 3    N 2    NE 1   NE 1   E 1    E 1    
+20 FT wind gust.10     8      6      5      5      5      
+20 FT wind dir..340    350    030    050    070    090    
+Mix hgt (ft)....3200   400    400    400    400    400    
+Transport wind..N 13   N 9    N 8    N 7    E 8    E 8    
+Dispersion idx..51     4      4      3      4      4      
+LVORI...........1      2      3      3      4      4      
+
+.FRIDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 80. 
+Min humidity........30 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5100 ft AGL. 
+Transport winds.....Southeast 5 to 9 mph shifting to the south 3 to 
+                    7 mph in the afternoon. 
+Dispersion index....4 increasing to 44. 
+LVORI...............3. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........5      13     15     15     9      14     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............50     57     69     75     78     80     
+RH..............77     67     44     34     31     30     
+20 FT wind......E 1    E 2    SE 2   SE 2   S 2    S 2    
+20 FT wind gust.6      6      7      6      6      6      
+20 FT wind dir..100    110    130    150    180    190    
+Mix hgt (ft)....400    1100   2500   3600   5100   3800   
+Transport wind..E 9    E 9    SE 6   SE 5   S 5    S 6    
+Dispersion idx..4      4      3      21     29     28     
+LVORI...........4      3      2      2      2      2      
+
+$$
+Forecaster...JDavis
+Requested by...Michael Larson
+Type of request...PRESCRIBED
+.TAG 2613478.2/BMX
+.DELDT 05/14/26
+.FormatterVersion 2.0.0
+

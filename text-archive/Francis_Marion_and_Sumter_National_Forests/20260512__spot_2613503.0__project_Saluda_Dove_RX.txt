@@ -1,0 +1,137 @@
+
+000
+FNUS72 KCAE 122302
+FWSCAE
+
+Spot Forecast for Saluda Dove RX...USFS
+National Weather Service Columbia SC
+702 PM EDT Tue May 12 2026
+
+Forecast is based on ignition time of 0900 EDT on May 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+A front will approach the area Wednesday allowing for light SW
+winds to develop during the afternoon. Throughout the morning and
+mid-day expect winds to be calm or variable in direction.
+RH values should stay above 30 percent for most of the day but
+there could be a brief period in the afternoon where humidity dips
+slightly below 30 percent. Limited moisture ahead of the front 
+will likely prevent any precipitation, although there will be a 
+wind shift overnight as the front moves through the area shifting 
+winds to NE during the early morning hours on Thursday.
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Chance of pcpn......5 percent. 
+Max temperature.....Around 81. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph late 
+                    in the afternoon. 
+Mixing height.......6300 ft AGL. 
+Transport winds.....Northeast 3 to 5 mph shifting to the west 5 to 
+                    10 mph in the afternoon. 
+LVORI...............3. 
+ADI.................7 early in the morning increasing to 77 in the 
+                    afternoon. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........13  17  23  25  18  14  8   8   10  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   5   5   5   5   
+Temp............61  66  71  74  76  78  79  80  80  
+RH..............72  61  51  44  42  39  35  33  33  
+Aparnt tmp (F)..61  66  71  74  76  78  79  80  80  
+20 FT wind dir..NE  N   N   SE  SW  SW  SW  W   W   
+20 FT wind dir..060 000 000 140 230 240 240 250 250 
+20 FT wind spd..1   0   0   1   2   3   5   5   6   
+20 FT wind gust.3   3   3   5   6   8   9   11  12  
+Mix hgt (kft)...1.2 2.2 3.3 4.2 5.1 5.7 6.0 6.3 6.1 
+Transp wind dir.E   E   NE  W   W   W   W   W   W   
+Transp wind dir.070 070 050 270 270 260 250 260 270 
+Transp wind spd.5   5   3   5   6   7   8   9   10  
+LVORI...........4   3   2   2   1   1   1   1   1   
+ADI.............7   13  15  25  37  48  59  70  77  
+
+.WEDNESDAY NIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 58. 
+Max humidity........87 percent. 
+Wind (20 ft)........West winds around 5 mph early in the evening 
+                    becoming light, then becoming northwest around 
+                    5 mph early in the morning. 
+Mixing height.......400 ft AGL. 
+Transport winds.....West 6 to 10 mph shifting to the north 9 to 10 
+                    mph after 3 am. 
+LVORI...............4. 
+ADI.................69 early in the evening decreasing to 3 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........3   9   6   17  19  13  0   3   9   16  16  19  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).10  10  0   0   0   0   0   0   0   0   0   0   
+Temp............81  79  75  69  66  65  64  63  63  61  60  59  
+RH..............37  41  50  59  75  78  84  87  87  87  87  83  
+Aparnt tmp (F)..80  79  75  69  66  65  64  63  63  61  60  59  
+20 FT wind dir..W   SW  SW  SW  SW  SW  W   W   W   NW  NW  NW  
+20 FT wind dir..250 240 230 220 240 240 260 270 290 310 320 330 
+20 FT wind spd..5   3   2   3   3   3   3   3   3   3   3   5   
+20 FT wind gust.11  8   6   6   7   7   7   7   8   8   8   9   
+Mix hgt (kft)...5.4 2.6 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.W   W   SW  SW  SW  W   W   W   NW  N   N   N   
+Transp wind dir.270 260 240 230 230 250 250 260 300 340 350 350 
+Transp wind spd.10  8   6   7   8   9   10  9   9   9   10  10  
+LVORI...........1   2   3   3   4   4   5   6   6   6   5   5   
+ADI.............69  4   3   3   4   4   5   4   4   4   5   5   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 79. 
+Min humidity........29 percent. 
+Wind (20 ft)........Northwest winds 5 to 6 mph. 
+Mixing height.......7500 ft AGL. 
+Transport winds.....Northwest 9 to 14 mph. 
+LVORI...............3. 
+ADI.................4 early in the morning increasing to 112 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   1   2   0   2   3   2   1   0   0   1   1   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............59  58  60  62  66  70  73  75  77  78  79  79  
+RH..............78  77  72  65  54  46  40  36  32  30  29  29  
+Aparnt tmp (F)..59  58  60  62  66  70  73  75  77  78  79  79  
+20 FT wind dir..N   N   N   N   N   N   N   NW  NW  NW  NW  NW  
+20 FT wind dir..340 340 350 000 350 340 340 330 320 320 310 310 
+20 FT wind spd..5   5   5   6   6   6   6   6   6   6   6   6   
+20 FT wind gust.11  11  11  12  12  12  12  11  11  12  12  12  
+Mix hgt (kft)...0.5 0.5 1.5 2.8 3.8 4.5 5.2 5.9 6.4 7.1 7.5 7.0 
+Transp wind dir.N   N   N   N   N   NW  NW  NW  NW  NW  NW  NW  
+Transp wind dir.350 000 000 010 350 330 330 320 320 320 320 320 
+Transp wind spd.9   9   14  12  12  12  12  13  13  13  13  12  
+LVORI...........4   4   3   1   1   1   1   1   1   1   1   1   
+ADI.............4   9   28  42  55  65  75  91  98  107 112 97  
+
+$$
+Forecaster...Rohrbach
+Requested by...Shawn Donnelly
+Type of request...PRESCRIBED
+.TAG 2613503.0/CAE
+.DELDT 05/12/26
+.FormatterVersion 2.0.0
+.EMAIL shawn.donnelly@usda.gov
+

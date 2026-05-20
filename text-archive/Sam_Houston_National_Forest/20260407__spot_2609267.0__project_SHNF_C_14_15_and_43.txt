@@ -1,0 +1,80 @@
+
+000
+FNUS74 KHGX 071113
+FWSHGX
+
+Spot Forecast for SHNF C 14/15 and 43...USFS
+National Weather Service Houston/Galveston TX
+613 AM CDT Tue Apr 7 2026
+
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Light ENE winds early this morning will slightly increase and
+become more easterly today...and east-southeast late in the 
+day. Minimum RH values will be between 30-35% with just some
+variable high cloudiness streaming overhead.  
+
+
+.REST OF TODAY...
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  PC  PC  MCR MCR MCR MCR PC  PC  MC  
+Sky (%).........41  38  34  21  16  20  18  29  42  54  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   0   0   0   0   0   
+Temp............52  56  62  66  69  72  74  75  74  75  
+RH..............71  66  56  47  40  37  34  34  35  34  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   E   
+20 FT wind spd..3   5   6   6   6   6   6   6   6   6   
+20 FT wind gust.7   8   9   10  10  10  10  10  10  9   
+Mix hgt (kft)...0.4 0.9 2.0 3.3 4.0 4.3 4.9 5.1 5.4 5.0 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.8   10  13  13  10  9   10  10  12  13  
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MC  MC  MC  MC  MC  MC  PC  PC  MC  PC  PC  PC  
+Sky (%).........69  73  64  66  65  62  36  42  53  44  32  37  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............74  73  70  66  64  62  61  60  58  58  57  56  
+RH..............38  41  46  50  56  62  67  69  77  80  83  86  
+20 FT wind dir..E   E   E   E   SE  SE  SE  SE  SE  E   E   E   
+20 FT wind spd..5   3   3   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.9   9   7   6   6   5   5   5   5   5   5   5   
+Mix hgt (kft)...4.0 2.2 0.8 0.5 0.4 0.4 0.3 0.3 0.3 0.3 0.3 0.3 
+Transp wind dir.E   E   E   E   SE  SE  SE  SE  SE  SE  SE  E   
+Transp wind spd.13  10  8   8   7   8   8   7   6   7   6   5   
+
+.WEDNESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......PC  PC  PC  PC  MC  MC  PC  PC  PC  PC  PC  PC  
+Sky (%).........34  50  45  50  54  51  49  46  45  45  44  45  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   10  10  10  10  10  
+Temp............57  56  58  62  67  71  74  77  78  78  78  78  
+RH..............86  86  83  78  70  64  57  52  50  52  52  52  
+20 FT wind dir..E   E   E   E   E   E   SE  SE  SE  SE  SE  SE  
+20 FT wind spd..2   2   2   3   5   6   6   6   6   6   6   6   
+20 FT wind gust.5   5   8   10  12  13  14  15  15  15  15  15  
+Mix hgt (kft)...0.3 0.3 0.5 1.1 2.0 3.3 4.7 5.7 6.3 6.4 5.9 4.8 
+Transp wind dir.E   E   E   SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Transp wind spd.6   6   8   12  15  16  15  14  14  14  14  14  
+
+$$
+Forecaster...47
+Requested by...Steve Foster 
+Type of request...PRESCRIBED 
+.TAG 2609267.0/HGX 
+.DELDT 04/07/26 
+.FormatterVersion 2.0.0 
+.EMAIL steven.foster@usda.gov
+

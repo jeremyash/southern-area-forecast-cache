@@ -1,0 +1,141 @@
+
+000
+FNUS74 KFWD 150812
+FWSFWD
+
+Spot Forecast for Comp 3...DCNF
+National Weather Service Fort Worth TX
+312 AM CDT Sun Mar 15 2026
+
+Forecast is based on ignition time of 0400 CDT on March 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...WIND ADVISORY IN EFFECT FROM 7 AM THIS MORNING TO 1 AM CDT
+MONDAY...
+...RED FLAG WARNING IN EFFECT FROM NOON TODAY TO 9 PM CDT THIS
+EVENING...
+
+.DISCUSSION...
+Warm and breezy weather will continue this morning with a low
+temperature in the lower to mid 60s. Gusty south winds will veer
+to the west later in the morning, then to the north this 
+afternoon as a cold front arrives. Wind speeds will increase to 
+25-30 mph along with gusts to 40 mph in the afternoon. Much colder
+weather will arrive tonight behind the front with lows in the mid
+30s. Monday will also be colder with highs in the lower 50s.
+
+
+.REST OF TONIGHT...
+
+Sky/weather.........Mostly cloudy (60-70 percent). 
+Min temperature.....Around 63. 
+Max humidity........100 percent. 
+Wind (20 ft)........South winds around 14 mph with gusts to around 
+                    28 mph. 
+Mixing height.......900 ft AGL. 
+Transport winds.....Southwest 25 to 26 mph. 
+
+TIME (CDT)      4AM 5AM 
+Sky (%).........64  63  
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+Temp............64  64  
+RH..............93  97  
+20 FT wind dir..S   S   
+20 FT wind spd..16  17  
+20 FT wind gust.28  28  
+Mix hgt (kft)...0.9 0.9 
+Transp wind dir.S   SW  
+Transp wind spd.26  25  
+
+.TODAY...
+
+Sky/weather.........Mostly cloudy (75-85 percent) then becoming 
+                    sunny (15-25 percent). 
+Max temperature.....Around 86. 
+Min humidity........18 percent. 
+Wind (20 ft)........Breezy. Southwest winds 14 to 17 mph shifting 
+                    to the north 20 to 25 mph late in the 
+                    afternoon. 
+Mixing height.......5100 ft AGL. 
+Transport winds.....Southwest 23 to 28 mph shifting to the 
+                    northwest around 29 mph early in the afternoon, 
+                    then shifting to the north 33 to 40 mph late in 
+                    the afternoon. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........72  85  74  39  6   3   3   2   3   2   4   11  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............63  64  64  66  72  77  82  84  86  86  83  75  
+RH..............100 97  93  87  71  50  31  23  20  18  20  23  
+20 FT wind dir..S   S   S   SW  SW  W   W   W   NW  N   N   N   
+20 FT wind spd..17  17  18  18  21  22  22  21  23  28  29  30  
+20 FT wind gust.28  28  29  29  30  31  31  29  32  40  35  40  
+Mix hgt (kft)...0.8 0.7 0.7 1.1 1.9 2.6 3.4 4.3 5.1 5.0 4.6 4.5 
+Transp wind dir.SW  SW  SW  SW  SW  W   W   NW  NW  N   N   N   
+Transp wind spd.24  23  23  23  26  28  29  29  29  33  39  40  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    mostly cloudy (45-55 percent). 
+Min temperature.....Around 35. 
+Max humidity........33 percent. 
+Wind (20 ft)........Breezy. North winds 16 to 25 mph with gusts to 
+                    around 41 mph decreasing to 14 to 15 mph with 
+                    gusts to around 31 mph overnight. 
+Mixing height.......2100 ft AGL. 
+Transport winds.....North 36 to 43 mph decreasing to 28 to 32 mph 
+                    after 3 am. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........20  17  35  39  34  23  20  28  27  34  38  52  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............69  63  59  55  51  48  45  43  42  40  40  37  
+RH..............25  26  27  27  29  30  32  33  32  33  30  32  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..30  25  26  24  23  22  21  20  18  18  17  17  
+20 FT wind gust.41  40  41  38  36  36  37  31  31  30  29  28  
+Mix hgt (kft)...4.4 3.1 2.2 2.1 2.4 3.2 3.2 3.0 2.9 3.0 2.6 2.3 
+Transp wind dir.N   N   N   N   N   N   N   N   N   N   N   N   
+Transp wind spd.43  40  37  40  38  39  40  37  36  32  30  28  
+
+.MONDAY...
+
+Sky/weather.........Partly sunny (45-55 percent). 
+Max temperature.....Around 52. 
+Min humidity........19 percent. 
+Wind (20 ft)........North winds 8 to 14 mph. 
+Mixing height.......4900 ft AGL. 
+Transport winds.....North 17 to 25 mph decreasing to around 15 mph 
+                    late in the afternoon. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........47  39  48  48  47  47  47  47  52  58  63  63  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............37  36  35  37  40  43  46  49  50  51  52  52  
+RH..............31  30  32  29  26  23  22  19  19  19  19  19  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..16  15  16  17  17  17  17  16  15  14  13  10  
+20 FT wind gust.26  25  26  26  25  25  25  24  23  22  20  17  
+Mix hgt (kft)...1.5 1.2 1.8 2.8 3.8 4.3 4.6 4.6 4.8 4.9 4.8 4.7 
+Transp wind dir.N   N   N   N   N   N   N   N   N   N   N   N   
+Transp wind spd.25  21  18  21  25  25  22  20  18  18  17  15  
+
+$$
+Forecaster...Bishop
+Requested by...Brian Smith
+Type of request...PRESCRIBED
+.TAG 2605791.1/FWD
+.DELDT 03/15/26
+.FormatterVersion 2.0.0
+.EMAIL brian.smith5@usda.gov
+

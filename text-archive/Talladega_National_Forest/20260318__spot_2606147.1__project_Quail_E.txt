@@ -1,0 +1,117 @@
+
+000
+FNUS74 KBMX 181940
+FWSBMX
+
+Spot Forecast for Quail E...Usfs
+National Weather Service Birmingham AL
+240 PM CDT Wed Mar 18 2026
+
+Forecast is based on ignition time of 1600 CDT on March 18. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Light to calm winds overnight, with SW 20ft winds less than 5 mph
+tomorrow, gusting to 8 mph, and transport winds 10-15 mph. RH 
+recovery to only about 75 percent by tomorrow morning, falling to 
+35-40 percent tomorrow afternoon. Mixing ratio to 5800 tomorrow, 
+with dispersion to 90.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 60. 
+Min humidity........27 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3800 ft AGL. 
+Transport winds.....Southwest around 6 mph. 
+Dispersion index....26. 
+LVORI...............2. 
+
+TIME (CDT)      4 PM   
+Sky (%).........13     
+Weather cov.....       
+Weather type....NONE   
+Tstm cov........       
+CWR.............0      
+Temp............58     
+RH..............28     
+20 FT wind......SW 2   
+20 FT wind gust.6      
+20 FT wind dir..230    
+Mix hgt (ft)....3800   
+Transport wind..SW 6   
+Dispersion idx..28     
+LVORI...........2      
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 37. 
+Max humidity........75 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....South 5 to 8 mph. 
+Dispersion index....6. 
+LVORI...............3. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........14     6      4      4      17     23     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............57     50     45     41     40     39     
+RH..............31     46     55     65     64     67     
+20 FT wind......SW 1   S 1    S 1    S 1    S 1    SE 1   
+20 FT wind gust.5      4      4      4      5      5      
+20 FT wind dir..220    180    170    170    160    150    
+Mix hgt (ft)....1700   400    300    300    300    300    
+Transport wind..SW 5   S 5    S 7    S 7    S 8    S 8    
+Dispersion idx..10     2      2      3      4      4      
+LVORI...........2      2      3      3      3      3      
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 69. 
+Min humidity........39 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5800 ft AGL. 
+Transport winds.....Southwest 8 to 13 mph shifting to the west 10 
+                    to 13 mph in the afternoon. 
+Dispersion index....5 increasing to 38 late in the morning, then 
+                    increasing to 48 early in the afternoon 
+                    increasing to 60 early in the afternoon 
+                    increasing to 79 increasing to 90 late in the 
+                    afternoon decreasing to 52. 
+LVORI...............2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........48     25     36     35     26     14     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............38     40     53     62     67     69     
+RH..............70     73     54     44     40     40     
+20 FT wind......S 1    S 2    SW 2   SW 3   SW 3   SW 3   
+20 FT wind gust.5      6      6      8      8      8      
+20 FT wind dir..160    170    210    230    240    240    
+Mix hgt (ft)....300    400    1300   3300   4700   5800   
+Transport wind..S 8    S 8    SW 12  SW 12  W 13   W 13   
+Dispersion idx..4      4      5      48     75     90     
+LVORI...........3      3      1      1      1      1      
+
+$$
+Forecaster...Robinson
+Requested by...Will holt
+Type of request...PRESCRIBED
+.TAG 2606147.1/BMX
+.DELDT 03/18/26
+.FormatterVersion 2.0.0
+

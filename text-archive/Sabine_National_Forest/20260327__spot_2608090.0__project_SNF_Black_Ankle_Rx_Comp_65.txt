@@ -1,0 +1,86 @@
+
+000
+FNUS74 KSHV 270924
+FWSSHV
+
+Spot Forecast for SNF Black Ankle Rx Comp 65...USFS
+National Weather Service Shreveport LA
+424 AM CDT Fri Mar 27 2026
+
+Forecast is based on ignition time of 0700 CDT on March 27. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Sustained south to southwest to west winds today near 5-7 mph with higher 
+20ft gusts will prevail ahead of a cold front that should begin moving over
+the prescribed burn location by mid to late afternoon. Minimum afternoon
+humidity today will be near 45 percent. Winds should increase this evening
+into the overnight hours from the north behind the cold front with sustained
+speeds near 10 to 15 mph with higher gusts. Those same wind speeds and gusts
+will hold on through the morning hours on Saturday before winds decrease in
+speed and gusts by afternoon. Very low afternoon humidity values on Saturday
+near 30 percent. 
+
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........80  80  70  60  40  18  14  15  20  27  21  
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............63  64  67  72  77  80  83  85  85  85  85  
+RH..............93  90  87  78  62  56  50  47  46  46  46  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  W   W   W   N   N   
+20 FT wind mph..3   3   3   6   6   6   3   3   3   5   5   
+20 FT wind gust.13  9   14  13  13  10  8   9   9   9   8   
+Mix hgt (kft)...0.6 0.6 1.6 2.4 2.9 3.1 3.5 4.4 5.1 5.8 5.2 
+Mix hgt (km)....0.2 0.2 0.5 0.7 0.9 0.9 1.1 1.3 1.6 1.8 1.6 
+Transp wind dir.S   SW  SW  SW  SW  SW  W   W   NW  N   N   
+Transp wind spd.10  7   12  12  12  10  7   6   7   7   8   
+Trans wind dir..S   SW  SW  SW  SW  SW  W   W   NW  N   N   
+Trans spd (m/s).4   3   5   5   5   4   3   3   3   3   4   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........15  24  53  61  60  64  63  61  55  62  55  62  
+CWR.............0   10  10  10  0   0   0   0   0   0   0   0   
+Temp............84  80  73  69  66  63  62  60  58  56  56  53  
+RH..............48  55  65  67  67  67  64  61  60  59  54  53  
+20 FT wind dir..N   N   N   N   N   N   N   NE  NE  NE  NE  NE  
+20 FT wind mph..5   9   9   9   13  13  13  12  12  12  12  12  
+20 FT wind gust.10  14  18  20  24  24  25  25  25  25  25  25  
+Mix hgt (kft)...4.2 0.6 2.3 2.7 2.5 2.3 2.4 2.4 2.5 2.0 2.1 2.0 
+Mix hgt (km)....1.3 0.2 0.7 0.8 0.8 0.7 0.7 0.7 0.8 0.6 0.6 0.6 
+Transp wind dir.N   N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.8   9   18  25  28  28  28  28  25  24  25  24  
+Trans wind dir..N   N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Trans spd (m/s).4   4   8   11  13  13  13  13  11  11  11  11  
+
+.SATURDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........48  56  44  43  42  36  36  36  34  31  29  27  
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............53  52  50  52  55  58  61  64  65  67  68  67  
+RH..............50  48  50  47  43  40  38  34  32  32  30  33  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind mph..12  12  12  12  10  10  10  8   8   8   6   6   
+20 FT wind gust.25  24  23  22  22  20  18  17  16  14  13  12  
+Mix hgt (kft)...2.4 2.5 2.3 2.7 2.7 2.8 2.8 2.8 3.0 3.2 3.1 2.4 
+Mix hgt (km)....0.7 0.8 0.7 0.8 0.8 0.9 0.9 0.9 0.9 1.0 0.9 0.7 
+Transp wind dir.NE  NE  NE  NE  NE  NE  E   E   E   E   E   E   
+Transp wind spd.26  26  26  25  24  22  20  17  15  14  13  12  
+Trans wind dir..NE  NE  NE  NE  NE  NE  E   E   E   E   E   E   
+Trans spd (m/s).12  12  12  11  11  10  9   8   7   6   6   5   
+
+$$
+Forecaster...BERRY
+Requested by...Ben Joppa
+Type of request...PRESCRIBED
+.TAG 2608090.0/SHV
+.DELDT 03/27/26
+.FormatterVersion 2.0.0
+.EMAIL joey.silva@usda.gov,benjamin.joppa@usda.gov,dustin.morris@usda.gov
+

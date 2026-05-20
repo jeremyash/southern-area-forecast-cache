@@ -1,0 +1,122 @@
+
+000
+FNUS71 KLWX 261412
+FWSLWX
+
+Spot Forecast for Pkin RX...U.S. Forest Service
+National Weather Service Baltimore MD/Washington DC
+1012 AM EDT Thu Mar 26 2026
+
+Forecast is based on ignition time of 1000 EDT on March 28. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Sunny skies are expected this weekend, with no chance for precipitation. 
+Winds will be out of the northwest on on Saturday at around 10 mph, with
+gusts to around 20 mph. Winds will go light to calm Saturday night as
+high pressure builds overhead. Winds start out light on Sunday, but
+will turn out of the south. Winds could gust to around 20 mph out of the
+south Sunday afternoon. RH values will start out in the 40s Saturday
+morning before dropping into the 20s by Saturday afternoon. RHs rebound
+into the 50s Saturday night, before dropping back into the 20s again
+on Sunday. 
+
+.SATURDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 48. 
+Min humidity........24 percent. 
+Wind (20 ft)........Northwest winds 7 to 8 mph. Gusts up to 21 mph 
+                    late in the morning. 
+Mixing height.......6300 ft AGL. 
+Transport winds.....Northwest 21 to 30 mph. 
+Smoke dispersal.....Excellent (92600 knot-ft). 
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........7   6   5   3   2   2   2   2   
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+CWR.............0   0   0   0   0   0   0   0   
+Temp............36  39  41  43  45  46  47  48  
+RH..............43  37  33  30  27  26  25  24  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..8   8   8   7   7   7   7   7   
+20 FT wind gust.21  20  20  18  17  17  16  16  
+Mix hgt (kft)...3.9 4.5 5.0 5.4 5.7 6.1 6.3 5.9 
+Transp wind dir.NW  NW  NW  N   N   N   NW  NW  
+Transp wind spd.28  30  30  29  26  25  23  21  
+Vrate kt-ft/1K..93  118 131 135 131 135 127 106 
+Ventrate Cat....GD  VGD VGD VGD VGD VGD VGD VGD 
+
+.SATURDAY NIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 31. 
+Max humidity........56 percent. 
+Wind (20 ft)........Northwest winds 5 to 6 mph early in the evening 
+                    becoming light. 
+Mixing height.......300 ft AGL early in the evening. 
+Transport winds.....Northwest 8 to 17 mph early in the evening. 
+Smoke dispersal.....Excellent (68400 knot-ft) early in the evening 
+                    decreasing to poor (2200 knot-ft) late in the 
+                    night early in the evening. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........2      3      3      4      5      12     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............47     42     38     35     33     32     
+RH..............25     31     38     45     49     53     
+20 ft wind......NW 6   NW 3   NW 2   NW 2   SW 2   SW 3   
+20 ft wind gust.14     10     9      8      8      9      
+Mix hgt (ft)....4600   300    M      M      M      M      
+Transport wind..NW 17  NW 8   M      M      M      M      
+Vrate kt-ft/1K..68     2      M      M      M      M      
+Ventrate Cat....GOOD   POOR   M      M      M      M      
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 56. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 9 mph with 
+                    gusts to around 21 mph in the late morning and 
+                    afternoon. 
+Mixing height.......MISSING. 
+Transport winds..... 
+Smoke dispersal.....MISSING. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........21        33        33        25        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+CWR.............0         0         0         0         
+Temp............32        38        49        55        
+RH..............53        44        31        26        
+20 FT wind......SW 3G9    SW 5G14   S 8G20    S 9G21    
+Mix hgt (ft)....M         M         M         M         
+Transport wind..M         M         M         M         
+Vrate kt-ft/1K..M         M         M         M         
+Ventrate Cat....M         M         M         M         
+
+$$
+Forecaster...Pallozzi
+Requested by...Brent Foltz
+Type of request...PRESCRIBED
+.TAG 2608007.0/LWX
+.DELDT 03/26/26
+.FormatterVersion 2.0.0
+.EMAIL kendell.reese@usda.gov,adam.christie@usda.gov,joseph.jarrells@usda.gov,brent.foltz@usda.gov
+

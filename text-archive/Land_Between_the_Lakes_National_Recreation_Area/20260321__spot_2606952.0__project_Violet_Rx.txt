@@ -1,0 +1,113 @@
+
+000
+FNUS74 KOHX 211041
+FWSOHX
+
+Spot Forecast for Violet Rx...USFS
+National Weather Service Nashville TN
+541 AM CDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 1000 CDT on March 21. 
+Please contact our office at (615)754-8502, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Humidity values will bottom out in the 30-40% range this 
+afternoon. 20 ft winds will remain out of the southwest between 8 
+to 10 mph. Rain/storm chances today are very low, less than 5%. It 
+will be warm this afternoon with temperatures in the mid 80s.
+
+The warmth will continue Sunday and there will be a bit more 
+moisture with minimum RH values in the 40% range. 20 ft winds will
+remain out of the southwest between 5 to 7 mph. Most of the day 
+looks dry with rain/storm chances increasing to 20% Sunday 
+evening after 7PM.
+
+.REST OF TODAY...
+
+Chance of thunder...6 percent. 
+Max temperature.....Around 84. 
+Min humidity........40 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Southwest winds 7 to 8 mph. 
+Mixing height.......4900 ft AGL. 
+Transport winds.....West 13 to 20 mph. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........25  38  36  48  29  19  4   7   
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Chc of thdr (%).0   0   0   0   0   0   0   10  
+Temp............71  74  77  80  82  84  84  84  
+RH..............59  55  52  47  44  41  40  40  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..7   7   7   8   8   8   8   8   
+20 FT wind gust.13  13  13  15  15  15  15  15  
+Mix hgt (kft)...1.4 1.7 2.3 2.8 3.6 4.1 4.9 4.7 
+Transp wind dir.W   W   W   W   W   W   W   W   
+Transp wind spd.14  13  15  15  16  17  18  20  
+
+.TONIGHT...
+
+Chance of thunder...6 percent. 
+Min temperature.....Around 63. 
+Max humidity........81 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Southwest winds 5 to 6 mph. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southwest 10 to 16 mph. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      3      4      4      9      17     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of thdr (%).10     0      0      0      0      0      
+Temp............83     77     71     69     68     66     
+RH..............41     50     64     68     70     75     
+20 FT wind dir..SW     SW     SW     SW     SW     SW     
+20 FT wind spd..6      5      5      6      6      6      
+20 FT wind gust.12     10     12     12     13     14     
+Mix hgt (ft)....2400   400    400    500    500    500    
+Transport wind..W 15   SW 12  SW 14  SW 16  SW 15  SW 14  
+
+.SUNDAY...
+
+Chance of thunder...3 percent. 
+Max temperature.....Around 85. 
+Min humidity........41 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Southwest winds 6 to 9 mph. Gusts up to 22 mph 
+                    late in the morning. 
+Mixing height.......3700 ft AGL. 
+Transport winds.....Southwest 15 to 24 mph increasing to 25 to 28 
+                    mph late in the afternoon. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........36     40     25     22     13     24     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of thdr (%).0      0      0      0      0      0      
+Temp............65     65     73     79     83     85     
+RH..............78     81     66     56     46     41     
+20 FT wind dir..SW     SW     SW     SW     SW     SW     
+20 FT wind spd..6      6      7      8      9      9      
+20 FT wind gust.14     15     18     20     22     22     
+Mix hgt (ft)....500    500    1400   2800   2900   3700   
+Transport wind..SW 15  SW 16  SW 22  SW 23  SW 25  SW 28  
+
+$$
+
+Wind speeds are in MPH unless otherwise noted.
+
+Forecaster...Paige Baggett
+Requested by...DOUG PHELPS
+Type of request...PRESCRIBED
+.TAG 2606952.0/OHX
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL douglas.phelps@usda.gov
+

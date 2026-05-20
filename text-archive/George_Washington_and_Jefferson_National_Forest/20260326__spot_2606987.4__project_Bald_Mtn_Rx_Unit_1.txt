@@ -1,0 +1,147 @@
+
+000
+FNUS71 KRNK 260929
+FWSRNK
+
+Spot Forecast for Bald Mtn Rx Unit 1...USFS/EDRD
+National Weather Service Blacksburg VA
+529 AM EDT Thu Mar 26 2026
+
+Forecast is based on ignition time of 0600 EDT on March 26. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Increasing winds across the region today will lead to winds out of 
+the west/southwest at around 5-7 mph with gusts up to 20 mph at times
+today. Mixing heights look to climb to 4.3 Kft during peak heating today, 
+which will lead to increased dispersions at the burn location. With 
+moisture pushing into the region from the southwest, minimum RH values
+look to bottom out in the mid 40% range. With a weak upper level trough
+pushing through the area today, there is a minimal chance for an isolated
+shower today; however, chances remain low. Clouds will remain scattered 
+to broken today as the aforementioned upper level trough pushes through 
+the region. Outside of the winds, there are no fire concerns today. A cold
+front approaches Friday mid morning at the burn location, with scattered
+showers expected. 
+
+.TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent). 
+CWR (0.01 in).......10 percent. 
+Max temperature.....Around 74. 
+Min humidity........45 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph with 
+                    gusts to around 19 mph in the afternoon. 
+Mixing height.......4300 ft AGL. 
+Mixing winds........Southwest 2 to 8 mph increasing to 25 to 26 
+                    mph. 
+Smoke dispersal.....Poor (700 knot-ft) early in the morning 
+                    increasing to excellent (94900 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................1 early in the morning increasing to 129 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........42  39  43  45  41  63  70  69  61  60  36  35  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   10  10  10  10  10  10  10  10  10  
+Temp............49  49  50  54  59  63  65  68  70  72  73  73  
+RH..............67  70  74  66  62  59  56  52  50  49  46  45  
+20 FT wind dir..W   W   W   W   W   W   W   W   SW  SW  SW  SW  
+20 FT wind spd..3   2   2   3   3   4   5   6   6   6   6   7   
+20 FT wind gust.12  12  12  12  14  16  16  17  18  18  18  19  
+Mix hgt (kft)...0.4 0.4 0.4 0.5 1.1 1.8 2.4 2.7 3.5 3.6 4.3 3.9 
+Mixng wind dir..SW  SW  SW  W   W   W   W   W   W   W   SW  SW  
+Mixng wind spd..2   2   3   8   15  20  21  20  20  23  25  26  
+LVORI...........3   3   3   3   2   1   1   1   1   1   1   1   
+ADI.............1   2   4   9   22  35  43  45  51  59  129 98  
+VRate mph-ft/1K.1   1   1   4   16  34  49  54  69  82  109 104 
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+CWR (0.01 in).......10 percent. 
+Min temperature.....Around 63. 
+Max humidity........69 percent. 
+Wind (20 ft)........West winds 6 to 9 mph with gusts to around 26 
+                    mph. 
+Mixing height.......700 ft AGL. 
+Mixing winds........Southwest 16 to 22 mph decreasing to 9 to 10 
+                    mph early in the evening. 
+Smoke dispersal.....Excellent (66500 knot-ft) early in the evening 
+                    decreasing to poor (6400 knot-ft) late in the 
+                    night. 
+LVORI...............2. 
+ADI.................93 early in the evening decreasing to 5 late in 
+                    the night. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........28     17     10     26     55     65     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............10     0      0      0      0      0      
+Temp............72     67     66     65     64     64     
+RH..............47     56     58     59     63     65     
+20 ft wind......SW 6   SW 6   SW 7   W 7    W 7    W 8    
+20 ft wind gust.19     18     20     22     22     25     
+Mix hgt (ft)....3500   900    900    700    800    1000   
+Mixing wind......SW 22  SW 10  SW 9   SW 10  W 9    W 9    
+LVORI...........1      3      3      3      3      3      
+ADI.............93     5      6      7      8      8      
+VRate mph-ft/1K.76     9      8      7      7      10     
+
+.FRIDAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent). Chance of 
+                    showers early in the morning. Showers late in 
+                    the afternoon. 
+CWR (0.01 in).......10 percent increasing to 90 percent. 
+Max temperature.....Around 72. 
+Min humidity........59 percent. 
+Wind (20 ft)........West winds 6 to 11 mph with gusts to around 28 
+                    mph. 
+Mixing height.......2700 ft AGL. 
+Mixing winds........West 12 to 17 mph increasing to 21 to 29 mph in 
+                    the late morning and early afternoon, then 
+                    decreasing to 12 to 16 mph late in the 
+                    afternoon shifting to the southwest around 10 
+                    mph late in the afternoon. 
+Smoke dispersal.....Poor (12500 knot-ft) early in the morning 
+                    increasing to excellent (68600 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................11 early in the morning increasing to 66 in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........72     66     74     77     90     90     
+Weather cov.....       CHANCE CHANCE CHANCE DEFNTE DEFNTE 
+Weather type....NONE   RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........                                          
+CWR.............10     30     30     30     90     90     
+Temp............64     64     67     70     69     65     
+RH..............66     69     65     60     59     66     
+20 ft wind......W 10   W 11   W 9    W 7    W 6    NW 7   
+20 ft wind gust.26     28     26     23     19     19     
+Mix hgt (ft)....1200   1600   2600   2700   2600   2100   
+Mixing wind......W 12   W 17   W 26   W 26   W 16   SW 12  
+LVORI...........3      3      1      1      1      3      
+ADI.............11     29     59     59     36     23     
+VRate mph-ft/1K.14     28     70     70     42     24     
+
+$$
+Forecaster...Bunker
+Requested by...Brian Theiler
+Type of request...PRESCRIBED
+.TAG 2606987.4/RNK
+.DELDT 03/26/26
+.FormatterVersion 2.0.0
+.EMAIL Robert.claytor@usda.gov,brian.theiler@usda.gov,William.brimm@usda.gov,Joshua.orr@usda.gov,Bradley.Duncan@usda.gov,Marshal.Kirksey@usda.gov
+

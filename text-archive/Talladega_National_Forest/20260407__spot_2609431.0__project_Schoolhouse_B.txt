@@ -1,0 +1,122 @@
+
+000
+FNUS74 KBMX 072119
+FWSBMX
+
+Spot Forecast for Schoolhouse B...usfs
+National Weather Service Birmingham AL
+419 PM CDT Tue Apr 7 2026
+
+Forecast is based on ignition time of 0600 CDT on April 08. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+MinRHs in the mid 20s will continue this afternoon with
+gradual recovery tonight yielding MaxRH in the 60s. MinRH on 
+Wednesday should be in the upper 20s.
+
+Northeast winds will continue to gust near 20 mph until sunset,
+becoming light through the night. East winds are forecast for
+Wednesday, again gusting near 20 mph from mid morning to sunset.
+
+Some high-level clouds will drift across the region tonight into
+Wednesday, though no rain will occur.
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 72. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds becoming east 5 to 7 mph with gusts 
+                    to around 17 mph. 
+Mixing height.......4500 ft AGL. 
+Transport winds.....East 12 to 20 mph. 
+Dispersion index....11 increasing to 76 late in the morning, then 
+                    decreasing to 55 late in the afternoon. 
+LVORI...............2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........50     46     34     33     34     37     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............50     52     61     67     71     72     
+RH..............66     63     48     39     31     29     
+20 FT wind......E 3    E 6    E 7    E 7    E 7    E 7    
+20 FT wind gust.13     14     17     16     14     14     
+20 FT wind dir..090    090    100    100    100    090    
+Mix hgt (ft)....600    1200   2200   3300   4100   4500   
+Transport wind..E 12   E 17   E 20   E 18   E 15   E 14   
+Dispersion idx..8      12     14     80     79     75     
+LVORI...........3      3      1      1      1      1      
+
+.WEDNESDAY NIGHT...
+
+Sky/weather.........Partly cloudy (35-45 percent). 
+CWR.................10 percent. 
+Min temperature.....Around 45. 
+Max humidity........63 percent. 
+Wind (20 ft)........East winds 5 to 6 mph in the evening becoming 
+                    light. 
+Mixing height.......500 ft AGL. 
+Transport winds.....East 12 to 17 mph. 
+Dispersion index....31 decreasing to 5. 
+LVORI...............2. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........41     47     50     46     41     34     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      10     10     
+Temp............70     63     56     53     50     47     
+RH..............31     43     49     48     50     56     
+20 FT wind......E 6    E 5    E 5    E 3    E 3    E 3    
+20 FT wind gust.12     12     14     14     14     14     
+20 FT wind dir..090    090    100    100    100    090    
+Mix hgt (ft)....3400   500    700    700    600    500    
+Transport wind..E 14   E 14   E 17   E 16   E 14   E 12   
+Dispersion idx..31     7      15     11     9      5      
+LVORI...........1      2      2      2      2      3      
+
+.THURSDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+CWR.................10 percent. 
+Max temperature.....Around 74. 
+Min humidity........29 percent. 
+Wind (20 ft)........East winds around 5 mph becoming light. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....East 8 to 15 mph. 
+Dispersion index....6 increasing to 55 late in the morning, then 
+                    decreasing to 38 late in the afternoon. 
+LVORI...............2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........28     23     20     12     7      5      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............10     0      0      0      0      0      
+Temp............45     49     59     68     73     74     
+RH..............60     58     47     39     31     29     
+20 FT wind......E 5    E 5    E 5    E 5    E 5    E 5    
+20 FT wind gust.13     13     13     11     10     10     
+20 FT wind dir..090    090    090    090    090    090    
+Mix hgt (ft)....500    1000   2200   3500   4700   5000   
+Transport wind..E 12   E 14   E 15   E 12   E 9    E 9    
+Dispersion idx..5      6      7      51     55     58     
+LVORI...........3      3      1      1      1      1      
+
+$$
+Forecaster...Satterwhite
+Requested by...will holt
+Type of request...PRESCRIBED
+.TAG 2609431.0/BMX
+.DELDT 04/08/26
+.FormatterVersion 2.0.0
+

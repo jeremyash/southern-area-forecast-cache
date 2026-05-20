@@ -1,0 +1,79 @@
+
+000
+FNUS74 KSHV 192357
+FWSSHV
+
+Spot Forecast for Caney BU-017...USDA Forest Service
+National Weather Service Shreveport LA
+657 PM CDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 0900 CDT on March 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Very warm and dry conditions are expected Saturday, with min RH's expected to 
+fall to around 40%. 20ft winds will become southwest and increase to 6-9 mph 
+from mid-morning through the afternoon, with occasional gusts up to 15 mph. 
+
+.SATURDAY...
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........5      4      2      3      3      
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+CWR.............0      0      0      0      0      
+Temp............66     74     82     85     85     
+RH..............78     62     47     41     41     
+20 ft wind......SW 6   SW 7   SW 8   SW 8   SW 7   
+20 ft wind gust.10     13     13     13     12     
+Mix hgt (ft)....1200   1900   2600   3700   3000   
+Mix hgt (m).....370    580    790    1130   910    
+Transport wind..SW 13  SW 12  SW 9   SW 9   SW 10  
+Tran wind (m/s).SW 6   SW 5   SW 4   SW 4   SW 4   
+
+.SATURDAY NIGHT...
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........3      3      3      2      2      2      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............83     78     71     69     66     63     
+RH..............44     54     68     70     78     84     
+20 ft wind......SW 5   S 2    S 3    S 3    S 5    SW 6   
+20 ft wind gust.12     10     10     12     13     14     
+Mix hgt (ft)....1800   400    500    600    700    700    
+Mix hgt (m).....550    120    150    180    210    210    
+Transport wind..SW 12  S 10   SW 9   SW 10  SW 13  SW 14  
+Tran wind (m/s).SW 5   S 4    SW 4   SW 4   SW 6   SW 6   
+
+.SUNDAY...
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........4      5      8      3      1      2      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............62     65     72     79     85     88     
+RH..............84     75     61     47     37     33     
+20 ft wind......SW 6   SW 6   SW 7   SW 7   SW 8   SW 7   
+20 ft wind gust.15     16     17     18     18     18     
+Mix hgt (ft)....500    1000   1900   2600   3300   3600   
+Mix hgt (m).....150    300    580    790    1010   1100   
+Transport wind..SW 14  SW 16  SW 20  SW 20  SW 20  SW 20  
+Tran wind (m/s).SW 6   SW 7   SW 9   SW 9   SW 9   SW 9   
+
+$$
+
+Forecaster...HANSFORD
+Requested by...Charles Davis
+Type of request...PRESCRIBED
+.TAG 2606653.0/SHV
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL charles.g.davis@usda.gov
+

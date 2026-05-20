@@ -1,0 +1,154 @@
+
+000
+FNUS74 KMOB 261914
+FWSMOB
+
+Spot Forecast for Chick Cpt 364...USFS
+National Weather Service Mobile AL
+214 PM CDT Thu Mar 26 2026
+
+Forecast is based on ignition time of 1600 CDT on March 26. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...For the rest of today, the minimum relative
+humidity is near 40%, transport winds will be mostly south-
+southwesterly, and dispersion values will be good. For Friday,
+the minimum relative humidity is near 40%, transport winds will
+be mostly westerly to west-northwesterly, and dispersion values
+will be good. There will be a gradual wind shift from a light 
+southwesterly flow to a northwesterly direction which occurs
+from early Friday morning through Friday evening. The maximum 
+wind gust today is 15 mph and 15 mph on Friday. 
+
+Fog potential and other remarks...Patchy to areas of fog will be
+possible tonight into early Friday morning. Fog could be dense
+with visibilities less than 1 mile likely. Conditions could be
+favorable for super fog (fog and smoke mixing) which could result
+in visibilities less than 1/4 mile. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 83. 
+Min humidity........46 percent. 
+Wind (20 ft)........South winds around 5 mph late in the afternoon 
+                    becoming light. 
+Mixing height.......5400 ft AGL. 
+Mixing height (m)...1646 meters AGL. 
+Transport winds.....Southwest around 9 mph. 
+Transport winds m/s.Southwest around 4 meters/second. 
+Dispersion index....60. 
+LVORI...............1. 
+Stability class.....2. 
+
+TIME (CDT)      4PM 5PM 
+Sky (%).........6   9   
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+Chc of pcpn (%).0   0   
+Temp............83  83  
+RH..............48  46  
+20 FT wind dir..SSW SSW 
+20 FT wind spd..6   5   
+20 FT wind gust.12  13  
+Mix hgt (kft)...5.4 5.4 
+Mix hgt (km)....1.6 1.6 
+Transp wind dir.SSW SSW 
+Transp wind spd.9   9   
+Trans wind dir..SSW SSW 
+Trans spd (m/s).4   4   
+Dispersion idx..58  61  
+LVORI...........1   1   
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    mostly cloudy (60-70 percent). Patchy dense fog 
+                    overnight. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 62. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds becoming south around 5 mph late in 
+                    the evening, then becoming light late in the 
+                    evening. 
+Mixing height.......500 ft AGL. 
+Mixing height (m)...152-1646 meters AGL. 
+Transport winds.....South 8 to 15 mph. 
+Transport winds m/s.South 4 to 7 meters/second. 
+Dispersion index....59 decreasing to 6. 
+LVORI...............5. 
+Stability class.....4. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........14  24  24  11  8   10  14  22  40  49  66  60  
+Weather cov.....                            PTY PTY PTY PTY PTY 
+Weather type....                            FOG FOG FOG FOG FOG 
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............81  78  76  71  69  67  66  65  64  64  63  63  
+RH..............51  56  62  76  81  87  93  97  100 100 100 100 
+20 FT wind dir..SSW S   S   S   S   S   S   SSW SSW SSW SSW SW  
+20 FT wind spd..3   3   5   5   6   5   5   5   3   3   2   2   
+20 FT wind gust.13  12  13  14  15  14  14  14  13  12  12  10  
+Mix hgt (kft)...5.4 0.5 0.5 0.5 0.5 0.5 0.5 0.6 0.6 0.7 0.7 0.6 
+Mix hgt (km)....1.6 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.SSW S   S   S   S   S   S   SSW SSW SW  SW  SW  
+Transp wind spd.9   8   13  15  14  13  14  13  12  10  10  9   
+Trans wind dir..SSW S   S   S   S   S   S   SSW SSW SW  SW  SW  
+Trans spd (m/s).4   4   6   7   6   6   6   6   5   4   4   4   
+Dispersion idx..59  4   6   7   6   6   6   6   6   5   5   4   
+LVORI...........1   3   3   4   4   5   6   9   9   9   9   9   
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). Patchy dense fog 
+                    early in the morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 84. 
+Min humidity........43 percent. 
+Wind (20 ft)........Light winds becoming west around 5 mph in the 
+                    afternoon, then becoming light late in the 
+                    afternoon. 
+Mixing height.......4900 ft AGL. 
+Mixing height (m)...183-1494 meters AGL. 
+Transport winds.....West 7 to 12 mph shifting to the northwest 
+                    around 10 mph late in the afternoon. 
+Transport winds m/s.West 3 to 5 meters/second shifting to the 
+                    northwest around 4 meters/second late in the 
+                    afternoon. 
+Dispersion index....7 increasing to 58. 
+LVORI...............5. 
+Stability class.....2. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........50  62  60  46  46  30  23  13  7   5   4   6   
+Weather cov.....PTY PTY PTY                                     
+Weather type....FOG FOG FOG                                     
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............63  62  63  66  71  75  78  81  83  83  84  84  
+RH..............100 100 97  97  81  69  60  53  48  46  43  43  
+20 FT wind dir..SW  WSW WSW W   W   W   W   W   W   W   WNW WNW 
+20 FT wind spd..2   2   2   2   3   5   6   6   6   6   6   5   
+20 FT wind gust.9   7   8   9   12  12  13  13  13  13  13  12  
+Mix hgt (kft)...0.6 0.6 1.0 1.5 2.3 3.0 3.5 3.9 4.2 4.6 4.9 4.9 
+Mix hgt (km)....0.2 0.2 0.3 0.5 0.7 0.9 1.1 1.2 1.3 1.4 1.5 1.5 
+Transp wind dir.WSW WSW W   W   W   W   W   W   W   WNW WNW NW  
+Transp wind spd.9   7   7   10  10  12  12  10  9   10  9   10  
+Trans wind dir..WSW WSW W   W   W   W   W   W   W   WNW WNW NW  
+Trans spd (m/s).4   3   3   4   4   5   5   4   4   4   4   4   
+Dispersion idx..4   7   9   21  33  45  51  52  55  58  55  61  
+LVORI...........9   8   8   5   3   1   1   1   1   1   1   1   
+
+$$
+Forecaster...8
+Requested by...Ryan Barnett
+Type of request...PRESCRIBED
+.TAG 2607990.1/MOB
+.DELDT 03/26/26
+.FormatterVersion 2.0.0
+.EMAIL ryan.barnett@usda.gov
+

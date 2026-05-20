@@ -1,0 +1,100 @@
+
+000
+FNUS74 KHGX 290504
+FWSHGX
+
+Spot Forecast for BLP 12523...USFS
+National Weather Service Houston/Galveston TX
+1204 AM CDT Sun Mar 29 2026
+
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Light winds early morning winds, mainly out of the southeast,
+will gradually increase in speed during the mid-late morning
+hours and eventually into the 7-12mph range during the
+afternoon. Minimum afternoon humidities will be around 40%.
+No rain is in the forecast, though diminishing winds and some
+fog development is expected Sunday night.
+
+
+.REST OF TODAY...
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR MCR MCR MCR PC  PC  MCR 
+Sky (%).........18  17  17  18  18  22  27  27  25  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+CWR.............0   0   0   0   0   0   0   0   0   
+Temp............61  66  72  75  78  80  82  83  82  
+RH..............69  63  54  50  45  44  41  40  41  
+Aparnt tmp (F)..61  66  72  75  78  80  82  82  81  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   
+20 FT wind spd..2   3   6   6   7   7   7   7   7   
+20 FT wind gust.6   7   9   10  12  12  13  13  13  
+Mix hgt (kft)...1.1 1.9 2.8 3.8 4.7 5.4 5.9 6.2 5.5 
+Mix hgt (km)....0.3 0.6 0.9 1.2 1.4 1.6 1.8 1.9 1.7 
+Transp wind dir.S   S   S   S   S   S   S   S   S   
+Transp wind spd.8   12  12  10  12  12  13  14  15  
+Trans wind dir..S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).4   5   5   4   5   5   6   6   7   
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  
+Visibility (sm).7   7   7   7   7   7   7   7   7   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR MCR MCR MCR MCR MCR PC  PC  MC  MC  
+Sky (%).........20  16  15  14  14  10  8   10  30  42  56  59  
+Weather cov.....                            PTY PTY PTY PTY PTY 
+Weather type....                            FOG FOG FOG FOG FOG 
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   10  10  
+Temp............82  81  77  73  71  69  67  65  64  63  63  62  
+RH..............41  44  51  59  65  71  79  86  89  95  95  98  
+Aparnt tmp (F)..81  81  77  73  71  69  67  65  64  63  63  62  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..7   6   6   6   7   7   6   6   6   6   5   5   
+20 FT wind gust.13  13  13  14  14  14  13  12  12  10  10  9   
+Mix hgt (kft)...4.5 2.5 0.9 0.6 0.5 0.4 0.4 0.4 0.4 0.4 0.5 0.4 
+Mix hgt (km)....1.4 0.8 0.3 0.2 0.2 0.1 0.1 0.1 0.1 0.1 0.2 0.1 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.16  15  14  13  12  12  10  10  10  10  9   9   
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).7   7   6   6   5   5   4   4   4   4   4   4   
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  17  
+Visibility (sm).7   7   7   7   7   7   7   7   7   7   7   5   
+
+.MONDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  MC  MC  MC  PC  PC  PC  PC  PC  PC  
+Sky (%).........67  69  68  68  64  55  44  34  29  27  28  30  
+Weather cov.....PTY PTY PTY                                     
+Weather type....FOG FOG FOG                                     
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............62  62  62  65  69  73  77  80  82  83  84  84  
+RH..............98  98  100 92  82  69  59  53  49  47  45  44  
+Aparnt tmp (F)..62  62  62  65  69  73  77  81  82  83  84  84  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..3   3   5   6   6   7   7   8   8   8   9   8   
+20 FT wind gust.8   8   9   10  12  13  14  16  17  17  18  17  
+Mix hgt (kft)...0.4 0.4 0.9 1.6 2.4 3.1 3.8 4.5 5.2 5.7 5.7 5.0 
+Mix hgt (km)....0.1 0.1 0.3 0.5 0.7 0.9 1.2 1.4 1.6 1.7 1.7 1.5 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.9   10  10  12  14  15  16  16  16  17  17  18  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).4   4   4   5   6   7   7   7   7   8   8   8   
+Ceiling (kft)...9.3 1.5                                         
+Visibility (sm).4   4   5   6   7   7   7   7   7   7   7   7   
+
+$$
+Forecaster...47
+Requested by...Jesse Hoh
+Type of request...PRESCRIBED
+.TAG 2608301.0/HGX
+.DELDT 03/29/26
+.FormatterVersion 2.0.0
+.EMAIL darin.keyse@usda.gov,steven.foster@usda.gov,stuart.coombs@usda.gov,jesse.hoh@usda.gov
+

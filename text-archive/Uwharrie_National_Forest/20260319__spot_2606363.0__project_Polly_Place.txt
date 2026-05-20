@@ -1,0 +1,101 @@
+
+000
+FNUS72 KRAH 190627
+FWSRAH
+
+Spot Forecast for Polly Place...USFS
+National Weather Service Raleigh NC
+227 AM EDT Thu Mar 19 2026
+
+Forecast is based on ignition time of 0900 EDT on March 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact this NWS office if you have questions or
+concerns with this forecast.
+
+.DISCUSSION...
+Canadian high pressure will gradually weaken over the Carolinas 
+through Thursday night, then drift offshore on Friday. 
+
+A marginally steep morning inversion may be slower to mix due to 
+light flow through the boundary layer. As temperatures rise into 
+the 60s, mixing heights are expected to increase to around 4,000
+to 5,000 ft.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (20-30 percent). 
+Chance of pcpn......0 percent. 
+Temperature.........38 at ignition...Max 65. 
+RH..................52 percent at ignition...Min 28 percent. 
+Wind (20 ft)........Winds southwest at 1 mph at 
+                    ignition...otherwise Light winds. 
+Mixing height.......600 ft AGL at ignition...otherwise 4800 ft AGL. 
+Transport winds.....West 3 to 8 mph shifting to the northwest 6 to 
+                    7 mph in the afternoon. 
+LVORI...............2. 
+ADI.................4 to 35. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........17  40  26  24  12  22  22  38  25  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............38  45  51  55  59  62  64  65  65  
+RH..............52  43  36  34  32  30  29  28  28  
+20 FT wind dir..SW  W   W   W   W   W   W   NW  NW  
+20 FT wind spd..1   2   3   3   3   2   2   2   2   
+20 FT wind gust.2   6   7   7   7   6   7   7   8   
+Mix hgt (kft)...0.6 1.3 2.1 2.5 3.2 4.2 4.6 4.8 4.8 
+Transp wind dir.W   W   W   W   NW  NW  NW  NW  W   
+Transp wind spd.3   6   8   7   7   7   7   6   6   
+LVORI...........3   3   2   2   2   1   1   1   2   
+ADI.............4   4   23  23  23  35  35  35  22  
+Visibility (sm).10  10  10  10  10  10  10  10  10  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Chance of pcpn......0 percent. 
+Temperature.........Min 38. 
+RH..................Max 82 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....West 5 to 7 mph shifting to the southwest 5 to 
+                    6 mph early in the evening. 
+LVORI...............4. 
+ADI.................2 to 22. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10 decreasing to 7 overnight. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........20  25  23  8   1   2   3   3   6   5   6   13  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............65  63  58  51  49  48  46  45  45  42  41  40  
+RH..............29  32  42  56  58  60  63  68  68  76  79  82  
+20 FT wind dir..W   W   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..2   2   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.7   5   2   1   1   1   1   1   1   1   1   1   
+Mix hgt (kft)...3.9 0.7 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.NW  W   SW  SW  S   S   SW  SW  SW  SW  SW  SW  
+Transp wind spd.7   5   5   5   5   5   6   6   6   6   6   5   
+LVORI...........2   2   2   2   2   3   3   3   3   3   3   5   
+ADI.............22  22  2   2   2   2   2   2   3   3   3   2   
+Visibility (sm).10  10  10  10  10  10  10  10  7   7   7   7   
+
+$$
+Forecaster...SWIGGETT
+Requested by...Bart Cagle
+Type of request...PRESCRIBED
+.TAG 2606363.0/RAH
+.DELDT 03/19/26
+.FormatterVersion 2.0.0
+.EMAIL andrew.cagle@usda.gov,sergio.olvera@usda.gov,robert.jefferson@usda.gov,jeffery.greene@usda.gov
+

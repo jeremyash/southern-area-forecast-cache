@@ -1,0 +1,210 @@
+
+000
+FNUS72 KGSP 201213
+FWSGSP
+
+Spot Forecast for Blackstump...USFS
+National Weather Service Greenville-Spartanburg SC
+813 AM EDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 0000 EDT on March 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Conditions will be mainly quiet, but there is a slight chance of a shower
+and/or thunderstorm Saturday afternoon and evening. Minimum relative 
+humidity will be 38% on Saturday and 37% on Sunday. Winds will gust at
+times over 20 mph each afternoon.
+
+.REST OF TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent) then becoming 
+                    mostly cloudy (50-60 percent). 
+Chance of thunder...0 percent. 
+Min temperature.....Around 53. 
+Max humidity........75 percent. 
+Wind (20 ft)........Northwest winds 7 to 8 mph with gusts to around 
+                    23 mph. 
+Mixing height.......300 ft AGL. 
+Transport winds.....West 14 to 18 mph. 
+Smoke dispersal.....Poor (4603 mph-ft). 
+LVORI...............3. 
+ADI.................6 to 16. 
+Stability class.....5. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........21000 decreasing to 15500 overnight. 
+Visibility (SM).....10. 
+Sfc pressure (in)...27.43. 
+
+TIME (EDT)      MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........32  29  37  51  52  63  
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+Chc of thdr (%).0   0   0   0   0   0   
+Temp............54  54  53  54  54  55  
+Dewpoint........42  43  44  45  46  47  
+RH..............63  65  70  70  72  74  
+20 FT wind dir..W   W   NW  NW  NW  NW  
+20 FT wind spd..7   7   7   8   8   8   
+20 FT wind gust.20  22  22  23  22  22  
+Mix hgt (kft)...0.3 0.4 0.3 0.3 0.3 0.3 
+Transp wind dir.W   W   W   W   W   W   
+Transp wind spd.14  15  16  18  18  18  
+LVORI...........3   3   3   3   3   3   
+ADI.............6   7   7   16  16  16  
+VRate mph-ft/1k.5   6   5   6   5   5   
+Ceiling (hft)...210 210 155 164 172 181 
+Visibility (sm).10  10  10  10  10  10  
+Sfc pres (in)...750 749 748 746 744 743 
+
+.SATURDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (35-45 percent). Slight chance of 
+                    rain showers late in the afternoon. Slight 
+                    chance of thunderstorms late in the afternoon. 
+Chance of thunder...20 percent. 
+Max temperature.....Around 76. 
+Min humidity........38 percent. 
+Wind (20 ft)........Northwest winds 6 to 8 mph. Gusts up to 22 mph 
+                    in the morning. Gusty and erratic winds 
+                    expected near thunderstorms late in the 
+                    afternoon. 
+Mixing height.......5600 ft AGL. 
+Transport winds.....Northwest 15 to 20 mph. 
+Smoke dispersal.....Poor (460 mph-ft) early in the morning 
+                    increasing to excellent (84013 mph-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................12 early in the morning increasing to 95 in the 
+                    afternoon. 
+Stability class.....3. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........11200 decreasing to 7700 early in the morning, 
+                    then increasing to 30000 late in the afternoon. 
+Visibility (SM).....10. 
+Sfc pressure (in)...27.39. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........71  83  87  76  74  71  63  54  46  37  35  45  
+Weather cov.....                                        SCH SCH 
+Weather type....                                        RW  RW  
+Tstm cov........                                            SCH 
+Chc of thdr (%).0   0   0   0   0   0   10  10  10  10  10  20  
+Temp............55  55  56  58  61  65  69  72  74  76  76  76  
+Dewpoint........47  47  48  48  49  51  51  51  51  50  49  49  
+RH..............74  73  75  69  64  59  53  48  44  41  38  38  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  NW  W   W   W   W   W   
+20 FT wind spd..8   8   8   7   7   6   6   6   6   6   6   6   
+20 FT wind gust.22  21  20  20  20  18  17  17  17  17  18  18  
+Mix hgt (kft)...0.2 0.1 0.1 0.4 1.1 1.7 2.7 3.7 4.6 5.0 5.3 5.6 
+Transp wind dir.W   W   NW  NW  NW  NW  NW  W   W   W   W   W   
+Transp wind spd.17  17  16  17  18  20  18  16  15  15  15  15  
+LVORI...........3   3   4   3   2   1   1   1   1   1   1   1   
+ADI.............15  13  12  13  24  43  55  58  81  86  90  95  
+VRate mph-ft/1k.3   2   0   7   19  34  50  59  69  74  79  84  
+Ceiling (hft)...146 112 77  86  95  104 100 97  93  93  93  300 
+Visibility (sm).10  10  10  10  10  10  10  10  10  10  10  10  
+Sfc pres (in)...743 744 745 745 745 745 745 744 743 741 740 739 
+
+.SATURDAY NIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). Slight chance of 
+                    showers and thunderstorms early in the evening. 
+Chance of thunder...20 percent. 
+Min temperature.....Around 55. 
+Max humidity........84 percent. 
+Wind (20 ft)........West winds 5 to 6 mph. Gusty and erratic winds 
+                    expected near thunderstorms early in the 
+                    evening. 
+Mixing height.......0 ft AGL. 
+Transport winds.....Northwest 10 to 14 mph. 
+Smoke dispersal.....Good (52594 mph-ft) early in the evening 
+                    decreasing to poor (0 mph-ft) late in the 
+                    night. 
+LVORI...............3. 
+ADI.................63 early in the evening decreasing to 5 late in 
+                    the night. 
+Stability class.....4. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........26600. 
+Visibility (SM).....MISSING. 
+Sfc pressure (in)...27.38. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........43  38  35  25  24  23  18  14  9   9   10  10  
+Weather cov.....SCH SCH SCH SCH                                 
+Weather type....RW  RW  RW  RW                                  
+Tstm cov........SCH SCH SCH SCH                                 
+Chc of thdr (%).20  20  20  20  10  10  10  10  0   0   0   0   
+Temp............74  71  68  65  63  61  60  59  59  58  57  57  
+Dewpoint........49  49  49  49  49  49  49  49  49  50  50  51  
+RH..............41  45  50  56  60  65  68  70  72  75  78  80  
+20 FT wind dir..W   W   W   W   W   W   W   NW  NW  NW  NW  NW  
+20 FT wind spd..6   5   5   5   5   5   5   5   5   5   5   5   
+20 FT wind gust.17  16  15  14  14  14  14  14  14  13  13  13  
+Mix hgt (kft)...3.8 2.0 0.2 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.W   NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.14  14  13  12  10  10  10  12  12  13  13  13  
+LVORI...........1   2   2   3   3   3   3   3   3   4   4   4   
+ADI.............63  6   6   5   5   5   5   5   5   6   6   6   
+VRate mph-ft/1k.53  28  3   2   1   1   0   0   0   0   0   0   
+Ceiling (hft)...300 300 300 300 300 266 266 266 300 300 300 300 
+Visibility (sm).                                                
+Sfc pres (in)...739 740 741 742 742 742 742 741 740 739 738 738 
+
+.SUNDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of thunder...0 percent. 
+Max temperature.....Around 79. 
+Min humidity........37 percent. 
+Wind (20 ft)........Northwest winds 5 to 6 mph shifting to the 
+                    southwest 6 to 7 mph with gusts to around 20 
+                    mph in the afternoon. 
+Mixing height.......5200 ft AGL. 
+Transport winds.....Northwest 7 to 12 mph shifting to the west 13 
+                    to 16 mph late in the afternoon. 
+Smoke dispersal.....Poor (0 mph-ft) early in the morning increasing 
+                    to excellent (84128 mph-ft) in the afternoon. 
+LVORI...............3. 
+ADI.................5 early in the morning increasing to 96 in the 
+                    afternoon. 
+Stability class.....4. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........30000. 
+Visibility (SM).....MISSING. 
+Sfc pressure (in)...27.35. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........11  12  13  9   6   2   3   3   4   5   5   6   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............56  55  56  60  64  68  72  75  77  78  79  78  
+Dewpoint........51  51  51  51  52  53  53  52  52  51  50  50  
+RH..............83  84  81  74  65  57  51  45  41  38  37  37  
+20 FT wind dir..NW  NW  NW  NW  W   W   W   SW  SW  SW  SW  SW  
+20 FT wind spd..5   6   6   5   5   5   5   6   6   7   7   7   
+20 FT wind gust.13  13  13  13  13  14  15  16  17  18  18  20  
+Mix hgt (kft)...0.1 0.1 0.1 0.6 1.1 1.7 2.7 3.8 4.9 5.0 5.1 5.2 
+Transp wind dir.NW  NW  NW  NW  W   W   W   W   W   W   W   W   
+Transp wind spd.12  10  9   8   7   7   8   10  13  15  16  16  
+LVORI...........5   4   4   3   3   2   2   1   1   1   1   1   
+ADI.............5   11  10  8   10  15  28  48  72  87  95  96  
+VRate mph-ft/1k.0   0   0   4   8   11  22  40  62  75  83  84  
+Ceiling (hft)...300 300 300 300 300 300 300 300 300 300 300 300 
+Visibility (sm).                                                
+Sfc pres (in)...738 739 740 741 742 742 741 740 738 737 736 735 
+
+$$
+Forecaster...SCW
+Requested by...Amy McClave
+Type of request...PRESCRIBED
+.TAG 2606747.0/GSP
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+

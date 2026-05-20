@@ -1,0 +1,114 @@
+
+000
+FNUS74 KMRX 202010
+FWSMRX
+
+Spot Forecast for Wolf Ridge RX...USFS
+National Weather Service Morristown TN
+410 PM EDT Fri Mar 20 2026
+
+Forecast is based on ignition time of 1100 EDT on March 21. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+For Saturday, winds will be westerly with RH staying in the 50s. 
+Showers and storms are possible in the late afternoon to the evening
+hours with potential for hail. Sunday will see a breezy southwesterly
+wind with gusts near 20 mph. 
+
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent). Slight chance of 
+                    showers and thunderstorms late in the 
+                    afternoon. 
+Max temperature.....Around 71. 
+Min humidity........50 percent. 
+Wind (20 ft)........West winds 5 to 8 mph. Gusty and erratic winds 
+                    expected near thunderstorms late in the 
+                    afternoon. 
+Mixing height.......3200 ft AGL. 
+Transport winds.....West 13 to 15 mph. 
+Rainfall amount.....0.03 inches. 
+
+TIME (EDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........60  54  43  45  51  44  37  
+Weather cov.....                        SCH 
+Weather type....                        RW  
+Tstm cov........                        SCH 
+Temp............59  62  65  69  69  70  71  
+RH..............81  73  64  58  57  55  50  
+20 FT wind dir..W   W   W   W   W   W   W   
+20 FT wind spd..6   6   6   7   7   8   8   
+20 FT wind gust.13  14  14  14  14  14  14  
+Mix hgt (kft)...0.8 1.4 2.1 2.8 3.0 3.2 3.2 
+Transp wind dir.W   W   W   W   W   W   W   
+Transp wind spd.13  13  13  14  14  15  15  
+
+.SATURDAY NIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). Slight chance of 
+                    showers and thunderstorms in the evening and 
+                    overnight. 
+Min temperature.....Around 53. 
+Max humidity........98 percent. 
+Wind (20 ft)........West winds 5 to 7 mph. Gusty and erratic winds 
+                    expected near thunderstorms in the evening and 
+                    overnight. 
+Mixing height.......0 ft AGL. 
+Transport winds.....West 7 to 13 mph. 
+Rainfall amount.....0.02 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........23  13  34  24  26  27  26  24  23  27  30  34  
+Weather cov.....SCH SCH SCH SCH SCH SCH SCH SCH                 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW                  
+Tstm cov........SCH SCH SCH SCH SCH SCH SCH SCH                 
+Temp............69  68  65  62  60  59  57  56  55  54  54  54  
+RH..............55  59  68  73  78  82  87  86  90  93  93  93  
+20 FT wind dir..W   W   W   W   W   W   SW  W   W   W   W   W   
+20 FT wind spd..7   7   6   6   6   6   6   6   6   5   5   5   
+20 FT wind gust.14  13  12  12  11  11  10  10  10  10  8   8   
+Mix hgt (kft)...1.5 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.W   SW  W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.13  12  10  10  10  9   9   9   9   8   8   7   
+
+.SUNDAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Max temperature.....72-77. 
+Min humidity........45 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 10 mph with 
+                    gusts to around 18 mph. 
+Mixing height.......3900 ft AGL. 
+Transport winds.....West 7 to 15 mph increasing to 18 to 20 mph 
+                    late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........33  31  30  26  22  17  15  14  12  12  13  13  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............53  53  53  56  59  63  66  70  72  74  75  75  
+RH..............96  96  98  93  89  81  72  58  54  49  45  45  
+20 FT wind dir..W   W   W   W   W   W   W   SW  SW  SW  SW  SW  
+20 FT wind spd..4   4   5   5   6   6   6   6   7   8   9   10  
+20 FT wind gust.7   7   7   8   10  11  13  14  14  16  17  18  
+Mix hgt (kft)...0.1 0.1 0.1 0.1 0.3 0.7 1.5 2.5 3.3 3.8 3.9 3.6 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.7   7   7   7   8   8   9   10  13  15  18  20  
+
+$$
+Forecaster...Doug Schneider
+Requested by...Drew Ford
+Type of request...PRESCRIBED
+.TAG 2606857.0/MRX
+.DELDT 03/20/26
+.FormatterVersion 2.0.0
+.EMAIL drew.ford@usda.gov
+

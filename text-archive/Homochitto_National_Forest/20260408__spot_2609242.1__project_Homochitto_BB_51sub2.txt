@@ -1,0 +1,100 @@
+
+000
+FNUS74 KJAN 081032
+FWSJAN
+
+Spot Forecast for Homochitto BB 51sub2...USFS
+National Weather Service Jackson MS
+532 AM CDT Wed Apr 8 2026
+
+Forecast is based on ignition time of 0900 CDT on April 08. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+Temperature.........60 at ignition...Max 78. 
+RH..................64 percent at ignition...Min 31 percent. 
+Wind (20 ft)........Winds east at 6 mph at ignition...otherwise 
+                    East winds 5 to 7 mph. 
+Mixing height (m)...305 meters AGL at ignition...otherwise 305-1890 
+                    meters AGL. 
+Transport winds.....East 12 to 17 mph. 
+Transport winds m/s.East 5 to 8 meters/second. 
+
+TIME (CDT)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky cover.......PCldy  MCldy  MCldy  PCldy  MClear 
+Weather cov.....                                   
+Weather type....None   None   None   None   None   
+Tstm cov........                                   
+Temp............60     71     76     78     77     
+RH..............64     47     36     31     33     
+20 ft wind dir..E      E      E      E      SE     
+20 ft wind spd..5      6      7      6      5      
+20 ft wind gust.15     16     16     16     14     
+Mix hgt (m).....300    910    1620   1890   1740   
+Transport wind..E 13   E 17   E 16   E 14   E 13   
+Tran wind (m/s).E 6    E 8    E 7    E 6    E 6    
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Temperature.........Min 56. 
+RH..................Max 86 percent. 
+Wind (20 ft)........Southeast winds around 5 mph early in the 
+                    evening becoming light. 
+Mixing height (m)...91-1189 meters AGL. 
+Transport winds.....Southeast 8 to 13 mph. 
+Transport winds m/s.Southeast 4 to 6 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear MClear MClear MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............75     66     62     60     59     57     
+RH..............37     56     67     78     80     86     
+20 ft wind dir..SE     E      SE     SE     E      E      
+20 ft wind spd..5      3      3      2      2      3      
+20 ft wind gust.13     10     10     9      10     12     
+Mix hgt (m).....1190   120    90     90     120    120    
+Transport wind..E 13   SE 8   SE 9   SE 8   SE 10  E 12   
+Tran wind (m/s).E 6    SE 4   SE 4   SE 4   SE 4   E 5    
+
+.THURSDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Temperature.........Max 81. 
+RH..................Min 44 percent. 
+Wind (20 ft)........Light winds becoming east around 5 mph early in 
+                    the morning. 
+Mixing height (m)...122-1981 meters AGL. 
+Transport winds.....East 9 to 14 mph. 
+Transport winds m/s.East 4 to 6 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MClear MClear MClear MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............57     58     68     75     80     80     
+RH..............80     83     61     52     45     44     
+20 ft wind dir..E      E      E      E      E      E      
+20 ft wind spd..3      5      5      5      5      5      
+20 ft wind gust.13     14     14     13     13     14     
+Mix hgt (m).....120    300    670    1250   1800   1920   
+Transport wind..E 12   E 14   E 14   E 10   E 9    E 10   
+Tran wind (m/s).E 5    E 6    E 6    E 4    E 4    E 4    
+
+$$
+Forecaster...Byrd
+Requested by...Charles Bolt
+Type of request...PRESCRIBED
+.TAG 2609242.1/JAN
+.DELDT 04/08/26
+.FormatterVersion 2.0.0
+.EMAIL charles.bolt@usda.gov
+

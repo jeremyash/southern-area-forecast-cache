@@ -1,0 +1,80 @@
+
+000
+FNUS74 KSHV 210956
+FWSSHV
+
+Spot Forecast for ANF Turkey Creek Rx Comp 7...USFS
+National Weather Service Shreveport LA
+456 AM CDT Sat Mar 21 2026
+
+Forecast is based on ignition time of 0700 CDT on March 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Minimum RH values will remain in the 40 to 50 percent range with 
+southerly winds near 10 mph. LVORI values will remain above 6 due
+to low clouds that will lift before noon. Mixing heights will 
+maximize near 3.5kft in the afternoon. /16/
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........59  63  34  39  30  15  11  7   5   4   4   
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............58  59  62  67  71  76  80  83  83  85  84  
+RH..............100 98  95  86  76  64  56  51  50  46  48  
+20 FT wind dir..S   S   SW  SW  SW  SW  SW  SW  SW  S   S   
+20 FT wind mph..3   5   6   6   7   8   9   9   8   8   7   
+20 FT wind gust.6   7   8   10  13  15  15  15  15  14  13  
+Mix hgt (kft)...0.6 0.7 1.3 1.8 2.0 2.5 2.7 3.0 3.4 3.7 3.3 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.13  14  17  18  17  18  17  16  16  16  16  
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   6   5   6   9   10  20  19  12  19  48  44  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............83  80  74  71  69  68  66  65  63  63  61  60  
+RH..............49  55  66  73  78  83  86  89  90  90  93  96  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..6   6   5   6   6   6   6   5   5   5   5   5   
+20 FT wind gust.10  9   15  16  16  16  15  15  15  15  15  15  
+Mix hgt (kft)...2.8 0.5 0.4 0.4 0.5 0.5 0.5 0.6 0.6 0.7 0.7 0.7 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.17  14  15  17  17  16  16  16  16  16  16  15  
+
+.SUNDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........42  49  33  20  16  13  10  7   6   5   4   4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............60  60  60  63  69  73  78  81  84  85  86  85  
+RH..............96  98  95  87  77  68  59  53  46  45  42  43  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..5   5   6   6   6   7   7   8   9   9   9   8   
+20 FT wind gust.15  15  16  17  18  20  20  20  20  20  20  18  
+Mix hgt (kft)...0.7 0.7 0.7 1.4 1.8 2.2 2.6 2.8 3.0 3.5 3.8 3.0 
+Transp wind dir.S   S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.15  15  15  20  22  22  23  22  22  21  21  20  
+
+$$
+Forecaster...CASSEL
+Requested by...Kye Kartye
+Type of request...PRESCRIBED
+.TAG 2606935.0/SHV
+.DELDT 03/21/26
+.FormatterVersion 2.0.0
+.EMAIL joey.silva@usda.gov,matthew.kartye@usda.gov
+

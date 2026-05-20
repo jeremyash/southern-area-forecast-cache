@@ -1,0 +1,115 @@
+
+000
+FNUS74 KLIX 142009
+FWSLIX
+
+Spot Forecast for DeSoto BB 9370 RX...USFS
+National Weather Service New Orleans LA
+309 PM CDT Sat Mar 14 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+RH values rise to between 40 and 55 percent the rest of Saturday afternoon and
+Sunday as southerly winds redevelop in advance of an approaching
+storm system. The winds could turn gusty on Sunday at 15 to
+20 mph in advance of this system. This storm system is projected
+to pass through the region Sunday night with higher rain chances
+and very breezy conditions. Northwest winds of 20 to 25 mph with
+higher gusts can be expected on Monday and minimum RH values
+could fall to beetween 25 and 35 percent behind the strong cold
+front. The lowest values will be north of I-10 and critical fire
+conditons may be met. Winds will be lighter on Tuesday and
+Wednesday, so despite min RH values falling to 20 to 30 percent
+both days, critical fire conditons are not expected. Some
+moisture recovery on Thursday and Friday is expected as winds
+turn more southerly. This will allow min RH values to rise to
+between 35 and 45 percent.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 77. 
+Min humidity........52 percent. 
+Dewpoint............55. 
+Max apparent temp...75. 
+Wind (20 ft)........South winds around 7 mph. 
+Mixing height (m)...914-1189 meters AGL. 
+Transport winds.....South around 9 mph. 
+Transport winds m/s.South around 4 meters/second. 
+LVORI...............1. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      4 PM   
+Sky (%).........24     
+Weather cov.....       
+Weather type....NONE   
+Tstm cov........       
+Chc of pcpn (%).0      
+Temp............75     
+Dewpoint........56     
+RH..............52     
+Aparnt tmp (F)..75     
+20 FT wind dir..S      
+20 FT wind spd..8      
+20 FT wind gust.14     
+Mix hgt (m).....1190   
+Transp wind dir.SSE    
+Transp wind spd.9      
+Trans wind dir..SSE    
+Trans spd (m/s).4      
+LVORI...........1      
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent) then becoming 
+                    mostly cloudy (55-65 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 59. 
+Max humidity........100 percent. 
+Dewpoint............58. 
+Max apparent temp...72. 
+Wind (20 ft)........South winds 5 to 6 mph early in the evening 
+                    becoming light. 
+Mixing height (m)...122-640 meters AGL. 
+Transport winds.....Southeast 7 to 9 mph. 
+Transport winds m/s.Southeast 3 to 4 meters/second. 
+LVORI...............6. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........22     5      16     30     34     58     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............72     64     62     61     60     59     
+Dewpoint........56     58     58     59     59     59     
+RH..............57     81     87     93     96     100    
+Aparnt tmp (F)..72     64     62     61     60     59     
+20 FT wind dir..SSE    SSE    SSE    SE     SE     SE     
+20 FT wind spd..6      5      3      2      2      3      
+20 FT wind gust.12     10     8      7      7      8      
+Mix hgt (m).....640    180    150    120    120    180    
+Transp wind dir.SSE    SSE    SE     SE     SE     SE     
+Transp wind spd.9      9      9      7      8      7      
+Trans wind dir..SSE    SSE    SE     SE     SE     SE     
+Trans spd (m/s).4      4      4      3      4      3      
+LVORI...........2      5      6      6      8      9      
+
+$$
+Forecaster...SCHLOTZHAUER
+Requested by...Mississippi Interagency
+Type of request...PRESCRIBED
+.TAG 2605805.0/LIX
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov,msmic@firenet.gov
+

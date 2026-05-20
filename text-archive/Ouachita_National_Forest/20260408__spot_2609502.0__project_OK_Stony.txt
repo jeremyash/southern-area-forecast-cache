@@ -1,0 +1,129 @@
+
+000
+FNUS74 KTSA 080933
+FWSTSA
+
+Spot Forecast for OK Stony...USFS
+National Weather Service Tulsa OK
+433 AM CDT Wed Apr 8 2026
+
+Forecast is based on ignition time of 1000 CDT on April 08. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact NWS Tulsa at (918)838-7838, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Skies will be mostly sunny today with high temperatures in the mid
+70s. Afternoon humidity values will fall to around 30 percent 
+and winds will be from the south around 10 miles an hour, with 
+gusts to 15-20 miles an hour.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (20-30 percent). 
+Max temperature.....Around 74. 
+Min humidity........30 percent. 
+Dewpoint............43. 
+Wind (20 ft)........South winds 7 to 9 mph. 
+Mixing height.......6900 ft AGL. 
+Transport winds.....South 17 to 21 mph. 
+Smoke dispersal.....Excellent (94426 knot-ft). 
+Stability class.....3. 
+1700FT Avg MIX T(F).72. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........35  29  23  17  20  24  28  21  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Temp............61  66  69  71  74  74  74  74  
+Dewpoint........45  45  43  42  42  41  41  41  
+RH..............56  47  39  35  32  30  30  30  
+20 FT wind dir..S   S   S   S   S   S   S   S   
+20 FT wind spd..8   8   9   9   8   8   8   7   
+20 FT wind gust.13  13  14  14  14  14  14  13  
+Mix hgt (kft)...1.5 3.0 5.1 5.9 6.5 6.7 6.9 6.3 
+Transp wind dir.S   S   S   S   S   S   S   S   
+Transp wind spd.17  18  21  20  18  18  17  17  
+Vrate kt-ft/1K..94  94  94  110 110 110 110 110 
+Ventrate Cat....GD  GD  GD  VGD VGD VGD VGD VGD 
+1700FT Mix T(F).69  70  70  71  72  73  74  75  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Min temperature.....Around 55. 
+Max humidity........69 percent. 
+Dewpoint............42. 
+Wind (20 ft)........South winds 5 to 6 mph. 
+Mixing height.......200 ft AGL. 
+Transport winds.....South 9 to 18 mph. 
+Smoke dispersal.....Excellent (110163 knot-ft) early in the evening 
+                    decreasing to poor (3278 knot-ft) late in the 
+                    night. 
+Stability class.....5. 
+1700FT Avg MIX T(F).75. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........15  9   8   8   7   8   9   9   10  10  10  9   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............73  70  66  62  60  60  59  57  57  56  56  55  
+Dewpoint........42  43  43  42  42  42  42  42  43  43  43  43  
+RH..............33  38  43  48  51  51  53  57  59  62  62  64  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..6   6   6   5   5   5   6   6   6   6   6   6   
+20 FT wind gust.10  10  10  7   7   7   10  8   8   8   8   8   
+Mix hgt (kft)...5.6 0.4 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.18  10  12  9   9   10  12  12  13  14  15  15  
+Vrate kt-ft/1K..110 3   3   3   3   3   3   3   3   3   3   3   
+Ventrate Cat....VGD PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+1700FT Mix T(F).76  77  77  77  77  77  77  76  76  75  74  73  
+
+.THURSDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Max temperature.....Around 75. 
+Min humidity........44 percent. 
+Dewpoint............46 increasing to 51 in the late morning and 
+                    afternoon. 
+Wind (20 ft)........South winds 5 to 7 mph. 
+Mixing height.......6100 ft AGL. 
+Transport winds.....South 13 to 16 mph. 
+Smoke dispersal.....Poor (3278 knot-ft) early in the morning 
+                    increasing to excellent (81311 knot-ft) in the 
+                    afternoon. 
+Stability class.....4. 
+1700FT Avg MIX T(F).68 increasing to 75 late in the afternoon. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........7   6   9   12  15  16  17  18  21  25  29  29  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............55  55  56  59  64  68  71  73  74  75  75  75  
+Dewpoint........44  45  46  48  51  52  52  52  52  52  52  52  
+RH..............66  69  69  67  63  57  51  48  46  45  45  45  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind spd..6   6   6   6   6   6   7   7   7   7   7   7   
+20 FT wind gust.8   10  10  10  10  10  12  13  13  13  13  13  
+Mix hgt (kft)...0.2 0.2 0.4 1.1 2.2 3.2 4.3 5.1 5.8 6.1 5.7 4.2 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.15  14  14  15  16  16  16  16  15  15  14  13  
+Vrate kt-ft/1K..3   62  62  62  62  62  62  81  81  81  81  81  
+Ventrate Cat....PR  GD  GD  GD  GD  GD  GD  GD  GD  GD  GD  GD  
+1700FT Mix T(F).73  72  68  65  64  66  70  73  74  75  75  76  
+
+$$
+Forecaster...PLATE
+Requested by...Kory Garrie
+Type of request...PRESCRIBED
+.TAG 2609502.0/TSA
+.DELDT 04/08/26
+.FormatterVersion 2.0.0
+.EMAIL Kory.garrie@usda.gov,john.wilson2@usda.gov,nolen.caudell@usda.gov
+

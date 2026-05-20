@@ -1,0 +1,93 @@
+
+000
+FNUS74 KSHV 141001
+FWSSHV
+
+Spot Forecast for ANF Turkey Creek Rx Comp 7...US Forest Service
+National Weather Service Shreveport LA
+501 AM CDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 0700 CDT on March 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Some patchy fog can't be ruled out through mid morning. Low 
+clouds will continue to push into the region from the south this 
+morning as well, but should diminish by mid to late morning. 
+Afternoon highs today will climb into the mid to upper 70s. 
+Expect southerly 20 foot winds between 7-10 mph, with gusts 
+approaching 15-19 mph at times. Mixing heights should climb above 
+3000 ft today, with afternoon RH values generally between 50-60
+percent.
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........62  62  42  49  52  52  44  28  17  17  23  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............49  52  55  61  66  69  73  75  75  77  76  
+RH..............100 100 100 90  78  70  62  58  58  56  56  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..1   1   1   3   3   3   6   6   6   6   6   
+20 FT wind gust.6   7   8   10  13  14  15  16  16  16  17  
+Mix hgt (kft)...0.5 0.6 1.3 2.2 2.6 3.0 3.3 3.4 3.5 3.8 3.5 
+Mix hgt (km)....0.2 0.2 0.4 0.7 0.8 0.9 1.0 1.0 1.1 1.2 1.1 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.9   8   13  15  14  14  13  14  16  17  16  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).4   4   6   7   6   6   6   6   7   8   7   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........25  22  21  34  37  35  51  59  65  56  48  55  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............75  72  67  65  63  62  61  60  60  59  59  59  
+RH..............58  64  75  78  84  87  90  93  96  100 100 100 
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+20 FT wind mph..6   6   6   6   5   5   5   5   5   5   6   6   
+20 FT wind gust.16  15  16  16  16  16  16  15  16  17  17  18  
+Mix hgt (kft)...3.2 0.6 0.5 0.5 0.5 0.6 0.7 0.6 0.7 0.9 0.8 0.9 
+Mix hgt (km)....1.0 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.3 0.2 0.3 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.16  14  15  16  17  20  17  17  17  17  18  17  
+Trans wind dir..S   S   S   S   S   S   S   S   S   S   S   S   
+Trans spd (m/s).7   6   7   7   8   9   8   8   8   8   8   8   
+
+.SUNDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........77  76  76  73  70  64  58  52  49  46  43  49  
+Weather cov.....                            CHC CHC CHC CHC CHC 
+Weather type....                            RW  RW  RW  RW  RW  
+Tstm cov........                                        CHC CHC 
+CWR.............0   0   0   0   0   0   0   40  40  40  40  40  
+Temp............58  59  60  64  68  72  75  79  80  82  83  80  
+RH..............100 100 96  87  81  73  69  60  60  56  55  60  
+20 FT wind dir..S   S   S   S   S   S   S   S   S   S   SW  SW  
+20 FT wind mph..6   8   8   8   12  12  12  13  13  13  12  12  
+20 FT wind gust.18  18  21  23  24  25  26  28  28  28  28  26  
+Mix hgt (kft)...1.1 0.9 1.4 2.2 2.6 3.1 3.7 4.2 4.0 4.8 5.6 4.5 
+Mix hgt (km)....0.3 0.3 0.4 0.7 0.8 0.9 1.1 1.3 1.2 1.5 1.7 1.4 
+Transp wind dir.S   S   S   S   S   S   S   SW  SW  SW  SW  W   
+Transp wind spd.18  17  20  24  29  31  33  36  33  32  31  28  
+Trans wind dir..S   S   S   S   S   S   S   SW  SW  SW  SW  W   
+Trans spd (m/s).8   8   9   11  13  14  15  16  15  14  14  13  
+
+$$
+Forecaster...HILL
+Requested by...Joey Silva
+Type of request...PRESCRIBED
+.TAG 2605730.0/SHV
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL joey.silva@usda.gov
+

@@ -1,0 +1,141 @@
+
+000
+FNUS71 KRNK 140844
+FWSRNK
+
+Spot Forecast for Crawfish Rx...USFS
+National Weather Service Blacksburg VA
+444 AM EDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 0530 EDT on March 14. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Daytime mixing today should allow dew points to fall into the
+teens and 20s and with temperatures warming into the 50s and 
+lower 60s, min RH values fall into the lower 20 percent range. 
+Fine fuels are now plenty dry given a full day of drying 
+yesterday. Westerly wind gusts should remain below 20 mph.
+
+Moisture increases on Sunday with winds turning from the SSE. 
+Showers and clouds will increase as the day progresses.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent) then becoming sunny (10-20 
+                    percent) then becoming mostly sunny (35-45 
+                    percent) then becoming sunny (10-20 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 61. 
+Min humidity........26 percent. 
+Wind (20 ft)........West winds 5 to 6 mph with gusts to around 16 
+                    mph early in the morning becoming light. 
+Mixing height.......3600 ft AGL. 
+Mixing winds........West 5 to 9 mph increasing to 15 to 21 mph in 
+                    the late morning and early afternoon, then 
+                    decreasing to 6 to 10 mph late in the 
+                    afternoon. 
+Smoke dispersal.....Poor (3500 knot-ft) early in the morning 
+                    increasing to good (44400 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................3 early in the morning increasing to 64 in the 
+                    afternoon. 
+
+TIME (EDT)      5AM 6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   3   4   5   14  16  30  34  47  49  40  24  8   
+Weather cov.....                                                    
+Weather type....                                                    
+Tstm cov........                                                    
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............40  39  38  36  39  44  47  51  53  56  58  59  60  
+RH..............61  60  60  62  55  44  37  33  31  26  27  28  28  
+20 FT wind dir..W   W   W   W   W   NW  W   W   W   W   W   W   W   
+20 FT wind spd..6   5   3   2   2   2   3   3   2   2   2   2   2   
+20 FT wind gust.16  14  12  10  10  10  11  11  10  10  10  8   7   
+Mix hgt (kft)...1.4 1.1 1.0 0.9 1.3 1.9 2.3 2.7 3.0 3.2 3.5 3.6 3.5 
+Mixng wind dir..W   W   W   W   W   W   W   W   W   W   W   W   SW  
+Mixng wind spd..9   7   5   5   9   16  21  20  15  10  8   7   6   
+LVORI...........3   3   3   3   2   1   1   1   1   1   1   2   2   
+ADI.............4   3   6   5   17  40  62  64  55  41  35  29  25  
+VRate mph-ft/1K.13  7   4   4   13  31  49  51  44  33  28  24  20  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 42. 
+Max humidity........75 percent. 
+Wind (20 ft)........Light winds becoming southeast around 5 mph 
+                    overnight. 
+Mixing height.......700 ft AGL. 
+Mixing winds........South around 5 mph shifting to the southeast 
+                    early in the evening. 
+Smoke dispersal.....Poor (2700 knot-ft). 
+LVORI...............3. 
+ADI.................2 to 16. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........18     24     7      5      12     21     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............60     54     50     47     46     44     
+RH..............31     43     55     59     65     70     
+20 ft wind......SW 2   SE 2   SE 3   SE 4   SE 5   SE 5   
+20 ft wind gust.7      10     11     13     14     14     
+Mix hgt (ft)....2800   700    900    1200   1300   1400   
+Mixing wind......SW 5   SE 5   SE 8   SE 9   SE 9   SE 10  
+LVORI...........2      2      3      3      3      3      
+ADI.............16     2      3      4      4      4      
+VRate mph-ft/1K.13     3      7      12     12     14     
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent) then becoming 
+                    mostly cloudy (70-80 percent). Slight chance of 
+                    rain showers late in the afternoon. 
+CWR (0.01 in).......10 percent increasing to 20 percent late in the 
+                    afternoon. 
+Max temperature.....Around 60. 
+Min humidity........57 percent. 
+Wind (20 ft)........Southeast winds 5 to 13 mph. Gusts up to 30 mph 
+                    in the late morning and afternoon. 
+Mixing height.......3700 ft AGL. 
+Mixing winds........Southeast 9 to 16 mph increasing to south 21 to 
+                    29 mph in the late morning and afternoon. 
+Smoke dispersal.....Poor (10100 knot-ft) early in the morning 
+                    increasing to excellent (73800 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................4 early in the morning increasing to 81 in the 
+                    afternoon. 
+
+TIME (EDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........32     16     44     54     67     73     
+Weather cov.....                            S CHC  S CHC  
+Weather type....NONE   NONE   NONE   NONE   RNSHWR RNSHWR 
+Tstm cov........                                          
+CWR.............0      10     10     10     20     20     
+Temp............43     43     49     56     58     60     
+RH..............75     75     70     61     57     57     
+20 ft wind......SE 5   SE 5   SE 7   SE 11  SE 12  SE 13  
+20 ft wind gust.14     14     19     22     23     24     
+Mix hgt (ft)....1300   1400   2300   2800   3200   3500   
+Mixing wind......SE 9   SE 10  S 22   S 29   S 26   S 23   
+LVORI...........4      3      3      1      1      1      
+ADI.............4      18     60     67     65     60     
+VRate mph-ft/1K.12     14     50     82     84     81     
+
+$$
+Forecaster...Gruver
+Requested by...AFMO
+Type of request...PRESCRIBED
+.TAG 2605643.2/RNK
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL todd.caudill@usda.gov,jonathan.catron@usda.gov
+

@@ -1,0 +1,120 @@
+
+000
+FNUS72 KCHS 110804
+FWSCHS
+
+Spot Forecast for FMF C85A Wyden...usfs
+National Weather Service Charleston SC
+404 AM EDT Wed Mar 11 2026
+
+Forecast is based on ignition time of 1000 EDT on March 11. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+High pressure will extend across the region today. Gusty conditions
+are possible beginning later this morning and continuing into
+the afternoon hours. Gusts as high as 20-25 mph can be expected.
+The sea breeze should reach the burn site between 1700-1800.
+Winds will remain somewhat elevated overnight with the 
+approach of a cold front resulting in modest dispersion.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 87. 
+Min humidity........42 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph with 
+                    gusts to around 18 mph in the afternoon. 
+Mixing Height.......Max 4700 ft AGL. 
+Transport winds.....Southwest 8 to 16 mph increasing to around 18 
+                    mph late in the afternoon. 
+Max ADI.............102. 
+Inversion End.......0930.
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........25  18  33  32  36  33  25  43  
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............72  78  82  85  86  87  86  84  
+RH..............79  64  56  48  43  42  43  46  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  S   
+20 FT wind spd..2   3   5   5   6   6   6   7   
+20 FT wind gust.9   11  13  14  16  16  18  18  
+Mix hgt (kft)...1.2 1.6 2.6 3.8 4.7 4.4 3.6 2.6 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.8   8   16  16  16  18  18  18  
+LVORI...........4   2   1   1   1   1   1   1   
+ADI.............11  20  42  73  102 96  80  56  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy then becoming partly cloudy then 
+                    becoming mostly cloudy. 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 66. 
+Max humidity........87 percent. 
+Wind (20 ft)........Southwest winds 6 to 8 mph with gusts to around 
+                    18 mph. 
+Max LVORI...........5. 
+Min ADI.............1. 
+Inversion Begin.....None, although a weak inversion may briefly setup
+                    shortly after sunset, but mix out by mid-evening.
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........51     73     59     64     46     39     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      10     10     
+Temp............81     74     71     71     70     68     
+RH..............51     69     79     79     81     87     
+20 ft wind......S 6    S 6    S 6    SW 7   SW 8   SW 6   
+20 ft wind gust.18     16     16     18     18     16     
+Mix hgt (ft)....2000   900    1200   1200   1100   1100   
+Transport wind..S 12   S 12   SW 12  SW 14  SW 14  SW 14  
+LVORI...........2      3      4      4      4      5      
+ADI.............1      5      8      11     13     6      
+
+.THURSDAY...
+
+Sky/weather.........Partly sunny then becoming cloudy. Rain showers 
+                    early in the morning. Slight chance of 
+                    thunderstorms late in the morning. 
+Chance of pcpn......90 percent. 
+Max temperature.....Around 76. 
+Min humidity........71 percent. 
+Wind (20 ft)........Southwest winds 6 to 8 mph shifting to the 
+                    north around 9 mph late in the afternoon. Gusts 
+                    up to 24 mph. Gusty and erratic winds expected 
+                    near thunderstorms late in the morning. 
+Mixing Height.......Max 2800 ft AGL. 
+Transport winds.....Southwest 14 to 22 mph shifting to the 
+                    northwest around 26 mph late in the afternoon. 
+Max ADI.............62.
+Inversion End.......None. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........47        86        86        96        
+Weather type....NONE      RNSHWR    RNSHWR    RNSHWR    
+Tstm cov........                    S CHC     S CHC     
+Chc of pcpn (%).10        80        80        90        
+Temp............67        68        75        68        
+RH..............84        84        71        73        
+20 FT wind......SW 6G14   SW 6G16   SW 8G18   NW 9G22   
+Mix hgt (ft)....1200      1900      2500      2100      
+Transport wind..SW 14     SW 20     W 22      NW 26     
+LVORI...........4         4         3         3         
+ADI.............20        41        51        46        
+
+$$
+Forecaster...Taylor
+Requested by...kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2605355.0/CHS
+.DELDT 03/11/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+

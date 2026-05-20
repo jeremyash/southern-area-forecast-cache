@@ -1,0 +1,119 @@
+
+000
+FNUS72 KCHS 140742
+FWSCHS
+
+Spot Forecast for FMF c138 quail24...USDA Forest Service
+National Weather Service Charleston SC
+342 AM EDT Sat Mar 14 2026
+
+Forecast is based on ignition time of 1000 EDT on March 14. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail across the area today. Winds this 
+morning will be light and variable, then will become more east and 
+southeast this afternoon with wind speeds 5 to 10 mph. Winds will 
+be stronger on Sunday along with an increased chance of showers 
+and thunderstorms. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 76. 
+Min humidity........39 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4300 ft AGL. 
+Transport winds.....Light winds becoming east around 8 mph late in 
+                    the afternoon. 
+Max ADI.............37. 
+Inversion End.......1000. 
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........24  12  4   0   2   1   1   2   
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............58  65  69  73  74  75  75  75  
+RH..............83  65  55  45  41  39  40  39  
+20 FT wind dir..N   NW  N   NE  E   E   E   E   
+20 FT wind spd..0   1   1   2   2   3   3   3   
+20 FT wind gust.4   4   5   5   7   9   9   9   
+Mix hgt (kft)...1.0 1.5 2.5 3.5 4.3 4.3 3.8 3.1 
+Transp wind dir.NW  NW  NE  NE  NE  E   E   E   
+Transp wind spd.2   2   2   2   2   8   8   8   
+LVORI...........5   3   3   2   2   2   1   1   
+ADI.............3   5   7   10  18  30  37  37  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 53. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........10. 
+Min ADI.............1. 
+Inversion Begin.....1900. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........4      6      4      10     20     32     
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............71     64     57     55     55     54     
+RH..............45     63     88     98     100    100    
+20 ft wind......E 3    E 2    E 2    E 2    E 2    NE 2   
+20 ft wind gust.9      9      9      7      7      9      
+Mix hgt (ft)....2200   600    600    500    400    400    
+Transport wind..E 4    E 4    E 2    E 2    E 2    NE 2   
+LVORI...........2      3      7      10     10     10     
+ADI.............1      1      1      1      1      1      
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny then becoming mostly cloudy. 
+                    Chance of rain showers and slight chance of 
+                    thunderstorms in the morning, then rain showers 
+                    likely and chance of thunderstorms in the 
+                    afternoon. 
+Chance of pcpn......60 percent. 
+Max temperature.....Around 75. 
+Min humidity........74 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 7 mph with 
+                    gusts to around 18 mph in the late morning and 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms late in the morning. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    late in the afternoon. 
+Mixing Height.......Max 4000 ft AGL. 
+Transport winds.....Light winds becoming southeast 14 to 18 mph in 
+                    the late morning and afternoon. 
+Max ADI.............54. 
+Inversion End.......1000. 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........47        62        62        76        
+Weather type....NONE      RNSHWR    RNSHWR    RNSHWR    
+Tstm cov........                    S CHC     CHANCE    
+Chc of pcpn (%).0         40        40        60        
+Temp............55        61        71        74        
+RH..............100       99        80        74        
+20 FT wind......NE 2G9    E 4G13    E 7G18    SE 7G16   
+Mix hgt (ft)....500       1900      3800      3000      
+Transport wind..NE 2      E 16      E 18      SE 14     
+LVORI...........10        5         3         3         
+ADI.............2         25        54        34        
+
+$$
+
+Forecaster...Holloway
+Requested by...Kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2605699.0/CHS
+.DELDT 03/14/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+

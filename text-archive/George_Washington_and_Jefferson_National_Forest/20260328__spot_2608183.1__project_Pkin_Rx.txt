@@ -1,0 +1,150 @@
+
+000
+FNUS71 KLWX 280606
+FWSLWX
+
+Spot Forecast for Pkin Rx...USFS
+National Weather Service Baltimore MD/Washington DC
+206 AM EDT Sat Mar 28 2026
+
+Forecast is based on ignition time of 0750 EDT on March 28. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+High pressure will build over the region through the weekend, 
+then move offshore early next week. Below normal temperatures are 
+expected through Sunday morning. A frontal system will stall 
+northwest of the area next week bringing repetitive chances for 
+showers and possibly thunderstorms.
+
+A dry airmass is expected to settle over the area this weekend. 
+Minimum RH values drop to around 20 percent during the mid to late
+afternoon hours today, and 25-30 percent Sunday afternoon. It is
+possible that RH could drop to the upper teens for a time this
+afternoon, depending on how efficient mixing is. The fire weather
+threat should be at least tampered due to the wetting rains from 
+Friday, but we will need to monitor the situation as winds will be
+gusting around 15-25 mph this morning into this afternoon. 
+
+Sunday might be the more fire sensitive day since fine fuels will 
+have had a chance to dry out. Seasonable temperatures around 60F 
+and southwest winds around 10-20 mph are forecast Sunday.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 51. 
+Min humidity........24 percent. 
+Wind (20 ft)........North winds 6 to 8 mph. Gusts up to 23 mph in 
+                    the morning. 
+Mixing height.......5800 ft AGL. 
+Transport winds.....North 16 to 25 mph. 
+Smoke dispersal.....Good (47200 knot-ft) early in the morning 
+                    increasing to excellent (103200 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........4   4   9   4   5   7   4   2   2   2   4   
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   
+Temp............31  31  33  35  38  40  42  46  47  48  50  
+RH..............61  66  58  52  48  44  41  32  30  27  24  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..8   8   8   8   8   8   8   8   7   7   6   
+20 FT wind gust.23  23  23  22  20  21  18  18  17  16  15  
+Mix hgt (kft)...2.6 3.0 3.7 4.4 4.8 5.2 5.4 5.6 5.7 5.8 5.8 
+Transp wind dir.N   N   N   N   N   N   N   N   N   N   N   
+Transp wind spd.21  23  25  23  22  22  22  21  18  17  16  
+Vrate kt-ft/1K..47  60  83  88  92  99  103 101 91  87  81  
+Ventrate Cat....FR  GD  GD  GD  GD  GD  VGD VGD GD  GD  GD  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 32. 
+Max humidity........56 percent. 
+Wind (20 ft)........North winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height.......500 ft AGL. 
+Transport winds.....North 5 to 13 mph shifting to the northeast 
+                    around 3 mph late in the evening, then shifting 
+                    to the southeast 2 to 5 mph late in the evening 
+                    shifting to the south 6 to 9 mph overnight. 
+Smoke dispersal.....Good (55900 knot-ft) early in the evening 
+                    decreasing to poor (1000 knot-ft) late in the 
+                    night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........4   5   5   6   8   5   4   4   6   7   12  11  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............48  46  43  41  39  37  36  35  34  34  33  33  
+RH..............25  28  32  36  39  42  43  47  51  51  56  56  
+20 FT wind dir..N   N   N   NE  E   E   S   S   SE  S   S   S   
+20 FT wind spd..5   2   2   2   2   1   1   1   1   2   2   2   
+20 FT wind gust.13  10  7   7   6   6   6   5   5   6   7   7   
+Mix hgt (kft)...5.1 2.0 0.6 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+Transp wind dir.N   N   N   N   NE  E   SE  S   S   S   S   S   
+Transp wind spd.13  7   5   5   3   2   3   5   6   7   8   9   
+Vrate kt-ft/1K..56  12  3   2   2   1   1   2   2   3   3   4   
+Ventrate Cat....FR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.SUNDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 57. 
+Min humidity........34 percent. 
+Wind (20 ft)........Light winds becoming southwest 6 to 10 mph with 
+                    gusts to around 22 mph in the late morning and 
+                    afternoon. 
+Mixing height.......4000 ft AGL. 
+Transport winds.....Southwest 10 to 17 mph increasing to 21 to 23 
+                    mph in the late morning and afternoon. 
+Smoke dispersal.....Poor (4100 knot-ft) early in the morning 
+                    increasing to excellent (76000 knot-ft) in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........36  31  33  46  37  27  29  32  35  39  44  48  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............33  33  35  38  42  46  49  52  53  55  56  56  
+RH..............56  56  54  54  48  43  40  38  38  35  34  34  
+20 FT wind dir..S   SW  S   SW  SW  SW  SW  SW  SW  SW  S   S   
+20 FT wind spd..2   3   3   6   7   8   9   9   10  10  10  10  
+20 FT wind gust.8   9   12  14  17  20  21  22  22  22  22  22  
+Mix hgt (kft)...0.5 0.5 0.7 1.2 1.9 2.5 3.1 3.5 3.8 4.0 4.0 3.7 
+Transp wind dir.S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.10  12  14  17  21  23  23  22  21  21  22  22  
+Vrate kt-ft/1K..4   5   9   19  34  51  62  67  68  72  76  71  
+Ventrate Cat....PR  PR  PR  PR  PR  FR  GD  GD  GD  GD  GD  GD  
+
+$$
+Forecaster...Hofmann
+Requested by...Adam Christie
+Type of request...PRESCRIBED
+.TAG 2608183.1/LWX
+.DELDT 03/28/26
+.FormatterVersion 2.0.0
+.EMAIL adam.christie@usda.gov,kendell.reese@usda.gov
+

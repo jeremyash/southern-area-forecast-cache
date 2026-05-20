@@ -1,0 +1,138 @@
+
+000
+FNUS71 KRNK 291444
+FWSRNK
+
+Spot Forecast for Bald Mtn Unit 12...USFS/GWJNF/EDRD
+National Weather Service Blacksburg VA
+1044 AM EDT Sun Mar 29 2026
+
+Forecast is based on ignition time of 1100 EDT on March 29. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Winds should stay mostly out of the southwest throughout today and 
+Monday. Each afternoon, there may be gusts towards 15 to 20 mph. 
+Mixing should be good during both afternoons, but mixing heights 
+may only reach 3500 feet above ground level on Monday as clouds 
+increase. The relative humidity should drop to 20 percent this 
+afternoon but only fall to 45 percent by Monday afternoon. In 
+addition, a 20 percent chance of rain exists at the burn site on 
+Monday afternoon, but this chance of rain diminishes after sunset. 
+Tuesday appears to be a repeat of Monday with a gusty southwest 
+wind and a low chance of rain in the afternoon, but the relative 
+humidity on Tuesday may dip below 40 percent.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 60. 
+Min humidity........19 percent. 
+Wind (20 ft)........South winds 5 to 10 mph. Gusts up to 20 mph in 
+                    the afternoon. 
+Mixing height.......5200 ft AGL. 
+Mixing winds........Southwest 15 to 20 mph. 
+Smoke dispersal.....Good (32300 knot-ft) in the morning increasing 
+                    to excellent (75400 knot-ft) in the afternoon. 
+LVORI...............1. 
+ADI.................Increasing to 71. 
+
+TIME (EDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........16  16  7   9   6   8   17  
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+CWR.............0   0   0   0   0   0   0   
+Temp............47  51  55  57  59  60  59  
+RH..............35  30  25  23  21  21  20  
+20 FT wind dir..S   S   S   S   S   S   S   
+20 FT wind spd..6   7   7   7   7   7   8   
+20 FT wind gust.14  14  16  16  16  16  17  
+Mix hgt (kft)...2.5 3.2 4.0 4.8 5.2 5.1 4.9 
+Mixng wind dir..S   S   S   SW  SW  SW  SW  
+Mixng wind spd..15  16  15  15  16  17  17  
+LVORI...........1   1   1   1   1   1   1   
+ADI.............47  53  58  61  67  71  71  
+VRate mph-ft/1K.37  51  62  72  83  87  85  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (40-50 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 44. 
+Max humidity........67 percent. 
+Wind (20 ft)........Southwest winds 5 to 10 mph. Gusts up to 15 mph 
+                    early in the evening.
+Mixing height.......400 ft AGL. 
+Mixing winds........South 5 to 15 mph. 
+Smoke dispersal.....Good (58000 knot-ft) in the evening decreasing 
+                    to poor (2700 knot-ft) overnight. 
+LVORI...............2. 
+ADI.................Decreasing to 5. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........26  20  22  26  39  38  38  50  46  56  43  42  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............58  56  51  50  48  47  46  47  46  46  46  45  
+RH..............21  23  28  30  33  34  37  38  42  47  52  59  
+20 FT wind dir..S   S   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..8   7   6   6   6   6   6   6   6   6   6   6   
+20 FT wind gust.16  16  14  13  12  12  12  12  12  12  11  11  
+Mix hgt (kft)...4.2 1.1 0.7 0.7 0.6 0.5 0.5 0.5 0.5 0.5 0.5 0.4 
+Mixng wind dir..SW  S   S   S   S   S   S   S   S   S   SW  SW  
+Mixng wind spd..16  14  12  10  9   8   7   7   7   7   7   7   
+LVORI...........1   2   2   2   2   2   2   2   2   2   2   3   
+ADI.............61  9   8   7   6   5   5   6   5   5   5   5   
+VRate mph-ft/1K.67  16  8   7   6   4   4   4   3   3   3   3   
+
+.MONDAY...
+
+Sky/weather.........Partly sunny (55-65 percent). Slight chance of 
+                    rain showers in the afternoon. 
+CWR (0.01 in).......Increasing to 20 percent in the afternoon. 
+Max temperature.....Around 67. 
+Min humidity........46 percent. 
+Wind (20 ft)........Southwest winds around 5 mph in the morning 
+                    increasing to 5 to 10 mph with gusts up to 
+                    15 mph in the afternoon. 
+Mixing height.......3500 ft AGL. 
+Mixing winds........Southwest 5 to 10 mph increasing to 15 to 20 
+                    mph in the afternoon. 
+Smoke dispersal.....Poor (1500 knot-ft) in the morning increasing 
+                    to good (55700 knot-ft) in the afternoon. 
+LVORI...............2. 
+ADI.................Increasing to 48. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........49  52  57  54  57  59  63  67  71  69  66  64  
+Weather cov.....                        SCH SCH SCH SCH SCH SCH 
+Weather type....                        RW  RW  RW  RW  RW  RW  
+Tstm cov........                                                
+CWR.............10  10  10  10  10  10  20  20  20  20  20  20  
+Temp............46  46  46  50  54  58  61  63  64  65  66  67  
+RH..............60  63  67  59  55  52  50  48  48  47  47  47  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   5   3   3   4   5   5   5   6   6   6   6   
+20 FT wind gust.11  10  12  13  14  16  16  16  16  16  16  16  
+Mix hgt (kft)...0.4 0.4 0.4 0.8 1.4 2.3 2.5 2.8 3.3 2.3 2.9 3.5 
+Mixng wind dir..SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Mixng wind spd..6   5   5   6   7   9   12  15  17  18  18  18  
+LVORI...........3   3   3   3   2   2   2   1   1   1   1   1   
+ADI.............4   5   4   4   11  19  26  34  44  38  44  48  
+VRate mph-ft/1K.2   2   2   4   10  21  30  41  58  42  55  64  
+
+$$
+Forecaster...Wilson
+Requested by...Brian Theiler
+Type of request...PRESCRIBED
+.TAG 2608343.0/RNK
+.DELDT 03/29/26
+.FormatterVersion 2.0.0
+.EMAIL Brian.theiler@usda.gov
+

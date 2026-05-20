@@ -1,0 +1,114 @@
+
+000
+FNUS74 KMRX 231153
+FWSMRX
+
+Spot Forecast for Bearpaw1 planning spot...USFS
+National Weather Service Morristown TN
+753 AM EDT Mon Mar 23 2026
+
+Forecast is based on ignition time of 1100 EDT on March 23. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+A weak/dry cold front will cross the area early this morning. Flow
+will become north and northwest today and tonight. Winds could 
+gust to near 18 mph around the time of the frontal passage. Drier
+behind the cold front where minimum RH today will be close to 30 
+percent. Possibly much drier air on Tuesday where minimum RH could
+fall just below 20 percent, but winds will be lighter.
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (45-55 percent) then becoming 
+                    sunny (5-15 percent). 
+Max temperature.....Around 68. 
+Min humidity........32 percent. 
+Wind (20 ft)........Northwest winds 7 to 8 mph with gusts to around 
+                    18 mph. 
+Mixing height.......3000 ft AGL. 
+Transport winds.....North 20 to 21 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........69  64  33  18  18  9   2   
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+Temp............62  62  63  66  65  65  64  
+RH..............65  62  54  45  41  35  33  
+20 FT wind dir..NW  NW  N   N   N   N   N   
+20 FT wind spd..7   8   8   8   8   8   8   
+20 FT wind gust.17  18  17  16  17  17  17  
+Mix hgt (kft)...2.1 2.4 2.8 3.0 3.0 3.0 3.0 
+Transp wind dir.N   N   N   N   N   N   N   
+Transp wind spd.20  21  21  21  20  21  21  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent) then becoming 
+                    mostly cloudy (45-55 percent) then becoming 
+                    partly cloudy (35-45 percent) then becoming 
+                    mostly cloudy (55-65 percent). 
+Min temperature.....Around 38. 
+Max humidity........64 percent. 
+Wind (20 ft)........North winds 5 to 8 mph with gusts to around 16 
+                    mph in the evening becoming light. 
+Mixing height.......400 ft AGL. 
+Transport winds.....North 12 to 20 mph decreasing to 6 to 10 mph 
+                    late in the evening, then shifting to the east 
+                    after 3 am. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........5   23  19  23  38  36  50  50  52  41  63  59  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............62  58  54  52  49  47  45  44  43  41  41  40  
+RH..............32  34  40  41  44  47  49  51  53  55  55  59  
+20 FT wind dir..N   N   N   NW  NW  NW  NW  W   W   W   NE  E   
+20 FT wind spd..8   6   6   5   5   4   3   2   2   2   1   1   
+20 FT wind gust.16  16  16  14  13  11  10  8   6   6   6   5   
+Mix hgt (kft)...2.9 2.2 1.1 1.3 1.1 0.8 0.8 0.7 0.6 0.5 0.5 0.4 
+Transp wind dir.N   N   N   N   N   N   N   N   N   NE  E   NE  
+Transp wind spd.20  20  14  14  12  10  8   8   7   6   5   5   
+
+.TUESDAY...
+
+Sky/weather.........Partly sunny (55-65 percent). 
+Max temperature.....Around 64. 
+Min humidity........18 percent. 
+Wind (20 ft)........Light winds becoming southeast around 5 mph. 
+Mixing height.......3500 ft AGL. 
+Transport winds.....Southeast 5 to 6 mph shifting to the south in 
+                    the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........49  50  62  64  67  70  69  67  66  66  65  65  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............39  39  38  40  45  51  55  59  61  63  64  63  
+RH..............59  59  64  62  47  34  29  25  22  20  18  19  
+20 FT wind dir..E   SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..1   1   1   1   1   2   3   3   4   5   5   5   
+20 FT wind gust.5   5   5   5   6   6   7   7   8   8   10  10  
+Mix hgt (kft)...0.5 0.5 0.4 1.1 1.6 2.1 2.7 3.2 3.5 3.4 3.1 2.7 
+Transp wind dir.E   E   SE  SE  SE  SE  SE  SE  SE  S   S   S   
+Transp wind spd.5   5   5   6   6   6   6   5   5   6   6   6   
+
+$$
+Forecaster...Kerrie Simmons
+Requested by...Drew Ford
+Type of request...PRESCRIBED
+.TAG 2607221.0/MRX
+.DELDT 03/23/26
+.FormatterVersion 2.0.0
+.EMAIL drew.ford@usda.gov
+

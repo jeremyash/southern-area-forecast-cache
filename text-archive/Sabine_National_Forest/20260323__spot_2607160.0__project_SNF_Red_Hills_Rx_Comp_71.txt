@@ -1,0 +1,91 @@
+
+000
+FNUS74 KSHV 230955
+FWSSHV
+
+Spot Forecast for SNF Red Hills Rx Comp 71...USFS
+National Weather Service Shreveport LA
+455 AM CDT Mon Mar 23 2026
+
+Forecast is based on ignition time of 0700 CDT on March 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Minimum RH values will remain in the 40 to 45 percent range with
+light winds gaining an easterly component due to a frontal
+boundary arriving by the afternoon. LVORI values will remain 
+above 6 due to low clouds that will lift after 10AM this morning.
+Mixing heights will maximize near 4.5kft this afternoon. /16/
+
+
+.REST OF TODAY...
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........24  41  24  25  21  36  34  38  38  40  29  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............61  60  63  68  72  76  78  80  81  81  80  
+RH..............90  96  90  78  68  60  52  49  47  46  47  
+20 FT wind dir..W   W   SW  W   W   W   W   E   E   E   E   
+20 FT wind mph..1   1   1   1   2   2   2   2   2   2   2   
+20 FT wind gust.7   7   6   7   7   7   7   7   8   8   8   
+Mix hgt (kft)...0.4 0.4 1.1 1.7 2.4 2.9 3.6 4.0 4.1 4.2 3.9 
+Mix hgt (km)....0.1 0.1 0.3 0.5 0.7 0.9 1.1 1.2 1.2 1.3 1.2 
+Transp wind dir.SW  W   W   W   W   NW  NW  NE  E   E   E   
+Transp wind spd.9   7   9   8   6   5   3   2   3   3   3   
+Trans wind dir..SW  W   W   W   W   NW  NW  NE  E   E   E   
+Trans spd (m/s).4   3   4   4   3   2   1   1   1   1   1   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........35  34  19  20  18  20  20  22  26  34  45  32  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............79  77  70  68  66  64  63  61  61  59  59  58  
+RH..............49  52  63  68  68  70  67  70  67  72  72  72  
+20 FT wind dir..E   NE  E   E   E   E   E   E   E   E   E   E   
+20 FT wind mph..2   2   2   2   2   2   2   2   1   1   1   1   
+20 FT wind gust.7   7   8   8   9   9   9   9   8   8   7   7   
+Mix hgt (kft)...2.9 0.4 0.4 0.4 0.4 0.4 0.4 0.5 0.6 0.5 0.5 0.4 
+Mix hgt (km)....0.9 0.1 0.1 0.1 0.1 0.1 0.1 0.2 0.2 0.2 0.2 0.1 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.5   5   8   12  13  14  14  13  10  10  10  8   
+Trans wind dir..E   E   E   E   E   E   E   E   E   E   E   E   
+Trans spd (m/s).2   2   4   5   6   6   6   6   4   4   4   4   
+
+.TUESDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........46  51  42  42  41  46  52  57  50  42  35  31  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............58  58  57  60  66  70  74  77  79  80  81  81  
+RH..............72  72  72  67  61  57  53  52  49  47  46  46  
+20 FT wind dir..E   E   E   E   SE  SE  S   S   S   S   S   S   
+20 FT wind mph..1   1   1   1   1   1   2   2   2   2   2   2   
+20 FT wind gust.7   6   6   6   7   8   8   9   9   9   9   8   
+Mix hgt (kft)...0.4 0.4 0.5 1.0 1.1 1.8 2.5 3.3 3.7 4.1 4.2 3.2 
+Mix hgt (km)....0.1 0.1 0.2 0.3 0.3 0.5 0.8 1.0 1.1 1.2 1.3 1.0 
+Transp wind dir.E   E   E   SE  SE  S   S   SW  SW  SW  SW  S   
+Transp wind spd.7   9   8   7   6   6   6   7   6   6   7   6   
+Trans wind dir..E   E   E   SE  SE  S   S   SW  SW  SW  SW  S   
+Trans spd (m/s).3   4   4   3   3   3   3   3   3   3   3   3   
+
+$$
+Forecaster...CASSEL
+Requested by...Ben Joppa
+Type of request...PRESCRIBED
+.TAG 2607160.0/SHV
+.DELDT 03/23/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.laricos@usda.gov,benjamin.joppa@usda.gov,joey.silva@usda.gov,dustin.morris@usda.gov
+

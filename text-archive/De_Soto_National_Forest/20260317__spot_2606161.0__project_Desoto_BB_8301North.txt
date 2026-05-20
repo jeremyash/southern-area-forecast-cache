@@ -1,0 +1,147 @@
+
+000
+FNUS74 KMOB 172102
+FWSMOB
+
+Spot Forecast for Desoto BB 8301North...USFS
+National Weather Service Mobile AL
+402 PM CDT Tue Mar 17 2026
+
+Forecast is based on ignition time of 1600 CDT on March 17. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+...HIGH DISPERSION INDEX AROUND 82 EXPECTED THIS AFTERNOON OVER THE
+BURN AREA...
+
+.DISCUSSION...Dry conditions are expected through mid week. Northerly
+transport winds this afternoon will shift to easterly on Wednesday.
+Afternoon relative humidity values have dropped to near 20 percent
+this afternoon, with values around 25 percent values expected 
+Wednesday.
+
+Fog potential and other remarks...Fog is not expected.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 55. 
+Min humidity........18 percent. 
+Wind (20 ft)........North winds 5 to 6 mph. 
+Mixing height.......4700 ft AGL. 
+Mixing height (m)...1433 meters AGL. 
+Transport winds.....North 13 to 15 mph. 
+Transport winds m/s.North 6 to 7 meters/second. 
+Dispersion index....80. 
+LVORI...............1. 
+Stability class.....2. 
+
+TIME (CDT)      4 PM   
+Sky (%).........4      
+Weather cov.....       
+Weather type....NONE   
+Tstm cov........       
+Chc of pcpn (%).0      
+Temp............54     
+RH..............19     
+20 FT wind dir..NNW    
+20 FT wind spd..7      
+20 FT wind gust.14     
+Mix hgt (ft)....4700   
+Mix hgt (m).....1430   
+Transp wind dir.N      
+Transp wind spd.15     
+Trans wind dir..N      
+Trans spd (m/s).7      
+Dispersion idx..81     
+LVORI...........1      
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 31. 
+Max humidity........58 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......200 ft AGL. 
+Mixing height (m)...61-1433 meters AGL. 
+Transport winds.....North 6 to 13 mph shifting to the east 2 to 5 
+                    mph in the late evening and overnight. 
+Transport winds m/s.North around 6 meters/second decreasing to 3 to 
+                    4 meters/second early in the evening, then 
+                    shifting to the east 1 to 2 meters/second in 
+                    the late evening and overnight. 
+Dispersion index....71 decreasing to 2. 
+LVORI...............2. 
+Stability class.....4. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........5      7      23     20     25     18     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............52     45     38     35     34     32     
+RH..............24     35     46     54     56     58     
+20 FT wind dir..N      NNE    ENE    N      N      N      
+20 FT wind spd..3      1      1      0      0      0      
+20 FT wind gust.9      5      2      2      2      3      
+Mix hgt (ft)....4700   300    300    200    200    200    
+Mix hgt (m).....1430   90     90     60     60     60     
+Transp wind dir.N      NNE    ENE    E      ESE    E      
+Transp wind spd.13     6      5      5      3      3      
+Trans wind dir..N      NNE    ENE    E      ESE    E      
+Trans spd (m/s).6      3      2      2      1      1      
+Dispersion idx..71     3      2      2      2      2      
+LVORI...........1      2      2      2      3      3      
+
+.WEDNESDAY...
+
+Sky/weather.........Partly sunny (55-65 percent) then becoming 
+                    sunny (10-20 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 63. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3600 ft AGL. 
+Mixing height (m)...61-1097 meters AGL. 
+Transport winds.....East 3 to 5 mph shifting to the south 5 to 6 
+                    mph late in the afternoon. 
+Transport winds m/s.East around 2 meters/second decreasing to 1 to 
+                    2 meters/second in the morning and early 
+                    afternoon, then shifting to the south 2 to 3 
+                    meters/second late in the afternoon. 
+Dispersion index....7 increasing to 27. 
+LVORI...............3. 
+Stability class.....2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........41     64     75     73     65     22     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............32     35     47     54     60     62     
+RH..............56     52     37     30     26     26     
+20 FT wind dir..E      E      E      ESE    SSE    S      
+20 FT wind spd..1      1      2      3      3      3      
+20 FT wind gust.3      6      7      7      8      8      
+Mix hgt (ft)....200    400    1200   2400   3200   3600   
+Mix hgt (m).....60     120    370    730    980    1100   
+Transp wind dir.ESE    E      E      E      S      SSW    
+Transp wind spd.5      3      5      5      5      5      
+Trans wind dir..ESE    E      E      E      S      SSW    
+Trans spd (m/s).2      1      2      2      2      2      
+Dispersion idx..2      3      8      14     17     25     
+LVORI...........3      2      2      2      2      2      
+
+$$
+Forecaster...16
+Requested by...Jody Rogers
+Type of request...PRESCRIBED
+.TAG 2606161.0/MOB
+.DELDT 03/17/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.rogers@usda.gov
+
