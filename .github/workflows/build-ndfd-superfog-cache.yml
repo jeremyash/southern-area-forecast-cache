@@ -2,18 +2,18 @@ name: Build NDFD superfog cache
 
 on:
   schedule:
-    - cron: "0,30 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: build-ndfd-superfog-cache
-  cancel-in-progress: false
+  group: ndfd-superfog-cache
+  cancel-in-progress: true
 
 jobs:
-  build-ndfd-superfog-cache:
+  build-cache:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,15 +22,68 @@ jobs:
         with:
           ref: main
           path: main-repo
-          fetch-depth: 0
 
-      - name: Check out cache-data branch
+      - name: Check out cache branch
         uses: actions/checkout@v4
         with:
           ref: cache-data
           path: cache-repo
-          fetch-depth: 0
 
-      - name: Placeholder
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: 'release'
+          use-public-rspm: true
+
+      - name: Install spatial system dependencies
         run: |
-          echo "NDFD superfog cache workflow shell created."
+          sudo apt-get update
+          sudo apt-get install -y \
+            libgdal-dev \
+            libgeos-dev \
+            libproj-dev \
+            libudunits2-dev
+
+      - name: Install R package dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::terra
+            any::sf
+            any::lubridate
+            any::raster
+            any::leaflet
+            any::png
+            any::tibble
+
+      - name: Build cache
+        working-directory: main-repo
+        env:
+          CACHE_OUT_DIR: cache
+          SFOG_PNG_BASE_URL: https://raw.githubusercontent.com/jeremyash/southern-area-forecast-cache/cache-data/cache/sfog_pngs
+        run: |
+          Rscript scripts/build_ndfd_superfog_cache.R
+
+      - name: Copy cache to cache branch
+        run: |
+          mkdir -p cache-repo/cache
+
+          cp main-repo/cache/ndfd_superfog_display_cache.rds cache-repo/cache/
+          cp main-repo/cache/ndfd_superfog_extract_cache.rds cache-repo/cache/
+
+          rm -rf cache-repo/cache/sfog_pngs
+          cp -R main-repo/cache/sfog_pngs cache-repo/cache/
+
+      - name: Commit updated cache
+        run: |
+          cd cache-repo
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add cache/ndfd_superfog_display_cache.rds
+          git add cache/ndfd_superfog_extract_cache.rds
+          git add cache/sfog_pngs
+
+          git commit -m "Update NDFD superfog split caches" || echo "No changes to commit"
+          git push origin cache-data
