@@ -81,9 +81,13 @@ classify_superfog_score <- function(temp, rh, wind, sky) {
   n_crit  <- temp_critical + rh_critical + wind_critical + sky_critical
   
   terra::ifel(
-    n_watch < 4,
-    n_watch,
-    4 + n_crit
+    n_watch == 4 & n_crit >= 2,
+    3,
+    terra::ifel(
+      n_watch >= 3,
+      2,
+      1
+    )
   )
 }
 
@@ -143,18 +147,6 @@ sfog_ll <- terra::crop(sfog_ll, r8_outline_v)
 sfog_ll <- terra::mask(sfog_ll, r8_outline_v, touches = TRUE)
 sfog_ll <- terra::round(sfog_ll)
 sfog_ll <- terra::clamp(sfog_ll, lower = 0, upper = 8, values = TRUE)
-
-# Reclassify original score:
-# 1 = Minimal  (0-3)
-# 2 = Moderate (4-6)
-# 3 = High     (7-8)
-sfog_ll <- terra::ifel(
-  sfog_ll <= 3, 1,
-  terra::ifel(
-    sfog_ll <= 6, 2,
-    terra::ifel(sfog_ll <= 8, 3, NA)
-  )
-)
 
 sfog_ll <- terra::round(sfog_ll)
 sfog_ll <- terra::clamp(sfog_ll, lower = 1, upper = 3, values = TRUE)
