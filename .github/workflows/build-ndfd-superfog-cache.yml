@@ -86,4 +86,7 @@ jobs:
           git add cache/sfog_pngs
 
           git commit -m "Update NDFD superfog split caches" || echo "No changes to commit"
+
+          git pull --rebase origin cache-data
+
           git push origin cache-data
