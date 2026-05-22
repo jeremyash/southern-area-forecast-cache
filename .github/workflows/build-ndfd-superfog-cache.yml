@@ -63,6 +63,11 @@ jobs:
           SFOG_PNG_BASE_URL: https://raw.githubusercontent.com/jeremyash/southern-area-forecast-cache/cache-data/cache/sfog_pngs
         run: |
           Rscript scripts/build_ndfd_superfog_cache.R
+          
+      - name: Sync cache branch before copying
+        working-directory: cache-repo
+        run: |
+          git pull --rebase origin cache-data
 
       - name: Copy cache to cache branch
         run: |
@@ -74,10 +79,10 @@ jobs:
           rm -rf cache-repo/cache/sfog_pngs
           cp -R main-repo/cache/sfog_pngs cache-repo/cache/
 
+          
       - name: Commit updated cache
+        working-directory: cache-repo
         run: |
-          cd cache-repo
-
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
@@ -85,8 +90,11 @@ jobs:
           git add cache/ndfd_superfog_extract_cache.rds
           git add cache/sfog_pngs
 
-          git commit -m "Update NDFD superfog split caches" || echo "No changes to commit"
+          if git diff --staged --quiet; then
+            echo "No NDFD cache changes to commit."
+          else
+            git commit -m "Update NDFD superfog split caches"
 
-          git pull --rebase origin cache-data
-
-          git push origin cache-data
+            git pull --rebase origin cache-data
+            git push origin cache-data
+          fi

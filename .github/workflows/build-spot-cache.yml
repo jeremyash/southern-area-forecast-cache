@@ -58,6 +58,11 @@ jobs:
             any::jsonlite
             any::sf
 
+      - name: Sync cache branch before build
+        working-directory: cache-repo
+        run: |
+          git pull --rebase origin cache-data
+
       - name: Run spot cache builder
         working-directory: main-repo
         env:
@@ -100,5 +105,7 @@ jobs:
             echo "No spot cache changes to commit."
           else
             git commit -m "Update spot superfog cache"
+
+            git pull --rebase origin cache-data
             git push origin cache-data
           fi

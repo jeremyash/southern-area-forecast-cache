@@ -55,6 +55,11 @@ jobs:
             any::sf
             any::lubridate
             any::fs
+            
+      - name: Sync cache branch before archive
+        working-directory: cache-repo
+        run: |
+          git pull --rebase origin cache-data
 
       - name: Build text archive
         working-directory: main-repo
@@ -70,7 +75,8 @@ jobs:
           echo "Contents of text-archive:"
           find text-archive -type f | head -50 || true
 
-      - name: Commit archived text files
+          
+      - name: Commit updated cache
         working-directory: cache-repo
         run: |
           git config user.name "github-actions[bot]"
@@ -82,5 +88,7 @@ jobs:
             echo "No archived text changes to commit."
           else
             git commit -m "Archive spot forecast text files"
+
+            git pull --rebase origin cache-data
             git push origin cache-data
           fi
