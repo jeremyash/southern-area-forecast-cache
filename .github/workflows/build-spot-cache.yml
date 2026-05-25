@@ -107,5 +107,13 @@ jobs:
             git commit -m "Update spot superfog cache"
 
             git pull --rebase origin cache-data
-            git push origin HEAD:cache-data
+
+            for i in 1 2 3; do
+              git push origin HEAD:cache-data && break
+
+              echo "Push failed. Retrying in $((i * 10)) seconds..."
+              sleep $((i * 10))
+
+              git pull --rebase origin cache-data
+            done
           fi
