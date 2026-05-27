@@ -1,0 +1,137 @@
+
+000
+FNUS72 KCHS 261847
+FWSCHS
+
+Spot Forecast for FMF C73 planning...usfs
+National Weather Service Charleston SC
+247 PM EDT Tue May 26 2026
+
+Forecast is based on ignition time of 1000 EDT on May 27. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+At the burn site: Persistent light S to SW winds expected tonight, becoming 
+breezy Wednesday, with fog unlikely and moderate to good dispersion 
+early Wednesday morning. The sea-breeze will likely be poorly defined 
+Wednesday given the persistently S/SW winds. Mainly dry conditions at 
+the burn site Wednesday morning, storms most likely initiating very near 
+or over the burn site midday.
+
+Lighter winds and less ventilation expected Wednesday night into Thursday 
+morning, with the threat for fog remaining low.
+
+Big Picture: Warm and moist air mass will remain across the region through
+much of this week. This environment will support rounds of
+showers and thunderstorms, primarily during the afternoon and
+evening hours along the sea breeze. A cold front could push into
+the area Friday morning, remaining generally stationary through
+the weekend, continuing high-end rain chances.
+
+.DISCUSSION...
+A warm and moist air mass will remain across the region through
+much of this week. This environment will support rounds of
+showers and thunderstorms, primarily during the afternoon and
+evening hours along the sea breeze. A cold front could push into
+the area Friday morning, remaining generally stationary through
+the weekend, continuing high-end rain chances.
+
+
+.WEDNESDAY...
+
+Sky/weather.........Partly sunny. Slight chance of showers and 
+                    thunderstorms late in the morning, then showers 
+                    likely and chance of thunderstorms in the 
+                    afternoon. 
+Chance of pcpn......60 percent. 
+Max temperature.....Around 90. 
+Min humidity........63 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms late in the morning. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    late in the afternoon. 
+Mixing Height.......Max 3900 ft AGL. 
+Transport winds.....Southwest 12 to 16 mph. 
+Max ADI.............61. 
+Inversion End.......0900
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........66  54  51  55  71  72  67  65  
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........    SCH SCH SCH CHC CHC CHC CHC 
+Chc of pcpn (%).20  20  30  30  60  60  30  40  
+Temp............83  84  86  87  87  87  88  86  
+RH..............77  74  70  68  65  65  63  68  
+20 FT wind dir..SW  SW  SW  SW  SW  W   SW  S   
+20 FT wind spd..4   4   4   4   4   4   3   3   
+20 FT wind gust.11  13  13  13  13  13  11  11  
+Mix hgt (kft)...2.8 3.3 3.6 3.7 3.9 3.4 3.2 2.4 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.16  16  14  14  14  12  12  12  
+LVORI...........3   3   3   1   1   1   1   3   
+ADI.............49  54  53  61  59  52  47  35  
+
+.WEDNESDAY NIGHT...
+
+Sky/weather.........Mostly cloudy. Slight chance of showers and 
+                    thunderstorms late in the evening. 
+Chance of pcpn......20 percent. 
+Min temperature.....Around 70. 
+Max humidity........90 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms late in the evening. 
+Max LVORI...........7. 
+Min ADI.............1. 
+Inversion Begin.....2000
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........70        74        68        60        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).10        10        0         0         
+Temp............85        80        77        75        
+RH..............70        77        82        84        
+20 FT wind......SW 3G11   S 2G11    SW 2G11   SW 2G11   
+Mix hgt (ft)....2200      600       500       500       
+Transport wind..SW 8      SW 2      SW 2      SW 2      
+LVORI...........4         4         6         6         
+ADI.............1         1         1         1         
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny then becoming mostly cloudy. 
+                    Showers likely and chance of thunderstorms late 
+                    in the afternoon. 
+Chance of pcpn......60 percent. 
+Max temperature.....Around 93. 
+Min humidity........54 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms late in the afternoon. 
+Mixing Height.......Max 6300 ft AGL. 
+Transport winds.....Light winds becoming west 12 to 14 mph in the 
+                    late morning and afternoon. 
+Max ADI.............95. 
+Inversion End.......0900
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........39        21        46        73        
+Weather type....NONE      NONE      NONE      RNSHWR    
+Tstm cov........                              CHANCE    
+Chc of pcpn (%).0         10        10        60        
+Temp............72        77        88        91        
+RH..............87        87        61        54        
+20 FT wind......SW 2G9    W 3G11    W 4G13    W 3G11    
+Mix hgt (ft)....500       1800      4500      5200      
+Transport wind..SW 2      W 12      W 14      W 12      
+LVORI...........6         4         1         1         
+ADI.............2         26        73        82        
+
+$$
+Forecaster...Barnes
+Requested by...kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2614465.0/CHS
+.DELDT 05/26/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+
