@@ -1,0 +1,98 @@
+
+000
+FNUS72 KRAH 030909
+FWSRAH
+
+Spot Forecast for Pleasant Grove Pasronage...USFS
+National Weather Service Raleigh NC
+509 AM EDT Wed Jun 3 2026
+
+Forecast is based on ignition time of 0900 EDT on June 03. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact this NWS office if you have questions or
+concerns with this forecast.
+
+.DISCUSSION...
+High pressure will extend into the region through Thursday with cool 
+and dry conditions.  Hot and dry weather is expected later this week 
+as high pressure moves offshore. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Near 85. 
+Min humidity........25 percent. 
+Wind (20 ft)........North winds 5 to 10 mph 
+Mixing height.......8800 ft AGL. 
+Transport winds.....North 10 to 14 mph. 
+LVORI...............2. 
+ADI.................26 early in the morning increasing to 133 in 
+                    the afternoon. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10. 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   1   2   1   2   4   1   2   11  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............61  67  71  75  77  80  81  81  81  
+RH..............62  47  38  32  29  26  26  25  26  
+20 FT wind dir..N   N   N   NE  NE  NE  NE  NE  NE  
+20 FT wind spd..5   5   7   6   6   6   6   6   6   
+20 FT wind gust.9   13  14  14  15  15  15  15  14  
+Mix hgt (kft)...1.5 4.2 6.2 7.3 7.9 8.4 8.7 8.8 8.8 
+Transp wind dir.N   N   N   N   N   N   N   N   N   
+Transp wind spd.10  12  12  13  13  13  14  14  13  
+LVORI...........2   2   1   1   1   1   1   1   1   
+ADI.............26  26  104 104 104 133 133 133 86  
+Visibility (sm).10  10  10  10  10  10  10  10  10  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 53. 
+Max humidity........77 percent. 
+Wind (20 ft)........Light NE winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Northeast 5 to 12 mph shifting to the east 
+                    around 5 mph overnight, then shifting to the 
+                    north 3 to 5 mph after 3 am. 
+LVORI...............3. 
+ADI.................86 early in the evening decreasing to 2 late in 
+                    the night. 
+Pcpn amount.........0.00 inches. 
+Visibility..........10 decreasing to 7 overnight. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........4   2   2   1   2   2   2   2   3   2   3   4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............79  77  73  68  65  63  61  60  58  57  56  55  
+RH..............28  32  41  49  54  58  62  64  69  72  74  77  
+20 FT wind dir..NE  NE  N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..3   1   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.9   6   3   2   2   2   1   1           1   1   
+Mix hgt (kft)...8.2 3.3 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.N   NE  NE  NE  E   E   NE  E   E   E   N   N   
+Transp wind spd.12  8   6   6   6   6   5   5   5   5   5   3   
+LVORI...........1   1   2   2   2   3   3   3   3   3   3   4   
+ADI.............86  86  3   3   3   2   2   2   2   2   2   2   
+Visibility (sm).10  10  10  10  10  10  10  10  7   7   7   7   
+
+$$
+Forecaster...BADGETT
+Requested by...Bart Cagle
+Type of request...PRESCRIBED
+.TAG 2614839.0/RAH
+.DELDT 06/03/26
+.FormatterVersion 2.0.0
+.EMAIL andrew.cagle@usda.gov
+
