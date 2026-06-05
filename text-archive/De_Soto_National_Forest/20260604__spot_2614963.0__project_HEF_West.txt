@@ -1,0 +1,163 @@
+
+000
+FNUS74 KLIX 041449
+FWSLIX
+
+Spot Forecast for HEF West...usfs
+National Weather Service New Orleans LA
+949 AM CDT Thu Jun 4 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+Should be much drier today compared to the last few days.
+However, that doesn't mean there won't be any rain. Still
+anticipating showers along the southeast LA coast and scattered
+showers over the River Parishes. Min RH values today will range
+from near 80% over much of the River Parishes and near 50% across
+portions of southwest Ms and coastal MS. Winds at the surface
+will begin rather light but as we heat up easterly winds of
+12-14 knots inland and 14 to 17 knots along the immediate coast
+with gusts over 20 kts are expected. Even with the breeze winds
+fire weather concerns will be minimal given the recent and
+additional rain the next few days. There is the possibility of
+locally heavy rain Friday through Saturday as a slug of moisture
+begins to push inland associated with a weak tropical wave Friday
+and Saturday.
+
+
+.FRIDAY...
+
+Sky/weather.........Partly sunny (55-65 percent). Chance of showers 
+                    late in the morning. Chance of thunderstorms 
+                    through the day. Showers in the afternoon. 
+Chance of pcpn......80 percent. 
+Max temperature.....Around 84. 
+Min humidity........65 percent. 
+Dewpoint............69. 
+Max apparent temp...87. 
+Wind (20 ft)........East winds 10 to 14 mph with gusts to around 26 
+                    mph. Gusty and erratic winds expected near 
+                    thunderstorms. 
+Mixing height (m)...732-1128 meters AGL. 
+Transport winds.....East 16 to 22 mph. 
+Transport winds m/s.Southeast 7 to 10 meters/second. 
+LVORI...............3. 
+Rainfall amount.....0.26 inches. 
+
+TIME (CDT)      10 AM  NOON   2 PM   4 PM   
+Sky (%).........56     60     48     71     
+Weather cov.....CHANCE CHANCE LIKELY DEFNTE 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........CHANCE CHANCE CHANCE CHANCE 
+Chc of pcpn (%).30     30     60     80     
+Temp............80     81     82     82     
+Dewpoint........68     70     70     70     
+RH..............67     69     67     67     
+Aparnt tmp (F)..83     85     86     86     
+20 FT wind dir..E      E      E      ESE    
+20 FT wind spd..13     15     13     13     
+20 FT wind gust.21     25     23     26     
+Mix hgt (m).....940    1100   1070   1100   
+Transp wind dir.ESE    ESE    ESE    ESE    
+Transp wind spd.17     20     22     18     
+Trans wind dir..ESE    ESE    ESE    ESE    
+Trans spd (m/s).8      9      10     8      
+LVORI...........1      4      1      4      
+
+.FRIDAY NIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent) then becoming 
+                    mostly cloudy (60-70 percent). Showers in the 
+                    evening. Chance of thunderstorms through the 
+                    night. Showers likely overnight. 
+Chance of pcpn......80 percent. 
+Min temperature.....Around 72. 
+Max humidity........87 percent. 
+Dewpoint............69. 
+Max apparent temp...85. 
+Wind (20 ft)........Southeast winds 6 to 13 mph. Gusty and erratic 
+                    winds expected near thunderstorms early in the 
+                    evening. Gusty and erratic winds expected near 
+                    thunderstorms in the late evening and 
+                    overnight. 
+Mixing height (m)...122-732 meters AGL. 
+Transport winds.....Southeast 8 to 15 mph. 
+Transport winds m/s.Southeast 4 to 7 meters/second. 
+LVORI...............5. 
+Rainfall amount.....0.22 inches. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........38     22     68     66     64     62     
+Weather cov.....DEFNTE CHANCE CHANCE CHANCE LIKELY LIKELY 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........CHANCE CHANCE S CHC  S CHC  CHANCE CHANCE 
+Chc of pcpn (%).80     40     40     40     70     70     
+Temp............81     78     75     75     75     74     
+Dewpoint........70     69     70     70     70     70     
+RH..............69     74     84     84     84     87     
+Aparnt tmp (F)..85     78     75     75     75     74     
+20 FT wind dir..ESE    ESE    ESE    SE     SE     SE     
+20 FT wind spd..14     13     10     8      7      7      
+20 FT wind gust.24     23     18     16     15     15     
+Mix hgt (m).....550    300    180    150    150    150    
+Transp wind dir.ESE    ESE    ESE    SE     SE     SE     
+Transp wind spd.15     13     10     9      9      8      
+Trans wind dir..ESE    ESE    ESE    SE     SE     SE     
+Trans spd (m/s).7      6      4      4      4      4      
+LVORI...........3      3      4      4      5      6      
+
+.SATURDAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent). Chance of 
+                    thunderstorms in the morning. Showers through 
+                    the day. Thunderstorms likely in the afternoon. 
+Chance of pcpn......90 percent. 
+Max temperature.....Around 82. 
+Min humidity........77 percent. 
+Dewpoint............72. 
+Max apparent temp...86. 
+Wind (20 ft)........Southeast winds 6 to 10 mph. Gusty and erratic 
+                    winds expected near thunderstorms in the 
+                    morning. Gusty and erratic winds expected near 
+                    thunderstorms in the afternoon. 
+Mixing height (m)...122-762 meters AGL. 
+Transport winds.....Southeast 7 to 13 mph. 
+Transport winds m/s.Southeast 3 to 6 meters/second. 
+LVORI...............5. 
+Rainfall amount.....0.86 inches. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........63     69     82     83     81     78     
+Weather cov.....LIKELY DEFNTE DEFNTE DEFNTE DEFNTE DEFNTE 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........CHANCE CHANCE CHANCE CHANCE LIKELY CHANCE 
+Chc of pcpn (%).70     90     90     90     90     90     
+Temp............74     75     79     80     81     81     
+Dewpoint........71     72     73     74     74     73     
+RH..............90     90     82     82     79     77     
+Aparnt tmp (F)..74     75     79     85     86     86     
+20 FT wind dir..ESE    ESE    SE     SSE    SSE    SSE    
+20 FT wind spd..7      7      8      10     12     12     
+20 FT wind gust.14     14     16     20     22     22     
+Mix hgt (m).....120    240    520    730    760    670    
+Transp wind dir.SE     SE     SSE    SSE    SSE    SSE    
+Transp wind spd.7      7      9      12     13     13     
+Trans wind dir..SE     SE     SSE    SSE    SSE    SSE    
+Trans spd (m/s).3      3      4      5      6      6      
+LVORI...........6      5      4      3      6      4      
+
+$$
+Forecaster...FRYE
+Requested by...Jody Rogers
+Type of request...PRESCRIBED
+.TAG 2614963.0/LIX
+.DELDT 06/04/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.rogers@usda.gov
+

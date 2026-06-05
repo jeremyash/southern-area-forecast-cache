@@ -1,0 +1,122 @@
+
+000
+FNUS72 KCAE 041031
+FWSCAE
+
+Spot Forecast for SRS CPT 29 Rx...USFS-Savannah River
+National Weather Service Columbia SC
+631 AM EDT Thu Jun 4 2026
+
+Forecast is based on ignition time of 0700 EDT on June 04. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...High pressure across the region will help to keep skies
+mostly clear, winds on the lighter side, and dry conditions at the
+burn site.  Winds will start off north/northeast, then turn more out
+of the northeast by the afternoon.  Speeds will be light in the 
+morning, then increase to around 5 knots from late morning and 
+through the afternoon hours.  With the dry airmass, MinRH readings
+will fall down to around 35 percent.  Do not anticipate any kind
+of widespread fog tonight, but may see some patchy shallow ground
+fog along and near bodies of water and streams late tonight and 
+into Friday morning.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 84. 
+Min humidity........34 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6800 ft AGL. 
+Transport winds.....North 6 to 8 mph shifting to the northeast in 
+                    the afternoon. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   1   0   1   1   1   1   1   0   1   1   
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+Temp............55  60  64  72  76  79  80  82  83  84  84  
+RH..............83  78  73  55  48  42  41  37  36  34  34  
+20 FT wind dir..NW  N   N   N   N   N   NE  NE  NE  NE  NE  
+20 FT wind dir..330 340 340 350 000 020 030 040 050 060 060 
+20 FT wind spd..1   1   1   1   2   3   3   3   2   2   1   
+20 FT wind gust.5   6   5   6   7   7   8   8   7   6   6   
+Mix hgt (kft)...0.4 0.4 1.0 2.2 3.8 5.0 5.8 6.4 6.5 6.8 6.4 
+Transp wind dir.NW  NW  N   N   N   NE  NE  NE  NE  NE  NE  
+Transp wind dir.330 330 340 000 010 030 030 040 050 050 050 
+Transp wind spd.6   6   7   7   8   8   7   7   7   6   6   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-5 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 59. 
+Max humidity........84 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....East 3 to 6 mph shifting to the south 7 to 9 
+                    mph in the late evening and overnight, then 
+                    shifting to the southwest around 7 mph early in 
+                    the morning. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........0   0   0   0   1   0   0   2   3   2   2   0   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............83  82  78  73  70  68  66  64  63  61  60  59  
+RH..............37  41  54  59  63  65  68  73  75  78  81  83  
+20 FT wind dir..E   N   N   N   N   S   S   N   N   N   N   N   
+20 FT wind dir..070 000 000 000 000 160 180 000 000 000 000 000 
+20 FT wind spd..1   0   0   0   0   2   1   0   0   0   0   0   
+20 FT wind gust.5   5   3   3   6   8   7   5   5   5   3   3   
+Mix hgt (kft)...5.7 3.5 0.4 0.4 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.3 
+Transp wind dir.E   E   E   SE  S   S   S   S   S   SW  SW  SW  
+Transp wind dir.070 070 070 120 170 180 190 190 200 220 230 240 
+Transp wind spd.6   6   3   5   7   9   8   9   8   8   8   7   
+
+.FRIDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 87. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6500 ft AGL. 
+Transport winds.....West 6 to 7 mph shifting to the northwest 
+                    around 5 mph late in the morning, then shifting 
+                    to the southwest early in the afternoon 
+                    shifting to the south 5 to 7 mph in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   3   3   1   6   3   2   4   2   1   1   13  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............59  60  63  67  74  78  81  83  84  86  86  86  
+RH..............83  84  81  73  59  52  46  41  40  37  37  37  
+20 FT wind dir..N   N   N   N   N   W   W   S   SE  S   S   S   
+20 FT wind dir..000 000 000 000 000 280 270 180 150 160 160 170 
+20 FT wind spd..0   0   0   0   0   1   1   1   1   1   1   1   
+20 FT wind gust.5   5   5   5   5   5   5   5   5   5   5   6   
+Mix hgt (kft)...0.3 0.3 0.4 1.3 2.1 3.6 5.1 5.8 6.1 6.3 6.5 6.5 
+Transp wind dir.W   W   W   W   W   NW  SW  SE  S   S   S   S   
+Transp wind dir.250 280 280 290 290 310 230 150 160 170 170 190 
+Transp wind spd.7   7   7   7   6   5   5   5   5   7   7   6   
+
+$$
+Forecaster...Liscinsky
+Requested by...Kevin Pope
+Type of request...PRESCRIBED
+.TAG 2614949.0/CAE
+.DELDT 06/04/26
+.FormatterVersion 2.0.0
+.EMAIL kevin.pope@usda.gov
+
