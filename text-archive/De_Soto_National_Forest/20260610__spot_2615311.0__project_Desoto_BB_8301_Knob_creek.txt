@@ -1,0 +1,147 @@
+
+000
+FNUS74 KMOB 101945
+FWSMOB
+
+Spot Forecast for Desoto BB 8301 Knob creek...usfs
+National Weather Service Mobile AL
+245 PM CDT Wed Jun 10 2026
+
+Forecast is based on ignition time of 0800 CDT on June 11. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...Generally dry conditions are expected through Friday. 
+Afternoon relative humidity remains above critical levels. Transport 
+winds will be southerly to southeasterly on Thursday and turn westerly 
+to southwesterly by Friday. Dispersion will be generally good both days.
+
+Fog potential and other remarks...Patchy fog is possible in the pre-dawn 
+hours at the burn site, however, the chance for dense fog is low.
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (20-30 percent). 
+Chance of pcpn......10 percent. 
+Max temperature.....Around 93. 
+Min humidity........49 percent. 
+Wind (20 ft)........Light winds becoming south 5 to 6 mph late in 
+                    the afternoon. 
+Mixing height.......4800 ft AGL. 
+Mixing height (m)...244-1463 meters AGL. 
+Transport winds.....South 5 to 8 mph. 
+Transport winds m/s.South 2 to 4 meters/second. 
+Dispersion index....9 increasing to 45. 
+LVORI...............4. 
+Stability class.....2. 
+
+TIME (CDT)      8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........33     25     11     24     40     
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+Chc of pcpn (%).0      0      0      10     10     
+Temp............75     84     89     92     93     
+RH..............90     67     54     49     49     
+20 FT wind dir..N      S      SSE    SSE    S      
+20 FT wind spd..0      2      5      5      7      
+20 FT wind gust.2      6      9      12     13     
+Mix hgt (ft)....800    2600   4100   4800   4300   
+Mix hgt (m).....240    790    1250   1460   1310   
+Transp wind dir.S      SSE    S      S      S      
+Transp wind spd.5      7      8      8      8      
+Trans spd (m/s).2      3      4      4      4      
+Dispersion idx..5      23     41     46     43     
+LVORI...........6      3      1      1      1      
+
+.THURSDAY NIGHT...
+
+Sky/weather.........Clear (0-10 percent) then becoming partly 
+                    cloudy (30-40 percent) then becoming mostly 
+                    cloudy (55-65 percent) then becoming partly 
+                    cloudy (35-45 percent). Patchy fog after 3 am. 
+Chance of pcpn......10 percent. 
+Min temperature.....Around 72. 
+Max humidity........97 percent. 
+Wind (20 ft)........South winds 5 to 7 mph early in the evening 
+                    becoming light. 
+Mixing height.......400 ft AGL. 
+Mixing height (m)...122-1311 meters AGL. 
+Transport winds.....South 7 to 10 mph shifting to the west early in 
+                    the morning. 
+Transport winds m/s.South 3 to 4 meters/second shifting to the west 
+                    around 2 meters/second early in the morning. 
+Dispersion index....52 decreasing to 4. 
+LVORI...............4. 
+Stability class.....4. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      0      0      30     37     32     
+Weather cov.....                                   PATCHY 
+Weather type....NONE   NONE   NONE   NONE   NONE   FOG    
+Tstm cov........                                          
+Chc of pcpn (%).10     0      0      0      0      0      
+Temp............91     81     77     75     74     73     
+RH..............50     69     82     90     90     93     
+20 FT wind dir..S      S      S      S      SSW    N      
+20 FT wind spd..8      6      5      2      1      0      
+20 FT wind gust.15     13     12     8      6      3      
+Mix hgt (ft)....4300   500    500    500    400    400    
+Mix hgt (m).....1310   150    150    150    120    120    
+Transp wind dir.S      S      S      S      SSW    WSW    
+Transp wind spd.10     10     10     9      7      7      
+Trans spd (m/s).4      4      4      4      3      3      
+Dispersion idx..52     5      5      4      3      3      
+LVORI...........1      3      4      6      6      6      
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent). Patchy fog early 
+                    in the morning. Slight chance of showers and 
+                    thunderstorms in the afternoon. 
+Chance of pcpn......20 percent. 
+Max temperature.....Around 95. 
+Min humidity........48 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms in the afternoon. 
+Mixing height.......5300 ft AGL. 
+Mixing height (m)...122-1615 meters AGL. 
+Transport winds.....West 5 to 7 mph shifting to the southwest 7 to 
+                    9 mph late in the afternoon. 
+Transport winds m/s.Southwest 2 to 4 meters/second shifting to the 
+                    west around 3 meters/second in the late morning 
+                    and early afternoon, then shifting to the 
+                    southwest 3 to 4 meters/second late in the 
+                    afternoon. 
+Dispersion index....5 increasing to 39. 
+LVORI...............5. 
+Stability class.....2. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........50     61     27     31     30     24     
+Weather cov.....PATCHY                      S CHC  S CHC  
+Weather type....FOG    NONE   NONE   NONE   RNSHWR RNSHWR 
+Tstm cov........                            S CHC  S CHC  
+Chc of pcpn (%).0      0      0      0      20     20     
+Temp............72     77     86     91     94     94     
+RH..............97     90     68     54     48     48     
+20 FT wind dir..N      N      WNW    W      WSW    S      
+20 FT wind spd..0      0      1      1      2      3      
+20 FT wind gust.3      2      5      5      6      8      
+Mix hgt (ft)....400    1300   3100   4800   5200   3900   
+Mix hgt (m).....120    400    940    1460   1580   1190   
+Transp wind dir.WNW    WSW    WNW    W      WSW    SSW    
+Transp wind spd.5      5      7      6      6      8      
+Trans spd (m/s).2      2      3      3      3      4      
+Dispersion idx..2      8      26     34     38     37     
+LVORI...........8      5      3      1      1      1      
+
+$$
+Forecaster...7
+Requested by...Jody Rogers
+Type of request...PRESCRIBED
+.TAG 2615311.0/MOB
+.DELDT 06/10/26
+.FormatterVersion 2.0.0
+.EMAIL joseph.rogers@usda.gov
+
