@@ -1,0 +1,108 @@
+
+000
+FNUS72 KJAX 181846
+FWSJAX
+
+Spot Forecast for Penner Pond...USFS
+National Weather Service Jacksonville FL
+246 PM EDT Thu Jun 18 2026
+
+Forecast is based on ignition time of 1536 EDT on June 18. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (904) 741-4370 if you have questions
+or concerns with this forecast.
+
+...HEAT ADVISORY IN EFFECT UNTIL 7 PM EDT THIS EVENING...
+...HIGH DAYTIME DISPERSION VALUES ON FRIDAY...
+
+.DISCUSSION...
+
+Widely scattered showers and thunderstorms are expected to develop 
+near the burn site this afternoon and evening, with activity 
+expected to decrease before midnight tonight. Otherwise, 
+southwesterly surface and transport winds will slowly increase
+after midnight through the early morning hours on Friday, which
+will limit chances for fog formation. Breezy west-southwesterly 
+transport winds are expected by the mid to late morning hours 
+on Friday, which will create high daytime dispersion values
+at the burn site. Scattered showers and thunderstorms are
+expected to develop on Friday afternoon and evening, with
+isolated activity potentially continuing through the overnight
+hours. West-southwesterly surface and transport speeds will 
+gradually diminish on Friday night, but abundant cloud cover
+will likely preclude significant fog formation during the 
+predawn and early morning hours on Saturday. Numerous mainly
+afternoon and evening showers and thunderstorms are forecast on
+Saturday. 
+
+.REST OF TODAY...
+TIME (EDT)      3PM 4PM 5PM 
+Sky (%).........59  63  67  
+Weather cov.....CHC CHC CHC 
+Weather type....RW  RW  RW  
+Tstm cov........SCH SCH SCH 
+Chc of pcpn (%).30  40  40  
+Chc of thdr (%).30  40  40  
+Temp............97  95  94  
+RH..............45  45  50  
+Heat index (F)..107 105 103 
+20 FT wind dir..SW  SW  SW  
+20 FT wind spd..13  13  12  
+20 FT wind gust.20  20  17  
+Mix hgt (kft)...5.1 4.0 3.1 
+Transp wind dir.SW  SW  SW  
+Transp wind spd.14  14  14  
+Dispersion idx..70  60  50  
+LVORI...........1   1   1   
+
+.TONIGHT...
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........64  61  59  60  62  63  59  55  50  49  47  46  
+Weather cov.....CHC CHC CHC SCH SCH                             
+Weather type....RW  RW  RW  RW  RW                              
+Tstm cov........SCH SCH SCH SCH SCH                             
+Chc of pcpn (%).40  30  30  20  20  10  10  10  0   0   0   0   
+Chc of thdr (%).40  30  30  20  20  10  10  10  0   0   0   0   
+Temp............93  90  87  84  82  81  79  78  78  77  77  77  
+RH..............50  55  60  70  75  82  88  88  88  90  90  90  
+Heat index (F)..102 98  94  91  88  87  79  78  78  77  77  77  
+20 FT wind dir..SW  SW  W   SW  SW  S   S   S   S   S   SW  SW  
+20 FT wind spd..12  10  10  9   8   8   7   8   8   8   8   9   
+20 FT wind gust.17  16  16  14  13  13  10  13  13  13  13  14  
+Mix hgt (kft)...2.1 1.3 0.8 0.5 0.5 0.6 0.5 0.6 0.6 0.5 0.4 0.5 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  S   S   SW  SW  SW  
+Transp wind spd.13  13  12  10  9   9   9   10  10  10  10  10  
+Dispersion idx..40  25  10  8   7   6   7   7   8   8   8   8   
+LVORI...........1   2   3   3   4   4   5   5   5   5   6   5   
+
+.JUNETEENTH...
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........50  54  59  57  55  71  52  54  74  66  70  68  
+Weather cov.....                SCH             SCH CHC CHC CHC 
+Weather type....                RW              RW  RW  RW  RW  
+Tstm cov........                                SCH CHC CHC CHC 
+Chc of pcpn (%).0   0   10  10  20  10  10  10  20  40  40  40  
+Chc of thdr (%).0   0   10  10  10  10  10  10  20  40  40  40  
+Temp............77  77  80  82  85  87  89  90  90  91  91  90  
+RH..............94  94  88  82  77  72  68  66  64  62  60  62  
+Heat index (F)..77  77  86  89  96  99  102 103 102 103 102 101 
+20 FT wind dir..SW  SW  SW  SW  SW  SW  SW  W   W   W   W   W   
+20 FT wind spd..9   9   10  10  9   9   10  10  9   10  9   9   
+20 FT wind gust.14  14  16  16  21  21  21  22  22  21  21  21  
+Mix hgt (kft)...0.7 1.1 1.6 2.4 3.2 3.8 4.3 4.5 4.5 4.2 3.7 3.0 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  W   W   W   W   W   
+Transp wind spd.12  13  15  17  18  20  20  20  18  18  17  17  
+Dispersion idx..9   10  31  50  73  87  96  99  78  73  66  61  
+LVORI...........6   6   4   4   3   3   1   1   1   1   1   1   
+
+$$
+Forecaster...Nelson
+Requested by...J Ramsay
+Type of request...PRESCRIBED
+.TAG 2615726.1/JAX
+.DELDT 06/18/26
+.FormatterVersion 2.0.0
+.EMAIL John.ramsay@usda.gov
+
