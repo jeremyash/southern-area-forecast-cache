@@ -35,20 +35,32 @@ files <- c(
 
 dir.create("ndfd_region8", showWarnings = FALSE)
 
-download_ndfd <- function(file) {
-  out <- file.path(
-    "ndfd_region8",
-    paste0("AR.conus_", sub("\\.bin$", ".grib2", file))
-  )
+download_ndfd <- function(url, destfile, tries = 3, timeout_sec = 180) {
+  for (i in seq_len(tries)) {
+    message("Download attempt ", i, " of ", tries, ": ", url)
+    
+    ok <- tryCatch({
+      download.file(
+        url = url,
+        destfile = destfile,
+        mode = "wb",
+        quiet = FALSE,
+        timeout = timeout_sec
+      )
+      TRUE
+    }, error = function(e) {
+      message("Download failed: ", e$message)
+      FALSE
+    })
+    
+    if (ok && file.exists(destfile) && file.info(destfile)$size > 0) {
+      return(destfile)
+    }
+    
+    Sys.sleep(10 * i)
+  }
   
-  download.file(
-    url = paste(base_url, "AR.conus", "VP.001-003", file, sep = "/"),
-    destfile = out,
-    mode = "wb",
-    quiet = FALSE
-  )
-  
-  out
+  stop("Failed to download after ", tries, " attempts: ", url)
 }
 
 read_variable_conus <- function(file, convert_fun = NULL) {
@@ -122,12 +134,33 @@ r_sky  <- r_sky[[1:n]]
 
 valid_times <- terra::time(r_temp)
 
-if (is.null(valid_times) || all(is.na(valid_times))) {
+if (
+  is.null(valid_times) ||
+  length(valid_times) != n ||
+  all(is.na(valid_times)) ||
+  all(as.numeric(valid_times) == 0, na.rm = TRUE)
+) {
   valid_times <- seq(
-    from = lubridate::floor_date(Sys.time(), "hour"),
+    from = lubridate::floor_date(lubridate::with_tz(Sys.time(), "UTC"), "hour"),
     by = "1 hour",
     length.out = n
   )
+}
+
+valid_times <- lubridate::with_tz(as.POSIXct(valid_times, tz = "UTC"), "UTC")
+
+valid_time_names <- format(
+  valid_times,
+  "%Y%m%d_%H%M",
+  tz = "UTC"
+)
+
+if (
+  any(is.na(valid_time_names)) ||
+  any(valid_time_names == "19700101_0000") ||
+  anyDuplicated(valid_time_names)
+) {
+  valid_time_names <- paste0("forecast_hour_", seq_len(n))
 }
 
 
@@ -151,9 +184,9 @@ sfog_ll <- terra::clamp(sfog_ll, lower = 0, upper = 8, values = TRUE)
 sfog_ll <- terra::round(sfog_ll)
 sfog_ll <- terra::clamp(sfog_ll, lower = 1, upper = 3, values = TRUE)
 
-if (length(valid_times) == terra::nlyr(sfog_ll)) {
-  names(sfog_ll) <- as.character(valid_times)
-} else if (is.null(names(sfog_ll)) || any(names(sfog_ll) == "")) {
+if (length(valid_time_names) == terra::nlyr(sfog_ll)) {
+  names(sfog_ll) <- valid_time_names
+} else {
   names(sfog_ll) <- paste0("forecast_hour_", seq_len(terra::nlyr(sfog_ll)))
 }
 
