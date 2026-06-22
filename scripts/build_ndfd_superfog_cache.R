@@ -35,7 +35,17 @@ files <- c(
 
 dir.create("ndfd_region8", showWarnings = FALSE)
 
-download_ndfd <- function(url, destfile, tries = 3, timeout_sec = 180) {
+download_ndfd <- function(file, tries = 3, timeout_sec = 180) {
+  url <- paste(
+    base_url,
+    "AR.conus",
+    "VP.001-003",
+    file,
+    sep = "/"
+  )
+  
+  destfile <- file.path("ndfd_region8", file)
+  
   for (i in seq_len(tries)) {
     message("Download attempt ", i, " of ", tries, ": ", url)
     
