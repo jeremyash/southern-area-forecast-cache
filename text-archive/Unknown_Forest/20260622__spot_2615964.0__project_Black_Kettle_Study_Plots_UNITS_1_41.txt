@@ -1,0 +1,123 @@
+
+000
+FNUS74 KOUN 221304
+FWSOUN
+
+Spot Forecast for Black Kettle Study Plots UNITS 1 & 41...USFS
+National Weather Service Norman OK
+804 AM CDT Mon Jun 22 2026
+
+Forecast is based on ignition time of 0800 CDT on June 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (405) 325-3816 if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Initial light and variable winds to start the morning should settle
+toward a sustained northeasterly direction by noon at speeds around 
+10 mph. With daytime temperatures in the mid 80s, afternoon humidities
+will only fall to the 60 percent range. There is a chance (30% 
+probability) for renewed thunderstorm development late this afternoon
+and this evening. Any storms that do for in proximity to the burn site
+will be capable of erratic and gusty winds.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny then becoming mostly sunny early 
+                    in the afternoon then becoming partly sunny 
+                    then becoming mostly sunny late in the 
+                    afternoon. Chance of showers and thunderstorms. 
+Max temperature.....Around 84. 
+Min humidity........63 percent. 
+Wind (20 ft)........Northeast winds around 10 mph shifting to the 
+                    southeast late in the afternoon. Gusty and 
+                    erratic winds expected near thunderstorms. 
+Mixing height.......3800 ft AGL. 
+Transport winds.....East 13 to 16 mph. 
+Smoke dispersal.....Poor to good (10600-42100 knot-ft). 
+
+TIME (CDT)      8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........61     57     45     38     51     
+Weather cov.....CHANCE CHANCE CHANCE CHANCE CHANCE 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........CHANCE CHANCE CHANCE CHANCE CHANCE 
+Temp............70     73     76     80     82     
+RH..............93     84     76     67     63     
+20 FT wind dir..NE     NE     E      E      E      
+20 FT wind spd..10     10     10     10     10     
+20 FT wind gust.17     17     17     17     17     
+Mix hgt (ft)....900    1500   2700   3800   3700   
+Transport wind..E 14   E 16   E 13   E 13   E 13   
+VRate ktft/1000.11     22     30     42     41     
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy then becoming mostly cloudy 
+                    overnight. Chance of showers and thunderstorms 
+                    in the evening, then slight chance of showers 
+                    and thunderstorms overnight. 
+Min temperature.....Around 66. 
+Max humidity........100 percent. 
+Wind (20 ft)........Southeast winds 7 to 10 mph. Gusty and erratic 
+                    winds expected near thunderstorms. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Southeast 13 to 16 mph. 
+Smoke dispersal.....Poor to good (6000-37500 knot-ft). 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........43     48     31     40     82     56     
+Weather cov.....CHANCE CHANCE CHANCE CHANCE S CHC  S CHC  
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........CHANCE CHANCE CHANCE CHANCE S CHC  S CHC  
+Temp............82     78     73     71     70     68     
+RH..............65     76     90     97     97     100    
+20 FT wind dir..SE     SE     SE     SE     SE     SE     
+20 FT wind spd..10     9      8      8      7      8      
+20 FT wind gust.17     16     14     14     13     14     
+Mix hgt (ft)....3100   1600   1200   700    900    700    
+Transport wind..SE 14  E 14   SE 15  SE 15  E 14   SE 14  
+VRate ktft/1000.38     19     16     9      11     8      
+
+.TUESDAY...
+
+Sky/weather.........Mostly cloudy then becoming mostly sunny early 
+                    in the afternoon then becoming sunny. Slight 
+                    chance of thunderstorms early in the morning. 
+                    Slight chance of showers in the morning. 
+Max temperature.....Around 92. 
+Min humidity........49 percent. 
+Wind (20 ft)........Southeast winds 7 to 9 mph shifting to the 
+                    south 9 to 12 mph late in the afternoon. Gusty 
+                    and erratic winds expected near thunderstorms 
+                    early in the morning. 
+Mixing height.......6000 ft AGL. 
+Transport winds.....South 10 to 18 mph increasing to 18 to 20 mph 
+                    late in the afternoon. 
+Smoke dispersal.....Poor to excellent (7200-95200 knot-ft). 
+
+TIME (CDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........72        81        74        40        
+Weather cov.....S CHC     S CHC     S CHC               
+Weather type....RNSHWR    RNSHWR    RNSHWR    NONE      
+Tstm cov........S CHC     S CHC                         
+Temp............68        71        80        90        
+RH..............100       93        69        50        
+20 FT wind dir..SE        SE        S         S         
+20 FT wind spd..7         7         8         10        
+20 FT wind gust.13        13        14        17        
+Mix hgt (ft)....700       1700      3000      4900      
+Transport wind..SE 12     S 14      S 17      S 18      
+VRate ktft/1000.7         20        45        79        
+
+$$
+Forecaster...LINDLEY
+Requested by...Matthew Lamb
+Type of request...PRESCRIBED
+.TAG 2615964.0/OUN
+.DELDT 06/22/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.lamb@usda.gov
+
