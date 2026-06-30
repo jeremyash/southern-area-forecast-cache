@@ -1,0 +1,137 @@
+
+000
+FNUS72 KTAE 291956
+FWSTAE
+
+Spot Forecast for Burn Unit 220...USDA Forest Service
+National Weather Service Tallahassee FL
+356 PM EDT Mon Jun 29 2026
+
+Forecast is based on ignition time of 1632 EDT on June 29. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (850) 942-8833, if you have questions
+or concerns with this forecast.
+
+...HEAT ADVISORY IN EFFECT UNTIL 8 PM EDT THIS EVENING...
+
+.DISCUSSION...
+Hot today with the possibility of some thunderstorms moving 
+through later this evening or tonight. A more active day 
+tomorrow with expanded coverage near the burn area. Storms 
+will have the possibility of having fairly strong to severe 
+gusty winds. A lack of storm coverage however will lead to 
+increased heat risk, with another heat advisory already 
+expected for the burn area tomorrow. Good nightly RH recovery 
+is expected, and good dispersion values becoming high on 
+Wednesday.  
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+CWR.................10 percent. 
+Max temperature.....Around 99. 
+Min humidity........44 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6500 ft AGL. 
+Transport winds.....North around 9 mph. 
+LVORI...............1. 
+Dispersion index....67. 
+
+TIME (EDT)      4PM 5PM 
+Sky (%).........14  14  
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+CWR.............10  10  
+Temp............99  97  
+RH..............44  46  
+20 FT wind dir..NW  NW  
+20 FT wind spd..3   3   
+20 FT wind gust.9   10  
+Mix hgt (kft)...6.5 5.8 
+Transp wind dir.N   N   
+Transp wind spd.9   9   
+Dispersion......70  63  
+LVORI...........1   1   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+CWR.................10 percent. 
+Min temperature.....Around 78. 
+Max humidity........88 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....North 5 to 8 mph shifting to the northeast 
+                    around 5 mph late in the evening, then shifting 
+                    to the northwest 5 to 6 mph overnight. 
+LVORI...............3. 
+Dispersion index....43 decreasing to 3. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........8   8   8   11  11  11  22  22  22  21  21  21  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............10  10  10  10  10  10  10  10  10  0   0   0   
+Temp............96  95  92  89  86  85  83  82  81  80  80  79  
+RH..............48  51  58  64  70  72  77  79  79  82  82  85  
+20 FT wind dir..NW  NW  NW  NW  SW  SW  W   W   W   W   NW  NW  
+20 FT wind spd..3   3   2   1   1   1   1   1   1   1   1   2   
+20 FT wind gust.9   9   7   6   6   6   6   7   7   7   7   7   
+Mix hgt (kft)...4.2 2.4 0.8 0.3 0.3 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.N   NW  NW  N   NE  NE  N   NW  W   NW  NW  NW  
+Transp wind spd.8   7   6   6   5   5   5   5   6   6   6   6   
+Dispersion......43  21  3   3   2   2   2   2   2   3   3   3   
+LVORI...........1   2   3   3   3   3   3   4   4   4   5   5   
+
+.TUESDAY...
+
+Sky/weather.........Sunny (15-25 percent) then becoming partly 
+                    sunny (45-55 percent). Slight chance of showers 
+                    and thunderstorms in the morning, then chance 
+                    of showers and thunderstorms early in the 
+                    afternoon. Showers and thunderstorms late in 
+                    the afternoon. 
+CWR.................20 percent increasing to 80 percent. 
+Max temperature.....Around 96. 
+Min humidity........51 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms. 
+Mixing height.......5400 ft AGL. 
+Transport winds.....North 7 to 8 mph shifting to the east around 9 
+                    mph late in the afternoon. 
+LVORI...............3. 
+Dispersion index....7 increasing to 26 late in the morning, then 
+                    increasing to 46 early in the afternoon 
+                    decreasing to 39 late in the afternoon 
+                    decreasing to 27. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........31  31  31  13  13  13  26  26  26  52  52  52  
+Weather cov.....SCH SCH SCH SCH SCH SCH CHC CHC CHC DEF DEF DEF 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........SCH SCH SCH SCH SCH SCH CHC CHC CHC DEF DEF DEF 
+CWR.............20  20  20  20  20  20  50  50  50  80  80  80  
+Temp............79  78  80  85  89  92  95  96  96  96  96  94  
+RH..............85  88  82  75  66  60  55  51  51  51  51  54  
+20 FT wind dir..NW  NW  N   N   N   N   NE  NE  NE  E   E   SE  
+20 FT wind spd..2   2   2   2   3   3   3   3   3   3   3   3   
+20 FT wind gust.7   8   7   7   8   8   8   8   8   8   8   8   
+Mix hgt (kft)...0.3 0.3 0.6 1.2 2.0 3.0 4.0 5.0 5.4 4.8 3.7 2.5 
+Transp wind dir.NW  NW  N   N   N   N   N   NE  NE  E   E   E   
+Transp wind spd.7   7   7   8   8   8   8   8   8   8   9   9   
+Dispersion......3   3   7   11  21  30  41  47  50  44  39  27  
+LVORI...........5   5   4   4   3   3   1   1   1   1   1   2   
+
+$$
+Forecaster...Humphreys
+Requested by...David Quisenberry
+Type of request...PRESCRIBED
+.TAG 2616371.2/TAE
+.DELDT 06/29/26
+.FormatterVersion 2.0.0
+.EMAIL david.quisenberry@usda.gov
+
