@@ -1,4 +1,4 @@
-name: Archive spot forecast text
+name: Archive spot forecasts
 
 on:
   schedule:
@@ -9,11 +9,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: archive-spot-forecast-text
+  group: archive-spot-forecasts
   cancel-in-progress: false
 
 jobs:
-  archive-text:
+  archive-forecasts:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,9 +30,13 @@ jobs:
           ref: cache-data
           path: cache-repo
           fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: "release"
+          use-public-rspm: true
 
       - name: Install system libraries
         run: |
@@ -55,40 +59,75 @@ jobs:
             any::sf
             any::lubridate
             any::fs
-            
+            any::openxlsx
+
       - name: Sync cache branch before archive
         working-directory: cache-repo
         run: |
           git pull --rebase origin cache-data
 
-      - name: Build text archive
+      - name: Build text and spreadsheet archives
         working-directory: main-repo
         env:
           SPOT_CACHE_PATH: ../cache-repo/cache/spot_superfog_cache.rds
           TEXT_ARCHIVE_OUT_DIR: ../cache-repo/text-archive
+          SPREADSHEET_ARCHIVE_OUT_DIR: ../cache-repo/spreadsheet-archive
         run: |
           Rscript scripts/archive_spot_forecast_text.R
 
-      - name: Verify text archive
+      - name: Verify archives
         working-directory: cache-repo
         run: |
-          echo "Contents of text-archive:"
+          echo "Recent text archive files:"
           find text-archive -type f | head -50 || true
 
-          
-      - name: Commit updated cache
+          echo "Spreadsheet archive files:"
+          ls -lh spreadsheet-archive || true
+
+          if [ ! -f spreadsheet-archive/spot_forecast_archive.csv ]; then
+            echo "ERROR: spreadsheet-archive/spot_forecast_archive.csv was not created"
+            exit 1
+          fi
+
+          if [ ! -f spreadsheet-archive/spot_forecast_archive.xlsx ]; then
+            echo "ERROR: spreadsheet-archive/spot_forecast_archive.xlsx was not created"
+            exit 1
+          fi
+
+      - name: Show git status
+        working-directory: cache-repo
+        run: |
+          git status
+          git diff -- text-archive spreadsheet-archive || true
+
+      - name: Commit updated archives
         working-directory: cache-repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add text-archive/
+          git add spreadsheet-archive/
 
           if git diff --staged --quiet; then
-            echo "No archived text changes to commit."
+            echo "No archive changes to commit."
           else
-            git commit -m "Archive spot forecast text files"
+            git commit -m "Archive spot forecasts"
 
             git pull --rebase origin cache-data
-            git push origin cache-data
+
+            for i in 1 2 3; do
+              if git push origin HEAD:cache-data; then
+                exit 0
+              fi
+
+              if [ "$i" -eq 3 ]; then
+                echo "Push failed after 3 attempts."
+                exit 1
+              fi
+
+              echo "Push failed. Retrying in $((i * 10)) seconds..."
+              sleep $((i * 10))
+              git pull --rebase origin cache-data
+            done
           fi
