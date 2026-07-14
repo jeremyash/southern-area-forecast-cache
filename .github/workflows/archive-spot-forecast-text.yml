@@ -66,7 +66,7 @@ jobs:
         run: |
           git pull --rebase origin cache-data
 
-      - name: Build text and spreadsheet archives
+            - name: Build text and spreadsheet archives
         working-directory: main-repo
         env:
           SPOT_CACHE_PATH: ../cache-repo/cache/spot_superfog_cache.rds
@@ -74,6 +74,14 @@ jobs:
           SPREADSHEET_ARCHIVE_OUT_DIR: ../cache-repo/spreadsheet-archive
         run: |
           Rscript scripts/archive_spot_forecast_text.R
+
+      - name: Rebuild historical spreadsheet archive
+        working-directory: main-repo
+        env:
+          TEXT_ARCHIVE_OUT_DIR: ../cache-repo/text-archive
+          SPREADSHEET_ARCHIVE_OUT_DIR: ../cache-repo/spreadsheet-archive
+        run: |
+          Rscript scripts/rebuild_spot_forecast_archive.R
 
       - name: Verify archives
         working-directory: cache-repo
