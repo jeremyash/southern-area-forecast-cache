@@ -75,14 +75,6 @@ jobs:
         run: |
           Rscript scripts/archive_spot_forecast_text.R
 
-      - name: Rebuild historical spreadsheet archive
-        working-directory: main-repo
-        env:
-          TEXT_ARCHIVE_OUT_DIR: ../cache-repo/text-archive
-          SPREADSHEET_ARCHIVE_OUT_DIR: ../cache-repo/spreadsheet-archive
-        run: |
-          Rscript scripts/rebuild_spot_forecast_archive.R
-
       - name: Verify archives
         working-directory: cache-repo
         run: |
