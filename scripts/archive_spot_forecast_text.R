@@ -25,12 +25,12 @@ spreadsheet_archive_dir <- Sys.getenv(
 
 csv_path <- file.path(
   spreadsheet_archive_dir,
-  "spot_forecast_archive_master.csv"
+  "spot_forecast_archive.csv"
 )
 
 xlsx_path <- file.path(
   spreadsheet_archive_dir,
-  "spot_forecast_archive_master.xlsx"
+  "spot_forecast_archive.xlsx"
 )
 
 dir.create(

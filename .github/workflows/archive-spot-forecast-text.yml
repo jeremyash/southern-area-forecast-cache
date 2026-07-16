@@ -106,8 +106,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add text-archive/
-          git add spreadsheet-archive/
+          git add text-archive/ spreadsheet-archive/
 
           if git diff --staged --quiet; then
             echo "No archive changes to commit."
