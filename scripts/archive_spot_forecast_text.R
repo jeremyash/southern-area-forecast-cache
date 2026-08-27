@@ -101,7 +101,7 @@ format_local_time <- function(utc_time, timezone) {
 }
 
 local_issue_date <- function(utc_time, timezone) {
-  purrr::map2(
+  purrr::map2_chr(
     utc_time,
     timezone,
     function(this_time, this_tz) {
@@ -110,13 +110,20 @@ local_issue_date <- function(utc_time, timezone) {
         is.na(this_tz) ||
         !nzchar(this_tz)
       ) {
-        return(as.Date(NA))
+        return(NA_character_)
       }
       
-      as.Date(lubridate::with_tz(this_time, this_tz))
+      as.character(
+        as.Date(
+          lubridate::with_tz(
+            this_time,
+            this_tz
+          )
+        )
+      )
     }
   ) |>
-    as.Date(origin = "1970-01-01")
+    as.Date()
 }
 
 write_archive_xlsx <- function(df, path) {
