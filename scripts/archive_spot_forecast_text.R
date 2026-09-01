@@ -393,7 +393,7 @@ purrr::walk(
 new_archive_rows <- forecast_with_forest |>
   transmute(
     archive_key,
-    issuance_date = as.character(issuance_date_local),
+    issuance_date = issuance_date_local,
     issuance_time_utc = format(
       issuance_time_utc,
       "%Y-%m-%d %H:%M:%S UTC",
