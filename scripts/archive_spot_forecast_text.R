@@ -393,7 +393,7 @@ purrr::walk(
 new_archive_rows <- forecast_with_forest |>
   transmute(
     archive_key,
-    issuance_date = issuance_date_local,
+    issuance_date = as.character(issuance_date_local),
     issuance_time_utc = format(
       issuance_time_utc,
       "%Y-%m-%d %H:%M:%S UTC",
@@ -423,13 +423,19 @@ new_archive_rows <- forecast_with_forest |>
 # ------------------------------------------------------------------
 # Merge with existing master archive
 # ------------------------------------------------------------------
-
 if (file.exists(csv_path)) {
   existing_archive <- readr::read_csv(
     csv_path,
+    col_types = readr::cols(
+      .default = readr::col_character()
+    ),
     show_col_types = FALSE,
     progress = FALSE
-  )
+  ) |>
+    mutate(
+      latitude = as.numeric(latitude),
+      longitude = as.numeric(longitude)
+    )
 } else {
   existing_archive <- tibble()
 }
@@ -439,7 +445,6 @@ master_archive <- bind_rows(
   new_archive_rows
 ) |>
   mutate(
-    issuance_date = as.character(issuance_date),
     latitude = as.numeric(latitude),
     longitude = as.numeric(longitude)
   ) |>
