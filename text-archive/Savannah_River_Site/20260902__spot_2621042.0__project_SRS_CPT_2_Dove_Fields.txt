@@ -1,0 +1,141 @@
+
+000
+FNUS72 KCAE 020730
+FWSCAE
+
+Spot Forecast for SRS CPT 2 Dove Fields...USFS-Savannah River
+National Weather Service Columbia SC
+330 AM EDT Wed Sep 2 2026
+
+Forecast is based on ignition time of 0800 EDT on September 02. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+High pressure will remain in control today with very hot temps and
+heat indices up to 105 this afternoon. Some shallow morning fog is 
+possible but should be quickly lift by ignition time of 8am. Winds
+will be light and variable into mid-morning before strengthening 
+out of the east by late morning to 8-10mph as the inversion mixes 
+out. Winds will then shift out of the southeast through the 
+afternoon with gusts to 10-14 mph. RH's should bottom out around 
+3-4pm at ~40-45% with deep mixing heights expected through 6pm 
+before the nocturnal inversion sets up and winds quickly fall off. 
+Some early morning shallow fog possible again Thursday morning.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (40-50 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 97. 
+Min humidity........42 percent. 
+Wind (20 ft)........Light winds becoming east around 5 mph late in 
+                    the afternoon. 
+Mixing height.......6700 ft AGL. 
+Transport winds.....West around 3 mph shifting to the north late in 
+                    the morning, then shifting to the east in the 
+                    afternoon. 
+LVORI...............5. 
+ADI.................3 early in the morning increasing to 60 in the 
+                    afternoon. 
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........31  27  33  35  29  29  42  59  55  47  
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   
+Temp............75  78  84  88  91  93  94  94  95  94  
+RH..............94  88  74  63  58  52  48  46  45  48  
+Aparnt tmp (F)..75  78  92  97  101 102 102 101 103 101 
+20 FT wind dir..N   N   N   NW  E   E   E   E   E   E   
+20 FT wind dir..000 000 000 330 070 090 100 100 110 110 
+20 FT wind spd..0   0   0   1   2   3   5   5   5   5   
+20 FT wind gust.2   2   3   5   5   7   9   11  11  11  
+Mix hgt (kft)...0.3 1.0 1.5 2.4 4.5 5.9 6.3 6.7 6.6 6.1 
+Transp wind dir.W   W   NW  N   E   E   E   E   E   E   
+Transp wind dir.250 270 320 010 070 080 080 090 090 100 
+Transp wind spd.3   3   3   3   5   6   7   7   7   8   
+LVORI...........8   6   3   3   2   1   1   1   1   1   
+ADI.............3   4   7   11  26  42  53  56  55  60  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent). Patchy fog after 
+                    3 am. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 72. 
+Max humidity........100 percent. 
+Wind (20 ft)........Southeast winds around 5 mph early in the 
+                    evening becoming light. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Southeast 8 to 9 mph shifting to the south 3 to 
+                    9 mph in the late evening and overnight. 
+LVORI...............6. 
+ADI.................51 early in the evening decreasing to 2 late in 
+                    the night. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........32  26  34  25  31  36  23  24  29  19  27  26  
+Weather cov.....                                        PTY PTY 
+Weather type....                                        FOG FOG 
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............93  91  86  83  82  80  78  77  76  75  74  73  
+RH..............47  52  63  72  74  79  85  88  90  94  97  100 
+Aparnt tmp (F)..99  98  92  89  87  84  78  77  76  75  74  73  
+20 FT wind dir..SE  SE  SE  SE  SE  S   S   S   N   N   N   N   
+20 FT wind dir..120 130 140 150 150 160 160 170 000 000 000 000 
+20 FT wind spd..5   3   3   3   3   3   2   1   0   0   0   0   
+20 FT wind gust.9   8   9   11  11  9   7   5   3   3   2   1   
+Mix hgt (kft)...5.1 1.5 0.5 0.5 0.5 0.6 0.6 0.5 0.4 0.4 0.4 0.3 
+Transp wind dir.E   SE  SE  S   S   S    S   S   S   S   S   S   
+Transp wind dir.110 130 140 160 170 170 180 180 180 180 180 160 
+Transp wind spd.8   8   8   9   9   8   8   7   6   6   3   3   
+LVORI...........1   3   3   3   3   4   5   6   6   6   10  10  
+ADI.............51  4   4   4   4   4   4   3   3   3   2   2   
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). Patchy fog early 
+                    in the morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 95. 
+Min humidity........49 percent. 
+Wind (20 ft)........Light winds becoming southeast 5 to 6 mph late 
+                    in the afternoon. 
+Mixing height.......5800 ft AGL. 
+Transport winds.....Southeast 2 to 9 mph. 
+LVORI...............6. 
+ADI.................2 early in the morning increasing to 62 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........31  40  58  47  38  21  20  9   0   0   0   3   
+Weather cov.....PTY PTY PTY                                     
+Weather type....FOG FOG FOG                                     
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............73  72  74  77  82  86  89  92  93  93  94  93  
+RH..............97  100 100 94  79  70  61  56  51  51  49  51  
+Aparnt tmp (F)..73  72  74  77  89  95  98  102 101 101 102 101 
+20 FT wind dir..N   N   N   N   N   SE  SE  SE  E   SE  SE  SE  
+20 FT wind dir..000 000 000 000 000 120 120 120 110 120 120 130 
+20 FT wind spd..0   0   0   0   0   1   2   3   5   5   6   6   
+20 FT wind gust.1   1   2   2   3   5   6   8   9   11  12  12  
+Mix hgt (kft)...0.3 0.3 0.3 1.2 2.1 3.0 4.0 5.0 5.7 5.8 5.1 5.4 
+Transp wind dir.SE  SE  SE  SE  SE  SE  SE  SE  SE  E   SE  SE  
+Transp wind dir.150 140 140 150 140 130 120 120 120 110 120 130 
+Transp wind spd.3   2   3   5   5   5   6   7   7   8   9   9   
+LVORI...........8   10  9   6   4   3   2   1   1   1   1   1   
+ADI.............2   2   3   7   12  18  29  43  48  58  59  62  
+
+$$
+Forecaster...Gropp
+Requested by...Kevin Pope
+Type of request...PRESCRIBED
+.TAG 2621042.0/CAE
+.DELDT 09/02/26
+.FormatterVersion 2.0.0
+.EMAIL kevin.pope@usda.gov
+
