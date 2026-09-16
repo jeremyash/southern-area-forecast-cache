@@ -1,0 +1,123 @@
+
+000
+FNUS74 KLCH 151413
+FWSLCH
+
+Spot Forecast for LUA BU 108/104...USFS
+National Weather Service Lake Charles LA
+913 AM CDT Tue Sep 15 2026
+
+Forecast is based on ignition time of 0700 CDT on September 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (337) 477-5285, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Upper level ridging will maintain light, variable winds and partly cloudy 
+skies today and Wednesday. Patchy fog may develop early Wednesday morning
+as winds calm and skies clear. Any fog that develops will dissipate by 8 AM. 
+Minimum RH values Wednesday afternoon will fall to around 50%. A stray shower
+or thunderstorm cannot be completely ruled out, but probabilities are less than
+20%.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Max temperature.....Around 96. 
+Min humidity........48 percent. 
+Eye level winds.....Light winds. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-1859 meters AGL. 
+Transport winds m/s.South 1 to 3 meters/second shifting to the 
+                    southeast 2 to 3 meters/second late in the 
+                    afternoon. 
+
+TIME (CDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........36  26  37  14  13  10  15  16  19  35  25  
+Weather cov.....PTY                                         
+Weather type....                                         
+Tstm cov........                                            
+Temp............75  77  81  86  89  91  93  94  94  95  94  
+RH..............97  94  85  72  64  58  51  49  49  48  49  
+20 FT wind dir..N   N   N   N   SW  SW  S   S   SE  S   S   
+20 FT wind spd..0   0   0   0   1   1   1   1   1   2   2   
+20 FT wind gust.2   2   2   3   5   5   5   5   5   5   5   
+Eye lvl wnd dir.N   N   N   N   SW  SW  S   S   SE  S   S   
+Eye lvl wnd spd.0   0   0   0   1   1   1   1   1   1   1   
+Eye lvl wnd gst.1   1   1   2   3   3   3   3   3   3   3   
+Mix hgt (km)....0.1 0.1 0.4 0.6 1.0 1.4 1.8 1.9 1.8 1.4 1.3 
+Trans wind dir..SW  SW  SW  SW  S   S   S   S   SE  SE  SE  
+Trans spd (m/s).2   1   2   3   2   3   2   2   2   2   3   
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent). Patchy fog after 
+                    3 am. 
+Min temperature.....Around 75. 
+Max humidity........97 percent. 
+Eye level winds.....Light winds. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-945 meters AGL. 
+Transport winds m/s.South 3 to 4 meters/second shifting to the 
+                    southwest 1 to 2 meters/second after 3 am. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........34  38  54  24  16  16  13  17  15  20  29  20  
+Weather cov.....                                        PTY     
+Weather type....                                        FOG     
+Tstm cov........                                                
+Temp............92  90  84  82  81  80  79  78  78  77  76  76  
+RH..............54  58  72  77  79  82  85  88  88  94  97  94  
+20 FT wind dir..SE  SE  SE  SE  S   N   N   N   N   N   N   N   
+20 FT wind spd..1   1   1   1   1   0   0   0   0   0   0   0   
+20 FT wind gust.6   6   5   5   5   3   2   2   2   2   2   2   
+Eye lvl wnd dir.SE  SE  SE  SE  S   N   N   N   N   N   N   N   
+Eye lvl wnd spd.1   1   1   1   1   0   0   0   0   0   0   0   
+Eye lvl wnd gst.4   4   3   3   3   2   1   1   1   1   1   1   
+Mix hgt (km)....0.9 0.2 0.1 0.2 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Trans wind dir..SE  SE  SE  SE  S   S   S   S   S   SW  SW  SW  
+Trans spd (m/s).3   3   3   3   4   3   3   3   3   2   2   1   
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (15-25 percent). Patchy fog early in the 
+                    morning. 
+Max temperature.....Around 95. 
+Min humidity........46 percent. 
+Eye level winds.....Light winds becoming east around 4 mph late in 
+                    the morning. 
+Wind (20 ft)........East winds 5 to 6 mph early in the morning 
+                    becoming light, then becoming east around 6 mph 
+                    late in the morning. 
+Mixing height (m)...122-2286 meters AGL. 
+Transport winds m/s.East 1 to 4 meters/second. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........14  4   0   2   7   6   9   21  13  31  38  32  
+Weather cov.....    PTY                                         
+Weather type....    FOG                                         
+Tstm cov........                                                
+Temp............76  75  77  81  87  89  92  93  93  94  93  93  
+RH..............94  97  94  85  68  61  52  49  47  46  47  47  
+20 FT wind dir..N   NE  NE  NE  E   E   E   E   E   E   E   E   
+20 FT wind spd..0   1   2   2   3   6   6   6   6   6   6   6   
+20 FT wind gust.3   5   6   7   8   10  12  12  12  12  12  12  
+Eye lvl wnd dir.N   NE  NE  NE  E   E   E   E   E   E   E   E   
+Eye lvl wnd spd.0   1   1   1   2   4   4   4   4   4   4   4   
+Eye lvl wnd gst.2   3   4   4   5   6   7   7   7   7   7   7   
+Mix hgt (km)....0.1 0.1 0.2 0.5 0.9 1.5 1.8 2.1 2.3 2.2 1.9 1.0 
+Trans wind dir..NE  NE  NE  E   E   E   E   E   E   E   E   E   
+Trans spd (m/s).1   2   2   3   4   4   4   4   4   4   4   4   
+
+$$
+Forecaster...JONES
+Requested by...Andrew Walters
+Type of request...PRESCRIBED
+.TAG 2621581.2/LCH
+.DELDT 09/15/26
+.FormatterVersion 2.0.0
+.EMAIL andrew.walters2@usda.gov,adam.boudreaux@usda.gov
+
