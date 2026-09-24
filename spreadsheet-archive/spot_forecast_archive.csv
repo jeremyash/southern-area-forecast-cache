@@ -1,4 +1,300 @@
 archive_key,issuance_date,issuance_time_utc,issuance_time_local,timezone,project_name,project_type,forest,latitude,longitude,issuing_office,forecast_url,forecast_product_id,request_product_id,archive_file,forecast_text,coordinate_source,spot_id
+https://api.weather.gov/products/4a746e30-148c-4d2a-9db7-1862563e1d40,2026-09-23,2026-09-23 11:07:00 UTC,2026-09-23 06:07:00 CDT,America/Chicago,Winn Rd Site Prep,PRESCRIBED,Kisatchie National Forest,31.9517,-92.8251,KSHV,https://spot.weather.gov/forecasts/2622323,https://api.weather.gov/products/4a746e30-148c-4d2a-9db7-1862563e1d40,https://api.weather.gov/products/b7789c74-ba48-464c-9894-9fd619cf94e1,Kisatchie_National_Forest/20260923__spot_2622323.1__project_Winn_Rd_Site_Prep.txt,"
+000
+FNUS74 KSHV 231107
+FWSSHV
+
+Spot Forecast for Winn Rd Site Prep...USDA FS
+National Weather Service Shreveport LA
+607 AM CDT Wed Sep 23 2026
+
+Forecast is based on ignition time of 1000 CDT on September 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have 
+questions or concerns with this forecast.
+
+.DISCUSSION...
+
+Slightly drier air will continue to filter south across Northern 
+Louisiana in wake of a weak frontal boundary that has now cleared
+the region. Post-frontal winds will continue to veer a bit more 
+northeasterly today, generally averaging between 5-10 mph with 
+occasional gusts near 15 mph at times. These winds combined with 
+decreasing RHs could spell another round of increased fire danger 
+concerns by this afternoon and through the remainder of the week, 
+possibly extending into the first half of this weekend as rain 
+chances remain slim to none.
+
+.REST OF TODAY...
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........11  8   16  24  21  17  22  15  
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+CWR.............0   0   0   0   0   0   0   0   
+Temp............82  87  90  92  93  95  96  95  
+RH..............69  61  54  51  49  45  42  42  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind mph..5   6   6   6   6   6   6   6   
+20 FT wind gust.14  13  12  12  13  13  13  13  
+Mix hgt (kft)...1.9 2.6 3.3 4.7 5.8 6.5 6.6 5.9 
+Mix hgt (km)....0.6 0.8 1.0 1.4 1.8 2.0 2.0 1.8 
+Transp wind dir.NE  NE  NE  NE  N   N   N   N   
+Transp wind spd.12  10  9   9   12  12  10  12  
+Trans wind dir..NE  NE  NE  NE  N   N   N   N   
+Trans spd (m/s).5   4   4   4   5   5   4   5   
+
+.TONIGHT...
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........19  27  18  16  8   10  8   15  28  35  32  37  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............94  90  85  82  81  79  78  76  74  73  71  70  
+RH..............41  49  57  63  65  64  62  62  64  64  66  68  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind mph..6   3   3   3   3   3   3   3   3   3   3   5   
+20 FT wind gust.14  13  13  14  14  14  14  13  14  14  15  15  
+Mix hgt (kft)...4.5 0.7 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mix hgt (km)....1.4 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.12  9   9   12  10  12  12  14  13  12  12  10  
+Trans wind dir..N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Trans spd (m/s).5   4   4   5   4   5   5   6   6   5   5   4   
+
+.THURSDAY...
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........45  50  33  42  34  32  56  47  45  49  58  57  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............69  68  69  72  77  81  84  87  89  91  92  91  
+RH..............68  70  70  71  62  56  51  46  42  40  37  37  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  N   N   N   N   
+20 FT wind mph..5   5   5   5   5   5   5   5   6   6   6   6   
+20 FT wind gust.15  15  14  14  13  13  12  10  12  12  12  12  
+Mix hgt (kft)...0.4 0.4 1.0 1.4 1.8 2.5 3.4 4.3 4.8 5.3 5.0 4.4 
+Mix hgt (km)....0.1 0.1 0.3 0.4 0.5 0.8 1.0 1.3 1.5 1.6 1.5 1.3 
+Transp wind dir.NE  NE  NE  NE  NE  NE  N   N   N   N   N   NE  
+Transp wind spd.10  9   10  10  9   9   9   9   10  10  10  10  
+Trans wind dir..NE  NE  NE  NE  NE  NE  N   N   N   N   N   NE  
+Trans spd (m/s).4   4   4   4   4   4   4   4   4   4   4   4   
+
+$$
+Forecaster...HEMINGWAY
+Requested by...Charles Davis
+Type of request...PRESCRIBED
+.TAG 2622323.1/SHV
+.DELDT 09/23/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.laricos@usda.gov,charles.g.davis@usda.gov
+",,2622323.1
+https://api.weather.gov/products/56e76a44-e496-4146-8c14-fef0e5be36b7,2026-09-23,2026-09-23 07:46:00 UTC,2026-09-23 02:46:00 CDT,America/Chicago,Bienville Comp 280 Site prep 1b,PRESCRIBED,Bienville National Forest,32.059,-89.6487,KJAN,https://spot.weather.gov/forecasts/2622236,https://api.weather.gov/products/56e76a44-e496-4146-8c14-fef0e5be36b7,https://api.weather.gov/products/9f80d029-d11d-458c-a30d-acb28003d62c,Bienville_National_Forest/20260923__spot_2622236.0__project_Bienville_Comp_280_Site_prep_1b.txt,"
+000
+FNUS74 KJAN 230746
+FWSJAN
+
+Spot Forecast for Bienville Comp 280 Site prep 1b...USFS
+National Weather Service Jackson MS
+246 AM CDT Wed Sep 23 2026
+
+Forecast is based on ignition time of 0600 CDT on September 23. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Temperature.........71 at ignition...Max 92. 
+RH..................97 percent at ignition...Min 49 percent. 
+Wind (20 ft)........Winds northeast at 3 mph at 
+                    ignition...otherwise Light winds becoming north 
+                    around 5 mph late in the afternoon. 
+Mixing height (m)...122 meters AGL at ignition...otherwise 122-1707 
+                    meters AGL. 
+Transport winds.....Northeast 8 to 12 mph. 
+Transport winds m/s.Northeast 4 to 5 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MClear MClear MClear MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............71     72     83     89     90     89     
+RH..............97     97     70     56     52     52     
+20 ft wind dir..NE     NE     NE     N      N      N      
+20 ft wind spd..3      3      3      3      5      5      
+20 ft wind gust.10     10     12     12     13     14     
+Mix hgt (m).....120    210    550    1190   1550   1550   
+Transport wind..NE 8   NE 9   NE 8   N 9    N 10   N 10   
+Tran wind (m/s).NE 4   NE 4   NE 4   N 4    N 4    N 4    
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Temperature.........Min 68. 
+RH..................Max 90 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-488 meters AGL. 
+Transport winds.....North 7 to 12 mph. 
+Transport winds m/s.Northeast 3 to 5 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear MClear MClear MClear MClear PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............86     79     75     73     71     70     
+RH..............55     74     84     84     84     84     
+20 ft wind dir..N      N      N      NE     NE     N      
+20 ft wind spd..3      3      3      3      3      3      
+20 ft wind gust.13     13     14     13     13     13     
+Mix hgt (m).....490    120    150    150    180    210    
+Transport wind..N 8    N 8    N 9    NE 12  NE 10  NE 10  
+Tran wind (m/s).N 4    N 4    N 4    NE 5   NE 4   NE 4   
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent) then becoming 
+                    mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (40-50 percent). 
+Temperature.........Max 89. 
+RH..................Min 50 percent. 
+Wind (20 ft)........Light winds becoming northeast around 5 mph 
+                    late in the afternoon. 
+Mixing height (m)...183-2164 meters AGL. 
+Transport winds.....Northeast 7 to 9 mph. 
+Transport winds m/s.Northeast 3 to 4 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......PCldy  PCldy  PCldy  PCldy  PCldy  MCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............68     70     80     86     87     85     
+RH..............87     87     72     55     53     53     
+20 ft wind dir..N      N      NE     N      N      N      
+20 ft wind spd..3      3      3      3      3      3      
+20 ft wind gust.12     10     10     10     12     13     
+Mix hgt (m).....180    300    580    1280   2160   1430   
+Transport wind..N 8    NE 8   NE 7   N 7    N 8    NE 9   
+Tran wind (m/s).N 4    NE 4   NE 3   N 3    N 4    NE 4   
+
+$$
+Forecaster...Campbell
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2622236.0/JAN
+.DELDT 09/23/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+",,2622236.0
+https://api.weather.gov/products/7dd1f693-8684-44b4-aab0-e3abe761baf0,2026-09-23,2026-09-23 07:43:00 UTC,2026-09-23 02:43:00 CDT,America/Chicago,Bienville Comp 280 Site prep 1A,PRESCRIBED,Bienville National Forest,32.0579,-89.6643,KJAN,https://spot.weather.gov/forecasts/2622235,https://api.weather.gov/products/7dd1f693-8684-44b4-aab0-e3abe761baf0,https://api.weather.gov/products/d2e413d1-a1c6-4374-81e0-1cb4cbd08f41,Bienville_National_Forest/20260923__spot_2622235.0__project_Bienville_Comp_280_Site_prep_1A.txt,"
+000
+FNUS74 KJAN 230743
+FWSJAN
+
+Spot Forecast for Bienville Comp 280 Site prep 1A...USFS
+National Weather Service Jackson MS
+243 AM CDT Wed Sep 23 2026
+
+Forecast is based on ignition time of 0600 CDT on September 23. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+
+.TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Temperature.........71 at ignition...Max 92. 
+RH..................97 percent at ignition...Min 51 percent. 
+Wind (20 ft)........Winds northeast at 3 mph at 
+                    ignition...otherwise Light winds becoming north 
+                    5 to 6 mph in the afternoon. 
+Mixing height (m)...122 meters AGL at ignition...otherwise 122-1737 
+                    meters AGL. 
+Transport winds.....Northeast 8 to 12 mph. 
+Transport winds m/s.Northeast 4 to 5 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......Clear  MClear MClear MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............71     72     84     90     92     89     
+RH..............97     100    70     54     51     52     
+20 ft wind dir..NE     NE     NE     N      N      N      
+20 ft wind spd..3      3      3      3      5      5      
+20 ft wind gust.10     10     12     12     13     14     
+Mix hgt (m).....120    240    550    1160   1550   1620   
+Transport wind..NE 8   NE 9   NE 8   N 9    N 10   N 10   
+Tran wind (m/s).NE 4   NE 4   NE 4   N 4    N 4    N 4    
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Temperature.........Min 67. 
+RH..................Max 93 percent. 
+Wind (20 ft)........North winds around 5 mph early in the evening 
+                    becoming light. 
+Mixing height (m)...122-518 meters AGL. 
+Transport winds.....North 7 to 12 mph. 
+Transport winds m/s.Northeast 3 to 5 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear MClear PCldy  MClear MClear PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............85     79     76     73     71     69     
+RH..............59     77     82     84     84     87     
+20 ft wind dir..N      N      N      NE     NE     N      
+20 ft wind spd..5      3      3      3      3      3      
+20 ft wind gust.13     13     14     13     13     12     
+Mix hgt (m).....520    120    210    150    180    120    
+Transport wind..N 9    N 7    N 10   NE 12  NE 10  NE 9   
+Tran wind (m/s).N 4    N 3    N 4    NE 5   NE 4   NE 4   
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent) then becoming 
+                    mostly cloudy (70-80 percent) then becoming 
+                    mostly sunny (40-50 percent). 
+Temperature.........Max 89. 
+RH..................Min 50 percent. 
+Wind (20 ft)........Light winds becoming northeast around 5 mph 
+                    late in the afternoon. 
+Mixing height (m)...183-2164 meters AGL. 
+Transport winds.....Northeast 7 to 9 mph. 
+Transport winds m/s.Northeast 3 to 4 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......PCldy  PCldy  PCldy  PCldy  PCldy  MCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............68     69     81     86     87     86     
+RH..............90     93     69     57     53     53     
+20 ft wind dir..N      N      NE     N      N      N      
+20 ft wind spd..3      3      3      3      3      5      
+20 ft wind gust.12     10     10     10     12     13     
+Mix hgt (m).....180    300    580    1310   2160   1430   
+Transport wind..N 8    NE 8   NE 7   N 7    N 8    NE 9   
+Tran wind (m/s).N 4    NE 4   NE 3   N 3    N 4    NE 4   
+
+$$
+Forecaster...Campbell
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2622235.0/JAN
+.DELDT 09/23/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+",,2622235.0
 https://api.weather.gov/products/a34d8e77-2cdf-4364-ab5a-fc24d670cf81,2026-09-22,2026-09-22 14:29:00 UTC,2026-09-22 09:29:00 CDT,America/Chicago,Winn Rd Site Prep,PRESCRIBED,Kisatchie National Forest,31.9517,-92.8251,KSHV,https://spot.weather.gov/forecasts/2622323,https://api.weather.gov/products/a34d8e77-2cdf-4364-ab5a-fc24d670cf81,https://api.weather.gov/products/56f87a80-fac0-4c63-b7d6-798c2184ff65,Kisatchie_National_Forest/20260922__spot_2622323.0__project_Winn_Rd_Site_Prep.txt,"
 000
 FNUS74 KSHV 221429

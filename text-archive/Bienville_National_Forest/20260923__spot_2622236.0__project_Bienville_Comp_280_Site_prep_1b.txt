@@ -1,0 +1,100 @@
+
+000
+FNUS74 KJAN 230746
+FWSJAN
+
+Spot Forecast for Bienville Comp 280 Site prep 1b...USFS
+National Weather Service Jackson MS
+246 AM CDT Wed Sep 23 2026
+
+Forecast is based on ignition time of 0600 CDT on September 23. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Temperature.........71 at ignition...Max 92. 
+RH..................97 percent at ignition...Min 49 percent. 
+Wind (20 ft)........Winds northeast at 3 mph at 
+                    ignition...otherwise Light winds becoming north 
+                    around 5 mph late in the afternoon. 
+Mixing height (m)...122 meters AGL at ignition...otherwise 122-1707 
+                    meters AGL. 
+Transport winds.....Northeast 8 to 12 mph. 
+Transport winds m/s.Northeast 4 to 5 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......MClear MClear MClear MClear MClear MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............71     72     83     89     90     89     
+RH..............97     97     70     56     52     52     
+20 ft wind dir..NE     NE     NE     N      N      N      
+20 ft wind spd..3      3      3      3      5      5      
+20 ft wind gust.10     10     12     12     13     14     
+Mix hgt (m).....120    210    550    1190   1550   1550   
+Transport wind..NE 8   NE 9   NE 8   N 9    N 10   N 10   
+Tran wind (m/s).NE 4   NE 4   NE 4   N 4    N 4    N 4    
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Temperature.........Min 68. 
+RH..................Max 90 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-488 meters AGL. 
+Transport winds.....North 7 to 12 mph. 
+Transport winds m/s.Northeast 3 to 5 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear MClear MClear MClear MClear PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............86     79     75     73     71     70     
+RH..............55     74     84     84     84     84     
+20 ft wind dir..N      N      N      NE     NE     N      
+20 ft wind spd..3      3      3      3      3      3      
+20 ft wind gust.13     13     14     13     13     13     
+Mix hgt (m).....490    120    150    150    180    210    
+Transport wind..N 8    N 8    N 9    NE 12  NE 10  NE 10  
+Tran wind (m/s).N 4    N 4    N 4    NE 5   NE 4   NE 4   
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent) then becoming 
+                    mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (40-50 percent). 
+Temperature.........Max 89. 
+RH..................Min 50 percent. 
+Wind (20 ft)........Light winds becoming northeast around 5 mph 
+                    late in the afternoon. 
+Mixing height (m)...183-2164 meters AGL. 
+Transport winds.....Northeast 7 to 9 mph. 
+Transport winds m/s.Northeast 3 to 4 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......PCldy  PCldy  PCldy  PCldy  PCldy  MCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............68     70     80     86     87     85     
+RH..............87     87     72     55     53     53     
+20 ft wind dir..N      N      NE     N      N      N      
+20 ft wind spd..3      3      3      3      3      3      
+20 ft wind gust.12     10     10     10     12     13     
+Mix hgt (m).....180    300    580    1280   2160   1430   
+Transport wind..N 8    NE 8   NE 7   N 7    N 8    NE 9   
+Tran wind (m/s).N 4    NE 4   NE 3   N 3    N 4    NE 4   
+
+$$
+Forecaster...Campbell
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2622236.0/JAN
+.DELDT 09/23/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+
