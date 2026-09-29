@@ -1,4 +1,254 @@
 archive_key,issuance_date,issuance_time_utc,issuance_time_local,timezone,project_name,project_type,forest,latitude,longitude,issuing_office,forecast_url,forecast_product_id,request_product_id,archive_file,forecast_text,coordinate_source,spot_id
+https://api.weather.gov/products/8097ca40-cd06-4070-83ea-bd6d6fc1a91f,2026-09-28,2026-09-28 11:58:00 UTC,2026-09-28 06:58:00 CDT,America/Chicago,Bienville Comp 265 Site prep,PRESCRIBED,Bienville National Forest,32.133,-89.6712,KJAN,https://spot.weather.gov/forecasts/2622648,https://api.weather.gov/products/8097ca40-cd06-4070-83ea-bd6d6fc1a91f,https://api.weather.gov/products/5832f922-8bbc-41fb-8ac3-b330ddea9bd5,Bienville_National_Forest/20260928__spot_2622648.0__project_Bienville_Comp_265_Site_prep.txt,"
+000
+FNUS74 KJAN 281158
+FWSJAN
+
+Spot Forecast for Bienville Comp 265 Site prep...USFS
+National Weather Service Jackson MS
+658 AM CDT Mon Sep 28 2026
+
+Forecast is based on ignition time of 0700 CDT on September 28. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Temperature.........62 at ignition...Max 87. 
+RH..................65 percent at ignition...Min 34 percent. 
+Wind (20 ft)........Winds northeast at 2 mph at 
+                    ignition...otherwise Light winds. 
+Mixing height (m)...91 meters AGL at ignition...otherwise 91-1798 
+                    meters AGL. 
+Transport winds.....Northeast 6 to 7 mph shifting to the north in 
+                    the afternoon. 
+Transport winds m/s.East around 3 meters/second shifting to the 
+                    north in the afternoon. 
+
+TIME (CDT)      2 AM   4 AM   6 AM   8 AM   10 AM  Noon   
+Sky cover.......PCldy  PCldy  MClear MClear Clear  Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............62     68     79     84     86     83     
+RH..............65     61     42     36     34     38     
+20 ft wind dir..NE     NE     NE     NE     NE     NE     
+20 ft wind spd..2      2      2      2      2      1      
+20 ft wind gust.7      7      7      8      8      7      
+Mix hgt (m).....120    210    670    1370   1680   1580   
+Transport wind..E 7    E 7    NE 6   N 6    N 7    N 6    
+Tran wind (m/s).E 3    E 3    NE 3   N 3    N 3    N 3    
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Temperature.........Min 61. 
+RH..................Max 72 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-274 meters AGL. 
+Transport winds.....Northeast 5 to 7 mph shifting to the east 6 to 
+                    8 mph late in the evening. 
+Transport winds m/s.East 3 to 4 meters/second. 
+
+TIME (CDT)      1 PM   3 PM   5 PM   7 PM   9 PM   11 PM  
+Sky cover.......Clear  Clear  Clear  Clear  MClear Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............81     72     68     66     64     62     
+RH..............46     59     65     65     65     70     
+20 ft wind dir..NE     NE     E      E      E      E      
+20 ft wind spd..1      2      2      1      1      1      
+20 ft wind gust.7      7      7      7      6      6      
+Mix hgt (m).....270    120    120    120    120    120    
+Transport wind..NE 5   NE 6   E 7    E 7    E 7    E 7    
+Tran wind (m/s).NE 2   NE 3   E 3    E 3    E 3    E 3    
+
+.TUESDAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Temperature.........Max 88. 
+RH..................Min 36 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-1981 meters AGL. 
+Transport winds.....Southeast 3 to 7 mph. 
+Transport winds m/s.Southeast 1 to 3 meters/second. 
+
+TIME (CDT)      1 AM   3 AM   5 AM   7 AM   9 AM   11 AM  
+Sky cover.......Clear  Clear  Clear  Clear  Clear  Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............61     64     77     84     87     86     
+RH..............70     70     50     40     38     39     
+20 ft wind dir..E      E      SE     SE     E      E      
+20 ft wind spd..1      2      1      1      1      1      
+20 ft wind gust.6      6      7      5      6      7      
+Mix hgt (m).....120    120    370    1340   1980   1830   
+Transport wind..E 6    SE 7   SE 6   SE 5   SE 5   E 5    
+Tran wind (m/s).E 3    SE 3   SE 3   SE 2   SE 2   E 2    
+
+$$
+Forecaster...Poole
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2622648.0/JAN
+.DELDT 09/28/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+",,2622648.0
+https://api.weather.gov/products/f8684bbb-137b-4af3-82ff-e6367dec0a62,2026-09-28,2026-09-28 03:59:00 UTC,2026-09-27 22:59:00 CDT,America/Chicago,DeSoto BB 525,PRESCRIBED,De Soto National Forest,30.5528,-88.8359,KLIX,https://spot.weather.gov/forecasts/2622637,https://api.weather.gov/products/f8684bbb-137b-4af3-82ff-e6367dec0a62,https://api.weather.gov/products/0b15e8de-9e6a-4fdd-acfe-1cf798cbe08f,De_Soto_National_Forest/20260928__spot_2622637.0__project_DeSoto_BB_525.txt,"
+000
+FNUS74 KLIX 280359
+FWSLIX
+
+Spot Forecast for DeSoto BB 525...Daniel Patterson
+National Weather Service New Orleans LA
+1059 PM CDT Sun Sep 27 2026
+
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+We can be reached at (985) 649-0357 if you have questions or concerns
+with this forecast.
+
+.DISCUSSION...
+
+Min RH values will remain in the 40-50% range through the first
+half of this week. The lowest RH values will favor areas north of
+I-10/12 but winds are not currently expected to be strong enough,
+remaining below 10mph, for significant fire weather concerns.
+More moisture moves back into the area by mid week increasing RH
+values.
+
+.MONDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 91. 
+Min humidity........35 percent. 
+Dewpoint............59. 
+Max apparent temp...90. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-1829 meters AGL. 
+Transport winds.....Northeast 5 to 7 mph. 
+Transport winds m/s.Northeast 2 to 3 meters/second. 
+LVORI...............2. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........6   1   2   4   16  8   2   2   2   0   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   
+Temp............69  72  79  82  85  88  89  90  91  88  
+Dewpoint........58  59  59  58  59  59  59  59  59  60  
+RH..............68  63  50  44  41  38  37  35  35  39  
+Aparnt tmp (F)..69  72  80  82  85  87  88  89  90  88  
+20 FT wind dir..NNE NE  NE  NE  NE  NE  NE  NE  ENE E   
+20 FT wind spd..3   3   3   3   2   3   3   3   3   3   
+20 FT wind gust.9   8   9   9   8   8   8   8   8   8   
+Mix hgt (km)....0.1 0.2 0.5 0.8 1.2 1.5 1.7 1.8 1.6 1.2 
+Transp wind dir.NE  NE  NE  NE  NNE N   N   N   NNE NE  
+Transp wind spd.6   7   7   7   5   6   6   6   6   6   
+Trans wind dir..NE  NE  NE  NE  NNE N   N   N   NNE NE  
+Trans spd (m/s).3   3   3   3   2   3   3   3   3   3   
+LVORI...........3   3   2   2   2   1   1   1   1   2   
+
+.MONDAY NIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 66. 
+Max humidity........82 percent. 
+Dewpoint............61. 
+Max apparent temp...85. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-305 meters AGL. 
+Transport winds.....Southeast 3 to 6 mph shifting to the northeast 
+                    3 to 5 mph overnight. 
+Transport winds m/s.Southeast around 3 meters/second becoming 2 to 
+                    3 meters/second in the evening, then shifting 
+                    to the east 1 to 2 meters/second late in the 
+                    evening shifting to the northeast after 3 am. 
+LVORI...............4. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........0   1   4   3   5   4   3   4   5   7   5   4   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............85  82  77  75  73  71  70  70  69  68  67  67  
+Dewpoint........62  63  63  63  63  63  63  63  62  61  61  60  
+RH..............47  52  62  66  71  76  78  78  78  78  82  79  
+Aparnt tmp (F)..85  83  77  75  73  71  70  70  69  68  67  67  
+20 FT wind dir..ESE SSE SSE N   N   N   N   N   N   N   NNE NNE 
+20 FT wind spd..3   2   1   0   0   0   0   0   0   0   1   1   
+20 FT wind gust.8   7   5   2   2   2   2   2   2   3   3   3   
+Mix hgt (km)....0.3 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.SE  SSE SSE SE  ESE E   E   ENE ENE NE  NE  NNE 
+Transp wind spd.6   6   5   5   5   3   3   5   3   3   3   5   
+Trans wind dir..SE  SSE SSE SE  ESE E   E   ENE ENE NE  NE  NNE 
+Trans spd (m/s).3   3   2   2   2   1   1   2   1   1   1   2   
+LVORI...........2   2   3   3   3   4   4   4   4   4   6   4   
+
+.TUESDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 91. 
+Min humidity........42 percent. 
+Dewpoint............60 increasing to 65 in the late morning and 
+                    afternoon. 
+Max apparent temp...92. 
+Wind (20 ft)........Light winds becoming southeast 5 to 6 mph late 
+                    in the afternoon. 
+Mixing height (m)...122-1859 meters AGL. 
+Transport winds.....Northeast around 5 mph shifting to the south 
+                    late in the afternoon. 
+Transport winds m/s.Northeast around 2 meters/second shifting to 
+                    the south 3 to 4 meters/second late in the 
+                    afternoon. 
+LVORI...............4 early in the morning. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   5   0   0   0   0   3   1   0   0   0   0   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............66  66  69  74  81  84  87  89  89  90  89  87  
+Dewpoint........59  59  61  64  65  65  64  64  64  64  65  66  
+RH..............77  77  75  71  58  53  47  44  44  42  46  50  
+Aparnt tmp (F)..66  66  69  74  83  86  88  90  90  92  91  89  
+20 FT wind dir..NNE NNE NE  NE  NE  E   ENE E   ESE SE  SSE SSE 
+20 FT wind spd..1   2   2   1   2   2   2   3   5   6   7   7   
+20 FT wind gust.5   6   6   6   7   6   6   8   9   10  12  13  
+Mix hgt (km)....0.1 0.1 0.1 0.3 0.6 1.1 1.5 1.8 1.9 1.7 1.4 0.8 
+Transp wind dir.NNE NE  NE  NE  NNE NNE NE  ENE SE  SSE S   S   
+Transp wind spd.5   5   5   5   5   5   5   5   7   7   7   10  
+Trans wind dir..NNE NE  NE  NE  NNE NNE NE  ENE SE  SSE S   S   
+Trans spd (m/s).2   2   2   2   2   2   2   2   3   3   3   4   
+LVORI...........4   4   M   M   M   M   M   M   M   M   M   M   
+
+Patchy light fog is possible during the early morning hours. 
+
+$$
+Forecaster...BANNAN
+Requested by...USDA
+Type of request...PRESCRIBED
+.TAG 2622637.0/LIX
+.DELDT 09/28/26
+.FormatterVersion 2.0.0
+.EMAIL daniel.l.patterson@usda.gov
+",,2622637.0
 https://api.weather.gov/products/90a5bd7c-7629-4b09-bb79-a8d4dd93d07c,2026-09-25,2026-09-25 10:18:00 UTC,2026-09-25 05:18:00 CDT,America/Chicago,Bienville Comp 280 Site prep 1b,PRESCRIBED,Bienville National Forest,32.059,-89.6487,KJAN,https://spot.weather.gov/forecasts/2622236,https://api.weather.gov/products/90a5bd7c-7629-4b09-bb79-a8d4dd93d07c,https://api.weather.gov/products/3c0a7450-6f41-4b55-bade-5a5d3914e468,Bienville_National_Forest/20260925__spot_2622236.2__project_Bienville_Comp_280_Site_prep_1b.txt,"
 000
 FNUS74 KJAN 251018
