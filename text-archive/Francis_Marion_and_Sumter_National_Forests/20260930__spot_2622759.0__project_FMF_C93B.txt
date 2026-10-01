@@ -1,0 +1,111 @@
+
+000
+FNUS72 KCHS 300649
+FWSCHS
+
+Spot Forecast for FMF C93B...USFS
+National Weather Service Charleston SC
+249 AM EDT Wed Sep 30 2026
+
+Forecast is based on ignition time of 1000 EDT on September 30. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+High pressure will remain the dominant feature today, yielding
+mostly sunny skies at the burn site. Some shallow ground fog is 
+possible this morning, likely dissipating quickly with sunrise. RH
+values this afternoon are forecast to drop to around 45%. Fog is 
+in the forecast tonight into Thursday morning. The greatest 
+chances for fog are just inland of the burn site, however chances
+of fog at the burn site are around 30-40%. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 88. 
+Min humidity........48 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 5900 ft AGL. 
+Transport winds.....East around 6 mph late in the morning becoming 
+                    light, then becoming east around 6 mph late in 
+                    the afternoon. 
+Max ADI.............37. 
+Inversion End.......1100.
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........16  9   10  7   7   2   3   8   
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............78  82  85  86  87  87  86  84  
+RH..............76  65  55  51  48  48  48  53  
+20 FT wind dir..NE  NE  E   E   E   E   SE  SE  
+20 FT wind spd..2   2   2   2   2   3   4   4   
+20 FT wind gust.7   7   7   5   5   7   9   11  
+Mix hgt (kft)...1.3 2.9 4.1 5.2 5.9 5.8 5.1 3.6 
+Transp wind dir.E   E   E   E   E   E   E   E   
+Transp wind spd.6   6   4   4   4   6   6   6   
+LVORI...........4   3   2   2   2   1   1   2   
+ADI.............10  25  28  28  30  37  34  30  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 65. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........10. 
+Min ADI.............1. 
+Inversion Begin.....1900.
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........3         9         4         15        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............81        70        68        66        
+RH..............60        97        100       100       
+20 FT wind......SE 3G11   E 1G5     N 0G4     N 0G2     
+Mix hgt (ft)....2300      400       400       400       
+Transport wind..SE 4      E 0       N 0       N 0       
+LVORI...........3         9         10        10        
+ADI.............1         1         1         1         
+
+.THURSDAY...
+
+Sky/weather.........Sunny. Patchy fog early in the morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 87. 
+Min humidity........55 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4900 ft AGL. 
+Transport winds.....Light winds becoming southeast around 6 mph. 
+Max ADI.............32. 
+Inversion End.......1000.
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........32           12           28           
+Weather type....FOG          NONE         NONE         
+Tstm cov........                                       
+Chc of pcpn (%).0            0            0            
+Temp............65           78           87           
+RH..............100          82           55           
+20 FT wind......N 0G4        E 1G5        E 3G9        
+Mix hgt (ft)....400          2300         4900         
+Transport wind..NE 0         E 4          E 4          
+LVORI...........10           3            2            
+ADI.............1            17           26           
+
+$$
+Forecaster...Maskell
+Requested by...kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2622759.0/CHS
+.DELDT 09/30/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+
