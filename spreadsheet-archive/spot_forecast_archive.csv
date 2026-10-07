@@ -1,4 +1,170 @@
 archive_key,issuance_date,issuance_time_utc,issuance_time_local,timezone,project_name,project_type,forest,latitude,longitude,issuing_office,forecast_url,forecast_product_id,request_product_id,archive_file,forecast_text,coordinate_source,spot_id
+https://api.weather.gov/products/1e5d12c0-6b68-4761-8c39-0da8d3f0d73a,2026-10-06,2026-10-06 09:58:00 UTC,2026-10-06 04:58:00 CDT,America/Chicago,Bagley,PRESCRIBED,Holly Springs National Forest,34.4931,-89.4305,KMEG,https://spot.weather.gov/forecasts/2623120,https://api.weather.gov/products/1e5d12c0-6b68-4761-8c39-0da8d3f0d73a,https://api.weather.gov/products/f9623d0f-b67f-432f-abb5-20a266d16ad0,Holly_Springs_National_Forest/20261006__spot_2623120.0__project_Bagley.txt,"
+000
+FNUS74 KMEG 060958
+FWSMEG
+
+Spot Forecast for Bagley...Forest Service
+National Weather Service Memphis TN
+458 AM CDT Tue Oct 6 2026
+
+Forecast is based on ignition time of 0600 CDT on October 06. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Min RH will be in the middle 30s this afternoon as moisture levels
+slowly increase. Increasing moisture, along with clear skies and
+light winds will favor the development of at least patchy fog
+toward sunrise Wednesday morning. Smoke dispersion will be poor to
+fair. 
+ 
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 86. 
+Min humidity........34 percent. 
+Dewpoint............50 increasing to 55 in the late morning and 
+                    afternoon. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5700 ft AGL. 
+Mixing height (MSL).400-5700 ft MSL. 
+Mixing height (m)...122-1737 meters AGL. 
+Transport winds.....East 3 to 8 mph. 
+Transport winds m/s.East 1 to 4 meters/second. 
+Smoke dispersal.....Poor (2200 knot-ft) early in the morning 
+                    increasing to fair (22700 knot-ft) in the 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   2   1   1   4   2   11  6   9   6   8   8   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............56  55  59  66  72  77  82  85  86  86  86  85  
+Dewpoint........49  49  51  52  55  56  57  56  55  54  54  55  
+RH..............77  80  75  61  55  48  43  37  35  34  34  36  
+20 FT wind dir..NE  NE  NE  E   E   E   E   NE  NE  E   E   NE  
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.7   7   7   6   6   6   6   6   6   6   6   6   
+Mix hgt (kft)...0.4 0.4 0.4 0.7 1.2 2.4 4.0 4.8 5.3 5.7 5.6 4.9 
+Mx ht msl (kft).0.4 0.4 0.4 0.7 1.2 2.4 4.0 4.8 5.3 5.7 5.6 4.9 
+Mix hgt (km)....0.1 0.1 0.1 0.2 0.4 0.7 1.2 1.5 1.6 1.7 1.7 1.5 
+Transp wind dir.E   E   E   E   E   E   NE  NE  NE  NE  E   E   
+Transp wind spd.8   8   7   7   6   5   3   3   5   5   5   5   
+Trans wind dir..E   E   E   E   E   E   NE  NE  NE  NE  E   E   
+Trans spd (m/s).4   4   3   3   3   2   1   1   2   2   2   2   
+Vrate kt-ft/1K..3   3   2   4   6   10  12  14  21  23  22  19  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). Areas of fog after 
+                    3 am. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 58. 
+Max humidity........100 percent. 
+Dewpoint............57. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Mixing height (MSL).300-1600 ft MSL. 
+Mixing height (m)...91-488 meters AGL. 
+Transport winds.....Northeast 5 to 7 mph shifting to the southeast 
+                    6 to 7 mph overnight. 
+Transport winds m/s.Northeast around 3 meters/second decreasing to 
+                    2 to 3 meters/second early in the evening, then 
+                    shifting to the east in the late evening and 
+                    overnight shifting to the southeast around 3 
+                    meters/second overnight. 
+Smoke dispersal.....Poor (1500 knot-ft). 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........3   7   7   14  14  12  16  14  17  15  15  11  
+Weather cov.....                                        ARS ARS 
+Weather type....                                        FOG FOG 
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............81  77  72  70  67  66  64  62  61  60  59  59  
+Dewpoint........56  57  57  58  58  58  58  58  58  58  58  58  
+RH..............42  50  59  66  73  75  81  87  90  93  96  96  
+20 FT wind dir..NE  NE  NE  NE  N   N   N   N   N   N   N   N   
+20 FT wind spd..2   2   1   1   0   0   0   0   0   0   0   0   
+20 FT wind gust.5   5   4   4   4   4   4   4   2   2   2   4   
+Mix hgt (kft)...1.6 0.3 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mx ht msl (kft).1.6 0.3 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mix hgt (km)....0.5 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.NE  N   NE  NE  E   E   E   SE  SE  SE  SE  SE  
+Transp wind spd.7   6   6   5   5   5   5   6   6   7   7   6   
+Trans wind dir..NE  N   NE  NE  E   E   E   SE  SE  SE  SE  SE  
+Trans spd (m/s).3   3   3   2   2   2   2   3   3   3   3   3   
+Vrate kt-ft/1K..9   2   2   2   2   2   2   2   2   3   3   2   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (10-20 percent). Areas of fog early in 
+                    the morning. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 87. 
+Min humidity........37 percent. 
+Dewpoint............59 increasing to 62 in the late morning and 
+                    early afternoon, then decreasing to 58 late in 
+                    the afternoon. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6400 ft AGL. 
+Mixing height (MSL).400-6400 ft MSL. 
+Mixing height (m)...122-1951 meters AGL. 
+Transport winds.....South 6 to 7 mph shifting to the west 3 to 6 
+                    mph late in the morning. 
+Transport winds m/s.South around 3 meters/second shifting to the 
+                    west 1 to 3 meters/second late in the morning. 
+Smoke dispersal.....Poor (1900 knot-ft) early in the morning 
+                    increasing to fair (25500 knot-ft) in the 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........19  16  19  21  22  15  18  15  7   6   4   6   
+Weather cov.....ARS ARS                                         
+Weather type....FOG FOG                                         
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............58  58  61  69  75  80  84  86  87  87  87  86  
+Dewpoint........58  58  60  63  64  64  63  61  60  59  58  57  
+RH..............100 100 97  81  69  58  49  43  40  39  38  37  
+20 FT wind dir..N   N   SE  SE  S   S   SW  W   W   NW  NW  NW  
+20 FT wind spd..0   0   1   1   2   1   1   1   2   2   2   2   
+20 FT wind gust.4   4   5   5   6   5   4   4   5   5   5   5   
+Mix hgt (kft)...0.4 0.4 0.4 1.0 2.0 3.4 4.7 5.4 6.4 6.3 5.6 5.3 
+Mx ht msl (kft).0.4 0.4 0.4 1.0 2.0 3.4 4.7 5.4 6.4 6.3 5.6 5.3 
+Mix hgt (km)....0.1 0.1 0.1 0.3 0.6 1.0 1.4 1.6 2.0 1.9 1.7 1.6 
+Transp wind dir.S   S   S   S   SW  W   W   W   W   W   W   NW  
+Transp wind spd.6   6   6   7   6   6   5   3   5   5   3   5   
+Trans wind dir..S   S   S   S   SW  W   W   W   W   W   W   NW  
+Trans spd (m/s).3   3   3   3   3   3   2   1   2   2   1   2   
+Vrate kt-ft/1K..2   2   2   6   10  17  19  16  26  25  17  21  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...Sirmon
+Requested by...Ty Cobb
+Type of request...PRESCRIBED
+.TAG 2623120.0/MEG
+.DELDT 10/06/26
+.FormatterVersion 2.0.0
+.EMAIL ty.cobb@usda.gov
+",,2623120.0
 https://api.weather.gov/products/089c8841-c801-466c-8d7d-5a2c2acbfc0e,2026-10-01,2026-10-01 10:37:00 UTC,2026-10-01 05:37:00 CDT,America/Chicago,Bienville Comp 23,PRESCRIBED,Bienville National Forest,32.5422,-89.6635,KJAN,https://spot.weather.gov/forecasts/2622855,https://api.weather.gov/products/089c8841-c801-466c-8d7d-5a2c2acbfc0e,https://api.weather.gov/products/48dae219-0309-46c0-b407-1b1fa39fb188,Bienville_National_Forest/20261001__spot_2622855.0__project_Bienville_Comp_23.txt,"
 000
 FNUS74 KJAN 011037
