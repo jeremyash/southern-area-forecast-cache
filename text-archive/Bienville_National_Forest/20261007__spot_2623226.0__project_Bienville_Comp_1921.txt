@@ -1,0 +1,102 @@
+
+000
+FNUS74 KJAN 070701
+FWSJAN
+
+Spot Forecast for Bienville Comp 1921...USFS
+National Weather Service Jackson MS
+201 AM CDT Wed Oct 7 2026
+
+Forecast is based on ignition time of 0600 CDT on October 07. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...The results of the requested HYSPLIT run will
+be e-mailed once they become available.
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Temperature.........64 at ignition...Max 89. 
+RH..................97 percent at ignition...Min 43 percent. 
+Wind (20 ft)........Winds east at 3 mph at ignition...otherwise 
+                    Light winds. 
+Mixing height (m)...122 meters AGL at ignition...otherwise 122-1798 
+                    meters AGL. 
+Transport winds.....East 7 to 9 mph. 
+Transport winds m/s.East 3 to 4 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......Clear  Clear  Clear  Clear  Clear  Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............64     64     77     84     87     86     
+RH..............97     97     69     53     46     45     
+20 ft wind dir..E      E      E      E      E      E      
+20 ft wind spd..3      3      3      3      3      3      
+20 ft wind gust.9      10     9      10     12     10     
+Mix hgt (m).....120    120    550    1340   1650   1740   
+Transport wind..E 8    E 7    E 8    NE 9   NE 9   NE 8   
+Tran wind (m/s).E 4    E 3    E 4    NE 4   NE 4   NE 4   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Temperature.........Min 61. 
+RH..................Max 100 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...91-274 meters AGL. 
+Transport winds.....East around 7 mph shifting to the southeast 6 
+                    to 7 mph overnight. 
+Transport winds m/s.Southeast around 3 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......Clear  Clear  Clear  Clear  Clear  Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............83     74     70     68     64     63     
+RH..............51     71     78     84     97     97     
+20 ft wind dir..E      E      E      E      E      E      
+20 ft wind spd..3      2      2      1      1      1      
+20 ft wind gust.8      9      9      7      5      6      
+Mix hgt (m).....270    120    120    120    90     120    
+Transport wind..NE 7   E 7    E 7    SE 7   SE 7   SE 6   
+Tran wind (m/s).NE 3   E 3    E 3    SE 3   SE 3   SE 3   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Temperature.........Max 90. 
+RH..................Min 39 percent. 
+Wind (20 ft)........Light winds becoming northeast around 5 mph 
+                    late in the afternoon, then becoming light late 
+                    in the afternoon. 
+Mixing height (m)...122-1615 meters AGL. 
+Transport winds.....East 6 to 12 mph. 
+Transport winds m/s.East 3 to 5 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......Clear  Clear  Clear  Clear  Clear  MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............62     63     79     85     89     87     
+RH..............100    100    60     46     39     39     
+20 ft wind dir..E      E      E      E      NE     E      
+20 ft wind spd..1      2      2      3      5      5      
+20 ft wind gust.6      8      9      13     14     13     
+Mix hgt (m).....120    120    520    1340   1620   1520   
+Transport wind..E 6    E 6    E 9    NE 10  E 9    E 9    
+Tran wind (m/s).E 3    E 3    E 4    NE 4   E 4    E 4    
+
+$$
+Forecaster...Edmonston
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2623226.0/JAN
+.DELDT 10/07/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+

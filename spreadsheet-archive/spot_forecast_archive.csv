@@ -1,4 +1,374 @@
 archive_key,issuance_date,issuance_time_utc,issuance_time_local,timezone,project_name,project_type,forest,latitude,longitude,issuing_office,forecast_url,forecast_product_id,request_product_id,archive_file,forecast_text,coordinate_source,spot_id
+https://api.weather.gov/products/8e2b0d1c-bb9e-4c12-ba6f-39d99506dd8e,2026-10-07,2026-10-07 10:46:00 UTC,2026-10-07 05:46:00 CDT,America/Chicago,Burn Unit 106 Site Prep,PRESCRIBED,Kisatchie National Forest,30.9853,-93.1803,KLCH,https://spot.weather.gov/forecasts/2623219,https://api.weather.gov/products/8e2b0d1c-bb9e-4c12-ba6f-39d99506dd8e,https://api.weather.gov/products/9587d51e-4d95-48af-b856-d93a6d622a19,Kisatchie_National_Forest/20261007__spot_2623219.0__project_Burn_Unit_106_Site_Prep.txt,"
+000
+FNUS74 KLCH 071046
+FWSLCH
+
+Spot Forecast for Burn Unit 106 Site Prep...Calcasieu Ranger District USFS
+National Weather Service Lake Charles LA
+546 AM CDT Wed Oct 7 2026
+
+Forecast is based on ignition time of 0800 CDT on October 07. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (337) 477-5285, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Morning conditions today and Thursday will start with nearly 100 
+percent humidity as tropical moisture near the surface works 
+inland from Tropical Storm Isaias. Throughout the day, dry air
+just overhead will mix down bringing about very dry conditions
+during peak heating parts of the day and RH minimums 30 to 40
+percent can be expected through tomorrow. Friday will be slightly
+more humid as TS Isaias begins to near the north Gulf coast, but
+the min RH may still mix down to 40 percent. Much better, tropical
+moisture will then move inland on Saturday with some scattered
+showers possible. 
+
+Surface winds will prevail from the northeast and will gradually 
+become more elevated over the next several days in response to 
+Isaias. Transfer winds off the surface will sit at an ENE to E 
+vector each day. All winds will turn to the north into the weekend
+as Isaias passes.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Max temperature.....Around 93. 
+Min humidity........37 percent. 
+Eye level winds.....East winds around 3 mph shifting to the up to 4 
+                    mph late in the morning. 
+Wind (20 ft)........Northeast winds 5 to 6 mph early in the morning 
+                    becoming light, then becoming northeast 5 to 6 
+                    mph late in the morning. 
+Mixing height (m)...122-2103 meters AGL. 
+Transport winds m/s.Northeast 3 to 4 meters/second. 
+
+TIME (CDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   0   3   6   9   10  16  9   7   6   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Temp............69  75  81  85  88  89  91  91  92  91  
+RH..............84  66  56  51  45  44  40  40  37  38  
+20 FT wind dir..NE  E   E   E   NE  NE  NE  NE  NE  NE  
+20 FT wind spd..3   3   3   5   6   6   6   6   6   5   
+20 FT wind gust.10  8   7   6   7   8   8   8   9   9   
+Eye lvl wnd dir.NE  NE  E   E   E   NE  NE  E   E   E   
+Eye lvl wnd spd.3   3   2   2   2   3   3   3   4   4   
+Eye lvl wnd gst.6   5   4   4   4   5   5   5   5   5   
+Mix hgt (km)....0.1 0.3 0.6 1.2 1.7 1.9 2.0 2.1 2.0 1.9 
+Trans wind dir..E   E   E   E   NE  NE  NE  NE  NE  NE  
+Trans spd (m/s).3   3   3   4   4   4   4   4   4   4   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (0-10 percent). 
+Min temperature.....Around 66. 
+Max humidity........89 percent. 
+Eye level winds.....Northeast winds around 3 mph. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122-1006 meters AGL. 
+Transport winds m/s.East 3 to 4 meters/second. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........12  8   3   1   1   6   4   3   2   2   2   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............88  86  82  80  77  75  73  72  71  69  69  67  
+RH..............42  45  53  56  64  69  73  73  76  81  81  87  
+20 FT wind dir..NE  E   E   E   E   E   E   E   NE  NE  NE  NE  
+20 FT wind spd..3   2   2   2   2   1   1   1   1   2   2   2   
+20 FT wind gust.9   9   9   7   7   6   6   6   6   7   7   8   
+Eye lvl wnd dir.E   E   E   E   E   E   E   E   NE  NE  NE  NE  
+Eye lvl wnd spd.3   2   2   1   1   1   1   1   1   1   1   1   
+Eye lvl wnd gst.5   5   5   4   4   4   4   4   4   4   4   5   
+Mix hgt (km)....1.0 0.1 0.1 0.1 0.1 0.1 0.2 0.1 0.1 0.1 0.1 0.1 
+Trans wind dir..E   E   E   E   E   E   E   E   E   E   E   NE  
+Trans spd (m/s).4   4   4   4   4   4   4   4   4   3   3   4   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 92. 
+Min humidity........32 percent. 
+Eye level winds.....Light winds becoming northeast around 3 mph 
+                    early in the morning, then becoming light late 
+                    in the morning becoming northeast up to 5 mph 
+                    in the late morning and afternoon. 
+Wind (20 ft)........Northeast winds 5 to 8 mph early in the morning 
+                    becoming light, then becoming northeast 5 to 8 
+                    mph in the late morning and afternoon. 
+Mixing height (m)...122-2073 meters AGL. 
+Transport winds m/s.Northeast 4 to 7 meters/second. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   2   0   0   9   10  6   4   3   7   4   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............67  66  68  73  80  84  87  89  89  91  90  89  
+RH..............87  89  88  78  60  49  42  37  35  32  33  34  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..3   3   5   3   5   6   8   8   8   8   7   7   
+20 FT wind gust.8   9   10  9   10  13  14  15  15  15  15  14  
+Eye lvl wnd dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Eye lvl wnd spd.2   2   3   2   3   4   5   5   5   5   5   5   
+Eye lvl wnd gst.5   5   6   5   6   8   8   9   9   9   9   8   
+Mix hgt (km)....0.1 0.1 0.2 0.3 0.7 1.3 1.7 1.9 2.1 2.1 2.0 1.7 
+Trans wind dir..NE  NE  NE  NE  NE  E   E   NE  E   E   E   E   
+Trans spd (m/s).4   4   4   4   4   7   7   7   5   5   6   5   
+
+$$
+Forecaster...CALHOUN
+Requested by...Adam Boudreaux
+Type of request...PRESCRIBED
+.TAG 2623219.0/LCH
+.DELDT 10/07/26
+.FormatterVersion 2.0.0
+.EMAIL adam.boudreaux@usda.gov
+",,2623219.0
+https://api.weather.gov/products/f7b4e205-5c02-4f52-b927-440e7127a2f4,2026-10-07,2026-10-07 09:30:00 UTC,2026-10-07 04:30:00 CDT,America/Chicago,Bagley Bottom Burn,PRESCRIBED,Holly Springs National Forest,34.4932,-89.4308,KMEG,https://spot.weather.gov/forecasts/2623249,https://api.weather.gov/products/f7b4e205-5c02-4f52-b927-440e7127a2f4,https://api.weather.gov/products/c5f82e57-f6d7-4fb8-a602-9482f8de5640,Holly_Springs_National_Forest/20261007__spot_2623249.0__project_Bagley_Bottom_Burn.txt,"
+000
+FNUS74 KMEG 070930
+FWSMEG
+
+Spot Forecast for Bagley Bottom Burn...USFS
+National Weather Service Memphis TN
+430 AM CDT Wed Oct 7 2026
+
+Forecast is based on ignition time of 0600 CDT on October 07. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Min RH will be in the middle 30s this afternoon as moisture levels
+slowly increase. Increasing moisture, along with clear skies and
+light winds will favor the development of at least patchy fog late
+tonight into Thursday. Smoke dispersion will be poor early today
+and tonight, fair this afternoon.
+
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). Patchy fog early in the 
+                    morning. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 86. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5700 ft AGL. 
+Transport winds.....Southeast around 6 mph shifting to the 
+                    northwest around 5 mph in the afternoon. 
+Smoke dispersal.....Poor (1700 knot-ft) early in the morning 
+                    increasing to fair (22900 knot-ft) in the 
+                    afternoon. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   2   0   1   2   2   7   9   4   2   3   3   
+Weather cov.....PTY PTY PTY                                     
+Weather type....FOG FOG FOG                                     
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............59  58  62  67  75  79  82  84  85  86  86  84  
+RH..............100 100 93  78  64  54  47  43  41  39  36  38  
+20 FT wind dir..N   N   E   S   S   SW  W   W   W   NW  NW  NW  
+20 FT wind spd..0   0   1   1   2   1   1   1   2   2   2   1   
+20 FT wind gust.4   2   4   4   5   5   4   4   5   5   5   4   
+Mix hgt (kft)...0.4 0.4 0.3 1.0 1.6 3.2 5.1 5.4 5.6 5.7 5.5 4.7 
+Transp wind dir.SE  SE  SE  S   S   SW  W   NW  NW  NW  NW  NW  
+Transp wind spd.6   6   6   6   6   5   5   5   5   5   5   5   
+Vrate kt-ft/1K..2   2   2   5   8   13  20  22  23  23  22  19  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 58. 
+Max humidity........93 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....North 5 to 6 mph shifting to the southeast 3 to 
+                    5 mph overnight. 
+Smoke dispersal.....Poor (1200 knot-ft). 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........1   4   3   4   4   2   4   5   6   4   4   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............82  78  72  70  68  66  64  63  62  61  60  60  
+RH..............43  45  57  61  63  68  73  75  78  81  84  84  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..1   0   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.4   2   2   2   2   2   2   2   2   2   2   2   
+Mix hgt (kft)...0.9 0.3 0.4 0.4 0.4 0.4 0.5 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.N   N   N   N   NE  E   E   SE  E   SE  SE  SE  
+Transp wind spd.5   6   5   5   5   5   5   5   3   5   3   3   
+Vrate kt-ft/1K..4   1   2   2   2   2   2   2   1   2   1   1   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.THURSDAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 89. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......6000 ft AGL. 
+Transport winds.....South around 3 mph shifting to the north early 
+                    in the morning. 
+Smoke dispersal.....Poor (1200 knot-ft) early in the morning 
+                    increasing to good (40000 knot-ft) in the 
+                    afternoon. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   1   0   0   0   1   1   2   2   2   3   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............59  58  62  68  77  81  85  87  88  88  89  87  
+RH..............90  93  84  68  52  44  36  32  31  30  28  31  
+20 FT wind dir..N   N   N   N   N   N   NE  NE  NE  NE  NE  NE  
+20 FT wind spd..0   0   0   0   0   1   1   2   2   2   2   2   
+20 FT wind gust.2   2   2   2   2   4   5   6   6   7   7   6   
+Mix hgt (kft)...0.4 0.4 0.3 0.7 1.5 2.8 4.0 4.9 5.7 6.0 5.7 4.6 
+Transp wind dir.S   S   N   NW  N   N   NE  NE  NE  NE  NE  NE  
+Transp wind spd.3   3   5   3   3   5   6   7   7   7   8   7   
+Vrate kt-ft/1K..1   1   1   2   4   11  20  30  34  36  40  28  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  FR  PR  
+
+$$
+Forecaster...Sirmon
+Requested by...Ty Cobb
+Type of request...PRESCRIBED
+.TAG 2623249.0/MEG
+.DELDT 10/07/26
+.FormatterVersion 2.0.0
+.EMAIL ty.cobb@usda.gov
+",,2623249.0
+https://api.weather.gov/products/f2908a8f-8fd7-43e5-ad7b-5fe700a8ffd9,2026-10-07,2026-10-07 07:01:00 UTC,2026-10-07 02:01:00 CDT,America/Chicago,Bienville Comp 1921,PRESCRIBED,Bienville National Forest,32.4454,-89.5984,KJAN,https://spot.weather.gov/forecasts/2623226,https://api.weather.gov/products/f2908a8f-8fd7-43e5-ad7b-5fe700a8ffd9,https://api.weather.gov/products/5edd4182-4208-43ef-849c-9a15898905b8,Bienville_National_Forest/20261007__spot_2623226.0__project_Bienville_Comp_1921.txt,"
+000
+FNUS74 KJAN 070701
+FWSJAN
+
+Spot Forecast for Bienville Comp 1921...USFS
+National Weather Service Jackson MS
+201 AM CDT Wed Oct 7 2026
+
+Forecast is based on ignition time of 0600 CDT on October 07. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...The results of the requested HYSPLIT run will
+be e-mailed once they become available.
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Temperature.........64 at ignition...Max 89. 
+RH..................97 percent at ignition...Min 43 percent. 
+Wind (20 ft)........Winds east at 3 mph at ignition...otherwise 
+                    Light winds. 
+Mixing height (m)...122 meters AGL at ignition...otherwise 122-1798 
+                    meters AGL. 
+Transport winds.....East 7 to 9 mph. 
+Transport winds m/s.East 3 to 4 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......Clear  Clear  Clear  Clear  Clear  Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............64     64     77     84     87     86     
+RH..............97     97     69     53     46     45     
+20 ft wind dir..E      E      E      E      E      E      
+20 ft wind spd..3      3      3      3      3      3      
+20 ft wind gust.9      10     9      10     12     10     
+Mix hgt (m).....120    120    550    1340   1650   1740   
+Transport wind..E 8    E 7    E 8    NE 9   NE 9   NE 8   
+Tran wind (m/s).E 4    E 3    E 4    NE 4   NE 4   NE 4   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Temperature.........Min 61. 
+RH..................Max 100 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...91-274 meters AGL. 
+Transport winds.....East around 7 mph shifting to the southeast 6 
+                    to 7 mph overnight. 
+Transport winds m/s.Southeast around 3 meters/second. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......Clear  Clear  Clear  Clear  Clear  Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............83     74     70     68     64     63     
+RH..............51     71     78     84     97     97     
+20 ft wind dir..E      E      E      E      E      E      
+20 ft wind spd..3      2      2      1      1      1      
+20 ft wind gust.8      9      9      7      5      6      
+Mix hgt (m).....270    120    120    120    90     120    
+Transport wind..NE 7   E 7    E 7    SE 7   SE 7   SE 6   
+Tran wind (m/s).NE 3   E 3    E 3    SE 3   SE 3   SE 3   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Temperature.........Max 90. 
+RH..................Min 39 percent. 
+Wind (20 ft)........Light winds becoming northeast around 5 mph 
+                    late in the afternoon, then becoming light late 
+                    in the afternoon. 
+Mixing height (m)...122-1615 meters AGL. 
+Transport winds.....East 6 to 12 mph. 
+Transport winds m/s.East 3 to 5 meters/second. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......Clear  Clear  Clear  Clear  Clear  MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............62     63     79     85     89     87     
+RH..............100    100    60     46     39     39     
+20 ft wind dir..E      E      E      E      NE     E      
+20 ft wind spd..1      2      2      3      5      5      
+20 ft wind gust.6      8      9      13     14     13     
+Mix hgt (m).....120    120    520    1340   1620   1520   
+Transport wind..E 6    E 6    E 9    NE 10  E 9    E 9    
+Tran wind (m/s).E 3    E 3    E 4    NE 4   E 4    E 4    
+
+$$
+Forecaster...Edmonston
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2623226.0/JAN
+.DELDT 10/07/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+",,2623226.0
 https://api.weather.gov/products/1e5d12c0-6b68-4761-8c39-0da8d3f0d73a,2026-10-06,2026-10-06 09:58:00 UTC,2026-10-06 04:58:00 CDT,America/Chicago,Bagley,PRESCRIBED,Holly Springs National Forest,34.4931,-89.4305,KMEG,https://spot.weather.gov/forecasts/2623120,https://api.weather.gov/products/1e5d12c0-6b68-4761-8c39-0da8d3f0d73a,https://api.weather.gov/products/f9623d0f-b67f-432f-abb5-20a266d16ad0,Holly_Springs_National_Forest/20261006__spot_2623120.0__project_Bagley.txt,"
 000
 FNUS74 KMEG 060958
