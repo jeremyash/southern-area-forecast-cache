@@ -1,0 +1,120 @@
+
+000
+FNUS72 KCHS 090913
+FWSCHS
+
+Spot Forecast for C139 #27-32...USDA Forest Service
+National Weather Service Charleston SC
+513 AM EDT Fri Oct 9 2026
+
+Forecast is based on ignition time of 0900 EDT on October 09. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+
+.DISCUSSION...
+The center of Hurricane Isaias will pass well west of the region
+this weekend, but associated tropical moisture will bring
+unsettled conditions into Sunday. Breezy winds are expected late
+this afternoon into Saturday, followed by the heaviest rainfall 
+Saturday morning and afternoon. A cold front will cross the area
+later Sunday, with dry high pressure fill in thereafter.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 78. 
+Min humidity........62 percent. 
+Wind (20 ft)........Light winds becoming northeast 5 to 6 mph with 
+                    gusts to around 16 mph in the afternoon. 
+Mixing Height.......Max 2400 ft AGL. 
+Transport winds.....Northeast 6 to 14 mph. 
+Max ADI.............42. 
+Inversion End.......1100
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........78  84  84  87  88  90  90  92  93  
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............66  70  73  75  77  77  77  77  76  
+RH..............84  78  71  66  62  64  64  67  71  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  E   
+20 FT wind spd..4   4   4   5   5   6   6   6   6   
+20 FT wind gust.13  13  13  13  14  14  16  16  16  
+Mix hgt (kft)...0.5 0.8 1.2 1.7 2.2 2.4 2.3 1.9 1.6 
+Transp wind dir.NE  NE  NE  NE  NE  NE  E   E   E   
+Transp wind spd.6   6   6   14  14  14  14  14  14  
+LVORI...........5   4   3   3   1   1   1   3   3   
+ADI.............4   5   17  27  38  42  40  36  29  
+
+.TONIGHT...
+
+Sky/weather.........Cloudy. Slight chance of showers in the 
+                    evening, then showers and chance of 
+                    thunderstorms overnight. 
+Chance of pcpn......90 percent. 
+Min temperature.....Around 68. 
+Max humidity........100 percent. 
+Wind (20 ft)........Northeast winds 6 to 10 mph with gusts to 
+                    around 23 mph. Gusty and erratic winds expected 
+                    near thunderstorms overnight. Gusty and erratic 
+                    winds expected near thunderstorms early in the 
+                    morning. 
+Max LVORI...........8. 
+Min ADI.............1. 
+Inversion Begin.....1800
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........91     91     94     91     90     84     
+Weather type....NONE   NONE   RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........                            S CHC  S CHC  
+Chc of pcpn (%).10     10     20     30     50     80     
+Temp............76     73     72     72     71     69     
+RH..............69     81     87     90     93     100    
+20 ft wind......E 6    NE 6   E 6    NE 8   E 8    NE 9   
+20 ft wind gust.18     18     18     22     22     23     
+Mix hgt (ft)....1100   600    500    500    500    500    
+Transport wind..NE 10  NE 10  NE 6   NE 8   NE 8   E 10   
+LVORI...........4      4      5      5      6      8      
+ADI.............1      5      5      8      8      9      
+
+.SATURDAY...
+
+Sky/weather.........Mostly cloudy. Showers and chance of 
+                    thunderstorms. 
+Chance of pcpn......100 percent. 
+Max temperature.....Around 76. 
+Min humidity........97 percent. 
+Wind (20 ft)........East winds 8 to 12 mph with gusts to around 27 
+                    mph. Gusty and erratic winds expected near 
+                    thunderstorms. 
+Mixing Height.......Max 1900 ft AGL. 
+Transport winds.....East 12 to 18 mph. 
+Max ADI.............33. 
+Inversion End.......1000
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........84        79        88        93        
+Weather type....RNSHWR    RNSHWR    RNSHWR    RNSHWR    
+Tstm cov........CHANCE    CHANCE    CHANCE    CHANCE    
+Chc of pcpn (%).90        80        100       80        
+Temp............70        72        74        75        
+RH..............100       100       100       100       
+20 FT wind......E 10G23   E 11G25   E 12G25   E 10G23   
+Mix hgt (ft)....500       1600      1800      1400      
+Transport wind..E 12      E 16      E 18      E 14      
+LVORI...........5         4         4         5         
+ADI.............13        28        31        25        
+
+$$
+Forecaster...Berry
+Requested by...Francis Marion National Forest
+Type of request...PRESCRIBED
+.TAG 2623433.0/CHS
+.DELDT 10/09/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov,cameron.purkis@usda.gov
+
