@@ -1,4 +1,374 @@
 archive_key,issuance_date,issuance_time_utc,issuance_time_local,timezone,project_name,project_type,forest,latitude,longitude,issuing_office,forecast_url,forecast_product_id,request_product_id,archive_file,forecast_text,coordinate_source,spot_id
+https://api.weather.gov/products/7a40685a-e902-4758-9763-902dfa476177,2026-10-14,2026-10-14 19:06:00 UTC,2026-10-14 15:06:00 EDT,America/New_York,Pond Ridge Wildlife Rx,PRESCRIBED,Daniel Boone National Forest,36.764,-84.3981,KJKL,https://spot.weather.gov/forecasts/2623773,https://api.weather.gov/products/7a40685a-e902-4758-9763-902dfa476177,https://api.weather.gov/products/bdf4105a-d5d0-4a11-ac5d-93c53f8b411b,Daniel_Boone_National_Forest/20261014__spot_2623773.0__project_Pond_Ridge_Wildlife_Rx.txt,"
+000
+FNUS73 KJKL 141906
+FWSJKL
+
+Spot Forecast for Pond Ridge Wildlife Rx...USFS
+National Weather Service Jackson KY
+306 PM EDT Wed Oct 14 2026
+
+Forecast is based on ignition time of 1200 EDT on October 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...A cold front is expected to stall north of the burn area
+later tonight and Thursday before returning north Thursday and Thursday
+night as low pressure system tracks from the Central U.S. into the Great
+Lakes. That systems cold front will barrel across the area on Friday, 
+leading to small chances for showers and the potential for wind gusts
+up to 25 mph.
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent). 
+Chance of thunder...10 percent. 
+Max temperature.....Around 87. 
+Min humidity........Around 52 percent. 
+Wind (20 ft)........Southwest 5 to 7 mph. 
+Mixing height.......Max 3800 ft AGL. 
+Transport winds.....Southwest to west 8 to 12 mph. 
+Vent Rate...........Poor (16200 knot-ft) to fair (38200 knot-ft). 
+
+TIME (EDT)      12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........50  63  48  45  30  48  
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+Chc of thdr (%).10  10  10  10  10  10  
+Temp............80  82  84  85  85  86  
+RH..............69  65  59  57  57  53  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   6   6   6   7   6   
+20 FT wind gust.12  13  14  14  14  13  
+Mix hgt (kft)...2.3 3.0 3.3 3.8 3.7 2.6 
+Transp wind dir.SW  W   W   SW  W   W   
+Transp wind spd.8   9   10  12  12  10  
+Vrate kt-ft/1K..16  24  29  38  38  24  
+Ventrate Cat....PR  PR  PR  FR  FR  PR  
+
+.THURSDAY NIGHT...
+
+Sky/weather.........Partly cloudy (25-45 percent). 
+Chance of thunder...10 percent. 
+Min temperature.....Around 66. 
+Max humidity........Around 81 percent. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph 
+                    early in the morning. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southwest 7 to 12 mph. 
+Vent Rate...........Poor (2900 knot-ft). 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........45  26  14  16  13  15  14  26  33  23  34  27  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).10  0   0   0   0   0   0   0   0   0   0   0   
+Temp............85  82  79  75  73  72  72  71  70  70  69  68  
+RH..............55  58  64  74  79  81  79  81  81  78  78  78  
+20 FT wind dir..SW  SW  S   S   S   S   S   SW  SW  SW  SW  SW  
+20 FT wind spd..5   3   3   5   5   5   5   5   5   5   5   6   
+20 FT wind gust.10  8   8   10  12  12  13  13  13  13  14  14  
+Mix hgt (kft)...1.3 0.5 0.4 0.4 0.4 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+Transp wind dir.SW  SW  S   S   SW  S   S   SW  SW  SW  SW  SW  
+Transp wind spd.7   8   8   9   9   10  10  10  10  10  12  12  
+Vrate kt-ft/1K..8   4   3   4   4   4   4   5   5   4   5   5   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). A chance of 
+                    showers mainly after 1500. 
+Chance of thunder...0 to 10 percent. 
+Max temperature.....Around 76. 
+Min humidity........Around 62 percent. 
+Wind (20 ft)........Southwest winds 7 to 10 mph through 1000, 
+                    then west to northwest around 10 mph with 
+                    gusts to around 24 mph. 
+Mixing height.......Max 4600 ft AGL. 
+Transport winds.....Southwest 10 to 18 mph through 1000, then
+                    west to northwest 15 to 19 mph. 
+Vent Rate...........Poor (4500 knot-ft) increasing to fair 
+                    (39600 knot-ft) to good (69100 knot-ft)
+                    in the afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........17  19  5   4   9   14  23  33  42  49  56  63  
+Weather cov.....                                        SCH CHC 
+Weather type....                                        RW  RW  
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   10  10  10  10  
+Temp............68  67  68  70  72  74  74  75  74  71  67  63  
+RH..............76  78  73  71  68  66  66  64  64  66  70  72  
+20 FT wind dir..SW  SW  SW  SW  SW  W   W   W   W   W   NW  NW  
+20 FT wind spd..9   8   8   8   10  12  10  12  12  12  12  12  
+20 FT wind gust.15  17  17  17  18  20  21  22  23  24  24  24  
+Mix hgt (kft)...0.5 0.5 0.6 0.8 2.2 3.6 3.8 4.4 4.6 4.2 3.3 2.8 
+Transp wind dir.SW  SW  SW  SW  SW  W   W   W   W   W   NW  NW  
+Transp wind spd.10  10  13  10  13  17  18  18  17  17  17  16  
+Vrate kt-ft/1K..5   5   7   8   25  53  61  68  69  62  48  40  
+Ventrate Cat....PR  PR  PR  PR  PR  FR  GD  GD  GD  GD  FR  FR  
+
+$$
+Forecaster...JP
+Requested by...Eddie Walden
+Type of request...PRESCRIBED
+.TAG 2623773.0/JKL
+.DELDT 10/14/26
+.FormatterVersion 2.0.0
+.EMAIL eddie.walden@usda.gov
+",,2623773.0
+https://api.weather.gov/products/466cdfb5-78fd-4514-8c1d-fef8676f159f,2026-10-14,2026-10-14 18:57:00 UTC,2026-10-14 14:57:00 EDT,America/New_York,Sandhill Wildlife Rx,PRESCRIBED,Daniel Boone National Forest,36.7704,-84.4032,KJKL,https://spot.weather.gov/forecasts/2623772,https://api.weather.gov/products/466cdfb5-78fd-4514-8c1d-fef8676f159f,https://api.weather.gov/products/8ec045a1-bfd6-4e83-b507-e36c1a11ec25,Daniel_Boone_National_Forest/20261014__spot_2623772.0__project_Sandhill_Wildlife_Rx.txt,"
+000
+FNUS73 KJKL 141857
+FWSJKL
+
+Spot Forecast for Sandhill Wildlife Rx...USFS
+National Weather Service Jackson KY
+257 PM EDT Wed Oct 14 2026
+
+Forecast is based on ignition time of 1200 EDT on October 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...A cold front is expected to stall north of the burn area
+later tonight and Thursday before returning north Thursday and Thursday
+night as low pressure system tracks from the Central U.S. into the Great
+Lakes. That systems cold front will barrel across the area on Friday, 
+leading to small chances for showers and the potential for wind gusts
+up to 25 mph.
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (30-50 percent). 
+Chance of thunder...10 percent. 
+Max temperature.....Around 87. 
+Min humidity........Around 52 percent. 
+Wind (20 ft)........Southwest winds 5 to 8 mph. 
+Mixing height.......Max 3800 ft AGL. 
+Transport winds.....Southwest to west 8 to 12 mph. 
+Vent Rate...........Poor (16200 knot-ft) increasing to to fair 
+                    (38200 knot-ft). 
+
+TIME (EDT)      12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........50  63  48  45  30  48  
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+Chc of thdr (%).10  10  10  10  10  10  
+Temp............80  82  84  85  85  86  
+RH..............69  65  59  57  57  53  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   6   6   6   7   6   
+20 FT wind gust.12  13  14  14  14  13  
+Mix hgt (kft)...2.3 3.0 3.3 3.8 3.7 2.6 
+Transp wind dir.SW  W   W   SW  W   W   
+Transp wind spd.8   9   10  12  12  10  
+Vrate kt-ft/1K..16  24  29  38  38  24  
+Ventrate Cat....PR  PR  PR  FR  FR  PR  
+
+.THURSDAY NIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent). 
+Chance of thunder...10 early, decreasing to 0 percent. 
+Min temperature.....Around 66. 
+Max humidity........Around 81 percent. 
+Wind (20 ft)........Southwest to south 3 to 6 mph. 
+Mixing height.......Decreasing to 400 ft AGL. 
+Transport winds.....Southwest to south 7 to 12 mph. 
+Vent Rate...........Poor (2900 knot-ft). 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........45  26  14  16  13  15  14  26  33  23  34  27  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).10  0   0   0   0   0   0   0   0   0   0   0   
+Temp............85  82  79  75  73  72  72  71  70  70  69  68  
+RH..............55  58  64  74  79  81  79  81  81  78  78  78  
+20 FT wind dir..SW  SW  S   S   S   S   S   SW  SW  SW  SW  SW  
+20 FT wind spd..5   3   3   5   5   5   5   5   5   5   5   6   
+20 FT wind gust.10  8   8   10  12  12  13  13  13  13  14  14  
+Mix hgt (kft)...1.3 0.5 0.4 0.4 0.4 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+Transp wind dir.SW  SW  S   S   SW  S   S   SW  SW  SW  SW  SW  
+Transp wind spd.7   8   8   9   9   10  10  10  10  10  12  12  
+Vrate kt-ft/1K..8   4   3   4   4   4   4   5   5   4   5   5   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). A chance of 
+                    showers mainly after 1500. 
+Chance of thunder...10 percent late. 
+Max temperature.....Around 76. 
+Min humidity........Around 62 percent. 
+Wind (20 ft)........Southwest 7 to 10 mph, becoming west to  
+                    northwest around 10 mph after 1100, with gusts
+                    to around 24 mph. 
+Mixing height.......Max  4600 ft AGL. 
+Transport winds.....Southwest to west 10 to 18 mph, becoming west
+                    to northwest 15 to 18 mph after 1100. 
+Vent Rate...........Poor (4500 knot-ft) early, increasing to fair
+                    (39600 knot-ft) to good (69400 knot-ft) in 
+                    the afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........17  19  5   4   9   14  23  33  42  49  56  63  
+Weather cov.....                                        SCH CHC 
+Weather type....                                        RW  RW  
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   10  10  10  10  
+Temp............68  67  68  70  72  74  74  75  74  71  67  63  
+RH..............76  78  73  71  68  66  66  64  64  66  70  72  
+20 FT wind dir..SW  SW  SW  SW  SW  W   W   W   W   W   NW  NW  
+20 FT wind spd..9   8   8   8   10  12  10  12  12  12  12  12  
+20 FT wind gust.15  17  17  17  18  20  21  22  23  24  24  24  
+Mix hgt (kft)...0.5 0.5 0.6 0.8 2.2 3.6 3.8 4.4 4.6 4.2 3.3 2.8 
+Transp wind dir.SW  SW  SW  SW  SW  W   W   W   W   W   NW  NW  
+Transp wind spd.10  10  13  10  13  17  18  18  17  17  17  16  
+Vrate kt-ft/1K..5   5   7   8   25  53  61  68  69  62  48  40  
+Ventrate Cat....PR  PR  PR  PR  PR  FR  GD  GD  GD  GD  FR  FR  
+
+$$
+Forecaster...JP
+Requested by...Eddie Walden
+Type of request...PRESCRIBED
+.TAG 2623772.0/JKL
+.DELDT 10/14/26
+.FormatterVersion 2.0.0
+.EMAIL eddie.walden@usda.gov
+",,2623772.0
+https://api.weather.gov/products/af71ad07-5134-4817-bc16-e34eeb09fe2d,2026-10-14,2026-10-14 18:42:00 UTC,2026-10-14 14:42:00 EDT,America/New_York,Marsh Creek Wildlife Rx,PRESCRIBED,Daniel Boone National Forest,36.7205,-84.364,KJKL,https://spot.weather.gov/forecasts/2623770,https://api.weather.gov/products/af71ad07-5134-4817-bc16-e34eeb09fe2d,https://api.weather.gov/products/40a7daa5-98e0-4d6b-943a-dd0d1bd99750,Daniel_Boone_National_Forest/20261014__spot_2623770.0__project_Marsh_Creek_Wildlife_Rx.txt,"
+000
+FNUS73 KJKL 141842
+FWSJKL
+
+Spot Forecast for Marsh Creek Wildlife Rx...USFS
+National Weather Service Jackson KY
+242 PM EDT Wed Oct 14 2026
+
+Forecast is based on ignition time of 1200 EDT on October 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...A cold front is expected to stall north of the burn area
+later tonight and Thursday before returning north Thursday and Thursday
+night as low pressure system tracks from the Central U.S. into the Great
+Lakes. That systems cold front will barrel across the area on Friday, 
+leading to small chances for showers and the potential for wind gusts
+up to 25 mph.
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (40-60 percent). 
+Chance of thunder...8 percent. 
+Max temperature.....Around 88. 
+Min humidity........Around 53 percent. 
+Wind (20 ft)........Southwest to west 4 to 6 mph. 
+Mixing height.......Max 3700 ft AGL. 
+Transport winds.....Southwest to west 8 to 11 mph. 
+Vent Rate...........Poor (18500 knot-ft) to marginal (33400 
+                    knot-ft). 
+
+TIME (EDT)      12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........51  58  49  38  35  44  
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+Chc of thdr (%).10  10  10  10  10  10  
+Temp............81  84  86  86  87  86  
+RH..............69  63  57  57  55  55  
+20 FT wind dir..SW  W   W   SW  SW  SW  
+20 FT wind spd..5   6   6   6   6   6   
+20 FT wind gust.12  13  14  14  14  13  
+Mix hgt (kft)...2.3 3.1 3.3 3.7 3.6 2.7 
+Transp wind dir.SW  W   W   SW  W   W   
+Transp wind spd.9   9   10  10  10  9   
+Vrate kt-ft/1K..19  25  30  33  32  22  
+Ventrate Cat....PR  PR  MG  MG  MG  PR  
+
+.THURSDAY NIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). 
+Chance of thunder...10 percent or less. 
+Min temperature.....Around 67. 
+Max humidity........Around 81 percent. 
+Wind (20 ft)........South to southwest at 3 to 6 mph. 
+Mixing height.......Decreasing to 400 ft AGL. 
+Transport winds.....Southwest to south 7 to 12 mph. 
+Vent Rate...........Decreasing to poor (2800 knot-ft). 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........43  25  14  15  11  15  15  28  33  24  32  25  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).10  0   0   0   0   0   0   0   0   0   0   0   
+Temp............85  82  77  75  73  72  72  71  71  70  69  68  
+RH..............57  61  71  76  79  81  79  81  79  78  81  81  
+20 FT wind dir..SW  SW  S   S   S   S   S   SW  SW  SW  SW  SW  
+20 FT wind spd..5   3   3   5   5   5   5   5   5   5   6   6   
+20 FT wind gust.10  8   8   10  12  12  13  12  13  13  14  15  
+Mix hgt (kft)...1.3 0.5 0.4 0.4 0.4 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+Transp wind dir.SW  SW  S   S   SW  S   S   SW  SW  SW  SW  SW  
+Transp wind spd.8   7   8   9   9   10  12  12  12  9   10  10  
+Vrate kt-ft/1K..9   3   3   4   4   4   5   5   5   4   4   5   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (25-35 percent), then increasing
+                    clouds with a chance of showers mainly after
+                    1500. 
+Chance of thunder...Max 10 percent. 
+Max temperature.....Around 77. 
+Min humidity........Around 63 percent. 
+Wind (20 ft)........Southwest winds 7 to 10 mph, becoming west to 
+                    northwest at 9 to 12 mph, with gusts to around 
+                    24 mph late in the afternoon. 
+Mixing height.......Max 4900 ft AGL. 
+Transport winds.....South to southwest west 10 to 16 mph, becoming
+                    west at 15 to 19 mph after 1000. 
+Vent Rate...........Poor (4500 knot-ft) early increasing fair 
+                    (39800 knot-ft) to good (73500 knot-ft) in the
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........18  18  5   3   9   14  23  32  41  48  55  61  
+Weather cov.....                                        SCH CHC 
+Weather type....                                        RW  RW  
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   10  10  10  10  
+Temp............68  68  68  70  73  74  75  76  75  72  68  64  
+RH..............78  76  76  73  68  69  66  64  64  68  70  75  
+20 FT wind dir..SW  SW  SW  SW  SW  W   W   W   W   W   NW  NW  
+20 FT wind spd..9   8   8   8   10  12  12  12  12  12  12  12  
+20 FT wind gust.15  17  17  17  18  20  21  22  23  24  24  24  
+Mix hgt (kft)...0.5 0.5 0.6 0.7 2.1 3.5 3.9 4.6 4.9 4.4 3.4 2.8 
+Transp wind dir.S   SW  SW  SW  SW  W   W   W   W   W   W   NW  
+Transp wind spd.10  10  13  12  14  17  18  18  17  17  16  16  
+Vrate kt-ft/1K..5   5   7   7   26  53  61  71  74  65  49  40  
+Ventrate Cat....PR  PR  PR  PR  PR  FR  GD  GD  GD  GD  FR  FR  
+
+$$
+Forecaster...JP
+Requested by...Eddie Walden
+Type of request...PRESCRIBED
+.TAG 2623770.0/JKL
+.DELDT 10/14/26
+.FormatterVersion 2.0.0
+.EMAIL eddie.walden@usda.gov
+",,2623770.0
 https://api.weather.gov/products/87b5cc6c-dbda-4295-acdd-4082dbb43de4,2026-10-09,2026-10-09 09:35:00 UTC,2026-10-09 05:35:00 EDT,America/New_York,Compartment 156 salvage,PRESCRIBED,Chattahoochee-Oconee National Forests,33.4049,-83.3833,KFFC,https://spot.weather.gov/forecasts/2623435,https://api.weather.gov/products/87b5cc6c-dbda-4295-acdd-4082dbb43de4,https://api.weather.gov/products/3c20f797-5d90-4fc0-911c-fdd3c8f78e0a,Chattahoochee_Oconee_National_Forests/20261009__spot_2623435.0__project_Compartment_156_salvage.txt,"
 000
 FNUS72 KFFC 090935
