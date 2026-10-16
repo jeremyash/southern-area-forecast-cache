@@ -1,0 +1,134 @@
+
+000
+FNUS73 KJKL 151041
+FWSJKL
+
+Spot Forecast for Sandhill Wildlife Rx...USFS
+National Weather Service Jackson KY
+641 AM EDT Thu Oct 15 2026
+
+Forecast is based on ignition time of 1200 EDT on October 15. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...A cold front will stall east-west across 
+Kentucky today, and then turn around and head back north as 
+a warm front tonight. It is not expected to pass through 
+the burn site, but will be close enough to give a slight 
+chance of showers this morning. Shower, and possibly 
+thunderstorm development should be focused slightly further  
+north this afternoon. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent). 
+Chance of thunder...10 percent. 
+Max temperature.....Around 87. 
+Min humidity........48 percent. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the afternoon. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....West 9 to 13 mph. 
+Vent Rate...........Poor (12100 knot-ft), increasing to 
+                    marginal (36600 knot-ft) early 
+                    in the afternoon, then increasing to fair 
+                    (43700 knot-ft) late in the afternoon. 
+
+TIME (EDT)      12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........65  61  57  52  47  42  
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+Chc of thdr (%).10  10  10  10  10  10  
+Temp............80  82  85  86  87  86  
+RH..............69  63  57  53  50  51  
+20 FT wind dir..SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   6   6   7   7   6   
+20 FT wind gust.12  13  14  14  14  13  
+Mix hgt (kft)...1.5 2.9 3.7 4.0 4.3 3.3 
+Transp wind dir.W   W   W   W   W   W   
+Transp wind spd.9   10  12  13  13  12  
+Vrate kt-ft/1K..12  27  37  44  47  33  
+Ventrate Cat....PR  PR  PR  FR  FR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). 
+Chance of thunder...5 percent. 
+Min temperature.....Around 69. 
+Max humidity........74 percent. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph 
+                    overnight, then becoming light overnight 
+                    becoming southwest around 5 mph after 3 am. 
+Mixing height.......100 ft AGL. 
+Transport winds.....Southwest 5 to 8 mph. 
+Vent Rate...........Poor (5800 knot-ft, decreasing to 400 
+                    knot-ft early in the evening). 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........37  32  27  26  26  25  25  24  23  19  16  12  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).10  0   0   0   0   0   0   0   0   0   0   0   
+Temp............83  80  78  77  75  74  73  73  72  72  71  71  
+RH..............57  60  64  67  71  74  73  71  71  68  71  68  
+20 FT wind dir..SW  SW  SW  S   S   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..5   5   3   5   5   5   6   5   5   5   6   6   
+20 FT wind gust.10  8   6   7   7   7   8   7   7   7   8   8   
+Mix hgt (kft)...1.8 1.0 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.W   SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.8   7   5   5   5   6   6   6   6   7   7   7   
+Vrate kt-ft/1K..13  6   0   0   0   1   1   1   1   1   1   1   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.FRIDAY...
+
+Sky/weather.........Sunny (10-20 percent) then becoming partly 
+                    sunny (60-70 percent) then becoming cloudy 
+                    (90-100 percent). Slight chance of rain showers 
+                    early in the afternoon. Chance of rain showers 
+                    late in the afternoon. 
+Chance of thunder...6 percent. 
+Max temperature.....Around 74. 
+Min humidity........64 percent. 
+Wind (20 ft)........Southwest winds 6 to 10 mph shifting to the 
+                    northwest 9 to 10 mph with gusts to around 23 
+                    mph in the afternoon. 
+Mixing height.......2500 ft AGL. 
+Transport winds.....Southwest 7 to 16 mph shifting to the northwest 
+                    16 to 18 mph in the afternoon. 
+Vent Rate...........Poor (500 knot-ft), increasing to marginal 
+                    (33200 knot-ft) in the morning, increasing 
+                    to fair (39600 knot-ft) in the afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........8   4   0   11  22  33  53  74  94  95  95  96  
+Weather cov.....                                SCH CHC CHC CHC 
+Weather type....                                RW  RW  RW  RW  
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   10  10  10  10  
+Temp............70  70  69  71  72  74  70  67  63  60  57  55  
+RH..............68  68  73  68  68  66  76  81  90  93  93  90  
+20 FT wind dir..SW  SW  SW  SW  SW  W   W   W   W   NW  NW  NW  
+20 FT wind spd..7   7   7   8   9   10  12  12  12  12  12  10  
+20 FT wind gust.9   9   9   12  15  17  18  21  23  23  23  22  
+Mix hgt (kft)...0.1 0.1 0.1 0.5 1.3 1.7 1.7 1.5 1.4 1.7 2.2 2.5 
+Transp wind dir.SW  SW  SW  SW  W   W   W   W   NW  NW  NW  NW  
+Transp wind spd.7   8   8   10  14  16  16  16  17  17  17  18  
+Vrate kt-ft/1K..1   1   1   5   16  24  23  21  22  26  33  40  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...HAL
+Requested by...Eddie Walden
+Type of request...PRESCRIBED
+.TAG 2623772.0/JKL
+.DELDT 10/14/26
+.FormatterVersion 2.0.0
+.EMAIL eddie.walden@usda.gov
+
