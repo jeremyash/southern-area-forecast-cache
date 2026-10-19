@@ -1,4 +1,161 @@
 archive_key,issuance_date,issuance_time_utc,issuance_time_local,timezone,project_name,project_type,forest,latitude,longitude,issuing_office,forecast_url,forecast_product_id,request_product_id,archive_file,forecast_text,coordinate_source,spot_id
+https://api.weather.gov/products/68f5dbf3-2617-495b-a8b0-bb59412a51a5,2026-10-18,2026-10-18 09:50:00 UTC,2026-10-18 05:50:00 EDT,America/New_York,Goodin Ridge RX,PRESCRIBED,Daniel Boone National Forest,36.9462,-84.379,KJKL,https://spot.weather.gov/forecasts/2623903,https://api.weather.gov/products/68f5dbf3-2617-495b-a8b0-bb59412a51a5,https://api.weather.gov/products/e90763c2-34c1-48b8-891b-c157f4994e1f,Daniel_Boone_National_Forest/20261018__spot_2623903.0__project_Goodin_Ridge_RX.txt,"
+000
+FNUS73 KJKL 180950 AAA
+FWSJKL
+
+Spot Forecast for Goodin Ridge RX...UPDATED
+National Weather Service Jackson KY
+550 AM EDT Sun Oct 18 2026
+
+Forecast is based on ignition time of 1000 EDT on October 18. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Drier air and high pressure have moved into the 
+Ohio Valley this weekend. This benign pattern will remain in 
+place through much of the week, and result in a high potential 
+for more frost in valley locations tonight. Rain free weather is 
+expected for most of the new week with afternoon minimal humidity
+levels near 25 percent each day. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 66. 
+Min humidity........23 percent. 
+Dewpoint............33 decreasing to 29 in the afternoon. 
+Max apparent temp...66. 
+Wind (20 ft)........Light winds becoming east around 5 mph in the 
+                    afternoon. 
+Ridgetop wind.......East 6 to 7 mph. 
+Mixing height.......2800 ft AGL. 
+Transport winds.....East 6 to 9 mph. 
+Vent Rate...........Poor (2200 knot-ft) increasing to poor (18000 
+                    knot-ft) in the afternoon. 
+LVORI...............3. 
+ADI.................6 to 29. 
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   1   2   3   2   2   2   3   
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   
+Temp............44  49  53  59  62  64  65  66  
+Dewpoint........35  35  33  31  30  29  28  30  
+RH..............70  58  46  34  30  27  25  26  
+Aparnt tmp (F)..41  47  53  59  62  64  65  66  
+20 FT wind dir..E   E   E   E   E   E   E   E   
+20 FT wind spd..5   5   5   5   5   6   5   5   
+20 FT wind gust.12  12  12  10  10  10  9   9   
+Ridge wind dir..E   E   E   E   E   E   E   E   
+Ridge wind spd..6   6   6   6   6   7   6   6   
+Mix hgt (kft)...0.4 0.5 1.0 1.8 2.3 2.4 2.6 2.8 
+Transp wind dir.E   E   E   E   E   E   E   E   
+Transp wind spd.6   7   8   9   9   9   9   8   
+LVORI...........3   3   2   2   2   2   2   2   
+ADI.............6   7   10  20  26  28  29  28  
+Vrate kt-ft/1K..2   3   7   14  18  19  20  19  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 38. 
+Max humidity........96 percent. 
+Dewpoint............34 increasing to 36 in the evening. 
+Min apparent temp...39. 
+Wind (20 ft)........Light winds. 
+Ridgetop wind.......Northeast 1 to 5 mph. 
+Mixing height.......0 ft AGL. 
+Transport winds.....East 3 to 7 mph. 
+Vent Rate...........Poor (300 knot-ft). 
+LVORI...............4. 
+ADI.................2 to 19. 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........2      1      1      3      3      4      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Chc of thdr (%).0      0      0      0      0      0      
+Temp............63     57     49     46     43     41     
+Dewpoint........32     34     36     37     37     36     
+RH..............31     42     61     71     79     82     
+Aparnt tmp (F)..63     57     49     46     43     41     
+20 ft wind......E 3    NE 3   E 1    N 0    N 0    N 0    
+20 ft wind gust.8      8      6      3      2      2      
+Ridgetop wind...E 5    NE 5   E 2    E 1    N 1    N 1    
+Mix hgt (ft)....2100   100    100    100    BLW100 BLW100 
+Transport wind..E 7    NE 5   E 3    E 3    E 3    E 3    
+LVORI...........2      2      3      3      4      5      
+ADI.............19     2      2      2      2      2      
+Vrate kt-ft/1K..13     0      0      0      0      0      
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   POOR   
+
+.MONDAY...
+
+Sky/weather.........Sunny (0-10 percent). Areas of fog early. 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 70. 
+Min humidity........25 percent. 
+Dewpoint............36 increasing to 39 in the late morning, then 
+                    decreasing to 36 in the afternoon. 
+Min apparent temp...38. 
+Wind (20 ft)........Light winds. 
+Ridgetop wind.......North 1 to 5 mph. 
+Mixing height.......3100 ft AGL. 
+Transport winds.....East 2 to 6 mph shifting to the northeast 7 to 
+                    9 mph in the afternoon. 
+Vent Rate...........Poor (100 knot-ft) increasing to poor (18300 
+                    knot-ft) in the afternoon. 
+LVORI...............5. 
+ADI.................1 to 35. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   4   1   1   1   0   1   2   2   5   4   3   
+Weather cov.....        ARS                                     
+Weather type....        FOG                                     
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............39  39  38  42  49  55  60  64  67  69  70  70  
+Dewpoint........34  34  37  38  40  41  41  40  40  37  35  37  
+RH..............82  82  96  86  71  59  49  41  37  31  27  30  
+Aparnt tmp (F)..39  39  38  42  49  55  60  64  67  69  70  70  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..0   0   0   0   0   0   2   2   3   3   3   3   
+20 FT wind gust.1   1   1   2   2   2   5   6   8   8   8   8   
+Ridge wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+Ridge wind spd..1   1   1   1   1   1   3   3   5   5   5   5   
+Mix hgt (kft)...0.1 0.1 0.1 0.3 0.8 1.0 1.5 2.5 3.1 3.1 3.1 3.1 
+Transp wind dir.E   E   E   E   E   E   E   NE  NE  NE  NE  NE  
+Transp wind spd.3   2   2   2   2   2   3   6   7   8   9   9   
+LVORI...........5   5   8   5   3   3   2   2   2   1   1   1   
+ADI.............1   3   2   2   2   3   7   17  26  31  34  35  
+Vrate kt-ft/1K..0   0   0   1   1   2   5   12  18  22  24  25  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...GREIF
+Requested by...Xavier Singleton
+Type of request...PRESCRIBED
+.TAG 2623903.0/JKL
+.DELDT 10/17/26
+.FormatterVersion 2.0.0
+.EMAIL xavier.singleton@usda.gov
+",,2623903.0
 https://api.weather.gov/products/845f223e-672b-4315-8335-c937a15fc01e,2026-10-17,2026-10-17 10:00:00 UTC,2026-10-17 06:00:00 EDT,America/New_York,Goodin Ridge RX,PRESCRIBED,Daniel Boone National Forest,36.9462,-84.379,KJKL,https://spot.weather.gov/forecasts/2623903,https://api.weather.gov/products/845f223e-672b-4315-8335-c937a15fc01e,https://api.weather.gov/products/e90763c2-34c1-48b8-891b-c157f4994e1f,Daniel_Boone_National_Forest/20261017__spot_2623903.0__project_Goodin_Ridge_RX.txt,"
 000
 FNUS73 KJKL 171000
