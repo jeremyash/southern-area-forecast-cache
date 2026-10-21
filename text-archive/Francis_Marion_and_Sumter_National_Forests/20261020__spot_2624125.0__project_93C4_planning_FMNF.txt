@@ -1,0 +1,112 @@
+
+000
+FNUS72 KCHS 201833
+FWSCHS
+
+Spot Forecast for 93C4 planning FMNF...USFS
+National Weather Service Charleston SC
+233 PM EDT Tue Oct 20 2026
+
+Forecast is based on ignition time of 0900 EDT on October 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+High pressure will extend across the region this week as a strong
+nor'easter meanders off the Mid-Atlantic coast. This will keep
+dry conditions in place with no chances for measurable rainfall
+or fog through Wednesday night.
+
+The ventilation rate will remain above 34000 from late Wednesday 
+morning through late afternoon. Light winds can be expected for the 
+next several nights, resulting in poor to very poor dispersion.
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 73. 
+Min humidity........33 percent. 
+Wind (20 ft)........North around 5 mph with gusts to around
+                    14 mph. 
+Mixing Height.......Max 3800 ft AGL. 
+Transport winds.....North 10 to 14 mph. 
+Max ADI.............64. 
+Inversion End.......1000 
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........31  26  8   2   1   2   0   2   2   
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............52  58  62  66  69  71  72  73  71  
+RH..............100 88  70  56  46  38  34  33  38  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   
+20 FT wind spd..4   4   5   5   4   4   4   4   3   
+20 FT wind gust.13  14  14  14  13  13  13  11  11  
+Mix hgt (kft)...0.9 1.4 1.9 2.6 3.0 3.5 3.8 3.8 3.2 
+Transp wind dir.N   N   N   N   N   N   N   N   N   
+Transp wind spd.10  10  10  14  14  14  14  14  14  
+LVORI...........9   4   3   1   1   1   1   1   1   
+ADI.............6   22  34  48  51  58  63  64  50  
+
+.WEDNESDAY NIGHT...
+
+Sky/weather.........Clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 47. 
+Max humidity........91 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........7. 
+Min ADI.............1. 
+Inversion Begin.....1900 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........2      4      2      1      1      0      
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............68     60     56     53     51     49     
+RH..............42     60     72     80     86     89     
+20 ft wind......N 2    N 1    N 0    N 0    N 0    N 1    
+20 ft wind gust.7      7      4      4      5      5      
+Mix hgt (ft)....1200   400    400    400    400    400    
+Transport wind..N 4    N 4    N 0    N 0    N 0    N 2    
+LVORI...........2      3      4      6      6      7      
+ADI.............1      1      1      1      1      1      
+
+.THURSDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 73. 
+Min humidity........35 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4100 ft AGL. 
+Transport winds.....Light winds becoming north 6 to 10 mph in the 
+                    late morning and afternoon. 
+Max ADI.............51. 
+Inversion End.......1000 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........1         0         0         1         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............49        50        67        73        
+RH..............91        86        47        36        
+20 FT wind......N 1G7     N 1G7     N 3G11    N 3G9     
+Mix hgt (ft)....400       600       2800      4100      
+Transport wind..N 2       N 6       N 10      N 10      
+LVORI...........8         6         1         1         
+ADI.............1         1         36        51        
+
+$$
+Forecaster...Dixon
+Requested by...Will McCann
+Type of request...PRESCRIBED
+.TAG 2624125.0/CHS
+.DELDT 10/20/26
+.FormatterVersion 2.0.0
+.EMAIL william.mccann@usda.gov,kelly.wetzelwilson@usda.gov
+
