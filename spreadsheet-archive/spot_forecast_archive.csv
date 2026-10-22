@@ -1,4 +1,754 @@
 archive_key,issuance_date,issuance_time_utc,issuance_time_local,timezone,project_name,project_type,forest,latitude,longitude,issuing_office,forecast_url,forecast_product_id,request_product_id,archive_file,forecast_text,coordinate_source,spot_id
+https://api.weather.gov/products/295b2b81-9d21-489f-977f-3e66d4afb914,2026-10-21,2026-10-21 17:49:00 UTC,2026-10-21 13:49:00 EDT,America/New_York,FMF C93B+93C3 Planning,PRESCRIBED,Francis Marion and Sumter National Forests,33.1127,-79.7668,KCHS,https://spot.weather.gov/forecasts/2624224,https://api.weather.gov/products/295b2b81-9d21-489f-977f-3e66d4afb914,https://api.weather.gov/products/84062b98-e431-49dd-bc4a-d3d0f14cb4cb,Francis_Marion_and_Sumter_National_Forests/20261021__spot_2624224.0__project_FMF_C93B_93C3_Planning.txt,"
+000
+FNUS72 KCHS 211749
+FWSCHS
+
+Spot Forecast for FMF C93B+93C3 Planning...USDA Forest Service
+National Weather Service Charleston SC
+149 PM EDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 0900 EDT on October 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail across the area through this 
+weekend and into early next week. Relative humidity values could 
+get as low as 30 percent Thursday afternoon. Winds will mostly be 
+out of the north on Thursday, though a weak sea breeze could 
+reach the site by the early evening hours. Fog is not expected 
+to be an issue Thursday night and Friday morning. Winds will 
+likely go calm Thursday night, but begin to pick up by sunrise 
+Friday.
+
+.THURSDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 73. 
+Min humidity........31 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4200 ft AGL. 
+Transport winds.....Light winds becoming north around 10 mph in the 
+                    afternoon. 
+Max ADI.............52. 
+Inversion End.......1000.
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   0   1   2   1   2   0   2   2   
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............50  58  64  67  70  72  73  73  72  
+RH..............80  64  52  43  35  31  33  33  35  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   
+20 FT wind spd..1   1   2   2   3   3   2   2   1   
+20 FT wind gust.5   5   9   9   11  9   9   9   7   
+Mix hgt (kft)...0.4 0.9 1.7 2.6 3.4 3.9 4.2 4.2 3.8 
+Transp wind dir.N   N   N   N   N   N   N   N   N   
+Transp wind spd.4   4   4   10  10  10  10  10  10  
+LVORI...........6   3   2   1   1   1   1   1   1   
+ADI.............1   1   20  34  43  49  52  46  37  
+
+.THURSDAY NIGHT...
+
+Sky/weather.........Clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 47. 
+Max humidity........89 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........7. 
+Min ADI.............1. 
+Inversion Begin.....1900.
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........3         2         1         1         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............69        58        53        49        
+RH..............42        69        83        89        
+20 FT wind......N 0G4     N 0G4     N 0G2     N 2G9     
+Mix hgt (ft)....1200      400       400       400       
+Transport wind..N 2       N 0       N 0       N 2       
+LVORI...........2         4         6         7         
+ADI.............1         1         1         1         
+
+.FRIDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 70. 
+Min humidity........42 percent. 
+Wind (20 ft)........Light winds becoming northeast around 5 mph 
+                    with gusts to around 14 mph late in the 
+                    morning, then becoming light late in the 
+                    afternoon. 
+Mixing Height.......Max 4300 ft AGL. 
+Transport winds.....Light winds becoming northeast 10 to 14 mph in 
+                    the late morning and afternoon. 
+Max ADI.............65. 
+Inversion End.......1000.
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........1            0            1            
+Weather type....NONE         NONE         NONE         
+Tstm cov........                                       
+Chc of pcpn (%).0            0            0            
+Temp............47           55           68           
+RH..............86           61           43           
+20 FT wind......N 3G11       NE 4G13      NE 5G13      
+Mix hgt (ft)....400          1600         4000         
+Transport wind..N 4          NE 10        NE 14        
+LVORI...........6            2            1            
+ADI.............4            27           60           
+
+$$
+
+Forecaster...Holloway
+Requested by...Kelly Wetzel
+Type of request...PRESCRIBED
+.TAG 2624224.0/CHS
+.DELDT 10/21/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+",,2624224.0
+https://api.weather.gov/products/16a98d9c-9cb0-4d41-ad38-4b9ff1e1008c,2026-10-21,2026-10-21 17:48:00 UTC,2026-10-21 13:48:00 EDT,America/New_York,FMF 204B Planning,PRESCRIBED,Francis Marion and Sumter National Forests,33.0233,-79.6833,KCHS,https://spot.weather.gov/forecasts/2624226,https://api.weather.gov/products/16a98d9c-9cb0-4d41-ad38-4b9ff1e1008c,https://api.weather.gov/products/7076e51f-3023-4ddc-b37e-2ae33e3079bc,Francis_Marion_and_Sumter_National_Forests/20261021__spot_2624226.0__project_FMF_204B_Planning.txt,"
+000
+FNUS72 KCHS 211748
+FWSCHS
+
+Spot Forecast for FMF 204B Planning...USDA Forest Service
+National Weather Service Charleston SC
+148 PM EDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 0900 EDT on October 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail across the area through this 
+weekend and into early next week. Relative humidity values could 
+get as low as 30 percent Thursday afternoon. Winds will mostly be 
+out of the north on Thursday, though a weak sea breeze could 
+reach the site by the early evening hours. Fog is not expected 
+to be an issue Thursday night and Friday morning. Winds will 
+likely go calm Thursday night, but begin to pick up by sunrise 
+Friday.
+
+.THURSDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 73. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 3900 ft AGL. 
+Transport winds.....North 6 to 10 mph. 
+Max ADI.............48. 
+Inversion End.......1000.
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   1   1   2   2   2   2   2   3   
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............50  58  64  67  70  71  72  73  71  
+RH..............83  67  56  47  39  36  37  37  41  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   
+20 FT wind spd..2   2   3   2   2   2   2   1   0   
+20 FT wind gust.9   9   9   9   9   9   9   7   7   
+Mix hgt (kft)...0.5 0.9 1.7 2.5 3.2 3.7 3.9 3.7 3.0 
+Transp wind dir.N   N   N   N   N   N   N   N   N   
+Transp wind spd.6   6   6   10  10  10  10  10  10  
+LVORI...........5   3   2   1   1   1   1   1   2   
+ADI.............4   4   22  32  41  46  48  41  30  
+
+.THURSDAY NIGHT...
+
+Sky/weather.........Clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 48. 
+Max humidity........89 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........7. 
+Min ADI.............1. 
+Inversion Begin.....1900.
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........4         2         1         1         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............68        59        55        51        
+RH..............51        69        80        89        
+20 FT wind......N 0G5     N 0G4     N 0G4     N 2G11    
+Mix hgt (ft)....1300      500       400       500       
+Transport wind..N 2       N 0       N 2       N 4       
+LVORI...........2         4         6         7         
+ADI.............1         1         1         2         
+
+.FRIDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 70. 
+Min humidity........49 percent. 
+Wind (20 ft)........Light winds becoming northeast 5 to 6 mph with 
+                    gusts to around 16 mph in the late morning and 
+                    afternoon. 
+Mixing Height.......Max 3900 ft AGL. 
+Transport winds.....Northeast 6 to 14 mph. 
+Max ADI.............64. 
+Inversion End.......1000.
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........1            0            1            
+Weather type....NONE         NONE         NONE         
+Tstm cov........                                       
+Chc of pcpn (%).0            0            0            
+Temp............48           56           68           
+RH..............86           64           49           
+20 FT wind......N 3G13       NE 5G14      NE 5G13      
+Mix hgt (ft)....500          1600         3900         
+Transport wind..N 6          NE 12        NE 14        
+LVORI...........5            2            1            
+ADI.............5            29           64           
+
+$$
+
+Forecaster...Holloway
+Requested by...kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2624226.0/CHS
+.DELDT 10/21/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+",,2624226.0
+https://api.weather.gov/products/e9f8ddd6-e9e3-4e07-8721-ebecf5834ec5,2026-10-21,2026-10-21 09:38:00 UTC,2026-10-21 04:38:00 CDT,America/Chicago,Spear RX,PRESCRIBED,William B. Bankhead National Forest,34.1318,-87.3089,KHUN,https://spot.weather.gov/forecasts/2624192,https://api.weather.gov/products/e9f8ddd6-e9e3-4e07-8721-ebecf5834ec5,https://api.weather.gov/products/49e92af4-4f9c-4e11-a346-069403d5ccff,William_B_Bankhead_National_Forest/20261021__spot_2624192.0__project_Spear_RX.txt,"
+000
+FNUS74 KHUN 210938
+FWSHUN
+
+Spot Forecast for Spear RX...USFS
+National Weather Service Huntsville AL
+438 AM CDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 0900 CDT on October 21. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry conditions are forecast through the week. At ignition time, mixing 
+heights are forecast to be 500ft along with light/variable transport 
+winds from the N-NE. By noon, mixing heights are forecast to rise above 
+3000ft. and will remain in the 3000-4000ft range until between 4-5 PM 
+when mixing heights decrease below 2000ft once again and remain under 
+1000ft overnight into Thursday. Min RH values are forecast to drop to 
+near 30%. 
+
+Similar conditions anticipated Thursday during which mixing heights 
+remain under 2000ft until between 11 AM and noon. Transport winds are 
+forecast to be around 8-12 mph from the N-NE. Min RH values will likely 
+drop to around 30-35%.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Temperature.........55 at ignition...Max 76. 
+RH..................77 percent at ignition...Min 31 percent. 
+Wind (20 ft)........Winds north at 0 mph at ignition...otherwise 
+                    Light winds. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Mixing height.......500 ft AGL at ignition...otherwise 4900 ft AGL. 
+Transport winds.....Northeast 5 to 6 mph. 
+LVORI...............4. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........1   1   0   0   2   2   3   2   3   
+WEATHER COV.....                                    
+WEATHER TYPE....                                    
+TEMP............55  63  68  72  74  75  76  74  73  
+RH..............77  58  47  40  35  32  31  32  35  
+20 FT WIND DIR..000 000 000 000 000 000 000 010 000 
+20 FT WIND SPD..0   0   0   0   0   0   0   1   0   
+20 FT WIND GUST.3   5   3   3   5   5   6   7   6   
+MIX HGT (KFT)...0.5 0.8 1.7 3.2 4.4 4.7 4.9 4.6 1.9 
+TRANSP WIND DIR.050 060 040 030 020 020 020 010 000 
+TRANSP WIND SPD.5   5   5   6   6   6   6   6   6   
+DISPERSION IDX..2   2   10  23  32  34  35  34  15  
+LVORI...........6   2   2   2   1   1   1   2   2   
+CWR.............0   0   0   0   0   0   0   0   0   
+CHC OF PCPN (%).0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Temperature.........Min 44. 
+RH..................Max 92 percent. 
+Wind (20 ft)........Light winds. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Mixing height.......300 ft AGL. 
+Transport winds.....North 5 to 9 mph. 
+LVORI...............4. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+SKY (%).........2   2   1   4   2   1   3   1   3   1   2   7   
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............69  60  56  54  53  51  50  50  48  47  46  46  
+RH..............47  69  77  80  83  86  86  83  86  86  87  87  
+20 FT WIND DIR..000 000 000 000 000 000 000 000 000 350 350 350 
+20 FT WIND SPD..0   0   0   0   0   0   0   0   0   1   1   1   
+20 FT WIND GUST.6   6   5   5   5   6   7   7   8   9   10  10  
+MIX HGT (KFT)...0.5 0.3 0.4 0.3 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+TRANSP WIND DIR.000 010 000 000 010 020 010 010 010 010 020 010 
+TRANSP WIND SPD.5   6   6   7   7   7   8   9   9   9   9   9   
+DISPERSION IDX..3   2   2   2   3   3   4   4   4   4   4   4   
+LVORI...........2   4   4   4   5   5   5   5   5   5   6   6   
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+CHC OF PCPN (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Temperature.........Max 74. 
+RH..................Min 33 percent. 
+Wind (20 ft)........Light winds becoming north around 5 mph in the 
+                    afternoon, then becoming light late in the 
+                    afternoon. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Mixing height.......4200 ft AGL. 
+Transport winds.....North 8 to 12 mph. 
+LVORI...............4. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........11  11  7   4   0   0   0   1   1   2   1   2   
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............45  44  47  55  63  67  71  72  73  74  73  72  
+RH..............87  88  92  78  58  50  41  37  34  33  34  36  
+20 FT WIND DIR..350 350 350 010 010 020 020 020 020 010 010 000 
+20 FT WIND SPD..1   1   2   2   2   3   5   5   5   5   5   2   
+20 FT WIND GUST.10  10  10  9   9   10  12  12  12  12  13  10  
+MIX HGT (KFT)...0.4 0.4 0.4 0.8 1.2 2.1 3.0 3.6 4.1 4.2 4.2 1.7 
+TRANSP WIND DIR.010 020 020 020 030 030 030 030 020 020 010 010 
+TRANSP WIND SPD.9   8   8   8   9   9   10  10  10  10  12  8   
+DISPERSION IDX..4   4   4   4   4   24  38  45  50  51  57  18  
+LVORI...........6   6   6   6   2   2   2   1   1   1   2   2   
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+CHC OF PCPN (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...Cramer
+Requested by...Craig
+Type of request...PRESCRIBED
+.TAG 2624192.0/HUN
+.DELDT 10/21/26
+.FormatterVersion 2.0.0
+.EMAIL gary.c.moore@usda.gov,kerry.clark@usda.gov
+",,2624192.0
+https://api.weather.gov/products/7e60844f-2d99-44d0-a40d-cc3a5bb21351,2026-10-21,2026-10-21 09:28:00 UTC,2026-10-21 05:28:00 EDT,America/New_York,TN_CNF_LAKE_EDGE_RX,PRESCRIBED,Cherokee National Forest,36.5021,-82.0642,KMRX,https://spot.weather.gov/forecasts/2623975,https://api.weather.gov/products/7e60844f-2d99-44d0-a40d-cc3a5bb21351,https://api.weather.gov/products/22e11f2f-79c4-4729-9b34-ee7a05081529,Cherokee_National_Forest/20261021__spot_2623975.1__project_TN_CNF_LAKE_EDGE_RX.txt,"
+000
+FNUS74 KMRX 210928
+FWSMRX
+
+Spot Forecast for TN_CNF_LAKE_EDGE_RX...TN-CNF-USFS
+National Weather Service Morristown TN
+528 AM EDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 0600 EDT on October 21. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+ 
+...LOW AFTERNOON RELATIVE HUMIDITY EACH AFTERNOON FOR AT LEAST 
+THE NEXT SEVERAL DAYS...
+
+Low afternoon RH values again today and tomorrow under generally 
+high pressure. Winds will mainly be light today, but if there is a
+predominant wind direction it will be from the north heading into
+this afternoon. Weather is a copy and paste for tomorrow. 
+
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). Patchy fog early in the 
+                    morning. 
+Max temperature.....Around 70. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4200 ft AGL. 
+Transport winds.....Southeast 3 to 7 mph shifting to the north 3 to 
+                    9 mph late in the morning. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   6   4   2   3   3   3   3   3   3   2   2   
+Weather cov.....PTY PTY PTY                                     
+Weather type....FOG FOG FOG                                     
+Tstm cov........                                                
+Temp............43  43  43  46  53  58  61  64  67  69  69  70  
+RH..............89  89  89  83  66  57  50  41  36  32  28  29  
+20 FT wind dir..E   E   E   E   NE  N   NW  NW  NW  NW  N   N   
+20 FT wind spd..2   2   2   2   1   1   1   3   3   4   4   4   
+20 FT wind gust.6   5   4   5   2   2   4   5   6   6   6   6   
+Mix hgt (kft)...0.4 0.4 0.4 0.4 0.6 1.3 2.3 2.9 3.4 3.8 4.2 3.7 
+Transp wind dir.E   SE  SE  E   E   NW  N   N   N   N   N   N   
+Transp wind spd.7   7   7   5   3   3   5   6   7   7   8   9   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). Patchy fog after 3 
+                    am. 
+Min temperature.....Around 43. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....North 7 to 8 mph shifting to the northeast 5 to 
+                    6 mph late in the evening. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........1   1   2   3   6   6   6   8   14  15  16  17  
+Weather cov.....                                        PTY PTY 
+Weather type....                                        FOG FOG 
+Tstm cov........                                                
+Temp............68  64  58  55  53  51  49  48  46  47  46  44  
+RH..............33  40  51  61  71  74  77  83  89  93  93  100 
+20 FT wind dir..N   N   NE  NE  N   N   N   N   N   N   N   N   
+20 FT wind spd..2   2   1   1   0   0   0   0   0   0   0   0   
+20 FT wind gust.6   5   5   4   2   2   2   2   2   2   2   2   
+Mix hgt (kft)...1.2 0.5 0.4 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.N   N   N   N   NE  NE  E   NE  NE  NE  NE  NE  
+Transp wind spd.8   8   7   7   7   6   6   6   6   5   5   5   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (5-15 percent). Patchy fog early in the 
+                    morning. 
+Max temperature.....Around 67. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds becoming north around 5 mph late in 
+                    the afternoon. 
+Mixing height.......4000 ft AGL. 
+Transport winds.....North 3 to 9 mph increasing to around 8 mph 
+                    late in the afternoon. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........18  20  16  15  17  19  14  9   4   3   2   2   
+Weather cov.....PTY PTY PTY                                     
+Weather type....FOG FOG FOG                                     
+Tstm cov........                                                
+Temp............44  43  43  47  52  55  59  62  64  65  66  67  
+RH..............96  100 100 100 80  69  55  46  41  37  36  33  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..0   0   0   0   0   2   3   3   4   5   5   5   
+20 FT wind gust.1   2   2   2   2   4   5   6   6   7   7   8   
+Mix hgt (kft)...0.4 0.4 0.4 0.6 1.2 2.0 2.3 2.4 2.7 3.8 4.0 3.3 
+Transp wind dir.NE  NE  NE  NE  N   N   N   N   N   N   N   N   
+Transp wind spd.5   3   3   3   5   6   7   8   8   9   9   8   
+
+$$
+Forecaster...Nathan Wellington
+Requested by...Maxwell White
+Type of request...PRESCRIBED
+.TAG 2623975.1/MRX
+.DELDT 10/21/26
+.FormatterVersion 2.0.0
+.EMAIL maxwell.white@usda.gov
+",,2623975.1
+https://api.weather.gov/products/ec2bba20-ac02-49c0-a385-59225df8b7be,2026-10-21,2026-10-21 07:50:00 UTC,2026-10-21 03:50:00 EDT,America/New_York,156 salvage,PRESCRIBED,Chattahoochee-Oconee National Forests,33.4043,-83.3841,KFFC,https://spot.weather.gov/forecasts/2624183,https://api.weather.gov/products/ec2bba20-ac02-49c0-a385-59225df8b7be,https://api.weather.gov/products/b5255e7c-e649-4e7a-957f-1b9ec847dc3f,Chattahoochee_Oconee_National_Forests/20261021__spot_2624183.0__project_156_salvage.txt,"
+000
+FNUS72 KFFC 210750
+FWSFFC
+
+Spot Forecast for 156 salvage...USFS
+National Weather Service Peachtree City GA
+350 AM EDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 1700 EDT on October 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Good morning, 
+
+Today will be clear, sunny and dry once again.
+Temperatures at the burn time will be the peak for the day, with
+a high in the mid to upper 70s. This will cool quickly with
+sunset. RH values will quickly drop to around 30 percent late this
+morning with a minimum RH value likely less than 25 percent at the
+forecast start time. RH values will rebound back near 40 percent
+within 1 to 2 hours of sundown.
+
+Near surface winds will be very light to near calm throughout the
+day today. Due to the light winds, direction may be variable but
+generally out of the north. Transport winds will also be fairly
+light at 5 to 10 mph out of the northeast becoming more north
+through the evening. Mixing heights peak around 4kft each
+afternoon for the next few days. Expect similar conditions on
+Thursday.
+
+No fog, low cloud, or other weather related visibility
+restrictions are expected.
+
+No rainfall is expected over the next 7 days.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 77. 
+Min humidity........24 percent. 
+Dewpoint............39. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4200 ft AGL. 
+Transport winds.....North around 6 mph. 
+Smoke dispersal.....Fair (21900 knot-ft). 
+LVORI...............1. 
+ADI.................32. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      5PM 
+Sky (%).........1   
+Weather cov.....    
+Weather type....    
+Tstm cov........    
+CWR.............0   
+Chc of thdr (%).0   
+Temp............75  
+Dewpoint........39  
+RH..............28  
+20 FT wind dir..N   
+20 FT wind spd..0   
+20 FT wind gust.7   
+Mix hgt (kft)...4.2 
+Transp wind dir.N   
+Transp wind spd.6   
+LVORI...........1   
+ADI.............32  
+Vrate kt-ft/1K..22  
+Ventrate Cat....PR  
+Ceiling (kft)...25  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-5 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 45. 
+Max humidity........99 percent. 
+Dewpoint............44 increasing to 46 late in the evening. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Northwest 5 to 7 mph. 
+Smoke dispersal.....Poor (1600 knot-ft). 
+LVORI...............4. 
+ADI.................2 to 11. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........1   1   1   1   1   1   1   1   2   2   1   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............72  67  61  58  55  54  52  51  50  49  48  47  
+Dewpoint........42  43  44  45  46  47  47  46  46  46  45  45  
+RH..............33  41  54  62  71  78  82  84  85  90  91  94  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..0   0   0   0   0   0   0   0   0   0   0   1   
+20 FT wind gust.6   5   5   3   3   3   3   3   3   5   5   5   
+Mix hgt (kft)...1.5 0.5 0.3 0.4 0.4 0.4 0.4 0.3 0.3 0.3 0.3 0.3 
+Transp wind dir.NW  NW  NW  W   W   W   W   NW  NW  NW  NW  N   
+Transp wind spd.6   5   5   5   6   6   6   7   7   7   6   6   
+LVORI...........2   2   3   3   4   4   5   5   5   6   6   6   
+ADI.............11  2   2   2   2   3   2   3   3   3   3   3   
+Vrate kt-ft/1K..7   2   2   2   2   2   2   2   2   2   2   2   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  25  
+
+.THURSDAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 77. 
+Min humidity........27 percent. 
+Dewpoint............46 decreasing to 41 late in the afternoon. 
+Wind (20 ft)........Light winds. 
+Mixing height.......5300 ft AGL. 
+Transport winds.....North 6 to 7 mph shifting to the northeast late 
+                    in the morning. 
+Smoke dispersal.....Poor (1700 knot-ft) early in the morning 
+                    increasing to good (32200 knot-ft) in the 
+                    afternoon. 
+LVORI...............5. 
+ADI.................3 early in the morning increasing to 46 in the 
+                    afternoon. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   2   2   1   1   1   2   2   2   3   2   1   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............46  45  45  49  57  64  68  73  75  76  77  76  
+Dewpoint........45  45  45  48  47  45  45  44  42  41  40  40  
+RH..............96  99  99  97  68  51  43  35  31  29  27  28  
+20 FT wind dir..N   N   N   N   NE  NE  NE  NE  NE  NE  N   N   
+20 FT wind spd..1   1   1   1   1   1   1   1   1   1   1   1   
+20 FT wind gust.5   5   5   6   6   6   7   7   7   8   8   8   
+Mix hgt (kft)...0.4 0.4 0.3 0.5 1.0 1.6 2.6 3.5 4.4 5.2 5.3 4.9 
+Transp wind dir.N   N   N   NE  NE  E   E   NE  NE  NE  N   N   
+Transp wind spd.6   6   6   7   6   6   6   6   6   6   7   7   
+LVORI...........8   9   9   7   3   2   2   2   1   1   1   1   
+ADI.............3   6   6   6   7   12  18  25  31  41  46  40  
+Vrate kt-ft/1K..2   2   2   3   5   8   12  17  21  29  32  28  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  25  
+
+$$
+Forecaster...SMarlow
+Requested by...Tim Kolnik
+Type of request...PRESCRIBED
+.TAG 2624183.0/FFC
+.DELDT 10/20/26
+.FormatterVersion 2.0.0
+.EMAIL william.king@usda.gov,timothy.kolnik@usda.gov,stephanie.israel@usda.gov,Michael.Davis1@usda.gov
+",,2624183.0
+https://api.weather.gov/products/31539d47-71e5-403f-9413-ca43db914329,2026-10-21,2026-10-21 06:00:00 UTC,2026-10-21 02:00:00 EDT,America/New_York,C93 C4 FMNF,PRESCRIBED,Francis Marion and Sumter National Forests,33.1247,-79.7584,KCHS,https://spot.weather.gov/forecasts/2624174,https://api.weather.gov/products/31539d47-71e5-403f-9413-ca43db914329,https://api.weather.gov/products/798c4cea-d455-4b3a-a2bf-5b5279fcb96d,Francis_Marion_and_Sumter_National_Forests/20261021__spot_2624174.0__project_C93_C4_FMNF.txt,"
+000
+FNUS72 KCHS 210600
+FWSCHS
+
+Spot Forecast for C93 C4 FMNF...usfs
+National Weather Service Charleston SC
+200 AM EDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 0900 EDT on October 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+...CRITICAL RH THIS AFTERNOON...
+
+Strong high pressure will extend across the region today. Very 
+dry air combined with temperatures warming into the mid 70s will 
+push RH values down to around 23% this afternoon. Winds will remain 
+fairly light out of the north. Conditions are too dry to support 
+fog development tonight into early Thursday morning. Winds will go 
+calm around sunset and persist through the night resulting in 
+very poor dispersion.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 76. 
+Min humidity........23 percent. 
+Wind (20 ft)........Light winds becoming north around 5-8 mph
+                    A few gusts to 10-15 mph could occur. 
+Mixing Height.......Max 3800 ft AGL. 
+Transport winds.....North 10 to 14 mph. 
+Max ADI.............64. 
+Inversion End.......0930.
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........43  23  16  18  14  9   0   2   1   
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............50  57  63  68  70  75  76  76  74  
+RH..............79  62  50  37  32  26  24  23  25  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   
+20 FT wind spd..4   4   5   5   5   5   4   4   3   
+20 FT wind gust.13  14  16  14  14  13  13  13  4   
+Mix hgt (kft)...0.9 1.4 1.9 2.6 3.0 3.5 3.8 3.8 3.2 
+Transp wind dir.N   N   N   N   N   N   N   N   N   
+Transp wind spd.10  10  10  14  14  14  14  14  14  
+LVORI...........9   4   3   1   1   1   1   1   1   
+ADI.............6   22  34  48  51  58  63  64  50  
+
+.TONIGHT...
+
+Sky/weather.........Clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 41. 
+Max humidity........92 percent. 
+Wind (20 ft)........Calm winds. 
+Max LVORI...........7. 
+Min ADI.............1. 
+Inversion Begin.....1900.
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      4      3      3      4      3      
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............69     60     53     50     46     44     
+RH..............31     49     61     67     76     82     
+20 ft wind......N 2    N 0    N 0    N 0    N 0    N 0    
+20 ft wind gust.                                          
+Mix hgt (ft)....1200   400    400    400    400    400    
+Transport wind..N 4    N 4    N 0    N 0    N 0    N 2    
+LVORI...........2      3      4      6      6      7      
+ADI.............1      1      1      1      1      1      
+
+.THURSDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 75. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4100 ft AGL. 
+Transport winds.....Light winds becoming north 6 to 10 mph in the 
+                    late morning and afternoon. 
+Max ADI.............51. 
+Inversion End.......0930.
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........2         0         0         0         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............42        48        67        74        
+RH..............89        75        41        33        
+20 FT wind......N 0       N 1G5     N 3G11    N 2G9     
+Mix hgt (ft)....400       600       2800      4100      
+Transport wind..N 2       N 6       N 10      N 10      
+LVORI...........8         6         1         1         
+ADI.............1         1         36        51        
+
+$$
+Forecaster...Taylor
+Requested by...Will McCann
+Type of request...PRESCRIBED
+.TAG 2624174.0/CHS
+.DELDT 10/21/26
+.FormatterVersion 2.0.0
+.EMAIL william.mccann@usda.gov
+",,2624174.0
 https://api.weather.gov/products/2d4d8dfa-db73-4489-8758-43b0df24814f,2026-10-20,2026-10-20 20:52:00 UTC,2026-10-20 16:52:00 EDT,America/New_York,156 salvage,PRESCRIBED,Chattahoochee-Oconee National Forests,33.4043,-83.3841,KFFC,https://spot.weather.gov/forecasts/2624183,https://api.weather.gov/products/2d4d8dfa-db73-4489-8758-43b0df24814f,https://api.weather.gov/products/b5255e7c-e649-4e7a-957f-1b9ec847dc3f,Chattahoochee_Oconee_National_Forests/20261020__spot_2624183.0__project_156_salvage.txt,"
 000
 FNUS72 KFFC 202052

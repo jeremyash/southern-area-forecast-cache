@@ -1,0 +1,126 @@
+
+000
+FNUS74 KHUN 210938
+FWSHUN
+
+Spot Forecast for Spear RX...USFS
+National Weather Service Huntsville AL
+438 AM CDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 0900 CDT on October 21. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry conditions are forecast through the week. At ignition time, mixing 
+heights are forecast to be 500ft along with light/variable transport 
+winds from the N-NE. By noon, mixing heights are forecast to rise above 
+3000ft. and will remain in the 3000-4000ft range until between 4-5 PM 
+when mixing heights decrease below 2000ft once again and remain under 
+1000ft overnight into Thursday. Min RH values are forecast to drop to 
+near 30%. 
+
+Similar conditions anticipated Thursday during which mixing heights 
+remain under 2000ft until between 11 AM and noon. Transport winds are 
+forecast to be around 8-12 mph from the N-NE. Min RH values will likely 
+drop to around 30-35%.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Temperature.........55 at ignition...Max 76. 
+RH..................77 percent at ignition...Min 31 percent. 
+Wind (20 ft)........Winds north at 0 mph at ignition...otherwise 
+                    Light winds. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Mixing height.......500 ft AGL at ignition...otherwise 4900 ft AGL. 
+Transport winds.....Northeast 5 to 6 mph. 
+LVORI...............4. 
+
+TIME (CDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........1   1   0   0   2   2   3   2   3   
+WEATHER COV.....                                    
+WEATHER TYPE....                                    
+TEMP............55  63  68  72  74  75  76  74  73  
+RH..............77  58  47  40  35  32  31  32  35  
+20 FT WIND DIR..000 000 000 000 000 000 000 010 000 
+20 FT WIND SPD..0   0   0   0   0   0   0   1   0   
+20 FT WIND GUST.3   5   3   3   5   5   6   7   6   
+MIX HGT (KFT)...0.5 0.8 1.7 3.2 4.4 4.7 4.9 4.6 1.9 
+TRANSP WIND DIR.050 060 040 030 020 020 020 010 000 
+TRANSP WIND SPD.5   5   5   6   6   6   6   6   6   
+DISPERSION IDX..2   2   10  23  32  34  35  34  15  
+LVORI...........6   2   2   2   1   1   1   2   2   
+CWR.............0   0   0   0   0   0   0   0   0   
+CHC OF PCPN (%).0   0   0   0   0   0   0   0   0   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Temperature.........Min 44. 
+RH..................Max 92 percent. 
+Wind (20 ft)........Light winds. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Mixing height.......300 ft AGL. 
+Transport winds.....North 5 to 9 mph. 
+LVORI...............4. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+SKY (%).........2   2   1   4   2   1   3   1   3   1   2   7   
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............69  60  56  54  53  51  50  50  48  47  46  46  
+RH..............47  69  77  80  83  86  86  83  86  86  87  87  
+20 FT WIND DIR..000 000 000 000 000 000 000 000 000 350 350 350 
+20 FT WIND SPD..0   0   0   0   0   0   0   0   0   1   1   1   
+20 FT WIND GUST.6   6   5   5   5   6   7   7   8   9   10  10  
+MIX HGT (KFT)...0.5 0.3 0.4 0.3 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+TRANSP WIND DIR.000 010 000 000 010 020 010 010 010 010 020 010 
+TRANSP WIND SPD.5   6   6   7   7   7   8   9   9   9   9   9   
+DISPERSION IDX..3   2   2   2   3   3   4   4   4   4   4   4   
+LVORI...........2   4   4   4   5   5   5   5   5   5   6   6   
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+CHC OF PCPN (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Temperature.........Max 74. 
+RH..................Min 33 percent. 
+Wind (20 ft)........Light winds becoming north around 5 mph in the 
+                    afternoon, then becoming light late in the 
+                    afternoon. 
+CWR.................0 percent. 
+Chance of pcpn......0 percent. 
+Mixing height.......4200 ft AGL. 
+Transport winds.....North 8 to 12 mph. 
+LVORI...............4. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+SKY (%).........11  11  7   4   0   0   0   1   1   2   1   2   
+WEATHER COV.....                                                
+WEATHER TYPE....                                                
+TEMP............45  44  47  55  63  67  71  72  73  74  73  72  
+RH..............87  88  92  78  58  50  41  37  34  33  34  36  
+20 FT WIND DIR..350 350 350 010 010 020 020 020 020 010 010 000 
+20 FT WIND SPD..1   1   2   2   2   3   5   5   5   5   5   2   
+20 FT WIND GUST.10  10  10  9   9   10  12  12  12  12  13  10  
+MIX HGT (KFT)...0.4 0.4 0.4 0.8 1.2 2.1 3.0 3.6 4.1 4.2 4.2 1.7 
+TRANSP WIND DIR.010 020 020 020 030 030 030 030 020 020 010 010 
+TRANSP WIND SPD.9   8   8   8   9   9   10  10  10  10  12  8   
+DISPERSION IDX..4   4   4   4   4   24  38  45  50  51  57  18  
+LVORI...........6   6   6   6   2   2   2   1   1   1   2   2   
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+CHC OF PCPN (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+$$
+Forecaster...Cramer
+Requested by...Craig
+Type of request...PRESCRIBED
+.TAG 2624192.0/HUN
+.DELDT 10/21/26
+.FormatterVersion 2.0.0
+.EMAIL gary.c.moore@usda.gov,kerry.clark@usda.gov
+

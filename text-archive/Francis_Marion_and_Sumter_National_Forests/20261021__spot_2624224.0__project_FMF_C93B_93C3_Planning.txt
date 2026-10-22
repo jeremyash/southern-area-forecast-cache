@@ -1,0 +1,115 @@
+
+000
+FNUS72 KCHS 211749
+FWSCHS
+
+Spot Forecast for FMF C93B+93C3 Planning...USDA Forest Service
+National Weather Service Charleston SC
+149 PM EDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 0900 EDT on October 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail across the area through this 
+weekend and into early next week. Relative humidity values could 
+get as low as 30 percent Thursday afternoon. Winds will mostly be 
+out of the north on Thursday, though a weak sea breeze could 
+reach the site by the early evening hours. Fog is not expected 
+to be an issue Thursday night and Friday morning. Winds will 
+likely go calm Thursday night, but begin to pick up by sunrise 
+Friday.
+
+.THURSDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 73. 
+Min humidity........31 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4200 ft AGL. 
+Transport winds.....Light winds becoming north around 10 mph in the 
+                    afternoon. 
+Max ADI.............52. 
+Inversion End.......1000.
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   0   1   2   1   2   0   2   2   
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............50  58  64  67  70  72  73  73  72  
+RH..............80  64  52  43  35  31  33  33  35  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   
+20 FT wind spd..1   1   2   2   3   3   2   2   1   
+20 FT wind gust.5   5   9   9   11  9   9   9   7   
+Mix hgt (kft)...0.4 0.9 1.7 2.6 3.4 3.9 4.2 4.2 3.8 
+Transp wind dir.N   N   N   N   N   N   N   N   N   
+Transp wind spd.4   4   4   10  10  10  10  10  10  
+LVORI...........6   3   2   1   1   1   1   1   1   
+ADI.............1   1   20  34  43  49  52  46  37  
+
+.THURSDAY NIGHT...
+
+Sky/weather.........Clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 47. 
+Max humidity........89 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........7. 
+Min ADI.............1. 
+Inversion Begin.....1900.
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........3         2         1         1         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............69        58        53        49        
+RH..............42        69        83        89        
+20 FT wind......N 0G4     N 0G4     N 0G2     N 2G9     
+Mix hgt (ft)....1200      400       400       400       
+Transport wind..N 2       N 0       N 0       N 2       
+LVORI...........2         4         6         7         
+ADI.............1         1         1         1         
+
+.FRIDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 70. 
+Min humidity........42 percent. 
+Wind (20 ft)........Light winds becoming northeast around 5 mph 
+                    with gusts to around 14 mph late in the 
+                    morning, then becoming light late in the 
+                    afternoon. 
+Mixing Height.......Max 4300 ft AGL. 
+Transport winds.....Light winds becoming northeast 10 to 14 mph in 
+                    the late morning and afternoon. 
+Max ADI.............65. 
+Inversion End.......1000.
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........1            0            1            
+Weather type....NONE         NONE         NONE         
+Tstm cov........                                       
+Chc of pcpn (%).0            0            0            
+Temp............47           55           68           
+RH..............86           61           43           
+20 FT wind......N 3G11       NE 4G13      NE 5G13      
+Mix hgt (ft)....400          1600         4000         
+Transport wind..N 4          NE 10        NE 14        
+LVORI...........6            2            1            
+ADI.............4            27           60           
+
+$$
+
+Forecaster...Holloway
+Requested by...Kelly Wetzel
+Type of request...PRESCRIBED
+.TAG 2624224.0/CHS
+.DELDT 10/21/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+

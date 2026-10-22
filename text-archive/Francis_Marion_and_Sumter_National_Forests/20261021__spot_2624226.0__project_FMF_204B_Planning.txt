@@ -1,0 +1,112 @@
+
+000
+FNUS72 KCHS 211748
+FWSCHS
+
+Spot Forecast for FMF 204B Planning...USDA Forest Service
+National Weather Service Charleston SC
+148 PM EDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 0900 EDT on October 22. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will prevail across the area through this 
+weekend and into early next week. Relative humidity values could 
+get as low as 30 percent Thursday afternoon. Winds will mostly be 
+out of the north on Thursday, though a weak sea breeze could 
+reach the site by the early evening hours. Fog is not expected 
+to be an issue Thursday night and Friday morning. Winds will 
+likely go calm Thursday night, but begin to pick up by sunrise 
+Friday.
+
+.THURSDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 73. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 3900 ft AGL. 
+Transport winds.....North 6 to 10 mph. 
+Max ADI.............48. 
+Inversion End.......1000.
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   1   1   2   2   2   2   2   3   
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............50  58  64  67  70  71  72  73  71  
+RH..............83  67  56  47  39  36  37  37  41  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   
+20 FT wind spd..2   2   3   2   2   2   2   1   0   
+20 FT wind gust.9   9   9   9   9   9   9   7   7   
+Mix hgt (kft)...0.5 0.9 1.7 2.5 3.2 3.7 3.9 3.7 3.0 
+Transp wind dir.N   N   N   N   N   N   N   N   N   
+Transp wind spd.6   6   6   10  10  10  10  10  10  
+LVORI...........5   3   2   1   1   1   1   1   2   
+ADI.............4   4   22  32  41  46  48  41  30  
+
+.THURSDAY NIGHT...
+
+Sky/weather.........Clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 48. 
+Max humidity........89 percent. 
+Wind (20 ft)........Light winds. 
+Max LVORI...........7. 
+Min ADI.............1. 
+Inversion Begin.....1900.
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........4         2         1         1         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............68        59        55        51        
+RH..............51        69        80        89        
+20 FT wind......N 0G5     N 0G4     N 0G4     N 2G11    
+Mix hgt (ft)....1300      500       400       500       
+Transport wind..N 2       N 0       N 2       N 4       
+LVORI...........2         4         6         7         
+ADI.............1         1         1         2         
+
+.FRIDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 70. 
+Min humidity........49 percent. 
+Wind (20 ft)........Light winds becoming northeast 5 to 6 mph with 
+                    gusts to around 16 mph in the late morning and 
+                    afternoon. 
+Mixing Height.......Max 3900 ft AGL. 
+Transport winds.....Northeast 6 to 14 mph. 
+Max ADI.............64. 
+Inversion End.......1000.
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........1            0            1            
+Weather type....NONE         NONE         NONE         
+Tstm cov........                                       
+Chc of pcpn (%).0            0            0            
+Temp............48           56           68           
+RH..............86           64           49           
+20 FT wind......N 3G13       NE 5G14      NE 5G13      
+Mix hgt (ft)....500          1600         3900         
+Transport wind..N 6          NE 12        NE 14        
+LVORI...........5            2            1            
+ADI.............5            29           64           
+
+$$
+
+Forecaster...Holloway
+Requested by...kelly wetzel
+Type of request...PRESCRIBED
+.TAG 2624226.0/CHS
+.DELDT 10/21/26
+.FormatterVersion 2.0.0
+.EMAIL kelly.wetzelwilson@usda.gov
+

@@ -1,0 +1,115 @@
+
+000
+FNUS72 KCHS 210600
+FWSCHS
+
+Spot Forecast for C93 C4 FMNF...usfs
+National Weather Service Charleston SC
+200 AM EDT Wed Oct 21 2026
+
+Forecast is based on ignition time of 0900 EDT on October 21. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+...CRITICAL RH THIS AFTERNOON...
+
+Strong high pressure will extend across the region today. Very 
+dry air combined with temperatures warming into the mid 70s will 
+push RH values down to around 23% this afternoon. Winds will remain 
+fairly light out of the north. Conditions are too dry to support 
+fog development tonight into early Thursday morning. Winds will go 
+calm around sunset and persist through the night resulting in 
+very poor dispersion.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 76. 
+Min humidity........23 percent. 
+Wind (20 ft)........Light winds becoming north around 5-8 mph
+                    A few gusts to 10-15 mph could occur. 
+Mixing Height.......Max 3800 ft AGL. 
+Transport winds.....North 10 to 14 mph. 
+Max ADI.............64. 
+Inversion End.......0930.
+
+TIME (EDT)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........43  23  16  18  14  9   0   2   1   
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............50  57  63  68  70  75  76  76  74  
+RH..............79  62  50  37  32  26  24  23  25  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   
+20 FT wind spd..4   4   5   5   5   5   4   4   3   
+20 FT wind gust.13  14  16  14  14  13  13  13  4   
+Mix hgt (kft)...0.9 1.4 1.9 2.6 3.0 3.5 3.8 3.8 3.2 
+Transp wind dir.N   N   N   N   N   N   N   N   N   
+Transp wind spd.10  10  10  14  14  14  14  14  14  
+LVORI...........9   4   3   1   1   1   1   1   1   
+ADI.............6   22  34  48  51  58  63  64  50  
+
+.TONIGHT...
+
+Sky/weather.........Clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 41. 
+Max humidity........92 percent. 
+Wind (20 ft)........Calm winds. 
+Max LVORI...........7. 
+Min ADI.............1. 
+Inversion Begin.....1900.
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      4      3      3      4      3      
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Temp............69     60     53     50     46     44     
+RH..............31     49     61     67     76     82     
+20 ft wind......N 2    N 0    N 0    N 0    N 0    N 0    
+20 ft wind gust.                                          
+Mix hgt (ft)....1200   400    400    400    400    400    
+Transport wind..N 4    N 4    N 0    N 0    N 0    N 2    
+LVORI...........2      3      4      6      6      7      
+ADI.............1      1      1      1      1      1      
+
+.THURSDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 75. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing Height.......Max 4100 ft AGL. 
+Transport winds.....Light winds becoming north 6 to 10 mph in the 
+                    late morning and afternoon. 
+Max ADI.............51. 
+Inversion End.......0930.
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........2         0         0         0         
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............42        48        67        74        
+RH..............89        75        41        33        
+20 FT wind......N 0       N 1G5     N 3G11    N 2G9     
+Mix hgt (ft)....400       600       2800      4100      
+Transport wind..N 2       N 6       N 10      N 10      
+LVORI...........8         6         1         1         
+ADI.............1         1         36        51        
+
+$$
+Forecaster...Taylor
+Requested by...Will McCann
+Type of request...PRESCRIBED
+.TAG 2624174.0/CHS
+.DELDT 10/21/26
+.FormatterVersion 2.0.0
+.EMAIL william.mccann@usda.gov
+
