@@ -1,0 +1,110 @@
+
+000
+FNUS72 KCHS 230805 AAA
+FWSCHS
+
+Spot Forecast for FMF C63...UPDATED
+National Weather Service Charleston SC
+405 AM EDT Fri Oct 23 2026
+
+Forecast is based on ignition time of 1000 EDT on October 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry high pressure will persist through tonight. Winds will be a bit
+higher compared to the past few days with 20-ft winds expected
+to reach 5-10 mph with gusts as high as 15 mph. RH values should
+bottom out around 25%. Winds will remain somewhat elevated tonight 
+resulting in fair dispersion and no risk for fog.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 72. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds becoming northeast 5 to 6 mph late 
+                    in the morning. 
+Mixing Height.......Max 4500 ft AGL. 
+Transport winds.....Northeast 14 to 16 mph. 
+Max ADI.............86. 
+Inversion End.......0930. 
+
+TIME (EDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   0   0   0   0   0   0   0   
+Weather type....                                
+Tstm cov........                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   
+Temp............54  61  65  68  71  72  72  70  
+RH..............57  44  37  32  27  26  26  26  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..4   5   6   6   6   6   6   5   
+20 FT wind gust.9   11  11  11  11  11  11  9   
+Mix hgt (kft)...1.1 2.0 2.8 3.5 4.0 4.4 4.5 4.2 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.14  14  16  16  16  16  16  16  
+LVORI...........2   1   1   1   1   1   1   1   
+ADI.............18  38  56  64  72  78  86  74  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 50. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds becoming northeast 5 to 6 mph after 
+                    3 am. 
+Max LVORI...........8. 
+Min ADI.............1. 
+Inversion Begin.....1930.
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Sky (%).........0         1         2         14        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Temp............67        56        52        52        
+RH..............34        66        74        89        
+20 FT wind......NE 3G7    NE 1G5    NE 3G9    NE 5G11   
+Mix hgt (ft)....1200      400       400       400       
+Transport wind..NE 4      NE 2      NE 4      NE 6      
+LVORI...........2         4         3         6         
+ADI.............1         1         2         3         
+
+.SATURDAY...
+
+Sky/weather.........Sunny. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 72. 
+Min humidity........51 percent. 
+Wind (20 ft)........Northeast winds 6 to 9 mph. Gusts up to 22 mph. 
+Mixing Height.......Max 4600 ft AGL. 
+Transport winds.....Northeast 8 to 16 mph increasing to around 22 
+                    mph in the afternoon. 
+Max ADI.............87. 
+Inversion End.......0830.
+
+TIME (EDT)      6 AM         10 AM        2 PM         
+Sky (%).........21           22           33           
+Weather type....NONE         NONE         NONE         
+Tstm cov........                                       
+Chc of pcpn (%).0            0            0            
+Temp............51           59           71           
+RH..............96           78           55           
+20 FT wind......NE 6G13      NE 7G20      NE 8G20      
+Mix hgt (ft)....500          2000         3600         
+Transport wind..NE 8         NE 16        NE 22        
+LVORI...........6            3            1            
+ADI.............8            44           77           
+
+$$
+Forecaster...Taylor
+Requested by...William McCann
+Type of request...PRESCRIBED
+.TAG 2624391.0/CHS
+.DELDT 10/23/26
+.FormatterVersion 2.0.0
+.EMAIL alexander.marshall@usda.gov,william.mccann@usda.gov
+

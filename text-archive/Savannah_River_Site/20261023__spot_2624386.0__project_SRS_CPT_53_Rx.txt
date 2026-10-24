@@ -1,0 +1,135 @@
+
+000
+FNUS72 KCAE 230830
+FWSCAE
+
+Spot Forecast for SRS CPT 53 Rx...US Forest Service
+National Weather Service Columbia SC
+430 AM EDT Fri Oct 23 2026
+
+Forecast is based on ignition time of 0700 EDT on October 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+High-pressure over the area will bring dry conditions. Calm to
+light and variable winds this morning should increase to around 5
+to 10 mph when the inversion breaks late morning with possible gusts
+up to 15 mph into the afternoon with deeper mixing. Shallow 
+patchy fog cannot be ruled out, but confidence is low due it being
+a bit too dry. MinRH values between 25-30 percent are expected 
+in the afternoon. Winds should decrease with an increase in low- 
+level moisture by Friday evening into the overnight. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 72. 
+Min humidity........27 percent. 
+Wind (20 ft)........Light winds becoming northeast 5 to 7 mph in 
+                    the late morning and afternoon. 
+Mixing height.......4600 ft AGL. 
+Transport winds.....Northeast 9 to 16 mph. 
+LVORI...............3. 
+ADI.................10 early in the morning increasing to 87 in the 
+                    afternoon. 
+
+TIME (EDT)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   1   0   1   1   2   1   1   1   1   2   
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+Temp............45  45  50  58  63  66  69  71  72  72  72  
+RH..............86  79  74  53  43  36  31  27  27  27  27  
+Aparnt tmp (F)..44  44  48  58  63  66  69  71  72  72  72  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind dir..030 040 040 040 050 050 040 040 040 040 040 
+20 FT wind spd..3   3   5   6   6   6   6   6   7   6   6   
+20 FT wind gust.7   11  13  13  14  15  15  15  15  15  15  
+Mix hgt (kft)...0.4 0.4 0.5 1.0 1.8 2.8 3.5 4.1 4.5 4.6 4.5 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind dir.040 040 050 050 050 050 040 040 040 040 050 
+Transp wind spd.9   10  10  13  14  15  15  16  16  16  16  
+LVORI...........4   4   3   2   1   1   1   1   1   1   1   
+ADI.............10  11  11  17  32  52  64  79  85  87  86  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-5 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 48. 
+Max humidity........100 percent. 
+Wind (20 ft)........Northeast winds 5 to 6 mph early in the evening 
+                    becoming light, then becoming northeast 5 to 6 
+                    mph after 3 am. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Northeast 10 to 14 mph. 
+LVORI...............5. 
+ADI.................5 to 28. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........1   3   1   0   0   0   0   1   2   1   2   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............70  65  60  55  52  51  50  50  50  50  50  49  
+RH..............30  40  47  59  66  71  77  80  83  86  89  96  
+Aparnt tmp (F)..70  65  60  55  52  51  50  50  49  49  48  47  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind dir..040 040 050 050 040 040 040 040 040 040 040 040 
+20 FT wind spd..6   5   2   1   1   1   2   2   3   3   5   6   
+20 FT wind gust.14  13  9   7   7   7   8   8   11  12  13  14  
+Mix hgt (kft)...1.7 0.6 0.5 0.4 0.5 0.4 0.4 0.4 0.5 0.5 0.5 0.6 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind dir.050 050 050 060 050 050 050 050 050 050 050 050 
+Transp wind spd.13  12  10  10  12  10  10  10  10  13  13  14  
+LVORI...........2   2   2   3   3   3   4   4   5   5   6   7   
+ADI.............28  5   5   5   5   5   5   5   5   6   6   6   
+
+.SATURDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 72. 
+Min humidity........41 percent. 
+Wind (20 ft)........Northeast winds 6 to 10 mph. Gusts up to 22 mph 
+                    in the late morning and afternoon. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....Northeast 14 to 20 mph. 
+LVORI...............5. 
+ADI.................6 early in the morning increasing to 59 in the 
+                    afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   7   9   14  10  8   6   11  14  17  25  19  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............48  48  48  51  57  61  65  69  70  71  72  71  
+RH..............100 100 100 100 80  70  58  49  46  44  41  41  
+Aparnt tmp (F)..45  45  44  51  57  61  65  69  70  71  72  71  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind dir..040 040 040 040 040 040 040 040 040 040 040 040 
+20 FT wind spd..6   6   7   8   9   9   10  9   9   10  10  9   
+20 FT wind gust.15  15  16  19  20  19  19  19  19  20  20  20  
+Mix hgt (kft)...0.5 0.6 0.8 1.4 2.0 2.7 3.0 3.2 3.5 4.0 4.3 3.8 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind dir.050 050 050 050 050 050 050 050 050 050 050 040 
+Transp wind spd.14  15  16  17  20  20  18  17  16  15  15  16  
+LVORI...........9   5   5   4   3   3   1   1   1   1   1   1   
+ADI.............6   16  18  31  49  59  59  57  56  56  58  58  
+
+$$
+Forecaster...Coleman
+Requested by...Kevin Pope
+Type of request...PRESCRIBED
+.TAG 2624386.0/CAE
+.DELDT 10/23/26
+.FormatterVersion 2.0.0
+.EMAIL kevin.pope@usda.gov
+

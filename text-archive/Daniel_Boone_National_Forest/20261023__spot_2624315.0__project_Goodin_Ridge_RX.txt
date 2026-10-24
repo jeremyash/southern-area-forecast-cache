@@ -1,0 +1,126 @@
+
+000
+FNUS73 KJKL 230914
+FWSJKL
+
+Spot Forecast for Goodin Ridge RX...USFS
+National Weather Service Jackson KY
+514 AM EDT Fri Oct 23 2026
+
+Forecast is based on ignition time of 0600 EDT on October 23. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Surface high pressure keeps the weather quiet 
+through Saturday. This will promote AM valley fog along the 
+nearby Cumberland River, and patchy fog is possible at the burn 
+site around dawn. As diurnal mixing occurs, the fog will scatter 
+out and give way to mostly sunny skies. Afternoon minimum humidity
+levels of 25 to 35 percent are expected over the next couple of 
+days. Light winds and mixing to around 4000 ft should yield 
+marginally favorable dispersion. 
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). Patchy fog early in the 
+                    morning. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 70. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds becoming northeast around 5 mph in 
+                    the afternoon. 
+Mixing height.......4200 ft AGL. 
+Transport winds.....East 7 to 9 mph. 
+Vent Rate...........Poor (2400 knot-ft) increasing to marginal 
+                    (30600 knot-ft). 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   6   2   1   2   0   1   2   3   2   2   3   
+Weather cov.....PTY PTY PTY                                     
+Weather type....FOG FOG FOG                                     
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............41  40  39  43  50  57  62  66  68  69  70  70  
+RH..............89  89  92  89  80  55  39  34  29  27  26  27  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..1   1   1   3   2   3   6   6   6   6   6   6   
+20 FT wind gust.5   5   5   7   6   8   10  9   9   9   9   9   
+Mix hgt (kft)...0.4 0.4 0.4 0.4 0.7 1.4 2.2 2.9 3.5 3.8 4.2 4.1 
+Transp wind dir.E   E   E   NE  E   E   E   E   E   E   E   E   
+Transp wind spd.7   8   8   8   8   9   9   9   9   9   9   9   
+Vrate kt-ft/1K..2   3   3   3   5   11  18  23  28  31  34  33  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). Patchy fog after 3 am. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 43. 
+Max humidity........89 percent. 
+Wind (20 ft)........Northeast winds around 5 mph becoming light. 
+Mixing height.......400 ft AGL. 
+Transport winds.....East 7 to 9 mph shifting to the southeast 6 to 
+                    7 mph after 3 am. 
+Vent Rate...........Poor (2100 knot-ft). 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........4   2   1   2   2   6   3   4   4   6   5   7   
+Weather cov.....                                    PTY PTY PTY 
+Weather type....                                    FOG FOG FOG 
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............67  62  58  55  53  52  50  49  48  47  46  45  
+RH..............39  54  64  72  77  80  89  89  89  89  89  89  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  E   E   E   E   E   
+20 FT wind spd..6   5   5   3   3   2   2   1   1   1   1   1   
+20 FT wind gust.9   8   8   8   7   7   6   5   3   3   2   2   
+Mix hgt (kft)...1.4 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.NE  NE  NE  E   E   E   E   E   E   E   SE  SE  
+Transp wind spd.8   8   9   9   9   9   9   8   7   7   7   6   
+Vrate kt-ft/1K..10  3   3   3   3   3   3   3   2   2   3   2   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.SATURDAY...
+
+Sky/weather.........Sunny (0-10 percent). Patchy fog in the 
+                    morning. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 72. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....Southerly winds around 6 mph shifting to the west
+ and then the north throughout the day. Winds will
+weaken to below 5 mph as time progresses.
+Vent Rate...........Very poor (1700 knot-ft) increasing to poor (12100 
+                    knot-ft) in the afternoon. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........8   9   3   3   2   1   1   2   2   5   3   2   
+Weather cov.....PTY PTY PTY PTY PTY                             
+Weather type....FOG FOG FOG FOG FOG                             
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............44  43  43  47  53  60  65  68  71  72  72  72  
+RH..............89  89  89  89  83  60  45  40  36  34  34  33  
+20 FT wind dir..N   N   E   E   SE  S   SW  W   NW  N   NE  NE  
+20 FT wind spd..0   0   1   1   1   2   3   2   1   2   2   2   
+20 FT wind gust.2   2   2   3   3   5   6   5   2   3   3   3   
+Mix hgt (kft)...0.4 0.4 0.3 0.4 0.6 1.2 2.2 3.5 4.2 4.3 4.1 4.0 
+Transp wind dir.SE  SE  SE  SE  S   SW  SW  W   NW  W   NE  NE  
+Transp wind spd.6   6   6   6   6   6   5   5   3   3   3   3   
+Vrate kt-ft/1K..2   2   2   2   3   6   9   14  13  13  12  12  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...MARCUS
+Requested by...Xavier Singleton
+Type of request...PRESCRIBED
+.TAG 2624315.0/JKL
+.DELDT 10/23/26
+.FormatterVersion 2.0.0
+.EMAIL xavier.singleton@usda.gov
+
