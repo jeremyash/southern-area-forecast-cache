@@ -1,0 +1,139 @@
+
+000
+FNUS73 KJKL 241226 CCA
+FWSJKL
+
+Spot Forecast for Goodin Ridge RX...CORRECTED
+National Weather Service Jackson KY
+826 AM EDT Sat Oct 24 2026
+
+Forecast is based on ignition time of 0800 EDT on October 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Surface high pressure will keep the area rain-free
+through late next week. This will promote AM valley fog along the 
+nearby Cumberland River, and patchy fog is possible at the burn 
+site around dawn. As diurnal mixing occurs, the fog will scatter 
+out and give way to mostly sunny skies. Afternoon minimum humidity
+levels of 30 to 40 percent are expected over the next couple of 
+days. Light winds should yield poor ventilation even at peak heating. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). Patchy fog early in the 
+                    morning. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 71. 
+Min humidity........32 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4800 ft AGL. 
+Transport winds.....South 6 to 7 mph shifting to the west and then north
+                    throughout the day. Winds will weaken as time progresses.
+Vent Rate...........Very poor (1700 knot-ft) increasing to poor (14100 
+                    knot-ft) in the afternoon. 
+LVORI...............4 early, 2 late.
+ADI.................Max 26.
+
+TIME (EDT)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........8   6   3   1   1   2   2   4   2   5   
+Weather cov.....PTY PTY                                 
+Weather type....FOG FOG                                 
+Tstm cov........                                        
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   
+Temp............41  45  52  58  63  67  69  70  71  71  
+RH..............85  79  66  57  48  40  37  35  32  32  
+20 FT wind dir..SE  E   SE  S   SW  W   W   W   NW  N   
+20 FT wind spd..1   1   1   1   2   2   3   2   2   1   
+20 FT wind gust.3   3   5   5   6   7   7   7   6   5   
+Mix hgt (kft)...0.4 0.3 0.6 1.3 2.2 3.7 4.4 4.8 4.7 4.7 
+Transp wind dir.S   S   S   SW  W   W   NW  NW  N   N   
+Transp wind spd.7   6   6   6   7   6   5   3   3   3   
+Vrate kt-ft/1K..2   2   3   6   13  18  18  14  14  14  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR
+LVORI...........4   4   3   2   2   2   2   2   2   2
+ADI.............7   6   6   9   19  26  24  19  19  20   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). Patchy fog 
+                    overnight. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 44. 
+Max humidity........87 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Northeast 2 to 5 mph shifting to the southeast 
+                    5 to 6 mph in the late evening and overnight. 
+Vent Rate...........Poor (1100 knot-ft).
+LVORI...............2 to 6. 
+ADI.................2 to 3
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........18  37  27  25  25  22  16  11  15  18  17  23  
+Weather cov.....                            PTY PTY PTY PTY PTY 
+Weather type....                            FOG FOG FOG FOG FOG 
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............68  63  59  57  54  52  51  49  48  47  46  45  
+RH..............37  41  50  60  70  81  84  87  86  86  86  86  
+20 FT wind dir..N   NE  N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..1   1   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.3   2   2   2   2   2   2   1   1   1   2   2   
+Mix hgt (kft)...1.0 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.N   NE  NE  NE  E   E   SE  SE  SE  SE  SE  SE  
+Transp wind spd.2   3   3   5   6   6   6   5   5   6   6   6   
+Vrate kt-ft/1K..2   1   1   2   2   2   2   2   2   2   2   2   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR 
+LVORI...........2   2   2   3   3   5   5   6   6   6   6   5 
+ADI.............3   2   2   2   3   3   3   3   2   2   3   3 
+
+.SUNDAY...
+
+Sky/weather.........Sunny (15-25 percent). Patchy fog early in the 
+                    morning. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 73. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....Southeast 6 to 7 mph shifting to the west and 
+                    then northeast throughout the day. Winds will 
+                    weaken as time progresses.
+Vent Rate...........Very poor (1500 knot-ft) increasing to poor (16800 
+                    knot-ft) late in the afternoon. 
+LVORI...............5 early, 2 late.
+ADI.................Max 23.
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........28  35  16  10  10  1   1   3   5   14  16  20  
+Weather cov.....PTY PTY PTY PTY                                 
+Weather type....FOG FOG FOG FOG                                 
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............45  44  44  48  54  61  66  69  72  73  73  73  
+RH..............86  86  86  85  73  59  49  44  39  37  37  37  
+20 FT wind dir..N   N   SE  SE  S   S   S   N   NE  NE  NE  NE  
+20 FT wind spd..0   0   1   1   1   2   1   1   1   1   2   2   
+20 FT wind gust.2   2   3   3   5   5   5   5   3   3   3   5   
+Mix hgt (kft)...0.4 0.4 0.3 0.4 0.6 1.1 2.2 3.5 4.2 4.2 4.3 4.2 
+Transp wind dir.SE  SE  SE  S   S   S   SW  N   N   NE  NE  NE  
+Transp wind spd.6   6   6   5   6   5   5   5   3   3   5   5   
+Vrate kt-ft/1K..2   2   2   2   3   5   9   14  13  13  17  17  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR 
+LVORI...........5   5   5   5   3   3   2   2   2   2   2   2 
+ADI.............3   6   6   4   6   7   13  20  19  19  23  23           
+
+$$
+Forecaster...GEERTSON
+Requested by...Xavier Singleton
+Type of request...PRESCRIBED
+.TAG 2624470.0/JKL
+.DELDT 10/24/26
+.FormatterVersion 2.0.0
+.EMAIL xavier.singleton@usda.gov
+
