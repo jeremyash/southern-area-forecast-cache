@@ -1,0 +1,157 @@
+
+000
+FNUS72 KFFC 262022
+FWSFFC
+
+Spot Forecast for 130 South...USFS
+National Weather Service Peachtree City GA
+422 PM EDT Mon Oct 26 2026
+
+Forecast is based on ignition time of 1600 EDT on October 27. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Another mostly clear and dry day expected for Tuesday into 
+Tuesday night. 20 ft winds will pick up during the morning from NE
+at 5-10 mph, generally closer to 5 mph. Afternoon RH values will 
+fall into the upper 20s. Mixing heights will rise between 3.5-4 
+kft and transport winds will be NE to ENE at 5-10 mph by afternoon
+bringing ADI values into the low 30s.
+
+Overnight, temperatures may fall enough to bring RH values 
+between 95-100%. Right now LVORI values over the burn site are 
+forecast to be 6, but there are very nearby values approaching 7 
+and 8. This time will need to be monitored for smoke fog.
+
+.TUESDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 78. 
+Min humidity........28 percent. 
+Dewpoint............42. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3600 ft AGL. 
+Transport winds.....East around 8 mph. 
+Smoke dispersal.....Fair (23300 knot-ft). 
+LVORI...............1. 
+ADI.................33. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      4PM 5PM 
+Sky (%).........3   5   
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+CWR.............0   0   
+Chc of thdr (%).0   0   
+Temp............77  77  
+Dewpoint........42  43  
+RH..............28  30  
+20 FT wind dir..NE  NE  
+20 FT wind spd..3   3   
+20 FT wind gust.9   9   
+Mix hgt (kft)...3.6 3.5 
+Transp wind dir.E   E   
+Transp wind spd.8   8   
+LVORI...........1   1   
+ADI.............33  33  
+Vrate kt-ft/1K..24  23  
+Ventrate Cat....PR  PR  
+Ceiling (kft)...25  25  
+
+.TUESDAY NIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 45. 
+Max humidity........98 percent. 
+Dewpoint............45. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....East 7 to 9 mph. 
+Smoke dispersal.....Poor (2300 knot-ft). 
+LVORI...............4. 
+ADI.................3 to 9. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........3   3   8   15  16  13  8   5   8   9   10  24  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............74  68  59  55  53  52  50  49  48  47  46  46  
+Dewpoint........45  45  46  46  47  47  47  46  46  45  45  44  
+RH..............36  44  63  70  80  85  89  90  91  92  95  94  
+20 FT wind dir..NE  E   E   E   NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..2   2   2   1   1   1   1   1   2   2   2   3   
+20 FT wind gust.7   8   8   7   7   6   6   7   7   7   8   8   
+Mix hgt (kft)...1.0 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.3 0.4 0.4 0.4 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   NE  
+Transp wind spd.7   7   7   7   8   9   8   8   8   8   9   9   
+LVORI...........2   2   3   3   4   5   6   6   6   6   6   6   
+ADI.............9   3   3   3   4   4   4   4   4   4   4   4   
+Vrate kt-ft/1K..6   3   2   2   3   3   3   3   3   3   3   3   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  25  
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 77. 
+Min humidity........38 percent. 
+Dewpoint............46 increasing to 50 in the late morning and 
+                    afternoon. 
+Wind (20 ft)........Light winds becoming northeast 5 to 7 mph. 
+Mixing height.......4200 ft AGL. 
+Transport winds.....Northeast 8 to 14 mph. 
+Smoke dispersal.....Poor (3000 knot-ft) early in the morning 
+                    increasing to good (42800 knot-ft) in the 
+                    afternoon. 
+LVORI...............5. 
+ADI.................4 early in the morning increasing to 59 in the 
+                    afternoon. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25 early in the morning. 
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........10  14  25  6   17  28  29  29  30  28  25  23  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............46  45  45  49  56  64  69  72  74  76  77  76  
+Dewpoint........44  44  45  48  50  51  51  50  50  49  49  50  
+RH..............95  97  98  97  81  64  53  46  42  38  38  40  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..3   5   5   6   6   7   7   7   7   7   7   7   
+20 FT wind gust.9   9   10  12  13  13  13  13  13  13  13  13  
+Mix hgt (kft)...0.4 0.4 0.4 0.7 1.3 2.1 2.6 3.1 3.4 3.9 4.2 4.1 
+Transp wind dir.NE  NE  NE  NE  NE  E   E   E   E   E   E   E   
+Transp wind spd.8   8   9   10  13  14  14  13  13  12  12  12  
+LVORI...........6   6   8   7   3   1   1   1   1   1   1   1   
+ADI.............4   9   9   11  21  36  45  50  51  56  59  55  
+Vrate kt-ft/1K..3   3   3   6   14  25  32  35  36  41  43  40  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  FR  FR  FR  
+Ceiling (kft)...25  25                                          
+
+$$
+Forecaster...Lusk
+Requested by...Tim Kolnik
+Type of request...PRESCRIBED
+.TAG 2624591.0/FFC
+.DELDT 10/26/26
+.FormatterVersion 2.0.0
+.EMAIL timothy.kolnik@usda.gov,william.king@usda.gov,stephanie.israel@usda.gov,madavis@usda.gov
+

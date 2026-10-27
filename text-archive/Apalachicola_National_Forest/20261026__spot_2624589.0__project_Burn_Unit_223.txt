@@ -1,0 +1,88 @@
+
+000
+FNUS72 KTAE 261944
+FWSTAE
+
+Spot Forecast for Burn Unit 223...USFS
+National Weather Service Tallahassee FL
+344 PM EDT Mon Oct 26 2026
+
+Forecast is based on ignition time of 0600 EDT on October 27. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (850) 942-8833, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Northeast winds will persist at the burn site through
+Wednesday and beyond. Otherwise, the weather will remain rain-
+free, and the air mass will slowly moisten a little bit each day
+for the rest of this week. There will be enough wind continuing
+during nighttime hours to prevent early morning fog. 
+
+.TUESDAY...
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........8   8   8   3   3   3   4   4   4   1   1   1   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............55  55  54  57  65  70  75  77  79  81  81  82  
+RH..............93  93  96  93  68  57  50  45  41  38  38  35  
+20 FT wind dir..N   N   N   NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..6   6   6   6   7   7   8   8   8   8   8   8   
+20 FT wind gust.15  15  15  15  15  15  16  16  16  17  17  16  
+Mix hgt (kft)...0.4 0.3 0.4 0.7 1.0 1.5 2.1 2.8 3.3 3.7 3.9 3.7 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.10  10  10  12  13  14  14  14  13  14  14  14  
+Dispersion......5   5   11  12  17  26  36  43  48  54  57  56  
+LVORI...........6   6   5   5   3   2   1   1   1   1   1   1   
+
+.TUESDAY NIGHT...
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........3   3   3   15  15  15  22  22  22  10  10  10  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............80  77  73  68  66  65  64  63  62  61  59  59  
+RH..............39  45  51  63  73  78  84  87  90  93  96  93  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..7   6   5   5   5   5   5   3   3   5   5   6   
+20 FT wind gust.15  16  16  16  16  15  15  14  14  15  16  16  
+Mix hgt (kft)...2.7 1.5 0.4 0.2 0.3 0.4 0.4 0.5 0.5 0.5 0.5 0.5 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.13  13  12  12  10  10  10  10  10  10  10  10  
+Dispersion......43  24  5   5   5   5   5   5   5   5   5   6   
+LVORI...........1   2   3   3   3   4   5   5   6   6   6   6   
+
+.WEDNESDAY...
+
+TIME (EDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........19  19  19  5   5   5   13  13  13  17  17  17  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............59  58  58  60  66  72  76  79  80  82  82  82  
+RH..............90  93  83  81  70  59  54  50  51  46  46  46  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..7   8   8   8   8   9   10  10  10  10  10  10  
+20 FT wind gust.17  17  18  18  18  20  20  21  21  21  21  21  
+Mix hgt (kft)...0.4 0.4 0.5 0.8 1.3 1.9 2.8 3.6 4.3 4.6 4.5 4.0 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.10  10  12  14  16  17  17  17  16  15  15  14  
+Dispersion......6   6   11  14  26  41  53  57  59  58  58  56  
+LVORI...........6   5   5   4   3   1   1   1   1   1   1   1   
+
+$$
+Forecaster...Haner
+Requested by...Aaron Edwards Jr
+Type of request...PRESCRIBED
+.TAG 2624589.0/TAE
+.DELDT 10/26/26
+.FormatterVersion 2.0.0
+.EMAIL aaron.edwards@usda.gov
+
