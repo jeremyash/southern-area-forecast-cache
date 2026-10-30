@@ -1,0 +1,112 @@
+
+000
+FNUS72 KFFC 292012
+FWSFFC
+
+Spot Forecast for Pre fire Environment...USFS
+National Weather Service Peachtree City GA
+412 PM EDT Thu Oct 29 2026
+
+Forecast is based on ignition time of 1600 EDT on October 29. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Good afternoon, here is your forecast for the rest of today.
+
+Winds remain generally less than 6mph out of the northeast
+becoming light and variable overnight. Relative humidity values
+remain near or above 50 percent through the evening and overnight.
+Mixing heights will fall from 4 to 4.5kft to less than 500ft
+after sunset. No precipitation expected until later this weekend.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 77. 
+Min humidity........54 percent. 
+Dewpoint............59. 
+Wind (20 ft)........Northeast winds around 5 mph. 
+Mixing height.......4800 ft AGL. 
+Transport winds.....Northeast around 8 mph. 
+Smoke dispersal.....Good (30600 knot-ft). 
+LVORI...............1. 
+ADI.................41 to 43. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      4PM 5PM 
+Sky (%).........15  22  
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+CWR.............0   0   
+Chc of thdr (%).0   0   
+Temp............77  77  
+Dewpoint........60  59  
+RH..............55  54  
+20 FT wind dir..NE  NE  
+20 FT wind spd..5   5   
+20 FT wind gust.12  12  
+Mix hgt (kft)...4.8 4.5 
+Transp wind dir.NE  NE  
+Transp wind spd.8   8   
+LVORI...........1   1   
+ADI.............43  41  
+Vrate kt-ft/1K..32  31  
+Ventrate Cat....PR  PR  
+Ceiling (kft)...25  25  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 51. 
+Max humidity........100 percent. 
+Dewpoint............58 decreasing to 54 overnight. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Northeast 5 to 7 mph. 
+Smoke dispersal.....Fair (15100 knot-ft) early in the evening 
+                    decreasing to poor (1600 knot-ft) late in the 
+                    night. 
+LVORI...............6. 
+ADI.................2 to 22. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25. 
+
+TIME (EDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........19  13  10  10  9   4   6   8   8   13  16  20  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............76  71  64  61  59  58  57  56  55  55  54  53  
+Dewpoint........59  60  59  59  59  58  57  56  55  55  54  53  
+RH..............57  67  84  93  100 100 100 100 100 100 100 100 
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  N   N   N   N   N   
+20 FT wind spd..3   2   1   1   1   1   1   1   1   1   1   1   
+20 FT wind gust.9   7   6   6   6   6   6   6   6   6   6   6   
+Mix hgt (kft)...2.7 0.7 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.NE  NE  NE  E   NE  NE  NE  NE  NE  NE  N   N   
+Transp wind spd.7   6   6   7   6   6   6   6   5   6   5   6   
+LVORI...........2   3   5   6   9   9   9   9   10  9   10  9   
+ADI.............22  3   3   3   3   3   3   3   2   3   2   3   
+Vrate kt-ft/1K..15  4   2   2   2   2   2   2   2   2   2   2   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  25  
+
+$$
+Forecaster...SMarlow
+Requested by...Benjamin Thigpen
+Type of request...PRESCRIBED
+.TAG 2624422.5/FFC
+.DELDT 10/29/26
+.FormatterVersion 2.0.0
+.EMAIL benjamin.thigpen@uga.edu,benjamin.thigpen@uga.edu.
+
