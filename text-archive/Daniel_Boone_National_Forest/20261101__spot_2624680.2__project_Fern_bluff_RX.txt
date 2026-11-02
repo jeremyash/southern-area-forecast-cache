@@ -1,0 +1,161 @@
+
+000
+FNUS73 KJKL 011033
+FWSJKL
+
+Spot Forecast for Fern bluff RX...usfs
+National Weather Service Jackson KY
+533 AM EST Sun Nov 1 2026
+
+Forecast is based on ignition time of 0900 EST on November 01. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...An upper level weather system will arrive from the west
+today, bringing an increase in moisture and lower end chances for 
+measurable rain from this evening into early on Monday. Temperatures 
+will average 5 to 10 degrees through Monday and into the middle of the
+week. A better chance for measureable rain arrives during the middle of
+the week.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent). 
+Chance of pcpn......10 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 70. 
+Min humidity........Around 33 percent. 
+Dewpoint............Around 41. 
+Max apparent temp...Around 69. 
+Wind (20 ft)........Southeast to south 1 to 3 mph. 
+Ridgetop wind.......Southeast to south 2 to 4 mph. 
+Mixing height.......Max 3400 ft AGL. 
+Transport winds.....South to southeast 7 to 10 mph. 
+Vent Rate...........Poor (2800 knot-ft) increasing to poor 
+                    (11400 knot-ft) to poor (26300 knot-ft)
+                    in the afternoon. 
+LVORI...............1 to 3. 
+ADI.................7 early, 17 to 37 in the afternoon. 
+
+TIME (EST)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........78  69  59  70  73  72  82  86  85  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   10  10  10  10  10  
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   
+Temp............57  62  65  68  68  69  68  67  67  
+Dewpoint........43  43  42  41  40  40  40  42  42  
+RH..............59  50  43  37  36  35  36  40  40  
+Aparnt tmp (F)..57  62  65  68  68  69  68  67  67  
+20 FT wind dir..SE  S   S   S   S   S   S   SE  S   
+20 FT wind spd..1   1   2   2   2   2   2   2   1   
+20 FT wind gust.5   6   6   7   7   7   7   6   5   
+Ridge wind dir..SE  S   S   S   S   S   S   SE  S   
+Ridge wind spd..2   2   3   3   3   3   3   3   2   
+Mix hgt (kft)...0.5 1.2 1.8 2.5 3.3 3.4 2.5 1.6 1.0 
+Transp wind dir.S   S   S   S   S   S   S   SE  S   
+Transp wind spd.7   9   10  9   9   8   8   8   7   
+LVORI...........3   2   2   1   1   1   2   2   2   
+ADI.............7   15  25  31  37  33  26  17  9   
+Vrate kt-ft/1K..3   10  16  20  26  24  18  11  6   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Cloudy (85-95 percent). A chance of rain mainly
+                    after 1800. 
+Chance of pcpn......30 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 52. 
+Max humidity........Around 80 percent. 
+Dewpoint............Around 45. 
+Max apparent temp...Around 64 early. 
+Wind (20 ft)........Southeast 1 to 3 mph. 
+Ridgetop wind.......Southeast 2 to 4 mph. 
+Mixing height.......Decreasing to 400 ft AGL. 
+Transport winds.....Southwest to south 5 to 8 mph, becoming southeast
+                    7 to 9 mph around 2300. 
+Vent Rate...........Poor (1500 knot-ft) to Poor (9300 knot-ft). 
+LVORI...............2 to 3. 
+ADI.................2 to 4. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........87  94  92  94  93  91  90  84  87  82  94  93  
+Weather cov.....    SCH SCH SCH CHC CHC CHC CHC CHC SCH SCH SCH 
+Weather type....    RN  RN  RN  RN  RN  RN  RN  RN  RN  RN  RN  
+Tstm cov........                                                
+Chc of pcpn (%).10  20  20  20  30  30  30  30  30  20  20  20  
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............64  62  60  58  57  56  56  55  54  54  54  54  
+Dewpoint........44  45  46  46  46  46  45  45  45  45  45  45  
+RH..............48  54  60  64  67  69  66  69  71  71  71  71  
+Aparnt tmp (F)..64  62  60  58  57  56  56  55  54  54  54  54  
+20 FT wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..1   1   1   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.3   2   2   3   3   3   3   3   3   3   3   3   
+Ridge wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Ridge wind spd..2   2   2   3   3   3   3   3   3   3   3   3   
+Mix hgt (kft)...0.4 0.4 0.5 0.4 1.0 0.5 0.8 0.9 0.8 1.2 0.8 0.9 
+Transp wind dir.S   S   S   SW  S   SE  SE  SE  SE  SE  SE  SE  
+Transp wind spd.6   5   6   5   6   7   7   7   7   9   9   9   
+LVORI...........2   2   3   3   3   3   3   3   3   3   3   3   
+ADI.............3   2   3   2   3   3   3   3   3   4   4   4   
+Vrate kt-ft/1K..2   2   3   2   5   3   5   6   5   9   7   7   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.MONDAY...
+
+Sky/weather.........Mostly cloudy (70-90 percent) then becoming 
+                    mostly sunny (35-45 percent). A slight chance of 
+                    rain early in the morning. 
+Chance of pcpn......20 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 68. 
+Min humidity........Around 49 percent. 
+Dewpoint............Around 47. 
+Max apparent temp...Around 68. 
+Wind (20 ft)........Southeast 2 to 4 mph. 
+Ridgetop wind.......Southeast 3 to 5 mph. 
+Mixing height.......Max 1200 ft AGL. 
+Transport winds.....Southeast 7 to 12 mph. 
+Vent Rate...........Poor (4200 knot-ft). 
+LVORI...............4 early, 2 late. 
+ADI.................7 to 14. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........92  88  87  85  85  84  72  56  35  45  43  44  
+Weather cov.....SCH SCH SCH                                     
+Weather type....RN  RN  RN                                      
+Tstm cov........                                                
+Chc of pcpn (%).20  20  20  10  0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............53  52  52  54  57  60  62  64  66  66  68  66  
+Dewpoint........45  45  46  49  49  49  48  48  48  48  49  48  
+RH..............74  77  80  83  75  67  60  56  52  52  51  52  
+Aparnt tmp (F)..53  52  52  54  57  60  62  64  66  66  68  66  
+20 FT wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..2   2   2   2   2   2   2   3   3   3   3   2   
+20 FT wind gust.3   3   3   5   6   8   8   8   8   8   8   6   
+Ridge wind dir..SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Ridge wind spd..3   3   3   3   3   3   3   5   5   5   5   3   
+Mix hgt (kft)...0.7 1.1 0.9 0.7 0.9 1.1 1.2 1.1 1.2 1.0 1.2 0.7 
+Transp wind dir.SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  SE  
+Transp wind spd.9   10  12  10  9   9   8   8   9   8   8   7   
+LVORI...........3   4   4   4   4   3   2   2   2   2   2   2   
+ADI.............7   14  13  8   9   12  12  11  13  10  13  7   
+Vrate kt-ft/1K..6   10  10  7   7   9   8   7   9   7   9   4   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...JP
+Requested by...Seth Thompson
+Type of request...PRESCRIBED
+.TAG 2624680.2/JKL
+.DELDT 11/01/26
+.FormatterVersion 2.0.0
+.EMAIL casey.lovell@usda.gov,seth.thompson2@usda.gov,conrad.mccloskey@usda.gov,brian.sayles@usda.gov
+
