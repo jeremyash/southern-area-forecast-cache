@@ -1,0 +1,161 @@
+
+000
+FNUS74 KMOB 031015
+FWSMOB
+
+Spot Forecast for BSE13...USFS
+National Weather Service Mobile AL
+415 AM CST Tue Nov 3 2026
+
+Forecast is based on ignition time of 0600 CST on November 03. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...Scattered showers and thunderstorms are expected
+across the burn site today through Wednesday. Minimum relative 
+humidity today is near 65%, 20 ft wind gusts will be up to near 
+25 mph, transport winds will be mostly east-southeasterly to 
+easterly, and dispersion values will be fair. For Wednesday, the 
+minimum relative humidity is near 70%, transport winds will be 
+mostly southerly to south- southwesterly, and dispersion values 
+will be fair. 
+
+Fog potential and other remarks...Fog is not expected.
+
+
+.TODAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Chance of 
+                    showers and slight chance of thunderstorms in 
+                    the afternoon. 
+Chance of pcpn......50 percent. 
+Max temperature.....Around 82. 
+Min humidity........65 percent. 
+Wind (20 ft)........East winds 5 to 8 mph with gusts to around 21 
+                    mph becoming light. Gusty and erratic winds 
+                    expected near thunderstorms in the afternoon. 
+Mixing height.......2700 ft AGL. 
+Mixing height (m)...244-823 meters AGL. 
+Transport winds.....East 12 to 17 mph. 
+Transport winds m/s.East 5 to 8 meters/second. 
+Dispersion index....20 increasing to 34 early in the morning, then 
+                    decreasing to 25 late in the afternoon. 
+LVORI...............4. 
+Stability class.....3. 
+
+TIME (CST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........81  71  75  83  78  82  78  72  67  61  65  72  
+Weather cov.....                        CHC CHC CHC CHC CHC CHC 
+Weather type....                        RW  RW  RW  RW  RW  RW  
+Tstm cov........                        SCH SCH SCH SCH SCH SCH 
+Chc of pcpn (%).10  10  10  10  10  10  30  30  30  50  50  50  
+Temp............67  68  71  75  78  80  81  81  81  81  79  77  
+RH..............90  90  84  76  71  67  65  65  67  67  72  76  
+20 FT wind dir..E   E   E   E   E   ESE ESE ESE ESE ESE ESE ESE 
+20 FT wind spd..8   8   8   9   9   8   8   8   8   7   6   5   
+20 FT wind gust.18  20  20  21  21  20  20  20  20  18  17  16  
+Mix hgt (kft)...0.8 1.3 1.5 1.8 2.1 2.4 2.6 2.6 2.7 2.3 2.3 2.3 
+Mix hgt (km)....0.2 0.4 0.5 0.5 0.6 0.7 0.8 0.8 0.8 0.7 0.7 0.7 
+Transp wind dir.E   E   E   E   E   ESE ESE ESE ESE ESE ESE ESE 
+Transp wind spd.14  16  17  17  17  17  17  16  16  14  13  12  
+Trans wind dir..E   E   E   E   E   ESE ESE ESE ESE ESE ESE ESE 
+Trans spd (m/s).6   7   8   8   8   8   8   7   7   6   6   5   
+Dispersion idx..16  24  29  31  35  36  38  36  34  27  25  23  
+LVORI...........5   4   4   3   3   3   3   3   3   3   3   3   
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent). Chance of 
+                    showers early in the evening. Slight chance of 
+                    thunderstorms in the evening and overnight. 
+                    Showers likely in the late evening and 
+                    overnight. 
+Chance of pcpn......70 percent. 
+Min temperature.....Around 68. 
+Max humidity........97 percent. 
+Wind (20 ft)........Light winds. Gusty and erratic winds expected 
+                    near thunderstorms in the evening and 
+                    overnight. 
+Mixing height.......400 ft AGL. 
+Mixing height (m)...122-152 meters AGL. 
+Transport winds.....Southeast 10 to 13 mph. 
+Transport winds m/s.Southeast 4 to 6 meters/second. 
+Dispersion index....7. 
+LVORI...............7. 
+Stability class.....4. 
+
+TIME (CST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........72  62  66  52  73  75  84  89  87  76  89  90  
+Weather cov.....CHC CHC CHC LKY LKY LKY LKY LKY LKY LKY LKY LKY 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........SCH SCH SCH SCH SCH SCH SCH SCH SCH             
+Chc of pcpn (%).30  30  30  60  60  60  70  70  70  70  70  70  
+Temp............75  71  71  71  71  71  70  70  71  69  70  70  
+RH..............82  97  97  97  93  93  97  97  93  97  93  93  
+20 FT wind dir..ESE ESE ESE SE  ESE SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..3   3   3   5   5   5   5   5   5   5   5   5   
+20 FT wind gust.16  15  15  16  16  16  15  15  15  15  15  14  
+Mix hgt (kft)...0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.4 0.4 
+Mix hgt (km)....0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.1 0.1 
+Transp wind dir.ESE ESE ESE ESE SE  SE  SE  SE  SE  SE  SE  SE  
+Transp wind spd.10  12  10  10  12  13  12  12  12  10  10  10  
+Trans wind dir..ESE ESE ESE ESE SE  SE  SE  SE  SE  SE  SE  SE  
+Trans spd (m/s).4   5   4   4   5   6   5   5   5   4   4   4   
+Dispersion idx..7   6   6   7   8   8   8   8   8   8   8   7   
+LVORI...........4   7   9   8   6   6   8   8   6   8   6   6   
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly sunny (45-55 percent). Showers likely in 
+                    the morning. Chance of thunderstorms through 
+                    the day. Chance of showers in the afternoon. 
+Chance of pcpn......60 percent. 
+Max temperature.....Around 81. 
+Min humidity........74 percent. 
+Wind (20 ft)........Light winds becoming south around 5 mph early 
+                    in the morning, then becoming light late in the 
+                    afternoon. Gusty and erratic winds expected 
+                    near thunderstorms in the late morning and 
+                    early afternoon. Gusty and erratic winds 
+                    expected near thunderstorms late in the 
+                    afternoon. 
+Mixing height.......2200 ft AGL. 
+Mixing height (m)...152-671 meters AGL. 
+Transport winds.....South 10 to 14 mph decreasing to 7 to 12 mph in 
+                    the afternoon. 
+Transport winds m/s.South 3 to 6 meters/second. 
+Dispersion index....15 increasing to 25 early in the morning, then 
+                    decreasing to 18 late in the afternoon. 
+LVORI...............5. 
+Stability class.....2. 
+
+TIME (CST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........88  72  70  71  64  58  55  48  61  35  40  38  
+Weather cov.....LKY LKY LKY CHC CHC CHC CHC CHC CHC CHC CHC CHC 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........            CHC CHC CHC CHC CHC CHC SCH SCH SCH 
+Chc of pcpn (%).60  60  60  50  50  50  50  50  50  50  50  50  
+Temp............69  70  72  76  78  79  80  80  80  80  79  76  
+RH..............97  97  97  85  79  79  77  77  74  74  77  82  
+20 FT wind dir..SE  SE  SSE SSE SSE S   S   S   S   S   S   S   
+20 FT wind spd..5   5   6   6   6   6   6   6   6   5   5   3   
+20 FT wind gust.14  14  14  14  14  14  14  14  14  14  13  12  
+Mix hgt (kft)...0.5 1.3 1.3 1.6 1.7 1.7 1.8 2.0 2.2 2.1 2.1 2.1 
+Mix hgt (km)....0.2 0.4 0.4 0.5 0.5 0.5 0.5 0.6 0.7 0.6 0.6 0.6 
+Transp wind dir.SE  SSE S   S   S   S   S   SSW SSW SSW SSW S   
+Transp wind spd.12  13  14  13  13  13  10  10  10  12  9   7   
+Trans wind dir..SE  SSE S   S   S   S   S   SSW SSW SSW SSW S   
+Trans spd (m/s).5   6   6   6   6   6   4   4   4   5   4   3   
+Dispersion idx..11  18  21  23  23  22  21  27  29  28  22  18  
+LVORI...........7   5   5   4   3   3   3   3   3   3   3   4   
+
+$$
+Forecaster...25
+Requested by...Matt Delaney
+Type of request...PRESCRIBED
+.TAG 2625049.0/MOB
+.DELDT 11/03/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.delaney@usda.gov
+
