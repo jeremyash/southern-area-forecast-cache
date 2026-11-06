@@ -1,0 +1,156 @@
+
+000
+FNUS74 KMOB 051016
+FWSMOB
+
+Spot Forecast for MiC02...USFS
+National Weather Service Mobile AL
+416 AM CST Thu Nov 5 2026
+
+Forecast is based on ignition time of 0600 CST on November 05. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Patchy areas of fog will continue this morning, with fog 
+dissipating around early to mid morning. A few scattered showers 
+will remain possible throughout the day as a frontal boundary 
+slows/stalls across the region. At this time, chances will remain 
+around 20 percent throughout the day. Rain chances lower going 
+into the evening/overnight hours becoming dry but additional 
+patchy fog will be possible. 
+
+Fog potential and other remarks...
+
+patchy areas of fog will continue across the area early this 
+morning through 9AM. Patchy fog will be possible once again early 
+Friday morning from after midnight through 9AM. Confidence on 
+widespread dense fog however remains low at this time. 
+
+.TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent). Patchy fog early 
+                    in the morning. Slight chance of showers in the 
+                    afternoon. 
+Chance of pcpn......20 percent. 
+Max temperature.....Around 81. 
+Min humidity........67 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3000 ft AGL. 
+Mixing height (m)...152-914 meters AGL. 
+Transport winds.....Southwest 3 to 7 mph. 
+Transport winds m/s.Southwest 1 to 3 meters/second. 
+Dispersion index....7 increasing to 18 in the late morning and 
+                    afternoon. 
+LVORI...............6. 
+Stability class.....2. 
+
+TIME (CST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........66  65  54  52  51  54  56  44  43  45  48  42  
+Weather cov.....PTY PTY PTY             SCH SCH SCH SCH SCH SCH 
+Weather type....FOG FOG FOG             RW  RW  RW  RW  RW  RW  
+Tstm cov........                                                
+Chc of pcpn (%).10  10  10  10  10  10  20  20  20  20  20  20  
+Temp............67  66  69  73  76  78  79  80  81  79  79  75  
+RH..............100 100 100 97  87  79  74  69  67  69  69  79  
+20 FT wind dir..N   N   N   W   SW  SW  WSW WSW WSW WSW WSW N   
+20 FT wind spd..0   0   0   1   1   1   2   2   2   1   1   0   
+20 FT wind gust.2   3   3   5   5   6   8   8   8   8   6   6   
+Mix hgt (kft)...0.5 0.9 1.3 1.7 2.1 2.6 2.7 2.8 3.0 2.5 2.5 2.5 
+Mix hgt (km)....0.2 0.3 0.4 0.5 0.6 0.8 0.8 0.9 0.9 0.8 0.8 0.8 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  WSW WSW WSW WSW 
+Transp wind spd.3   6   6   6   5   6   7   6   7   6   7   5   
+Trans wind dir..SW  SW  SW  SW  SW  SW  SW  SW  WSW WSW WSW WSW 
+Trans spd (m/s).1   3   3   3   2   3   3   3   3   3   3   2   
+Dispersion idx..3   5   10  13  14  18  20  22  21  19  20  15  
+LVORI...........9   9   7   5   4   3   3   3   3   3   3   4   
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (35-45 percent). Slight chance of 
+                    showers early in the evening. Patchy dense fog 
+                    late in the evening. 
+Chance of pcpn......20 percent. 
+Min temperature.....Around 61. 
+Max humidity........93 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Mixing height (m)...122-152 meters AGL. 
+Transport winds.....West around 5 mph shifting to the north 6 to 7 
+                    mph in the late evening and overnight. 
+Transport winds m/s.West around 2 meters/second shifting to the 
+                    north around 3 meters/second in the late 
+                    evening and overnight. 
+Dispersion index....3. 
+LVORI...............6. 
+Stability class.....4. 
+
+TIME (CST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........39  39  54  59  64  51  46  35  35  19  16  25  
+Weather cov.....SCH SCH SCH         PTY PTY PTY PTY PTY PTY PTY 
+Weather type....RW  RW  RW          FOG FOG FOG FOG FOG FOG FOG 
+Tstm cov........                                                
+Chc of pcpn (%).20  20  20  0   0   0   10  10  10  0   0   0   
+Temp............71  70  69  69  68  66  66  65  64  63  63  62  
+RH..............90  93  93  90  90  93  90  90  90  90  87  87  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..0   0   0   0   0   0   1   1   1   1   1   1   
+20 FT wind gust.6   5   5   5   5   6   6   6   6   6   6   6   
+Mix hgt (kft)...0.4 0.5 0.5 0.5 0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Mix hgt (km)....0.1 0.2 0.2 0.2 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.WSW WSW W   W   NW  NNW NNW NNW N   N   N   N   
+Transp wind spd.5   5   5   5   6   7   7   6   6   6   6   6   
+Trans wind dir..WSW WSW W   W   NW  NNW NNW NNW N   N   N   N   
+Trans spd (m/s).2   2   2   2   3   3   3   3   3   3   3   3   
+Dispersion idx..2   2   2   2   3   3   3   3   3   3   3   3   
+LVORI...........6   6   6   6   6   6   6   6   6   6   6   6   
+
+.FRIDAY...
+
+Sky/weather.........Sunny (20-30 percent) then becoming mostly 
+                    cloudy (70-80 percent). Patchy dense fog early 
+                    in the morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 79. 
+Min humidity........42 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4400 ft AGL. 
+Mixing height (m)...122-1341 meters AGL. 
+Transport winds.....North 7 to 12 mph. 
+Transport winds m/s.North 3 to 5 meters/second. 
+Dispersion index....12 increasing to 31 late in the morning, then 
+                    increasing to 49 late in the morning decreasing 
+                    to 39 late in the afternoon. 
+LVORI...............4. 
+Stability class.....2. 
+
+TIME (CST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........12  10  4   12  24  41  60  72  77  79  87  83  
+Weather cov.....PTY                                             
+Weather type....FOG                                             
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............61  61  64  69  74  76  77  78  78  77  75  72  
+RH..............90  93  87  73  59  52  47  43  42  43  46  51  
+20 FT wind dir..N   N   NNW N   NNW NNW NNW NNW NNW NNW NNW NNW 
+20 FT wind spd..1   2   2   3   5   5   5   5   5   5   3   5   
+20 FT wind gust.7   8   8   10  12  13  13  14  14  14  13  14  
+Mix hgt (kft)...0.4 0.6 0.8 1.2 2.4 3.2 3.7 4.3 4.4 3.4 3.4 3.4 
+Mix hgt (km)....0.1 0.2 0.2 0.4 0.7 1.0 1.1 1.3 1.3 1.0 1.0 1.0 
+Transp wind dir.N   N   N   N   N   N   N   N   N   N   N   N   
+Transp wind spd.7   9   9   10  10  12  12  9   10  10  9   8   
+Trans wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+Trans spd (m/s).3   4   4   4   4   5   5   4   4   4   4   4   
+Dispersion idx..7   9   11  16  31  44  50  50  53  44  40  37  
+LVORI...........5   6   5   3   1   1   1   1   1   1   1   1   
+
+$$
+Forecaster...KLG
+Requested by...Matt Delaney
+Type of request...PRESCRIBED
+.TAG 2625250.0/MOB
+.DELDT 11/05/26
+.FormatterVersion 2.0.0
+.EMAIL matthew.delaney@usda.gov
+
