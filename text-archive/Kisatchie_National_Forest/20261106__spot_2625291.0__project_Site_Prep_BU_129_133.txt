@@ -1,0 +1,116 @@
+
+000
+FNUS74 KLCH 061146
+FWSLCH
+
+Spot Forecast for SITE PREP_ BU_129 133...USFS CALCASIEU VERNON
+National Weather Service Lake Charles LA
+546 AM CST Fri Nov 6 2026
+
+Forecast is based on ignition time of 0800 CST on November 06. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (337) 477-5285, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Patchy, shallow ground fog will be possible until approximately 7 AM.
+Light Northeasterly winds will prevail through the day with minimum 
+relative humidity falling to between 35-40% this afternoon. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Max temperature.....Around 80. 
+Min humidity........39 percent. 
+Eye level winds.....Light winds. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...91-1585 meters AGL. 
+Transport winds m/s.Northeast 1 to 4 meters/second. 
+
+TIME (CST)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........36  36  55  52  39  18  4   0   1   1   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Temp............59  68  73  75  77  79  79  80  78  76  
+RH..............87  68  55  50  45  42  41  39  43  46  
+20 FT wind dir..N   N   NE  NE  NE  N   NE  NE  N   NE  
+20 FT wind spd..1   1   2   3   3   3   3   3   3   2   
+20 FT wind gust.5   5   7   8   9   9   9   9   9   8   
+Eye lvl wnd dir.N   N   NE  NE  NE  N   NE  NE  N   NE  
+Eye lvl wnd spd.1   1   1   2   2   2   2   2   2   1   
+Eye lvl wnd gst.3   3   4   5   5   5   5   5   5   5   
+Mix hgt (km)....0.1 0.2 0.7 1.1 1.3 1.5 1.5 1.6 1.2 0.5 
+Trans wind dir..NE  NE  NE  NE  NE  N   N   N   N   NE  
+Trans spd (m/s).1   3   4   4   4   4   4   4   4   4   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent) then becoming 
+                    mostly cloudy (60-70 percent). 
+Min temperature.....Around 52. 
+Max humidity........90 percent. 
+Eye level winds.....Light winds becoming northeast around 3 mph 
+                    after 3 am. 
+Wind (20 ft)........Northeast winds around 5 mph early in the 
+                    evening becoming light, then becoming northeast 
+                    around 5 mph after 3 am. 
+Mixing height (m)...122 meters AGL. 
+Transport winds m/s.Northeast 4 to 5 meters/second. 
+
+TIME (CST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........8   9   7   12  29  22  43  55  59  64  79  75  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............71  66  64  62  60  59  58  57  56  54  54  54  
+RH..............57  65  73  78  81  83  83  86  86  90  86  86  
+20 FT wind dir..N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..2   2   2   2   2   2   2   3   3   5   5   5   
+20 FT wind gust.8   8   9   9   9   9   10  10  12  12  12  13  
+Eye lvl wnd dir.N   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Eye lvl wnd spd.1   1   1   1   1   1   1   2   2   3   3   3   
+Eye lvl wnd gst.5   5   5   5   5   5   6   6   7   7   7   8   
+Mix hgt (km)....0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Trans wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Trans spd (m/s).4   4   4   4   4   4   5   4   4   4   4   4   
+
+.SATURDAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent). 
+Max temperature.....Around 72. 
+Min humidity........42 percent. 
+Eye level winds.....Northeast winds up to 4 mph becoming light. 
+Wind (20 ft)........Northeast winds 5 to 6 mph becoming light. 
+Mixing height (m)...152-1097 meters AGL. 
+Transport winds m/s.Northeast 4 to 6 meters/second. 
+
+TIME (CST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........82  76  74  67  65  82  75  76  68  74  77  73  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............53  52  56  62  65  68  70  70  72  71  70  69  
+RH..............89  89  83  67  60  53  47  46  43  42  44  44  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  N   NE  NE  
+20 FT wind spd..5   5   6   6   6   6   5   6   6   6   5   3   
+20 FT wind gust.13  13  13  13  13  12  12  12  13  13  13  12  
+Eye lvl wnd dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  N   NE  NE  
+Eye lvl wnd spd.3   3   4   4   4   4   3   4   4   4   3   2   
+Eye lvl wnd gst.8   8   8   8   8   7   7   7   8   8   8   7   
+Mix hgt (km)....0.2 0.3 0.4 0.5 0.6 0.7 0.8 1.0 1.1 1.0 0.9 0.3 
+Trans wind dir..NE  NE  NE  NE  NE  NE  NE  N   N   N   N   N   
+Trans spd (m/s).4   4   6   5   5   4   4   4   4   4   4   4   
+
+$$
+Forecaster...JONES
+Requested by...ADAM BOUDREAUX
+Type of request...PRESCRIBED
+.TAG 2625291.0/LCH
+.DELDT 11/06/26
+.FormatterVersion 2.0.0
+.EMAIL JASON.FRENCH@USDA.GOV,ADAM.BOUDREAUX@USDA.GOV
+

@@ -1,0 +1,169 @@
+
+000
+FNUS73 KJKL 061016
+FWSJKL
+
+Spot Forecast for Twin Knobs Pile Rx...USFS
+National Weather Service Jackson KY
+516 AM EST Fri Nov 6 2026
+
+Forecast is based on ignition time of 0600 EST on November 06. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...A series of cold fronts cross the area this afternoon,
+with mostly cloudy to cloudy skies developing in the afternoon. 
+Skies clear tonight as a cool and dry air mass arrives behind the 
+front. The cold fronts will bring an increase in northwesterly 
+surface and transport winds this afternoon. 
+
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (35-45 percent) then becoming 
+                    mostly cloudy (75-85 percent). Chance of 
+                    sprinkles early in the afternoon. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 59. 
+Min humidity........64 percent. 
+Dewpoint............47 increasing to 49 in the late morning and 
+                    afternoon, then decreasing to 45 late in the 
+                    afternoon. 
+Max apparent temp...58. 
+Wind (20 ft)........Light winds becoming northwest around 5 mph 
+                    late in the afternoon, then becoming light late 
+                    in the afternoon. 
+Ridgetop wind.......West around 2 mph shifting to the northwest in 
+                    the late morning and afternoon. 
+Mixing height.......3500 ft AGL. 
+Transport winds.....Northwest 6 to 14 mph shifting to the north 13 
+                    to 14 mph late in the afternoon. 
+Vent Rate...........Poor (2000 knot-ft) increasing to poor (20000 
+                    knot-ft) increasing to marginal (29600 knot-ft) 
+                    in the afternoon, then to fair (38900 knot-ft) 
+                    mid-afternoon before decreasing to poor 
+                    (25300 knot-ft) late in the afternoon. 
+LVORI...............6. 
+ADI.................2 to 30. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........15  24  37  50  45  35  64  83  76  81  79  80  
+Weather cov.....                            CHC CHC             
+Weather type....                            RW  RW              
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............50  49  50  52  56  58  58  58  58  57  56  56  
+Dewpoint........46  45  47  49  51  51  50  50  48  48  47  45  
+RH..............86  86  89  89  83  77  75  75  69  72  72  66  
+Aparnt tmp (F)..50  49  50  52  56  58  58  58  58  57  56  56  
+20 FT wind dir..SW  W   W   NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..1   1   1   2   3   5   5   6   6   6   6   5   
+20 FT wind gust.2   2   3   5   7   8   10  12  13  13  13  12  
+Ridge wind dir..SW  W   W   NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Ridge wind spd..2   2   2   3   5   6   6   7   7   7   7   6   
+Mix hgt (kft)...0.4 0.4 0.4 1.0 2.2 3.0 3.5 3.3 2.7 2.2 2.5 2.3 
+Transp wind dir.W   W   NW  NW  NW  NW  NW  NW  NW  N   N   N   
+Transp wind spd.6   6   6   9   10  12  13  13  14  14  14  13  
+LVORI...........9   9   9   6   5   3   3   3   3   3   3   3   
+ADI.............2   2   4   7   11  19  22  26  30  30  30  21  
+Vrate kt-ft/1K..2   2   2   8   20  30  39  36  33  27  30  25  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (65-75 percent) then becoming 
+                    mostly clear (10-20 percent). Patchy fog 
+                    and/or frost after 2 am. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 36. 
+Max humidity........96 percent. 
+Dewpoint............43 decreasing to 38 overnight. 
+Min apparent temp...37. 
+Wind (20 ft)........Light winds. 
+Ridgetop wind.......Northwest 2 to 6 mph. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Northwest 7 to 10 mph. 
+Vent Rate...........Poor (2800 knot-ft). 
+LVORI...............7. 
+ADI.................2 to 7. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........76  84  71  53  27  7   5   15  13  18  14  19  
+Weather cov.....                                PTY PTY PTY PTY 
+Weather type....                                FOG FOG FOG FOG 
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............53  51  49  47  45  43  41  40  40  38  37  37  
+Dewpoint........45  44  45  43  42  41  39  38  39  38  37  37  
+RH..............74  74  83  83  86  89  89  89  92  92  96  96  
+Aparnt tmp (F)..53  51  48  47  45  43  41  40  40  38  37  37  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..5   3   3   2   2   1   1   1   1   1   1   1   
+20 FT wind gust.9   7   6   3   3   3   2   2   2   2   2   2   
+Ridge wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Ridge wind spd..6   5   5   3   3   2   2   2   2   2   2   2   
+Mix hgt (kft)...1.2 1.1 0.6 0.7 0.7 0.5 0.6 0.5 0.5 0.5 0.5 0.8 
+Transp wind dir.N   NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.10  10  10  10  10  9   8   7   7   7   7   7   
+LVORI...........4   4   6   6   8   8   8   8   8   9   9   10  
+ADI.............7   6   4   4   3   3   3   2   2   2   2   2   
+Vrate kt-ft/1K..11  10  5   6   6   4   4   3   3   3   3   5   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.SATURDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). Patchy fog and/or 
+                    frost early in the morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 53. 
+Min humidity........50 percent. 
+Dewpoint............38 increasing to 39 late in the morning, then 
+                    decreasing to 36 in the afternoon. 
+Min apparent temp...36. 
+Wind (20 ft)........Light winds. 
+Ridgetop wind.......Northwest 2 to 6 mph. 
+Mixing height.......4300 ft AGL. 
+Transport winds.....Northwest 7 to 13 mph. 
+Vent Rate...........Poor (4200 knot-ft) increasing to poor (26000 
+                    knot-ft), then increasing to fair (40000 knot-ft) 
+                    early afternoon before decreasing to poor 
+                    (11000 knot-ft) late in the afternoon. 
+LVORI...............5. 
+ADI.................3 early in the morning increasing to 55 in the 
+                    afternoon. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........27  25  26  32  32  38  56  63  43  41  23  20  
+Weather cov.....PTY PTY PTY                                     
+Weather type....FOG FOG FOG                                     
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............37  36  37  41  44  47  50  51  52  53  53  52  
+Dewpoint........37  36  37  40  41  40  38  36  36  36  36  36  
+RH..............96  92  92  89  86  74  61  54  52  52  52  54  
+Aparnt tmp (F)..37  36  37  41  42  46  48  51  52  53  53  52  
+20 FT wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind spd..1   1   1   2   3   3   5   5   5   5   5   2   
+20 FT wind gust.2   3   5   6   8   9   10  10  10  10  9   7   
+Ridge wind dir..NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Ridge wind spd..2   2   2   3   5   5   6   6   6   6   6   3   
+Mix hgt (kft)...0.8 0.9 0.7 1.6 2.9 3.6 4.0 4.2 4.3 4.3 4.0 1.6 
+Transp wind dir.NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.7   8   7   8   10  13  12  13  12  12  12  8   
+LVORI...........9   9   9   5   4   3   1   1   1   1   1   2   
+ADI.............3   3   6   16  27  34  48  54  55  50  46  21  
+Vrate kt-ft/1K..5   6   4   11  26  40  40  46  43  43  40  11  
+Ventrate Cat....PR  PR  PR  PR  PR  FR  FR  FR  FR  FR  FR  PR  
+
+$$
+Forecaster...CMC
+Requested by...Conrad McCloskey
+Type of request...PRESCRIBED
+.TAG 2625318.0/JKL
+.DELDT 11/06/26
+.FormatterVersion 2.0.0
+.EMAIL ricky.snodgrass@usda.gov,conrad.mccloskey@usda.gov,shavonte.crosby@usda.gov
+

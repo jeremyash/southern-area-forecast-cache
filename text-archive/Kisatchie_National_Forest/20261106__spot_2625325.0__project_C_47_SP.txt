@@ -1,0 +1,86 @@
+
+000
+FNUS74 KSHV 060926
+FWSSHV
+
+Spot Forecast for C-47 SP...USFS
+National Weather Service Shreveport LA
+326 AM CST Fri Nov 6 2026
+
+Forecast is based on ignition time of 0600 CST on November 06. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (318) 631-3669 ext. 241, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Aside from very cool conditions this morning with the potential for patchy fog, 
+temperatures will quickly warm today under a mostly sunny sky, with min RH's 
+ranging from 35-40%. A weak cold front will be moving through the area this morning, 
+although impacts from this front will not be felt until later tonight and 
+Saturday in the form of slightly cooler and drier air. 20 foot winds will be 
+northeast 5-10 mph today with the passage of this weak front, before decoupling 
+after sunset. No fog is expected tonight, although good RH recovery will occur. 
+
+.TODAY...
+TIME (CST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........52  55  62  68  43  27  11  14  6   7   6   7   
+Weather cov.....PTY PTY PTY                                        
+Weather type....FOG FOG FOG                                        
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............51  51  55  61  68  72  75  78  79  80  79  75  
+RH..............100 100 97  83  65  53  47  41  40  36  37  43  
+20 FT wind dir..N   N   N   NE  NE  NE  NE  NE  NE  NE  NE  NE   
+20 FT wind mph..0   0   0   2   4   5   6   6   6   6   5   5   
+20 FT wind gust.                6   8   7   8   8   9   9   9  
+Mix hgt (kft)...0.4 0.4 0.4 0.8 1.5 2.6 3.8 4.6 5.1 5.4 4.1 2.0 
+Mix hgt (km)....0.1 0.1 0.1 0.2 0.5 0.8 1.2 1.4 1.6 1.6 1.2 0.6 
+Transp wind dir.N   N   NE  NE  NE  NE  N   N   N   N   NE  NE  
+Transp wind spd.3   5   5   7   7   7   7   7   8   8   9   9   
+Trans wind dir..N   N   NE  NE  NE  NE  N   N   N   N   NE  NE  
+Trans spd (m/s).1   2   2   3   3   3   3   3   4   4   4   4   
+
+.TONIGHT...
+TIME (CST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      0      7      53     43     60     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............70     62     58     55     53     51     
+RH..............57     75     87     90     89     93     
+20 ft wind......N 3    NE 3   NE 3   NE 2   NE 3   NE 3   
+20 ft wind gust.     
+Mix hgt (ft)....500    400    400    400    400    400    
+Mix hgt (m).....150    120    120    120    120    120    
+Transport wind..NE 9   NE 10  NE 12  NE 10  NE 10  NE 10  
+Tran wind (m/s).NE 4   NE 4   NE 5   NE 4   NE 4   NE 4   
+
+.SATURDAY...
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........58     76     53     63     54     68     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............50     52     63     68     70     69     
+RH..............93     89     62     51     44     44     
+20 ft wind......NE 3   NE 5   NE 6   NE 5   NE 6   N 5    
+20 ft wind gust.              9      9      9      9     
+Mix hgt (ft)....400    1300   2300   3200   3900   3600   
+Mix hgt (m).....120    400    700    980    1190   1100   
+Transport wind..NE 10  NE 13  NE 10  NE 9   N 9    N 10   
+Tran wind (m/s).NE 4   NE 6   NE 4   NE 4   N 4    N 4    
+
+$$
+
+Forecaster...HANSFORD
+Requested by...Marcus Spivey
+Type of request...PRESCRIBED
+.TAG 2625325.0/SHV
+.DELDT 11/06/26
+.FormatterVersion 2.0.0
+.EMAIL marcus.spivey@usda.gov,charles.g.davis@usda.gov
+
