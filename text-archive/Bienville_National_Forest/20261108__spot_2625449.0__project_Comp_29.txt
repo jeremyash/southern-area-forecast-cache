@@ -1,0 +1,106 @@
+
+000
+FNUS74 KJAN 081354
+FWSJAN
+
+Spot Forecast for Comp 29...USFS
+National Weather Service Jackson MS
+754 AM CST Sun Nov 8 2026
+
+Forecast is based on ignition time of 0800 CST on November 08. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Some patchy fog and frost will be possible near the burn site this morning.
+Surface/20ft winds will be light at the time of ignition, generally
+less than 10mph and northerly. Min RHs this afternoon will bottom
+out in the 25 to lower 35 percent range. Mixing heights will be
+around 91 meters at time of ignition.
+
+.TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). Patchy frost 
+                    early in the morning. 
+Temperature.........46 at ignition...Max 70. 
+RH..................73 percent at ignition...Min 30 percent. 
+Wind (20 ft)........Winds north at 2 mph at ignition...otherwise 
+                    Light winds. 
+Mixing height (m)...91 meters AGL at ignition...otherwise 91-945 
+                    meters AGL. 
+Transport winds.....North 7 to 9 mph. 
+Transport winds m/s.North 3 to 4 meters/second. 
+
+TIME (CST)      2 AM   4 AM   6 AM   8 AM   10 AM  
+Sky cover.......Clear  PCldy  PCldy  PCldy  PCldy  
+Weather cov.....                                   
+Weather type....None   None   None   None   None   
+Tstm cov........                                   
+Temp............46     59     67     70     67     
+RH..............73     51     36     30     33     
+20 ft wind dir..N      N      N      N      N      
+20 ft wind spd..2      3      3      3      3      
+20 ft wind gust.7      9      10     9      9      
+Mix hgt (m).....180    520    790    940    490    
+Transport wind..NE 7   N 8    N 8    N 9    N 8    
+Tran wind (m/s).NE 3   N 4    N 4    N 4    N 4    
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent). Patchy fog after 
+                    3 am. 
+Temperature.........Min 38. 
+RH..................Max 96 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122 meters AGL. 
+Transport winds.....North 6 to 9 mph. 
+Transport winds m/s.North 3 to 4 meters/second. 
+
+TIME (CST)      Noon   2 PM   4 PM   6 PM   8 PM   10 PM  
+Sky cover.......PCldy  PCldy  MClear PCldy  PCldy  MClear 
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............57     50     47     44     41     39     
+RH..............51     68     79     89     93     96     
+20 ft wind dir..N      N      N      N      N      N      
+20 ft wind spd..3      2      1      1      1      2      
+20 ft wind gust.10     9      7      5      6      7      
+Mix hgt (m).....120    120    120    120    120    120    
+Transport wind..N 9    N 9    N 7    N 7    N 6    N 7    
+Tran wind (m/s).N 4    N 4    N 3    N 3    N 3    N 3    
+
+.MONDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+Temperature.........Max 74. 
+RH..................Min 25 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...91-792 meters AGL. 
+Transport winds.....Northeast 5 to 8 mph. 
+Transport winds m/s.Northeast 2 to 4 meters/second. 
+
+TIME (CST)      Midngt 2 AM   4 AM   6 AM   8 AM   10 AM  
+Sky cover.......MClear MClear MClear MClear PCldy  MCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............38     46     63     72     74     71     
+RH..............96     83     46     30     25     30     
+20 ft wind dir..N      NE     NE     NE     N      N      
+20 ft wind spd..2      2      2      1      1      0      
+20 ft wind gust.8      7      7      6      5      5      
+Mix hgt (m).....120    210    430    640    730    340    
+Transport wind..NE 7   NE 8   NE 8   NE 5   N 5    N 6    
+Tran wind (m/s).NE 3   NE 4   NE 4   NE 2   N 2    N 3    
+
+$$
+Forecaster...Parks
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2625449.0/JAN
+.DELDT 11/08/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+

@@ -1,0 +1,141 @@
+
+000
+FNUS71 KRNK 092118
+FWSRNK
+
+Spot Forecast for Little Mountain Rx...USFS
+National Weather Service Blacksburg VA
+418 PM EST Mon Nov 9 2026
+
+Forecast is based on ignition time of 0600 EST on November 10. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+West/northwest winds look to remain around 10-15 mph from the mid 
+morning hours into the evening hours on Tuesday. Early in the morning,
+winds look to remain out of the west/northwest; however, wind speeds
+will generally remain around 5-10 mph. Wind gusts will generally 
+remain around 15-20 mph throughout the day on Tuesday, with peak 
+wind gusts generally occurring during the afternoon hours. 
+Dry conditions will remain at the burn location on Tuesday, with minimum
+RH values dropping into the upper 30% to low 40% range during the afternoon
+hours during peak mixing. These RH values are ideal for performing 
+prescribed burns on southern slopes that have dried out across the area. 
+Temperatures on Tuesday will generally top out in the mid 60s at the 
+burn location. 
+
+
+Calmer winds on Wednesday with temperatures still topping
+out in low/mid 60s. Min-RH on the rise ahead of an approaching
+front from the west, increasing moisture over
+the Mid-Atlantic. This front is expected to arrive on Thursday.
+
+
+.TUESDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 63. 
+Min humidity........40 percent. 
+Wind (20 ft)........West winds 5 to 6 mph. 
+Mixing height.......2500 ft AGL. 
+Mixing winds........West 12 to 17 mph. 
+Smoke dispersal.....Poor (4600 knot-ft) early in the morning 
+                    increasing to good (34500 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................12 to 50. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   2   3   3   2   3   4   4   2   2   2   2   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............42  41  43  48  52  56  59  60  62  61  60  57  
+RH..............72  72  73  65  56  47  42  41  40  42  44  49  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..5   5   5   5   6   6   6   6   6   6   6   5   
+20 FT wind gust.10  10  11  11  12  12  12  12  12  11  11  10  
+Mix hgt (kft)...0.5 0.5 0.6 1.0 1.3 1.6 2.0 2.1 2.3 2.5 2.1 1.0 
+Mixng wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+Mixng wind spd..12  12  12  14  15  15  17  16  16  16  14  12  
+LVORI...........3   3   3   3   2   1   1   1   1   1   1   2   
+ADI.............12  12  12  19  26  30  44  44  47  50  36  16  
+VRate mph-ft/1K.5   5   7   14  20  23  34  35  37  40  28  12  
+
+.TUESDAY NIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 42. 
+Max humidity........84 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Mixing winds........West 9 to 12 mph. 
+Smoke dispersal.....Poor (3500 knot-ft). 
+LVORI...............4. 
+ADI.................4 to 5. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........2   3   2   2   4   3   5   5   2   3   4   2   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............52  51  50  49  48  47  46  45  44  44  43  43  
+RH..............57  57  61  65  69  70  75  78  82  82  84  84  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..4   4   4   4   4   4   4   3   3   3   3   2   
+20 FT wind gust.10  10  11  11  10  10  8   8   7   6   6   6   
+Mix hgt (kft)...0.7 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.4 0.4 0.4 0.4 
+Mixng wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+Mixng wind spd..10  12  10  10  12  12  12  12  12  12  10  9   
+LVORI...........3   3   3   3   3   3   4   4   4   4   5   5   
+ADI.............5   5   5   5   5   5   5   5   5   5   5   4   
+VRate mph-ft/1K.7   6   5   5   6   6   6   5   5   5   4   4   
+
+.VETERANS DAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 64. 
+Min humidity........39 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3700 ft AGL. 
+Mixing winds........West 6 to 10 mph. 
+Smoke dispersal.....Poor (2700 knot-ft) early in the morning 
+                    increasing to good (33000 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................7 to 46. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   2   2   9   16  22  29  35  37  38  40  41  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............42  42  44  50  56  60  62  63  64  63  61  58  
+RH..............84  84  82  70  57  49  44  41  39  39  41  45  
+20 FT wind dir..W   W   W   SW  SW  SW  SW  SW  SW  W   W   SW  
+20 FT wind spd..2   1   1   1   1   2   3   4   4   4   3   3   
+20 FT wind gust.6   5   5   5   5   5   6   6   7   7   7   6   
+Mix hgt (kft)...0.4 0.4 0.5 1.1 1.6 2.3 3.0 3.7 3.0 2.4 1.8 1.3 
+Mixng wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+Mixng wind spd..9   8   7   8   9   10  10  10  9   7   6   6   
+LVORI...........4   4   4   3   2   2   1   1   1   2   2   2   
+ADI.............10  8   7   11  19  30  39  46  34  22  13  10  
+VRate mph-ft/1K.4   3   4   8   15  23  32  38  27  17  10  7   
+
+$$
+Forecaster...Bunker
+Requested by...Jonathan Catron
+Type of request...PRESCRIBED
+.TAG 2625575.0/RNK
+.DELDT 11/09/26
+.FormatterVersion 2.0.0
+.EMAIL jonathan.catron@usda.gov
+

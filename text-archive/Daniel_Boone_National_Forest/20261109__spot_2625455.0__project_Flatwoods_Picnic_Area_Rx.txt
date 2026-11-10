@@ -1,0 +1,159 @@
+
+000
+FNUS73 KJKL 091129
+FWSJKL
+
+Spot Forecast for Flatwoods Picnic Area Rx...USFS
+National Weather Service Jackson KY
+629 AM EST Mon Nov 9 2026
+
+Forecast is based on ignition time of 0600 EST on November 10. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Seasonable weather will persist through midweek, with 
+high relative humidity overnight into the morning hours, 
+but fairly dry (around 40%) during peak heating each afternoon. 
+Dispersion/ventilation will be limited today due to a lack of wind, 
+but should be a little bit greater on Tuesday and Wednesday with a 
+modest increase in wind.
+
+.TUESDAY...
+
+Sky/weather.........Sunny (0-10 percent). Patchy frost early in the 
+                    morning. 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 68. 
+Min humidity........41 percent. 
+Dewpoint............36 increasing to 45 in the late morning and 
+                    afternoon. 
+Min apparent temp...36. 
+Wind (20 ft)........Light winds becoming west around 5 mph early in 
+                    the afternoon. 
+Ridgetop wind.......Southwest 2 to 6 mph shifting to the west 3 to 
+                    7 mph late in the afternoon. 
+Mixing height.......4200 ft AGL. 
+Transport winds.....Southwest 3 to 9 mph shifting to the west 7 to 
+                    12 mph late in the morning. 
+Vent Rate...........Poor (200 knot-ft) increasing to fair 
+                    (41800 knot-ft) in the afternoon. 
+LVORI...............5. 
+ADI.................3 early in the morning increasing to 57 in the 
+                    afternoon. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........7   6   9   2   1   1   2   5   6   5   7   9   
+Weather cov.....PTY PTY                                         
+Weather type....FST FST                                         
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............36  36  39  48  54  59  64  67  68  68  67  64  
+Dewpoint........36  35  38  44  46  47  47  46  45  44  46  47  
+RH..............100 96  100 93  74  64  54  48  47  43  50  56  
+Aparnt tmp (F)..36  36  38  46  54  59  64  66  66  67  65  63  
+20 FT wind dir..S   S   S   S   SW  SW  SW  W   W   W   W   W   
+20 FT wind spd..1   1   2   2   3   3   5   5   6   5   5   2   
+20 FT wind gust.5   5   5   6   7   8   9   10  10  10  9   7   
+Ridge wind dir..S   S   S   S   SW  SW  SW  W   W   W   W   W   
+Ridge wind spd..2   2   3   3   5   5   6   6   7   6   6   3   
+Mix hgt (kft)...0.1 0.1 0.3 0.9 1.1 1.7 2.3 3.2 4.2 4.2 2.7 1.4 
+Transp wind dir.SW  SW  SW  W   W   W   W   W   W   W   W   W   
+Transp wind spd.3   3   5   7   9   9   9   12  12  12  9   7   
+LVORI...........8   6   8   6   3   2   2   1   1   1   1   2   
+ADI.............3   3   5   8   14  21  27  46  57  57  32  13  
+Vrate kt-ft/1K..0   0   1   5   9   14  18  32  42  42  22  9   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  FR  FR  PR  PR  
+
+.TUESDAY NIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 40. 
+Max humidity........93 percent. 
+Dewpoint............45 decreasing to 40 overnight. 
+Max apparent temp...60. 
+Wind (20 ft)........Light winds. 
+Ridgetop wind.......Southwest 2 to 3 mph shifting to the south 
+                    around 2 mph after 3 am. 
+Mixing height.......100 ft AGL. 
+Transport winds.....Southwest 2 to 3 mph. 
+Vent Rate...........Poor (200 knot-ft). 
+LVORI...............5. 
+ADI.................1 to 2. 
+
+TIME (EST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........9      0      14     13     15     22     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+Chc of pcpn (%).0      0      0      0      0      0      
+Chc of thdr (%).0      0      0      0      0      0      
+Temp............59     50     46     45     43     42     
+Dewpoint........47     45     44     43     41     39     
+RH..............62     83     93     93     93     89     
+Aparnt tmp (F)..60     50     46     45     43     42     
+20 ft wind......W 2    W 2    SW 1   SW 1   SW 1   S 1    
+20 ft wind gust.6      5      3      3      3      3      
+Ridgetop wind...W 3    W 3    SW 2   SW 2   SW 2   S 2    
+Mix hgt (ft)....100    100    100    100    100    100    
+Transport wind..W 3    W 3    SW 3   SW 2   SW 2   SW 2   
+LVORI...........3      5      6      6      6      6      
+ADI.............2      2      2      1      1      1      
+Vrate kt-ft/1K..0      0      0      0      0      0      
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   POOR   
+
+.VETERANS DAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 67. 
+Min humidity........40 percent. 
+Dewpoint............39 increasing to 46 late in the morning, then 
+                    decreasing to 43 in the afternoon. 
+Max apparent temp...66. 
+Wind (20 ft)........Light winds. 
+Ridgetop wind.......Southwest 2 to 6 mph. 
+Mixing height.......3800 ft AGL. 
+Transport winds.....Southwest 2 to 10 mph. 
+Vent Rate...........Poor (100 knot-ft) increasing to marginal 
+                    (34300 knot-ft) in the afternoon. 
+LVORI...............3. 
+ADI.................2 early in the morning increasing to 48 in the 
+                    afternoon. 
+
+TIME (EST)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........19        12        13        18        
+Weather cov.....                                        
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........                                        
+Chc of pcpn (%).0         0         0         0         
+Chc of thdr (%).0         0         0         0         
+Temp............41        51        62        66        
+Dewpoint........37        45        43        42        
+RH..............85        80        50        42        
+Aparnt tmp (F)..41        51        62        66        
+20 FT wind......S 1G3     S 1G5     SW 2G9    SW 5G12   
+Ridgetop wind...S 2       S 2       SW 3      SW 6      
+Mix hgt (ft)....100       800       3100      3700      
+Transport wind..S 2       SW 6      SW 9      W 9       
+LVORI...........5         4         1         1         
+ADI.............2         6         36        41        
+Vrate kt-ft/1K..0         4         25        30        
+Ventrate Cat....POOR      POOR      POOR      POOR      
+
+$$
+Forecaster...HAL
+Requested by...Cory Blankenship
+Type of request...PRESCRIBED
+.TAG 2625455.0/JKL
+.DELDT 11/09/26
+.FormatterVersion 2.0.0
+.EMAIL cory.blankenship@usda.gov
+

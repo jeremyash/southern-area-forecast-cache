@@ -1,0 +1,115 @@
+
+000
+FNUS74 KJAN 091002
+FWSJAN
+
+Spot Forecast for TBIU 79-1...USDA FOREST SERVICE
+National Weather Service Jackson MS
+402 AM CST Mon Nov 9 2026
+
+Forecast is based on ignition time of 1000 CST on November 09. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Patchy fog cannot be ruled out near the burn site this morning but
+less likely tonight into early Tuesday morning. Frost cannot be 
+ruled out near the burn site in the morning. Northerly 
+surface/20ft winds are calm this morning and will be light through
+the next 24 hours. Minimum afternoon humidity levels will drop 
+near critical levels, around 30 percent today and Tuesday. Maximum
+LVORI tonight is around 8 this morning and a 6 on Monday night.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Temperature.........62 at ignition...Max 73. 
+RH..................50 percent at ignition...Min 28 percent. 
+Wind (20 ft)........Winds east at 2 mph at ignition...otherwise 
+                    Light winds. 
+Mixing height (m)...213 meters AGL at ignition...otherwise 213-853 
+                    meters AGL. 
+Transport winds.....Northeast 2 to 6 mph. 
+Transport winds m/s.Northeast 1 to 3 meters/second. 
+
+TIME (CST)      10 AM  Noon   2 PM   4 PM   
+Sky cover.......MClear MClear PCldy  PCldy  
+Weather cov.....                            
+Weather type....None   None   None   None   
+Tstm cov........                            
+Temp............62     71     73     71     
+RH..............50     31     28     34     
+20 ft wind dir..E      E      N      N      
+20 ft wind spd..2      1      0      0      
+20 ft wind gust.6      6      5      3      
+Mix hgt (m).....490    700    850    580    
+Transport wind..NE 6   NE 3   N 2    N 5    
+Tran wind (m/s).NE 3   NE 1   N 1    N 2    
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (30-40 percent) then becoming 
+                    mostly cloudy (55-65 percent) then becoming 
+                    partly cloudy (40-50 percent) then becoming 
+                    mostly cloudy (50-60 percent). 
+Temperature.........Min 44. 
+RH..................Max 89 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...122 meters AGL. 
+Transport winds.....North 3 to 6 mph. 
+Transport winds m/s.North 1 to 3 meters/second. 
+
+TIME (CST)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......PCldy  MCldy  MCldy  MCldy  MCldy  PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............62     53     50     48     48     46     
+RH..............44     61     71     77     77     83     
+20 ft wind dir..N      N      N      N      N      N      
+20 ft wind spd..0      0      0      0      0      0      
+20 ft wind gust.2      1      1      1      1      1      
+Mix hgt (m).....120    120    120    120    120    120    
+Transport wind..N 6    N 5    N 3    N 3    N 3    N 3    
+Tran wind (m/s).N 3    N 2    N 1    N 1    N 1    N 1    
+
+.TUESDAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Temperature.........Max 75. 
+RH..................Min 31 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height (m)...91-1250 meters AGL. 
+Transport winds.....Northeast around 3 mph shifting to the east 
+                    around 5 mph late in the morning, then shifting 
+                    to the west 5 to 7 mph in the late morning and 
+                    afternoon. 
+Transport winds m/s.North around 1 meters/second shifting to the 
+                    northeast 1 to 2 meters/second early in the 
+                    morning, then shifting to the west 2 to 3 
+                    meters/second in the late morning and 
+                    afternoon. 
+
+TIME (CST)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......PCldy  PCldy  MClear MClear MClear Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............45     53     66     73     75     73     
+RH..............86     80     48     34     31     35     
+20 ft wind dir..N      N      N      W      W      N      
+20 ft wind spd..0      0      0      1      1      0      
+20 ft wind gust.1      1      2      5      6      5      
+Mix hgt (m).....120    120    580    1010   1250   580    
+Transport wind..N 3    NE 3   NW 5   W 6    W 7    W 6    
+Tran wind (m/s).N 1    NE 1   NW 2   W 3    W 3    W 3    
+
+$$
+Forecaster...Cox
+Requested by...John Townsend
+Type of request...PRESCRIBED
+.TAG 2625475.0/JAN
+.DELDT 11/09/26
+.FormatterVersion 2.0.0
+.EMAIL john.townsend@usda.gov
+

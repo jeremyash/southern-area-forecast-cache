@@ -1,0 +1,149 @@
+
+000
+FNUS72 KFFC 091017
+FWSFFC
+
+Spot Forecast for Fisher Chapel...USFS
+National Weather Service Peachtree City GA
+517 AM EST Mon Nov 9 2026
+
+Forecast is based on ignition time of 0800 EST on November 09. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Good morning, Jake. A Frost Advisory is in effect at the burn site 
+until 9 AM this morning, at which point temperatures nearing 50 
+should eliminate any patchy frost. High pressure over the region 
+will promote dry weather and clear skies today. Winds today will be 
+from N at around 5 mph through the day, with occasional gusts of 10-
+13 mph from late morning through the afternoon. Transport winds will 
+also be from nearly due N at 8-10 mph. Relative humidity values are 
+forecast to be below 40 percent for the majority of the afternoon, 
+with a minimum RH value of 38 percent between 2-4 PM. Mixing heights 
+this afternoon are forecast to peak just above 2500 ft in the mid 
+afternoon.
+
+Winds will diminish to 3 mph or less overnight as the center of the 
+high moves closer to north Georgia, though the wind direction will 
+remain N. Winds will remain 3 mph or less during the daytime and 
+shift to NW by 12 PM. Transport winds on Tuesday will be 6-8 mph 
+through the day, from N during the morning and early afternoon and 
+shifting to NW by 2 PM. Temperatures will be slightly warmer to 
+start the morning on Tuesday, which will inhibit any frost 
+development. Minimum RH values will start Tuesday morning just under 
+90 percent, dropping to under 50 percent by noon and down to a 
+minimum of 37 percent in the mid-afternoon. The combination of 
+fairly light transport winds, some passing high clouds, and mixing 
+heights peaking around 2500 ft once again will not be especially 
+favorable for smoke dispersal as evidenced by ADI between 20-25 on 
+Tuesday afternoon. Please feel free to contact us if you have any 
+further questions or concerns.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 68. 
+Min humidity........38 percent. 
+Wind (20 ft)........North winds around 5 mph early in the morning 
+                    becoming light, then becoming north around 5 
+                    mph in the late morning and afternoon becoming 
+                    light. 
+Mixing height.......2700 ft AGL. 
+Transport winds.....North 8 to 10 mph. 
+Smoke dispersal.....Poor (2900 knot-ft) early in the morning 
+                    increasing to fair (23200 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................9 to 33. 
+
+TIME (EST)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   1   1   1   1   2   2   2   6   6   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+Temp............42  49  56  60  63  67  68  68  68  66  
+RH..............79  68  54  46  43  39  38  38  38  44  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..5   3   5   5   5   5   5   5   5   2   
+20 FT wind gust.12  9   10  12  12  12  13  13  12  8   
+Mix hgt (kft)...0.4 0.5 1.1 1.5 1.8 2.2 2.6 2.7 2.6 1.2 
+Transp wind dir.N   N   N   N   N   N   N   N   N   N   
+Transp wind spd.9   9   9   10  10  9   10  10  9   8   
+LVORI...........4   3   2   2   2   2   1   1   2   2   
+ADI.............9   10  14  19  24  26  33  33  29  13  
+Vrate kt-ft/1K..3   5   9   13  16  18  23  23  20  9   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+Min temperature.....Around 43. 
+Max humidity........92 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....North 6 to 7 mph. 
+Smoke dispersal.....Poor (2000 knot-ft). 
+LVORI...............5. 
+ADI.................2 to 3. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........6   7   6   19  22  21  24  27  32  33  35  31  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............62  58  53  51  50  48  47  46  45  44  43  43  
+RH..............52  59  70  75  78  80  83  86  88  91  92  90  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.7   6   5   6   6   6   6   6   6   7   7   7   
+Mix hgt (kft)...0.6 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.N   N   N   N   N   N   N   N   N   N   N   N   
+Transp wind spd.7   6   6   6   7   7   7   7   7   6   7   6   
+LVORI...........3   3   4   5   5   5   6   6   6   6   6   6   
+ADI.............3   3   2   3   3   3   3   3   3   3   3   3   
+Vrate kt-ft/1K..3   2   2   2   2   2   2   2   2   2   2   2   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (35-45 percent). 
+Max temperature.....Around 69. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......2600 ft AGL. 
+Transport winds.....North 6 to 7 mph. 
+Smoke dispersal.....Poor (1900 knot-ft) early in the morning 
+                    increasing to fair (16400 knot-ft) in the 
+                    afternoon. 
+LVORI...............4. 
+ADI.................7 to 24. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........36  44  40  35  39  37  47  41  37  40  45  46  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............43  43  44  51  57  61  64  67  68  68  68  66  
+RH..............89  87  89  74  60  52  45  39  37  37  37  40  
+20 FT wind dir..N   N   N   N   N   N   NW  NW  NW  NW  NW  NW  
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   1   
+20 FT wind gust.7   7   7   6   7   7   7   7   7   7   7   5   
+Mix hgt (kft)...0.4 0.4 0.3 0.6 1.0 1.6 2.0 2.4 2.6 2.5 2.6 1.2 
+Transp wind dir.N   N   N   N   N   N   N   N   NW  NW  NW  NW  
+Transp wind spd.7   7   7   7   6   7   7   7   7   7   7   6   
+LVORI...........5   5   5   4   3   2   2   2   2   2   2   2   
+ADI.............7   7   7   7   8   15  18  20  21  22  24  8   
+Vrate kt-ft/1K..3   3   2   4   5   10  12  14  15  15  16  6   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...King
+Requested by...Jake Hauser
+Type of request...PRESCRIBED
+.TAG 2625468.0/FFC
+.DELDT 11/09/26
+.FormatterVersion 2.0.0
+.EMAIL jake.hauser@usda.gov
+

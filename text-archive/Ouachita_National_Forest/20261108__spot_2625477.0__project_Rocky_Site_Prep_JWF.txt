@@ -1,0 +1,148 @@
+
+000
+FNUS74 KLZK 082300
+FWSLZK
+
+Spot Forecast for Rocky Site Prep JWF...USFS
+National Weather Service Little Rock AR
+500 PM CST Sun Nov 8 2026
+
+Forecast is based on ignition time of 0000 CST on November 09. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+Please contact our office at (501) 834-3955 and ask for the fire 
+weather forecaster if you have any questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+
+Winds will remain mainly light tonight through much of the daytime
+hours on Monday afternoon...with dry conditions persisting into 
+at least Tuesday. Winds may increase slightly by Tuesday 
+afternoon from the south. 
+
+.REST OF TONIGHT...
+
+Min temperature.....43 at ignition...Min 36. 
+Max humidity........89 percent at ignition...Max 100 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............6. 
+Sky/weather.........Mostly clear (10-20 percent). 
+Dispersion..........3. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CST)      MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR MCR MCR MCR 
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+Temp............43  41  40  39  38  38  
+RH..............89  92  96  96  96  96  
+20 FT wind dir..W   W   W   W   N   N   
+20 FT wind spd..1   1   1   1   0   0   
+20 FT wind gust.2   2   2   2   2   2   
+MixHgtAGL (kft).0.4 0.4 0.4 0.4 0.4 0.4 
+MixHgtMSL (kft).1.2 1.2 1.3 1.3 1.3 1.3 
+Transp wind dir.NW  NW  W   W   NW  NW  
+Transp wind spd.6   6   6   5   3   3   
+Chc of pcpn (%).0   0   0   0   0   0   
+
+.MONDAY...
+
+Max temperature.....Max 71. 
+Min humidity........Min 35 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....5. 
+LVORI...............6 early in the morning. 
+Sky/weather.........Sunny (5-15 percent). 
+Dispersion..........4 increasing to 11 in the afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....67. 
+Peak Category Day...1. 
+
+TIME (CST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR CLR CLR CLR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............37  36  42  52  59  64  68  69  70  71  69  65  
+RH..............96  100 100 77  62  50  43  39  38  35  39  45  
+20 FT wind dir..N   N   N   N   N   N   SW  W   NW  NW  N   N   
+20 FT wind spd..0   0   0   0   0   0   1   1   1   1   0   0   
+20 FT wind gust.2   2   2   2   2   2   2   4   4   4   2   2   
+MixHgtAGL (kft).0.4 0.3 0.3 0.5 1.1 1.8 2.4 2.8 2.9 2.8 2.1 1.2 
+MixHgtMSL (kft).1.3 1.2 1.2 1.3 1.9 2.7 3.3 3.7 3.8 3.6 2.9 2.0 
+Category Day....1   1   1   1   1   1   1   1   1   1   1   1   
+Transp wind dir.NW  N   NE  NE  E   S   S   SW  W   W   W   S   
+Transp wind spd.2   2   2   2   3   3   5   5   5   5   5   3   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.MONDAY NIGHT...
+
+Min temperature.....Min 41. 
+Max humidity........Max 100 percent. 
+Chance of pcpn......0 percent. 
+Stability class.....6. 
+LVORI...............6. 
+Sky/weather.........Mostly clear (10-20 percent). 
+Dispersion..........2. 
+Rainfall amount.....0.00 inches. 
+
+TIME (CST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............61  54  52  50  48  47  46  44  44  44  43  43  
+RH..............53  71  77  80  86  89  89  96  96  93  93  93  
+20 FT wind dir..N   N   N   N   N   N   SW  SW  SW  SW  SW  N   
+20 FT wind spd..0   0   0   0   0   0   1   1   1   1   1   0   
+20 FT wind gust.2   2   2   2   2   2   2   2   2   2   2   2   
+MixHgtAGL (kft).0.4 0.2 0.3 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+MixHgtMSL (kft).1.3 1.1 1.1 1.3 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 
+Transp wind dir.SE  SE  S   S   S   SW  SW  SW  SW  SW  SW  W   
+Transp wind spd.3   3   3   3   3   5   5   5   5   5   5   5   
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+
+.TUESDAY...
+
+Max temperature.....Max 74. 
+Min humidity........Min 48 percent. 
+Chance of pcpn......10 percent. 
+Stability class.....5. 
+LVORI...............6 early in the morning. 
+Sky/weather.........Mostly sunny (25-35 percent). 
+Dispersion..........1 increasing to 17 in the late morning and 
+                    afternoon. 
+Rainfall amount.....0.00 inches. 
+1700 Ft Mix Temp....73. 
+Peak Category Day...3. 
+
+TIME (CST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MCR MCR MCR PC  PC  PC  PC  PC  PC  PC  PC  PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............43  42  48  57  63  68  71  73  74  74  72  69  
+RH..............93  100 93  77  67  57  51  49  48  50  53  61  
+20 FT wind dir..N   N   N   N   N   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..0   0   0   0   0   1   1   1   2   2   2   1   
+20 FT wind gust.2   2   2   2   2   2   4   4   5   5   5   5   
+MixHgtAGL (kft).0.4 0.3 0.3 0.6 1.6 2.8 3.9 4.4 4.6 4.2 3.0 1.5 
+MixHgtMSL (kft).1.3 1.1 1.1 1.4 2.4 3.7 4.7 5.3 5.4 5.0 3.8 2.3 
+Category Day....1   1   1   1   1   2   2   3   3   2   2   1   
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   SW  SW  
+Transp wind spd.5   5   5   5   6   6   7   7   7   7   7   6   
+Chc of pcpn (%).0   0   0   0   0   0   10  10  10  10  10  10  
+
+$$
+Forecaster...62
+Requested by...Lance Robinson
+Type of request...PRESCRIBED
+.TAG 2625477.0/LZK
+.DELDT 11/08/26
+.FormatterVersion 2.0.0
+.EMAIL lance.robinson@usda.gov
+

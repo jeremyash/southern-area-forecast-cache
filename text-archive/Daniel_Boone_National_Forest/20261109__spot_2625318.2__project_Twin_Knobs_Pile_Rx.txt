@@ -1,0 +1,163 @@
+
+000
+FNUS73 KJKL 091031
+FWSJKL
+
+Spot Forecast for Twin Knobs Pile Rx...USFS
+National Weather Service Jackson KY
+531 AM EST Mon Nov 9 2026
+
+Forecast is based on ignition time of 0600 EST on November 09. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Seasonable weather will persist for the next couple of 
+days, with high relative humidity overnight into the morning hours, 
+but fairly dry (in the 40s) during peak heating each afternoon. 
+Dispersion/ventilation will be limited today due to a lack of wind, 
+but should be a little bit greater on Tuesday with a modest 
+increase in wind.
+
+.TODAY...
+
+Sky/weather.........Sunny (0-5 percent). Patchy fog early in the 
+                    morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 62. 
+Min humidity........42 percent. 
+Dewpoint............34 increasing to 43 late in the morning, then 
+                    decreasing to around 40 in the afternoon. 
+Min apparent temp...38. 
+Wind (20 ft)........Light winds. 
+Ridgetop wind.......West 1 to 3 mph. 
+Mixing height.......3400 ft AGL. 
+Transport winds.....West 2 to 10 mph. 
+Vent Rate...........Poor (100 knot-ft) increasing to marginal 
+                    (30400 knot-ft) in the afternoon. 
+LVORI...............4. 
+ADI.................2 early in the morning increasing to 43 in the 
+                    afternoon. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   2   2   1   1   1   1   2   2   2   1   0   
+Weather cov.....    PTY                                         
+Weather type....    FOG                                         
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............38  38  39  45  51  55  59  60  61  62  62  59  
+Dewpoint........33  36  38  42  41  43  44  43  39  39  41  41  
+RH..............82  92  96  93  68  64  62  55  44  46  48  55  
+Aparnt tmp (F)..38  38  39  44  51  55  57  59  61  60  61  57  
+20 FT wind dir..N   N   N   N   W   W   W   W   W   W   W   N   
+20 FT wind spd..0   0   0   0   1   1   2   2   2   2   1   0   
+20 FT wind gust.2   2   3   5   5   6   7   7   7   7   6   3   
+Ridge wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+Ridge wind spd..1   1   1   1   2   2   3   3   3   3   2   1   
+Mix hgt (kft)...0.1 0.1 0.3 0.9 1.2 1.7 2.5 3.2 3.4 3.4 3.2 1.6 
+Transp wind dir.W   W   W   W   W   W   W   W   W   W   W   W   
+Transp wind spd.2   2   5   6   8   9   10  10  10  9   8   5   
+LVORI...........4   6   6   6   3   2   1   1   1   1   1   2   
+ADI.............2   2   4   6   12  21  33  41  43  38  33  10  
+Vrate kt-ft/1K..0   0   1   4   8   14  23  29  30  27  22  7   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). Areas of fog overnight. 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 39. 
+Max humidity........100 percent. 
+Dewpoint............43 decreasing to 39 in the evening. 
+Min apparent temp...39. 
+Wind (20 ft)........near calm. 
+Ridgetop wind.......near calm. 
+Mixing height.......100 ft AGL. 
+Transport winds.....Southwest 2 to 3 mph shifting to the south 
+                    around 3 mph early in the morning. 
+Vent Rate...........Poor (200 knot-ft). 
+LVORI...............6. 
+ADI.................1 to 2. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........0   1   1   1   2   2   2   4   2   3   3   7   
+Weather cov.....                            ARS ARS ARS ARS ARS 
+Weather type....                            FOG FOG FOG FOG FOG 
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............55  53  49  47  45  42  42  41  41  40  39  39  
+Dewpoint........43  43  44  43  42  39  39  39  39  39  39  39  
+RH..............66  71  93  100 100 100 100 100 100 100 100 100 
+Aparnt tmp (F)..54  52  46  43  42  39  39  39  39  39  39  39  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..0   0   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.1   1   1   1   1   1   1   1   1   1   2   3   
+Ridge wind dir..W   N   N   S   SW  SW  SW  SW  SW  SW  S   S   
+Ridge wind spd..1   1   1   1   1   1   1   1   1   1   1   1   
+Mix hgt (kft)...0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+Transp wind dir.W   W   W   SW  SW  SW  SW  SW  SW  SW  SW  S   
+Transp wind spd.2   2   2   2   2   2   2   2   3   3   3   3   
+LVORI...........3   3   6   9   9   9   9   9   9   9   9   9   
+ADI.............1   1   1   1   1   1   1   1   2   2   2   2   
+Vrate kt-ft/1K..0   0   0   0   0   0   0   0   0   0   0   0   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.TUESDAY...
+
+Sky/weather.........Sunny (0-10 percent). Areas of fog early in the 
+                    morning. 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 66. 
+Min humidity........43 percent. 
+Dewpoint............40 increasing to 46 in the late morning and 
+                    early afternoon, then decreasing to 44 late in 
+                    the afternoon. 
+Min apparent temp...39. 
+Wind (20 ft)........Light winds becoming west around 5 mph early in 
+                    the afternoon, then becoming light late in the 
+                    afternoon. 
+Ridgetop wind.......Southwest 2 to 5 mph shifting to the west 3 to 
+                    7 mph in the afternoon. 
+Mixing height.......3700 ft AGL. 
+Transport winds.....Southwest 3 to 10 mph shifting to the west 9 to 
+                    15 mph in the late morning and afternoon. 
+Vent Rate...........Poor (200 knot-ft) increasing to fair 
+                    (39900 knot-ft) in the afternoon. 
+LVORI...............4. 
+ADI.................3 early in the morning increasing to 67 in the 
+                    afternoon. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........6   10  7   1   1   1   2   3   3   3   2   1   
+Weather cov.....ARS ARS                                         
+Weather type....FOG FOG                                         
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............39  39  41  48  54  58  62  64  65  66  65  63  
+Dewpoint........39  39  41  46  47  48  48  45  43  43  45  46  
+RH..............100 100 100 93  77  69  60  50  45  45  50  56  
+Aparnt tmp (F)..39  39  41  48  54  58  62  64  65  65  64  62  
+20 FT wind dir..S   S   S   SW  SW  SW  W   W   W   W   W   W   
+20 FT wind spd..1   1   1   1   3   3   5   5   6   3   3   2   
+20 FT wind gust.3   3   6   6   7   9   10  10  10  10  9   6   
+Ridge wind dir..S   S   S   SW  SW  SW  W   W   W   W   W   W   
+Ridge wind spd..2   2   2   2   5   5   6   6   7   5   5   3   
+Mix hgt (kft)...0.1 0.1 0.4 1.0 1.3 1.7 2.4 3.1 3.5 3.7 3.2 1.6 
+Transp wind dir.S   S   SW  SW  W   W   W   W   W   W   W   W   
+Transp wind spd.3   5   7   10  13  13  14  15  15  15  14  9   
+LVORI...........7   7   7   5   3   3   1   1   1   1   1   2   
+ADI.............3   4   7   12  21  28  41  57  64  67  54  19  
+Vrate kt-ft/1K..0   0   2   9   14  19  28  40  46  48  38  13  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  FR  FR  PR  PR  
+
+$$
+Forecaster...HAL
+Requested by...Conrad mccloskey
+Type of request...PRESCRIBED
+.TAG 2625318.2/JKL
+.DELDT 11/0926
+.FormatterVersion 2.0.0
+.EMAIL ricky.snodgrass@usda.gov,conrad.mccloskey@usda.gov,shavonte.crosby@usda.gov
+

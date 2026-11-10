@@ -1,0 +1,116 @@
+
+000
+FNUS74 KBMX 081047
+FWSBMX
+
+Spot Forecast for Compartment 22 RX...USFS
+National Weather Service Birmingham AL
+447 AM CST Sun Nov 8 2026
+
+Forecast is based on ignition time of 0600 CST on November 08. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Precipitation chances are at zero percent through the forecast
+period/Monday. MinRH will be as low as the upper 30s today and as
+low as the mid to upper 30s on Monday, with overnight recovery at
+or very close to 100 percent. Light northerly flow will persist. A
+pronounced inversion will exist outside of daytime 
+heating/mixing.
+
+.TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 68. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......2800 ft AGL. 
+Transport winds.....North 7 to 9 mph. 
+Dispersion index....4 increasing to 27 late in the morning, then 
+                    decreasing to 11 late in the afternoon. 
+LVORI...............5. 
+
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........15     4      21     35     45     39     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............41     47     58     66     68     65     
+RH..............100    89     60     42     37     43     
+20 FT wind......N 2    N 2    N 2    N 3    N 3    N 2    
+20 FT wind gust.7      6      6      7      8      7      
+20 FT wind dir..000    010    010    350    350    350    
+Mix hgt (ft)....400    700    1500   2700   2800   1500   
+Transport wind..N 8    NE 7   N 7    N 9    N 8    N 8    
+Dispersion idx..4      3      3      31     28     15     
+LVORI...........8      8      3      2      2      2      
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 41. 
+Max humidity........100 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....North 7 to 8 mph. 
+Dispersion index....4. 
+LVORI...............7. 
+
+TIME (CST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........23     29     18     14     8      12     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............55     50     47     45     43     42     
+RH..............69     86     93     100    100    100    
+20 FT wind......N 2    N 2    N 2    N 1    N 2    N 2    
+20 FT wind gust.6      6      6      6      6      7      
+20 FT wind dir..000    000    350    350    000    000    
+Mix hgt (ft)....400    400    400    400    400    400    
+Transport wind..N 8    N 7    N 7    N 7    N 7    N 8    
+Dispersion idx..5      4      4      3      3      4      
+LVORI...........4      4      6      9      9      9      
+
+.MONDAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 72. 
+Min humidity........38 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......2500 ft AGL. 
+Transport winds.....North 6 to 8 mph. 
+Dispersion index....4 increasing to 19 late in the morning, then 
+                    decreasing to 7 late in the afternoon. 
+LVORI...............5. 
+
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........10     8      7      12     21     37     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............41     47     60     69     70     68     
+RH..............100    86     58     39     39     45     
+20 FT wind......N 2    N 2    N 2    N 2    N 2    NW 2   
+20 FT wind gust.6      6      6      5      6      5      
+20 FT wind dir..000    020    010    350    340    330    
+Mix hgt (ft)....400    600    1400   2000   2500   1000   
+Transport wind..N 8    NE 8   N 7    N 6    N 7    N 7    
+Dispersion idx..4      4      3      15     22     9      
+LVORI...........8      8      3      2      2      2      
+
+$$
+Forecaster...Satterwhite
+Requested by...Matt Neal
+Type of request...PRESCRIBED
+.TAG 2625437.0/BMX
+.DELDT 11/08/26
+.FormatterVersion 2.0.0
+
