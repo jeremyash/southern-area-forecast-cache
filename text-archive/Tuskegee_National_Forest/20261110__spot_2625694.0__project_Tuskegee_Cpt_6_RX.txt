@@ -1,0 +1,127 @@
+
+000
+FNUS74 KBMX 101459
+FWSBMX
+
+Spot Forecast for Tuskegee Cpt 6 RX...USFS
+National Weather Service Birmingham AL
+859 AM CST Tue Nov 10 2026
+
+Forecast is based on ignition time of 0900 CST on November 10. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+There is no chance of rain today or tonight, and only a slight chance
+(20%) on Wednesday. Prevailing low level and transport level winds are
+expected to be out of the northwest to west through Wednesday. The low
+level inversion this morning will be completely broken once the
+temperature reaches the lower 70s (11 am to noon).
+
+For planning purposes, be aware that winds are expected to increase
+after a cold frontal passage on Thursday and Friday.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent) then becoming 
+                    sunny (15-25 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 77. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3100 ft AGL. 
+Transport winds.....North around 3 mph shifting to the west 5 to 7 
+                    mph late in the morning. 
+Dispersion index....7 increasing to 23 early in the afternoon, then 
+                    decreasing to 11 late in the afternoon. 
+LVORI...............2. 
+
+TIME (CST)      9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........73     69     33     24     21     
+Weather cov.....                                   
+Weather type....NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                   
+CWR.............0      0      0      0      0      
+Temp............61     71     75     75     67     
+RH..............65     42     34     34     49     
+20 FT wind......N 0    W 1    W 2    W 2    W 1    
+20 FT wind gust.2      2      6      6      6      
+20 FT wind dir..000    280    290    270    260    
+Mix hgt (ft)....600    1900   2900   2900   700    
+Transport wind..N 3    NW 5   W 7    W 7    W 7    
+Dispersion idx..2      11     25     25     6      
+LVORI...........2      2      2      2      2      
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+CWR.................10 percent. 
+Min temperature.....Around 48. 
+Max humidity........93 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....West 3 to 7 mph shifting to the northwest 3 to 
+                    6 mph overnight. 
+Dispersion index....2. 
+LVORI...............5. 
+
+TIME (CST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........19     20     8      3      8      15     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      10     10     10     
+Temp............61     57     54     53     51     50     
+RH..............65     75     80     80     83     86     
+20 FT wind......W 1    N 0    N 0    N 0    N 0    N 0    
+20 FT wind gust.5      2      2      2      2      2      
+20 FT wind dir..260    000    000    000    000    000    
+Mix hgt (ft)....400    400    400    400    400    400    
+Transport wind..W 7    W 5    NW 5   NW 5   NW 6   NW 5   
+Dispersion idx..3      2      2      2      3      2      
+LVORI...........3      3      4      5      5      6      
+
+.VETERANS DAY...
+
+Sky/weather.........Mostly sunny (20-30 percent). Slight chance of 
+                    rain showers in the morning. 
+CWR.................20 percent decreasing to 10 percent in the 
+                    afternoon. 
+Max temperature.....Around 75. 
+Min humidity........41 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3600 ft AGL. 
+Transport winds.....West 3 to 12 mph. 
+Dispersion index....3 increasing to 28 late in the morning, then 
+                    increasing to 40 early in the afternoon 
+                    increasing to 50 late in the afternoon 
+                    decreasing to 21 decreasing to 11 late in the 
+                    afternoon. 
+LVORI...............4. 
+
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........19     30     51     31     12     2      
+Weather cov.....S CHC  S CHC  S CHC                       
+Weather type....RNSHWR RNSHWR RNSHWR NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............20     20     20     10     10     10     
+Temp............48     55     66     72     73     71     
+RH..............93     83     54     41     43     47     
+20 FT wind......N 0    N 0    W 2    W 2    W 3    W 2    
+20 FT wind gust.2      2      6      10     10     8      
+20 FT wind dir..000    000    260    250    250    250    
+Mix hgt (ft)....400    600    1400   2700   3000   1800   
+Transport wind..NW 3   NW 6   W 8    W 9    W 12   W 9    
+Dispersion idx..2      3      4      31     43     21     
+LVORI...........6      6      2      1      1      2      
+
+$$
+Forecaster...Westland
+Requested by...FMO
+Type of request...PRESCRIBED
+.TAG 2625694.0/BMX
+.DELDT 11/10/26
+.FormatterVersion 2.0.0
+

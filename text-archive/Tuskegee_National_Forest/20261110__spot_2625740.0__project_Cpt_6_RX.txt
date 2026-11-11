@@ -1,0 +1,84 @@
+
+000
+FNUS74 KBMX 102254
+FWSBMX
+
+Spot Forecast for Cpt 6 RX...USFS
+National Weather Service Birmingham AL
+454 PM CST Tue Nov 10 2026
+
+Forecast is based on ignition time of 1700 CST on November 10. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+There is no chance of rain tonight, and only a slight chance (20%) on
+Wednesday. Prevailing low level and transport level winds are
+expected to be out of the northwest to west through Wednesday.
+Humidity levels should recover to the 90-100 percent rain tonight,
+with MinRH values on Wednesday expected to be around 45%.
+
+For planning purposes, be aware that winds are expected to increase
+after a cold frontal passage on Thursday and Friday.
+
+
+.REST OF TODAY...
+TIME (CST)      5 PM   
+Sky (%).........10     
+Weather cov.....       
+Weather type....NONE   
+Tstm cov........       
+CWR.............0      
+Temp............67     
+RH..............54     
+20 FT wind......SW 2   
+20 FT wind gust.6      
+20 FT wind dir..240    
+Mix hgt (ft)....500    
+Transport wind..W 7    
+Dispersion idx..5      
+LVORI...........2      
+
+.TONIGHT...
+TIME (CST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........14     53     57     64     60     63     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............61     56     53     51     49     48     
+RH..............65     77     83     86     89     93     
+20 FT wind......SW 1   N 0    N 0    N 0    N 0    N 0    
+20 FT wind gust.6      4      2      2      2      2      
+20 FT wind dir..240    000    000    000    000    000    
+Mix hgt (ft)....400    400    400    400    400    400    
+Transport wind..W 7    W 5    W 3    NW 5   NW 5   NW 3   
+Dispersion idx..3      3      2      2      2      2      
+LVORI...........3      3      5      6      6      7      
+
+.VETERANS DAY...
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........65     69     76     79     40     15     
+Weather cov.....              S CHC  S CHC  S CHC         
+Weather type....NONE   NONE   RNSHWR RNSHWR RNSHWR NONE   
+Tstm cov........                                          
+CWR.............10     10     20     20     20     10     
+Temp............46     54     66     71     72     70     
+RH..............100    86     54     46     48     53     
+20 FT wind......N 0    N 0    W 2    W 3    W 3    W 2    
+20 FT wind gust.2      2      6      10     10     10     
+20 FT wind dir..000    000    260    270    260    260    
+Mix hgt (ft)....400    400    1400   2700   3100   1700   
+Transport wind..NW 3   W 5    W 7    W 12   W 12   W 9    
+Dispersion idx..2      2      3      26     44     20     
+LVORI...........8      8      2      1      1      2      
+
+$$
+Forecaster...Westland
+Requested by...FMO
+Type of request...PRESCRIBED
+.TAG 2625740.0/BMX
+.DELDT 11/10/26
+.FormatterVersion 2.0.0
+

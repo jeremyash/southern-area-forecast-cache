@@ -1,0 +1,138 @@
+
+000
+FNUS71 KRNK 100956
+FWSRNK
+
+Spot Forecast for White Cedar Admin...US Forest Service
+National Weather Service Blacksburg VA
+456 AM EST Tue Nov 10 2026
+
+Forecast is based on ignition time of 0900 EST on November 10. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+Today will be warm with westerly mixing winds gusting between 15
+and 20 mph late morning into the afternoon. Conditions will be 
+sunny with afternoon minimum RH values both today and tomorrow
+between 30 and 40 percent. This could make for a brief period of
+slightly enhanced fire weather conditions at the burn site which 
+looks especially elevated and where the potential for fire growth 
+will be possible. Tree canopies have dropped most of their leaves 
+and there is plenty of fuel on the ground, making for burnable, 
+cured vegetation. Mixing winds turn more northwesterly and lighten
+overnight, before increasing again during the day from a WNW 
+direction tomorrow. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 65. 
+Min humidity........36 percent. 
+Wind (20 ft)........Light winds becoming west 5 to 6 mph late in 
+                    the morning, then becoming light late in the 
+                    afternoon. 
+Mixing height.......3700 ft AGL. 
+Mixing winds........West 13 to 18 mph decreasing to around 8 mph 
+                    late in the afternoon. 
+Smoke dispersal.....Poor (9500 knot-ft) early in the morning 
+                    increasing to good (59500 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................14 early in the morning increasing to 83 in the 
+                    afternoon. 
+
+TIME (EST)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   2   3   2   3   2   1   2   2   
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+CWR.............0   0   0   0   0   0   0   0   0   
+Temp............47  53  57  61  62  64  65  63  59  
+RH..............62  51  42  38  36  36  36  40  47  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   
+20 FT wind spd..3   4   5   6   6   6   6   5   4   
+20 FT wind gust.10  10  11  12  12  11  11  11  10  
+Mix hgt (kft)...1.0 1.9 2.2 2.7 3.1 3.7 3.7 3.0 1.4 
+Mixng wind dir..W   W   W   W   W   W   NW  NW  W   
+Mixng wind spd..13  15  14  16  17  17  18  15  8   
+LVORI...........2   1   1   1   1   1   1   1   2   
+ADI.............17  36  39  54  66  77  83  55  14  
+VRate mph-ft/1K.13  28  30  43  54  63  68  44  11  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 42. 
+Max humidity........91 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Mixing winds........Northwest 8 to 10 mph. 
+Smoke dispersal.....Poor (3100 knot-ft). 
+LVORI...............5. 
+ADI.................4 to 5. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........2   2   2   2   3   3   5   2   3   4   3   2   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............55  52  51  50  49  48  47  46  45  44  43  42  
+RH..............56  66  68  72  75  78  81  84  85  87  89  89  
+20 FT wind dir..W   W   W   W   W   W   W   W   W   W   W   W   
+20 FT wind spd..3   3   3   3   3   3   3   3   3   2   2   2   
+20 FT wind gust.8   8   8   8   10  10  8   8   8   7   7   6   
+Mix hgt (kft)...0.6 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.4 0.4 0.4 0.4 
+Mixng wind dir..NW  NW  W   W   W   W   W   W   W   NW  NW  NW  
+Mixng wind spd..9   8   9   9   10  10  10  10  10  10  9   8   
+LVORI...........3   3   3   3   4   4   4   5   5   5   6   6   
+ADI.............4   4   4   4   5   5   5   5   5   5   4   4   
+VRate mph-ft/1K.5   4   4   4   5   5   5   5   5   5   4   4   
+
+.VETERANS DAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 67. 
+Min humidity........38 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4900 ft AGL. 
+Mixing winds........West 6 to 12 mph. 
+Smoke dispersal.....Poor (1900 knot-ft) early in the morning 
+                    increasing to good (48700 knot-ft) in the 
+                    afternoon. 
+LVORI...............4. 
+ADI.................6 early in the morning increasing to 65 in the 
+                    afternoon. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   4   3   3   4   4   13  15  18  21  35  48  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............42  42  44  50  55  58  62  64  65  67  64  60  
+RH..............89  88  91  81  67  59  50  45  42  38  40  48  
+20 FT wind dir..W   W   W   N   N   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..2   1   1   0   0   2   2   3   3   3   2   2   
+20 FT wind gust.6   6   6   5   5   6   6   8   7   7   6   7   
+Mix hgt (kft)...0.4 0.4 0.4 0.9 1.7 2.5 3.4 4.1 4.6 4.9 3.7 1.5 
+Mixng wind dir..W   W   W   W   W   W   W   W   W   W   W   SW  
+Mixng wind spd..8   7   6   6   7   9   9   12  12  12  9   7   
+LVORI...........5   5   6   4   3   2   1   1   1   1   1   2   
+ADI.............8   7   6   7   15  29  38  56  62  65  41  14  
+VRate mph-ft/1K.3   3   2   5   12  23  31  47  53  56  34  11  
+
+$$
+Forecaster...Hanes
+Requested by...William Brimm
+Type of request...PRESCRIBED
+.TAG 2625537.0/RNK
+.DELDT 11/10/26
+.FormatterVersion 2.0.0
+.EMAIL brian.theiler@usda.gov,william.brimm@usda.gov
+
