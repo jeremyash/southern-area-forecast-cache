@@ -1,0 +1,82 @@
+
+000
+FNUS74 KBMX 111915
+FWSBMX
+
+Spot Forecast for Cpt 6 RX...USFS
+National Weather Service Birmingham AL
+115 PM CST Wed Nov 11 2026
+
+Forecast is based on ignition time of 1400 CST on November 11. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Very light rain is expected to move through the Cpt 6 site over the next hour
+or two. Amounts should remain low. Otherwise, good overnight recovery tonight
+with min RHs dropping just below 40% tomorrow afternoon. Winds will increase
+as a front moves through the area, shifting from SW to W, then to the NW before 
+noon tomorrow. There's at least a low chance that the RHs drop to the mid 30% range
+as the front exists tomorrow afternoon. 
+
+
+.REST OF TODAY...
+TIME (CST)      2 PM   4 PM   
+Sky (%).........55     15     
+Weather cov.....S CHC         
+Weather type....RNSHWR NONE   
+Tstm cov........              
+CWR.............20     10     
+Temp............71     69     
+RH..............44     51     
+20 FT wind......SW 3   SW 2   
+20 FT wind gust.10     10     
+20 FT wind dir..240    240    
+Mix hgt (ft)....2300   1400   
+Transport wind..W 10   W 9    
+Dispersion idx..28     16     
+LVORI...........2      2      
+
+.TONIGHT...
+TIME (CST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........2      2      2      7      23     30     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      10     10     10     10     
+Temp............62     58     56     55     56     55     
+RH..............72     87     93     100    96     100    
+20 FT wind......SW 2   SW 2   SW 2   S 2    W 2    W 2    
+20 FT wind gust.10     10     10     11     13     13     
+20 FT wind dir..220    210    210    200    250    250    
+Mix hgt (ft)....400    400    400    400    500    500    
+Transport wind..SW 7   SW 9   SW 9   W 10   W 10   W 10   
+Dispersion idx..4      5      5      5      5      5      
+LVORI...........4      4      6      9      9      9      
+
+.THURSDAY...
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........18     6      1      1      0      1      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............54     57     65     69     70     67     
+RH..............100    100    60     45     39     42     
+20 FT wind......W 2    W 5    NW 7   NW 7   NW 7   NW 6   
+20 FT wind gust.12     14     16     16     17     14     
+20 FT wind dir..270    290    300    300    310    310    
+Mix hgt (ft)....400    1600   3300   4400   5100   3700   
+Transport wind..W 9    NW 15  NW 18  NW 18  NW 18  NW 16  
+Dispersion idx..4      7      12     72     77     71     
+LVORI...........9      9      1      1      1      1      
+
+$$
+Forecaster...Owen
+Requested by...FMO
+Type of request...PRESCRIBED
+.TAG 2625740.2/BMX
+.DELDT 11/11/26
+.FormatterVersion 2.0.0
+

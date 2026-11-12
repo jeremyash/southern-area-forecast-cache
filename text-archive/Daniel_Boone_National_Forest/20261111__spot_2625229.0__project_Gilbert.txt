@@ -1,0 +1,184 @@
+
+000
+FNUS73 KJKL 111131
+FWSJKL
+
+Spot Forecast for Gilbert...FS
+National Weather Service Jackson KY
+631 AM EST Wed Nov 11 2026
+
+Forecast is based on ignition time of 0700 EST on November 11. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Sunny skies and increasing southwest winds will bring 
+good dispersion to the spot area this afternoon ahead of an 
+approaching disturbance and cold front that crosses the area 
+tonight. This front will bring rounds of showers that will persist
+through the remainder of the week. Winds will become more 
+westerly tonight, then northwesterly Thursday. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 67. 
+Min humidity........28 percent. 
+Dewpoint............39 decreasing to 36 in the afternoon. 
+Max apparent temp...67. 
+Wind (20 ft)........Light winds becoming southwest around 5 mph 
+                    early in the afternoon, then becoming light 
+                    late in the afternoon. 
+Ridgetop wind.......Southwest 3 to 7 mph. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....Southwest 8 to 15 mph. 
+Vent Rate...........Poor (2800 knot-ft) increasing to poor (22200 
+                    knot-ft) late in the morning, then increasing 
+                    to marginal (35200 knot-ft) midday before
+                    increasing to good (50900 knot-ft) early in 
+                    the afternoon increasing to good (64900 knot-
+                    ft) mid afternoon, then decreasing to poor 
+                    (17200 knot-ft) late in the afternoon. 
+LVORI...............2. 
+ADI.................8 early in the morning increasing to 86 in the 
+                    afternoon. 
+
+TIME (EST)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........12  7   3   2   2   1   9   16  17  40  29  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   
+Temp............47  47  50  56  62  65  66  67  66  65  63  
+Dewpoint........38  38  40  41  40  38  36  35  35  35  37  
+RH..............71  71  68  57  44  37  33  30  32  33  38  
+Aparnt tmp (F)..46  46  50  56  62  65  66  67  66  65  63  
+20 FT wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..3   3   2   2   3   5   6   6   6   5   3   
+20 FT wind gust.5   5   7   7   9   10  12  12  13  12  10  
+Ridge wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+Ridge wind spd..5   5   3   3   5   6   7   7   7   6   5   
+Mix hgt (kft)...0.4 0.4 0.5 1.4 2.5 3.5 4.2 4.6 5.0 2.7 1.9 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.8   8   8   9   10  12  14  15  15  12  10  
+LVORI...........3   3   3   2   1   1   1   1   1   1   2   
+ADI.............8   8   8   17  32  49  69  81  86  38  25  
+Vrate kt-ft/1K..3   3   4   12  22  35  51  60  65  27  17  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  FR  GD  GD  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent) then becoming 
+                    mostly cloudy (75-85 percent). Rain showers 
+                    likely. 
+Chance of pcpn......70 percent. 
+Chance of thunder...11 percent. 
+Min temperature.....Around 47. 
+Max humidity........96 percent. 
+Dewpoint............39 increasing to 45 late in the evening, then 
+                    increasing to 50 late in the evening decreasing 
+                    to 47 early in the morning. 
+Max apparent temp...57. 
+Wind (20 ft)........Light winds becoming southwest 5 to 6 mph in 
+                    the late evening and overnight, then shifting 
+                    to the west around 6 mph after 3 am. 
+Ridgetop wind.......Southwest 5 to 8 mph. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Southwest 9 to 16 mph shifting to the west 
+                    around 16 mph early in the morning. 
+Vent Rate...........Poor (3600 knot-ft) increasing to poor (19300 
+                    knot-ft) early in the morning. 
+LVORI...............4. 
+ADI.................4 to 11. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........22  12  24  27  65  84  86  62  62  75  90  99  
+Weather cov.....        CHC CHC LKY LKY LKY CHC     SCH CHC CHC 
+Weather type....        RW  RW  RW  RW  RW  RW      RW  RW  RW  
+Tstm cov........                                                
+Chc of pcpn (%).0   10  30  40  70  70  60  40  10  20  40  50  
+Chc of thdr (%).0   10  10  10  10  10  10  0   0   0   0   0   
+Temp............57  55  54  53  53  52  53  53  53  52  52  50  
+Dewpoint........37  39  41  44  47  50  50  52  51  50  49  47  
+RH..............47  55  61  71  80  93  89  96  93  93  89  89  
+Aparnt tmp (F)..57  55  54  53  53  52  53  53  53  52  52  47  
+20 FT wind dir..SW  S   S   S   SW  SW  SW  SW  W   W   W   W   
+20 FT wind spd..3   3   5   6   6   7   6   6   6   7   7   7   
+20 FT wind gust.9   9   10  13  14  15  15  15  15  16  17  17  
+Ridge wind dir..SW  S   S   S   SW  SW  SW  SW  W   W   W   W   
+Ridge wind spd..5   5   6   7   7   8   7   7   7   8   8   8   
+Mix hgt (kft)...0.6 0.5 0.5 0.5 0.6 0.5 0.6 0.6 0.5 0.6 0.9 1.4 
+Transp wind dir.SW  SW  SW  SW  SW  SW  W   W   W   W   W   W   
+Transp wind spd.9   9   10  12  13  13  14  12  13  15  16  16  
+LVORI...........2   3   3   3   4   6   5   6   6   5   5   5   
+ADI.............4   4   5   5   8   8   9   8   8   10  11  11  
+Vrate kt-ft/1K..5   4   4   5   6   6   8   6   6   7   13  19  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.THURSDAY...
+
+Sky/weather.........Cloudy (85-95 percent) then becoming partly 
+                    sunny (55-65 percent). Chance of rain showers 
+                    in the morning, then slight chance of rain
+                    showers in the afternoon.  
+Chance of pcpn......40 percent. 
+Chance of thunder...4 percent. 
+Max temperature.....Around 53. 
+Min humidity........61 percent. 
+Dewpoint............45 decreasing to 41 in the afternoon. 
+Max apparent temp...52. 
+Wind (20 ft)........Northwest winds 5 to 6 mph. 
+Ridgetop wind.......Northwest 7 to 8 mph. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....Northwest 10 to 16 mph. 
+Vent Rate...........Poor (13600 knot-ft) increasing to poor (26500 
+                    knot-ft) early in the morning increasing to 
+                    marginal (35000 knot-ft) late morning, then 
+                    increasing to fair (40500 knot-ft) midday then
+                    increasing to fair (49500 knot-ft) early 
+                    afternoon increasing to good (59900 knot-ft) in the 
+                    afternoon before decreasing to poor (20700 
+                    knot-ft) toward sunset. 
+LVORI...............3. 
+ADI.................19 early in the morning increasing to 62 in the 
+                    afternoon. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........94  85  91  88  86  84  86  83  65  57  59  63  
+Weather cov.....CHC CHC CHC CHC CHC SCH SCH SCH SCH SCH CHC CHC 
+Weather type....RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                                                
+Chc of pcpn (%).30  40  40  30  30  20  20  20  20  20  30  40  
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............49  48  47  47  46  48  51  51  51  52  50  48  
+Dewpoint........47  47  46  45  44  43  42  41  40  40  40  40  
+RH..............93  96  96  93  93  83  71  68  66  63  68  74  
+Aparnt tmp (F)..46  45  44  44  43  45  51  51  51  52  47  45  
+20 FT wind dir..W   NW  NW  NW  NW  NW  NW  NW  NW  NW  W   NW  
+20 FT wind spd..7   7   7   6   6   6   7   7   7   7   7   6   
+20 FT wind gust.17  16  16  15  13  13  13  13  14  14  14  13  
+Ridge wind dir..W   NW  NW  NW  NW  NW  NW  NW  NW  NW  W   NW  
+Ridge wind spd..8   8   8   7   7   7   8   8   8   8   8   7   
+Mix hgt (kft)...1.1 1.1 2.2 2.4 2.4 2.9 3.4 4.1 5.0 4.1 4.2 2.3 
+Transp wind dir.W   W   NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.15  14  15  13  14  14  14  14  14  14  16  10  
+LVORI...........5   5   4   4   4   4   3   3   1   1   1   3   
+ADI.............20  19  31  27  29  33  35  39  42  52  62  28  
+Vrate kt-ft/1K..14  14  29  27  29  35  41  50  60  50  59  21  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  FR  FR  FR  FR  FR  PR  
+
+$$
+Forecaster...CMC
+Requested by...DBNF
+Type of request...PRESCRIBED
+.TAG 2625229.0/JKL
+.DELDT 11/11/26
+.FormatterVersion 2.0.0
+.EMAIL jaccie.majors@usda.gov
+

@@ -1,0 +1,180 @@
+
+000
+FNUS73 KJKL 111121
+FWSJKL
+
+Spot Forecast for Flatwoods Picnic Area Rx...USFS
+National Weather Service Jackson KY
+621 AM EST Wed Nov 11 2026
+
+Forecast is based on ignition time of 0700 EST on November 11. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Sunny skies along with increasing southwest winds 
+through the daytime hours will bring good dispersion this afternoon 
+ahead of an approaching disturbance and cold front that will cross 
+the area tonight and bring a period of showers and lowering 
+clouds. A cooler and more humid air mass with occasional showers
+will then persist over the area with northwest winds through 
+the day Thursday. 
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Chance of pcpn......0 percent. 
+Chance of thunder...0 percent. 
+Max temperature.....Around 67. 
+Min humidity........30 percent. 
+Dewpoint............38 decreasing to 36 late in the afternoon, then 
+                    increasing to 41 late in the afternoon. 
+Max apparent temp...67. 
+Wind (20 ft)........Light winds becoming southwest 5 to 7 mph in 
+                    the afternoon. 
+Ridgetop wind.......South 2 to 8 mph shifting to the southwest 7 to 
+                    9 mph late in the afternoon. 
+Mixing height.......4800 ft AGL. 
+Transport winds.....Southwest 6 to 15 mph increasing to 12 to 17 
+                    mph late in the afternoon. 
+Vent Rate...........Poor (1900 knot-ft) increasing to poor (14500 
+                    knot-ft) late in the morning, then increasing 
+                    to fair (39000 knot-ft) midday increasing to 
+                    good (58200 knot-ft) early in the afternoon 
+                    increasing to good (72200 knot-ft) 
+                    decreasing to fair (45300 knot-ft) late in the 
+                    afternoon decreasing to poor (17800 knot-ft) 
+                    toward sunset. 
+LVORI...............3. 
+ADI.................6 early in the morning increasing to 97 in the 
+                    afternoon. 
+
+TIME (EST)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........7   18  1   1   1   1   7   12  23  28  24  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   
+Temp............40  40  47  54  60  63  66  66  66  67  64  
+Dewpoint........36  37  39  40  40  38  36  35  36  38  41  
+RH..............85  89  74  59  47  39  33  32  33  34  43  
+Aparnt tmp (F)..40  40  47  54  60  63  66  66  66  67  64  
+20 FT wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+20 FT wind spd..1   2   2   2   5   6   7   8   8   8   6   
+20 FT wind gust.5   5   7   7   10  13  14  16  16  16  13  
+Ridge wind dir..S   S   S   S   SW  SW  SW  SW  SW  SW  SW  
+Ridge wind spd..2   3   3   3   6   7   8   9   9   9   7   
+Mix hgt (kft)...0.4 0.4 0.5 0.8 1.8 3.5 4.5 4.7 4.8 3.5 1.8 
+Transp wind dir.SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  SW  
+Transp wind spd.6   6   6   7   9   13  15  16  17  15  12  
+LVORI...........5   5   3   3   2   1   1   1   1   1   2   
+ADI.............6   6   6   7   21  55  79  89  97  63  26  
+Vrate kt-ft/1K..2   2   2   5   15  39  58  66  72  45  18  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  FR  GD  GD  FR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (15-25 percent) then becoming 
+                    mostly cloudy (75-85 percent). Rain showers 
+                    likely in the evening. Chance of rain showers 
+                    overnight. 
+Chance of pcpn......70 percent. 
+Chance of thunder...10 percent. 
+Min temperature.....Around 46. 
+Max humidity........100 percent. 
+Dewpoint............44 increasing to 51 in the late evening and 
+                    overnight, then decreasing to 47 after 3 am. 
+Max apparent temp...61. 
+Wind (20 ft)........Light winds becoming west 6 to 8 mph. 
+Ridgetop wind.......Southwest 6 to 10 mph. 
+Mixing height.......500 ft AGL. 
+Transport winds.....Southwest 9 to 14 mph shifting to the northwest 
+                    15 to 16 mph after 3 am. 
+Vent Rate...........Poor (4300 knot-ft). 
+LVORI...............5. 
+ADI.................4 to 14. 
+
+TIME (EST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........4      32     59     47     60     100    
+Weather cov.....       CHANCE LIKELY CHANCE        CHANCE 
+Weather type....NONE   RNSHWR RNSHWR RNSHWR NONE   RNSHWR 
+Tstm cov........                                          
+Chc of pcpn (%).0      40     70     40     10     40     
+Chc of thdr (%).0      10     10     10     0      0      
+Temp............61     55     54     53     51     50     
+Dewpoint........42     46     51     53     50     47     
+RH..............49     72     90     100    96     89     
+Aparnt tmp (F)..61     55     54     53     51     47     
+20 ft wind......SW 5   S 6    SW 7   W 7    W 7    W 8    
+20 ft wind gust.12     14     16     15     15     16     
+Ridgetop wind...SW 6   S 7    SW 8   W 8    W 8    W 9    
+Mix hgt (ft)....500    500    600    700    500    700    
+Transport wind..SW 9   SW 12  SW 13  W 14   W 14   W 16   
+LVORI...........2      3      5      8      6      5      
+ADI.............4      5      8      9      9      14     
+Vrate kt-ft/1K..4      5      7      8      6      9      
+Ventrate Cat....POOR   POOR   POOR   POOR   POOR   POOR   
+
+.THURSDAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent) then becoming 
+                    partly sunny (50-60 percent). Slight chance of 
+                    rain showers in the morning. Chance of rain 
+                    showers in the afternoon. 
+Chance of pcpn......40 percent. 
+Chance of thunder...3 percent. 
+Max temperature.....Around 54. 
+Min humidity........61 percent. 
+Dewpoint............44 decreasing to 40 late in the afternoon. 
+Max apparent temp...53. 
+Wind (20 ft)........Northwest winds 7 to 9 mph. 
+Ridgetop wind.......Northwest 9 to 12 mph. 
+Mixing height.......5100 ft AGL. 
+Transport winds.....Northwest 13 to 17 mph. 
+Vent Rate...........Poor (11900 knot-ft) increasing to poor (25900 
+                    knot-ft) early in the morning increasing to 
+                    marginal (31800 knot-ft) late in the morning, 
+                    then increasing to fair (43400 knot-ft) late in 
+                    the morning increasing to good (59700 knot-ft) 
+                    around midday, then increasing to good (66200 
+                    knot-ft) early afternoon before decreasing 
+                    to good (58400 knot-ft) mid afternoon before
+                    decreasing to poor (26800 knot-ft) toward 
+                    sunset. 
+LVORI...............3. 
+ADI.................17 early in the morning increasing to 68 in the 
+                    afternoon. 
+
+TIME (EST)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........90        73        72        56        
+Weather cov.....S CHC               S CHC     S CHC     
+Weather type....RNSHWR    NONE      RNSHWR    RNSHWR    
+Tstm cov........                                        
+Chc of pcpn (%).20        10        20        20        
+Chc of thdr (%).0         0         0         0         
+Temp............47        47        51        53        
+Dewpoint........46        44        43        41        
+RH..............96        89        74        64        
+Aparnt tmp (F)..43        43        51        53        
+20 FT wind......NW 9G16   NW 9G16   NW 9G16   NW 10G18  
+Ridgetop wind...NW 10     NW 10     NW 10     NW 12     
+Mix hgt (ft)....1000      2400      4300      4500      
+Transport wind..NW 16     NW 13     NW 16     NW 15     
+LVORI...........5         4         3         1         
+ADI.............21        27        46        44        
+Vrate kt-ft/1K..15        26        60        58        
+Ventrate Cat....POOR      POOR      FAIR      FAIR      
+
+$$
+Forecaster...CMC
+Requested by...Cory Blankenship
+Type of request...PRESCRIBED
+.TAG 2625455.1/JKL
+.DELDT 11/10/26
+.FormatterVersion 2.0.0
+.EMAIL cory.blankenship@usda.gov
+

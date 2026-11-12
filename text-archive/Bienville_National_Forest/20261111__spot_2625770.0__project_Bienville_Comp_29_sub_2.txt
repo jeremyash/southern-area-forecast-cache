@@ -1,0 +1,105 @@
+
+000
+FNUS74 KJAN 111238
+FWSJAN
+
+Spot Forecast for Bienville Comp 29 sub 2...USFS
+National Weather Service Jackson MS
+638 AM CST Wed Nov 11 2026
+
+Forecast is based on ignition time of 0700 CST on November 11. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Partly sunny (50-60 percent) then becoming 
+                    sunny (15-25 percent). 
+Temperature.........52 at ignition...Max 79. 
+RH..................86 percent at ignition...Min 48 percent. 
+Wind (20 ft)........Winds southwest at 2 mph at 
+                    ignition...otherwise Light winds becoming west 
+                    5 to 6 mph in the afternoon, then becoming 
+                    light late in the afternoon. 
+Mixing height (m)...91 meters AGL at ignition...otherwise 91-1463 
+                    meters AGL. 
+Transport winds.....West 5 to 14 mph. 
+Transport winds m/s.West 2 to 6 meters/second. 
+
+TIME (CST)      7 AM   9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky cover.......MCldy  MCldy  PCldy  MClear MClear PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............52     64     74     77     77     73     
+RH..............86     67     51     50     50     57     
+20 ft wind dir..SW     W      W      W      W      W      
+20 ft wind spd..2      2      3      6      6      3      
+20 ft wind gust.7      9      12     14     16     13     
+Mix hgt (m).....120    270    880    1250   1190   240    
+Transport wind..SW 5   W 7    W 10   W 12   W 14   W 10   
+Tran wind (m/s).SW 2   W 3    W 4    W 5    W 6    W 4    
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (10-20 percent). 
+Temperature.........Min 49. 
+RH..................Max 96 percent. 
+Wind (20 ft)........Light winds early in the evening becoming west 
+                    around 5 mph, then shifting to the northwest 
+                    overnight becoming light. 
+Mixing height (m)...122-183 meters AGL. 
+Transport winds.....West 9 to 13 mph shifting to the northwest 
+                    around 10 mph after 3 am. 
+Transport winds m/s.West around 4 meters/second shifting to the 
+                    northwest after 3 am. 
+
+TIME (CST)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MClear MClear MClear MClear PCldy  Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............67     63     62     61     58     53     
+RH..............73     87     90     93     96     96     
+20 ft wind dir..SW     SW     W      W      NW     NW     
+20 ft wind spd..3      3      5      5      5      3      
+20 ft wind gust.14     16     17     18     18     16     
+Mix hgt (m).....120    120    120    150    150    150    
+Transport wind..W 9    W 10   W 12   W 13   NW 12  NW 10  
+Tran wind (m/s).W 4    W 4    W 5    W 6    NW 5   NW 4   
+
+.THURSDAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Temperature.........Max 71. 
+RH..................Min 33 percent. 
+Wind (20 ft)........Light winds becoming northwest 5 to 8 mph early 
+                    in the morning. 
+Mixing height (m)...152-1463 meters AGL. 
+Transport winds.....Northwest 9 to 16 mph. 
+Transport winds m/s.Northwest 4 to 7 meters/second. 
+
+TIME (CST)      6 AM   8 AM   10 AM  Noon   2 PM   4 PM   
+Sky cover.......Clear  Clear  Clear  Clear  Clear  Clear  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............50     53     65     69     71     67     
+RH..............89     80     50     39     34     34     
+20 ft wind dir..NW     NW     NW     NW     NW     NW     
+20 ft wind spd..3      5      6      7      8      8      
+20 ft wind gust.14     15     16     17     18     18     
+Mix hgt (m).....150    460    910    1280   1430   1280   
+Transport wind..N 9    N 13   N 15   NW 15  NW 15  NW 15  
+Tran wind (m/s).N 4    N 6    N 7    NW 7   NW 7   NW 7   
+
+$$
+Forecaster...Campbell
+Requested by...William Hudson
+Type of request...PRESCRIBED
+.TAG 2625770.0/JAN
+.DELDT 11/11/26
+.FormatterVersion 2.0.0
+.EMAIL william.hudson@usda.gov
+
