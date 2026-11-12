@@ -186,6 +186,55 @@ convert_to_24hr <- function(time_str) {
   }
 }
 # -------------------------------
+# FWS FORECAST DATE HELPER
+# -------------------------------
+
+# Extract the date in the FWS ignition-time statement.
+# Choose the nearest calendar year to the forecast issuance date,
+# including forecasts that cross December/January.
+# Return NA if the statement is missing or cannot be parsed.
+extract_fws_base_date <- function(product_text, issuance_time) {
+  if (length(product_text) != 1 || is.na(product_text) ||
+      length(issuance_time) != 1 || is.na(issuance_time)) {
+    return(as.Date(NA))
+  }
+  
+  ignition_line <- stringr::str_extract(
+    product_text,
+    stringr::regex(
+      "Forecast is based on ignition time[^\\n]*",
+      ignore_case = TRUE
+    )
+  )
+  
+  if (is.na(ignition_line)) return(as.Date(NA))
+  
+  date_text <- stringr::str_match(
+    ignition_line,
+    stringr::regex(
+      "on\\s+([A-Za-z]+\\s+\\d{1,2})",
+      ignore_case = TRUE
+    )
+  )[, 2]
+  
+  if (is.na(date_text)) return(as.Date(NA))
+  
+  issuance_date <- as.Date(issuance_time, tz = "UTC")
+  issuance_year <- as.integer(format(issuance_date, "%Y"))
+  candidate_years <- issuance_year + c(-1, 0, 1)
+  candidate_dates <- as.Date(
+    paste(date_text, candidate_years),
+    format = "%B %d %Y"
+  )
+  
+  if (all(is.na(candidate_dates))) return(as.Date(NA))
+  
+  differences <- abs(as.numeric(candidate_dates - issuance_date))
+  differences[is.na(differences)] <- Inf
+  candidate_dates[which.min(differences)]
+}
+
+# -------------------------------
 # SUPERFOG PARSING
 # -------------------------------
 
@@ -377,10 +426,21 @@ parse_spot_forecasts <- function(df) {
       
       if (nrow(t_all_times_df) == 0) return(NULL)
       
-      base_date <- as.Date(spot_info$date, format = "%m/%d/%y")
-      if (is.na(base_date) && !is.null(spot_info$date_issued) && !is.na(spot_info$date_issued)) {
-        base_date <- as.Date(spot_info$date_issued)
+      # Use the FWS forecast start date, not the possibly older STQ request date.
+      # Fall back to STQ date, then local FWS issuance date if needed.
+      base_date <- extract_fws_base_date(
+        product_text = spot_info$productText,
+        issuance_time = spot_info$issuanceTime_utc
+      )
+      
+      if (is.na(base_date)) {
+        base_date <- as.Date(spot_info$date, format = "%m/%d/%y")
       }
+      
+      if (is.na(base_date)) {
+        base_date <- as.Date(spot_info$issuanceTime_utc, tz = spot_info$tz)
+      }
+      
       if (is.na(base_date)) {
         log_msg("parse_spot_forecasts row", i, ": base_date is NA")
         return(NULL)

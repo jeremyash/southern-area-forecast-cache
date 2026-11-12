@@ -3,3 +3,9 @@
 .RData
 .Ruserdata
 .positai
+
+# Local cache testing
+cache-test/
+
+# macOS metadata
+.DS_Store
