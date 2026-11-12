@@ -1,8 +1,6 @@
 name: Build spot forecast cache
 
 on:
-  schedule:
-    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
