@@ -85,6 +85,12 @@ jobs:
 
           Rscript -e 'x <- readRDS("cache/spot_superfog_cache.rds"); cat("cache timestamp:", as.character(x$last_refresh), "\n")'
 
+      - name: Validate spot forecast cache
+        working-directory: main-repo
+        run: |
+          Rscript scripts/validate_spot_cache.R \
+            ../cache-repo/cache/spot_superfog_cache.rds
+
       - name: Show git status
         working-directory: cache-repo
         run: |

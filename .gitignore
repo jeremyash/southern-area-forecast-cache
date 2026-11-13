@@ -6,6 +6,9 @@
 
 # Local cache testing
 cache-test/
+cache-merge-test/
+scripts/build_spot_superfog_cache_stageA.R
+scripts/build_spot_superfog_cache_pre_stageA.R
 
 # macOS metadata
 .DS_Store

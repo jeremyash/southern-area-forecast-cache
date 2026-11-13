@@ -1,8 +1,8 @@
-# update_cache.R
+# build_spot_superfog_cache.R
+# Purpose: Accumulate distinct NWS FWS issuance versions for today and yesterday.
+# Source: NWS FWS/STQ APIs and the previously published cache-data RDS.
 
-# -------------------------------
-# LIBRARIES
-# -------------------------------
+# 1. Libraries ----
 
 library(tidyverse)
 library(lubridate)
@@ -509,9 +509,71 @@ parse_spot_forecasts <- function(df) {
   })
 }
 
-# -------------------------------
-# BUILD CACHE
-# -------------------------------
+# 2. Persistent cache helpers ----
+
+version_key <- function(df) {
+  paste0(as.character(df$spot_id), "|",
+         format(as.POSIXct(df$issuanceTime, tz = "UTC"),
+                "%Y-%m-%dT%H:%M:%OS6Z", tz = "UTC"))
+}
+
+read_previous_cache <- function(path) {
+  if (!file.exists(path)) return(empty_cache())
+  tryCatch(readRDS(path), error = function(e) {
+    log_msg("Could not read previous cache:", e$message)
+    stop("Refusing to overwrite unreadable previous cache")
+  })
+}
+
+# Keep rows and screening tables paired by index while combining old/new data.
+# The same issuance in a fresh pull replaces the saved copy.
+merge_forecast_caches <- function(previous, incoming, today_val,
+                                  fetched_successfully = FALSE) {
+  entries <- list()
+  previous_success <- previous$last_successful_fetch
+  if (is.null(previous_success)) previous_success <- as.POSIXct(NA)
+
+  add_entries <- function(obj) {
+    df <- obj$forecast_df
+    tables <- obj$sfog_tables
+    if (is.null(df) || nrow(df) == 0) return(invisible(NULL))
+    if (is.null(tables) || length(tables) != nrow(df)) {
+      stop("Forecast/screening table alignment failed; cache not saved")
+    }
+    needed <- c("spot_id", "issuanceTime")
+    if (!all(needed %in% names(df))) stop("Missing cache identity columns")
+    valid <- !is.na(df$spot_id) & !is.na(df$issuanceTime) &
+      as.Date(lubridate::with_tz(as.POSIXct(df$issuanceTime),
+                                "America/New_York")) %in%
+      c(today_val, today_val - 1)
+    for (i in which(valid)) {
+      key <- version_key(df[i, , drop = FALSE])
+      if (is.na(key) || !nzchar(key)) next
+      entries[[key]] <<- list(row = df[i, , drop = FALSE], table = tables[[i]])
+    }
+    invisible(NULL)
+  }
+
+  add_entries(previous)
+  add_entries(incoming)
+  if (length(entries) == 0) {
+    result <- empty_cache()
+  } else {
+    result <- list(
+      forecast_df = dplyr::bind_rows(lapply(entries, `[[`, "row")),
+      sfog_tables = lapply(entries, `[[`, "table"),
+      last_refresh = Sys.time()
+    )
+    result$forecast_df$forecast_version_id <- version_key(result$forecast_df)
+    ordering <- order(result$forecast_df$issuanceTime, decreasing = TRUE)
+    result$forecast_df <- result$forecast_df[ordering, , drop = FALSE]
+    result$sfog_tables <- result$sfog_tables[ordering]
+  }
+  result$last_successful_fetch <- if (fetched_successfully) Sys.time() else previous_success
+  result
+}
+
+# 3. Build new API cache ----
 
 build_cache <- function() {
   today_val <- today(tzone = "America/New_York")
@@ -558,9 +620,7 @@ build_cache <- function() {
     log_msg("Parsing FWS", i, "of", nrow(fws_df))
     spot_df_fun(u)
   }) %>%
-    group_by(spot_id) %>%
-    slice_max(order_by = issuanceTime, n = 1, with_ties = FALSE) %>%
-    ungroup()
+    distinct(spot_id, issuanceTime, .keep_all = TRUE)
   
   log_msg("FWS spot forecasts retained:", nrow(spot_api_df))
   
@@ -576,8 +636,10 @@ build_cache <- function() {
     stq_df_fun(u)
   }) %>%
     filter(spot_id %in% spot_api_df$spot_id) %>%
-    select(req_api_id = X.id, spot_id:time) %>%
-    distinct()
+    select(req_api_id = X.id, spot_id:time, issuanceTime) %>%
+    arrange(desc(issuanceTime)) %>%
+    distinct(spot_id, .keep_all = TRUE) %>%
+    select(-issuanceTime)
   
   log_msg("Matching STQ requests retained:", nrow(request_api_df))
   
@@ -619,11 +681,8 @@ build_cache <- function() {
       nws_spot_url = paste0("https://spot.weather.gov/forecasts/", spot_id_clean),
       issued = ifelse(date_issued == today_val, "Today", "Yesterday")
     ) %>% 
-    filter(str_to_upper(str_trim(project_type)) == "PRESCRIBED") %>% 
-    group_by(nws_spot_url) %>% 
-    arrange(desc(date_issued)) %>% 
-    slice(1) %>% 
-    ungroup()
+    filter(str_to_upper(str_trim(project_type)) == "PRESCRIBED") %>%
+    distinct(spot_id, issuanceTime, .keep_all = TRUE)
   
   log_msg("Joined forecast rows:", nrow(forecast_df))
   
@@ -717,28 +776,41 @@ build_cache <- function() {
 # GENERATE AND SAVE CACHE
 # -------------------------------------------------
 
-cache_obj <- tryCatch(
-  build_cache(),
+# 4. Merge with published cache and save ----
+
+# Read before making API requests. An API failure must not erase retained data.
+previous_cache <- read_previous_cache(cache_path)
+
+api_result <- tryCatch(
+  list(cache = build_cache(), succeeded = TRUE),
   error = function(e) {
-    log_msg("Cache build failed:", e$message)
-    
-    if (file.exists(cache_path)) {
-      log_msg("Using existing cache file as fallback.")
-      fallback_cache <- readRDS(cache_path)
-      fallback_cache$last_refresh <- Sys.time()
-      fallback_cache
-    } else {
-      log_msg("No existing cache file found. Writing empty fallback cache.")
-      empty_cache()
-    }
+    log_msg("Cache API build failed:", e$message)
+    list(cache = empty_cache(), succeeded = FALSE)
   }
 )
 
-log_msg("About to save cache with last_refresh =", as.character(cache_obj$last_refresh))
+# Empty results are not evidence of a successful forecast retrieval.
+usable_new_data <- api_result$succeeded &&
+  nrow(api_result$cache$forecast_df) > 0
 
-saveRDS(cache_obj, cache_path)
+cache_obj <- merge_forecast_caches(
+  previous = previous_cache,
+  incoming = api_result$cache,
+  today_val = today(tzone = "America/New_York"),
+  fetched_successfully = usable_new_data
+)
+
+log_msg("Retained forecast versions:", nrow(cache_obj$forecast_df))
+log_msg("Last successful forecast fetch:", as.character(cache_obj$last_successful_fetch))
+
+# Write atomically, to avoid leaving a truncated RDS on interruption.
+tmp_path <- tempfile(pattern = "spot-cache-", tmpdir = dirname(cache_path))
+saveRDS(cache_obj, tmp_path)
+if (!file.rename(tmp_path, cache_path)) {
+  unlink(tmp_path)
+  stop("Could not replace cache file")
+}
 
 check_obj <- readRDS(cache_path)
-log_msg("Read-back cache last_refresh =", as.character(check_obj$last_refresh))
-
-log_msg("Cache updated successfully at", as.character(cache_obj$last_refresh))
+stopifnot(nrow(check_obj$forecast_df) == length(check_obj$sfog_tables))
+log_msg("Cache updated successfully at", as.character(check_obj$last_refresh))
