@@ -1,0 +1,64 @@
+
+000
+FNUS74 KBMX 122328
+FWSBMX
+
+Spot Forecast for Tusk Cpt 6...USFS
+National Weather Service Birmingham AL
+528 PM CST Thu Nov 12 2026
+
+Forecast is based on ignition time of 1730 CST on November 12. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+A cold front is well to the south of the burn site, with 
+northerly to northwesterly winds expected to continue through the 
+next couple days. MinRHs will drop on Friday afternoon to around 
+30-35%. Winds tonight, while generally lower than this afternoon,
+could be gusty at times before increasing again Friday afternoon.
+
+
+.TONIGHT...
+TIME (CST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      1      1      6      3      3      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............56     51     47     45     44     41     
+RH..............66     83     93     96     96     96     
+20 FT wind......NW 2   NW 2   NW 1   W 2    NW 2   NW 2   
+20 FT wind gust.11     8      7      8      11     11     
+20 FT wind dir..320    310    310    290    310    310    
+Mix hgt (ft)....500    400    400    400    500    500    
+Transport wind..NW 12  N 8    N 8    NW 8   NW 9   N 9    
+Dispersion idx..7      5      4      4      4      4      
+LVORI...........4      4      6      9      9      9      
+
+.FRIDAY...
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........4      2      1      1      0      1      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............40     45     53     56     57     56     
+RH..............89     73     50     42     37     37     
+20 FT wind......NW 2   NW 3   NW 5   NW 6   NW 7   NW 6   
+20 FT wind gust.10     13     13     13     14     14     
+20 FT wind dir..330    330    320    310    310    320    
+Mix hgt (ft)....500    2100   3600   4300   5000   4200   
+Transport wind..N 8    N 14   NW 14  NW 15  NW 16  NW 16  
+Dispersion idx..4      6      6      76     94     80     
+LVORI...........5      5      2      1      1      1      
+
+$$
+Forecaster...Robinson
+Requested by...RXB2
+Type of request...PRESCRIBED
+.TAG 2625878.1/BMX
+.DELDT 11/12/26
+.FormatterVersion 2.0.0
+
