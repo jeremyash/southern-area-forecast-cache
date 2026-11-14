@@ -1,0 +1,154 @@
+
+000
+FNUS72 KGSP 132014
+FWSGSP
+
+Spot Forecast for Allen Mountain Rx...USFS
+National Weather Service Greenville-Spartanburg SC
+314 PM EST Fri Nov 13 2026
+
+Forecast is based on ignition time of 1600 EST on November 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Dry through Saturday. Minimum humidity will fall to 41 percent
+this afternoon and 32 percent Saturday afternoon. Breezy northwest
+winds are expected through late this evening with lighter winds
+returning tonight itno Saturday. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of thunder...0 percent. 
+Max temperature.....Around 53. 
+Min humidity........41 percent. 
+Wind (20 ft)........Northwest winds around 13 mph. 
+Mixing height.......5000 ft AGL. 
+Transport winds.....Northwest around 18 mph. 
+Smoke dispersal.....Excellent (82977 mph-ft). 
+LVORI...............1. 
+ADI.................73 to 76. 
+Stability class.....3. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........20900. 
+Visibility (SM).....9. 
+Sfc pressure (in)...28.63. 
+
+TIME (EST)      4PM 5PM 
+Sky (%).........13  2   
+Weather cov.....        
+Weather type....        
+Tstm cov........        
+Chc of thdr (%).0   0   
+Temp............52  50  
+Dewpoint........30  30  
+RH..............42  45  
+20 FT wind dir..NW  NW  
+20 FT wind spd..13  13  
+20 FT wind gust.22  22  
+Mix hgt (kft)...5.0 4.5 
+Transp wind dir.NW  NW  
+Transp wind spd.18  18  
+LVORI...........1   1   
+ADI.............76  73  
+VRate mph-ft/1k.93  83  
+Ceiling (hft)...209 223 
+Visibility (sm).9   9   
+Sfc pres (in)...863 865 
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-5 percent). 
+Chance of thunder...0 percent. 
+Min temperature.....Around 35. 
+Max humidity........94 percent. 
+Wind (20 ft)........Northwest winds 5 to 10 mph. Gusts up to 21 mph 
+                    early in the evening. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Northwest 8 to 14 mph. 
+Smoke dispersal.....Fair (13695 mph-ft) early in the evening 
+                    decreasing to poor (3567 mph-ft) late in the 
+                    night. 
+LVORI...............4. 
+ADI.................4 to 9. 
+Stability class.....5. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........22600. 
+Visibility (SM).....9. 
+Sfc pressure (in)...28.67. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........3   3   1   1   3   3   1   3   3   3   2   1   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............47  44  43  42  41  40  39  38  38  37  36  36  
+Dewpoint........31  32  32  33  34  35  35  36  36  36  35  34  
+RH..............54  62  67  71  76  81  87  91  92  94  93  93  
+20 FT wind dir..NW  NW  NW  NW  W   NW  W   W   W   W   W   NW  
+20 FT wind spd..10  8   8   7   6   5   5   5   5   5   5   5   
+20 FT wind gust.21  17  16  14  12  10  10  9   9   8   8   8   
+Mix hgt (kft)...1.0 0.4 0.4 0.7 0.6 0.5 0.5 0.5 0.5 0.5 0.5 0.4 
+Transp wind dir.NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind spd.14  10  9   9   9   8   8   8   9   9   8   8   
+LVORI...........2   3   3   3   4   5   6   6   6   6   6   6   
+ADI.............9   7   6   4   4   4   4   4   4   4   4   4   
+VRate mph-ft/1k.14  5   4   7   5   4   4   4   4   4   4   4   
+Ceiling (hft)...239 228 229 236 229 241 231 231 242 242 226 226 
+Visibility (sm).9   9   9   9   9   9   9   9   9   9   9   9   
+Sfc pres (in)...867 869 871 873 874 874 875 875 876 877 879 881 
+
+.SATURDAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+Chance of thunder...0 percent. 
+Max temperature.....Around 55. 
+Min humidity........32 percent. 
+Wind (20 ft)........Light winds becoming northwest 5 to 7 mph early 
+                    in the morning. 
+Mixing height.......5300 ft AGL. 
+Transport winds.....North 7 to 12 mph. 
+Smoke dispersal.....Poor (3567 mph-ft) early in the morning 
+                    increasing to excellent (61226 mph-ft) in the 
+                    afternoon. 
+LVORI...............4. 
+ADI.................7 early in the morning increasing to 70 in the 
+                    afternoon. 
+Stability class.....2. 
+Pcpn amount.........0.00 inches. 
+Ceiling (FT)........22500. 
+Visibility (SM).....9. 
+Sfc pressure (in)...28.83. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   2   1   1   1   1   2   2   3   2   1   0   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............36  36  37  43  47  50  52  54  55  55  55  53  
+Dewpoint........34  33  34  34  33  30  28  26  26  26  26  27  
+RH..............93  91  89  71  57  47  39  34  33  32  33  37  
+20 FT wind dir..NW  NW  NW  NW  N   N   NW  NW  NW  NW  NW  NW  
+20 FT wind spd..3   3   5   5   6   6   6   6   6   7   7   6   
+20 FT wind gust.8   8   9   10  12  12  12  12  12  13  14  13  
+Mix hgt (kft)...0.4 0.5 0.6 2.0 3.2 4.2 4.8 5.1 5.3 5.2 4.9 3.5 
+Transp wind dir.NW  N   N   N   N   N   N   N   N   N   N   NW  
+Transp wind spd.8   8   7   12  12  12  12  12  12  12  10  10  
+LVORI...........6   5   5   3   1   1   1   1   1   1   1   1   
+ADI.............8   8   7   30  45  57  64  68  70  69  59  45  
+VRate mph-ft/1k.4   4   4   24  36  48  55  59  61  60  51  37  
+Ceiling (hft)...226 225 227 242 246 247 248 249 249 250 250 250 
+Visibility (sm).9   9   9   9   9   9   9   9   9   9   9   9   
+Sfc pres (in)...883 885 887 890 891 891 890 889 889 889 890 892 
+
+$$
+Forecaster...AR
+Requested by...Greg Cohen
+Type of request...PRESCRIBED
+.TAG 2626002.0/GSP
+.DELDT 11/13/26
+.FormatterVersion 2.0.0
+

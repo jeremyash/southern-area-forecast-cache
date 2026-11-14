@@ -1,0 +1,84 @@
+
+000
+FNUS74 KBMX 131035
+FWSBMX
+
+Spot Forecast for Tusk Cpt 6...USFS
+National Weather Service Birmingham AL
+435 AM CST Fri Nov 13 2026
+
+Forecast is based on ignition time of 0600 CST on November 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Clear weather is expected through the weekend.
+
+Calm to very light northwest winds early this morning will 
+increase to near 10 mph with gusts up to 20 mph from mid-morning 
+to sunset. Transport winds will be good. MinRH this afternoon will
+be in the upper 20 to lower 30 percent range with recovery maxing
+in the 90 percent range tonight. Similar MinRH is forecast for 
+Saturday though northwest winds will be lighter.
+
+
+.TODAY...
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........4      2      0      1      0      1      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............39     45     53     56     57     56     
+RH..............96     73     50     38     34     33     
+20 FT wind......NW 2   NW 5   NW 6   NW 7   NW 7   NW 6   
+20 FT wind gust.11     13     13     14     14     14     
+20 FT wind dir..320    330    320    310    310    320    
+Mix hgt (ft)....500    1700   3600   4200   4800   4000   
+Transport wind..N 9    N 13   NW 14  NW 16  NW 17  NW 17  
+Dispersion idx..4      6      6      80     97     83     
+LVORI...........5      5      2      1      1      1      
+
+.TONIGHT...
+TIME (CST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      1      1      1      2      12     
+Weather cov.....                     AREAS  AREAS  AREAS  
+Weather type....NONE   NONE   NONE   FROST  FROST  FROST  
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............49     43     40     37     36     34     
+RH..............48     62     67     75     82     89     
+20 FT wind......NW 2   NW 2   N 2    NW 1   NW 2   NW 2   
+20 FT wind gust.13     11     8      7      8      8      
+20 FT wind dir..320    330    340    320    330    330    
+Mix hgt (ft)....500    500    400    500    500    400    
+Transport wind..NW 10  N 10   N 9    N 8    N 9    N 8    
+Dispersion idx..7      7      6      4      4      4      
+LVORI...........3      3      3      5      5      6      
+
+.SATURDAY...
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........7      5      6      5      6      5      
+Weather cov.....WIDSPD                                    
+Weather type....FROST  NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............33     39     50     55     57     56     
+RH..............96     73     48     35     30     31     
+20 FT wind......NW 2   N 2    N 3    N 3    N 3    N 2    
+20 FT wind gust.7      10     11     10     10     8      
+20 FT wind dir..320    350    000    000    350    000    
+Mix hgt (ft)....400    2000   3500   4400   4900   2100   
+Transport wind..N 9    N 13   N 13   N 12   N 12   N 9    
+Dispersion idx..4      6      6      60     66     25     
+LVORI...........5      5      2      1      1      1      
+
+$$
+Forecaster...Satterwhite
+Requested by...RXB2
+Type of request...PRESCRIBED
+.TAG 2625878.2/BMX
+.DELDT 11/13/26
+.FormatterVersion 2.0.0
+

@@ -1,0 +1,134 @@
+
+000
+FNUS72 KCAE 130636
+FWSCAE
+
+Spot Forecast for SRS CPT 63 Site Prep...USFS-Savannah River Site
+National Weather Service Columbia SC
+136 AM EST Fri Nov 13 2026
+
+Forecast is based on ignition time of 0700 EST on November 13. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Surface winds will remain light and out of the WNW through 9 am
+early this morning. Generally we will see winds from 4 to 7 mph at
+the spot location until the inversion breaks around 9 am when
+winds will start gusting to around 16 mph and turn to a more NW 
+direction. It is likely that RH values at the spot location drop
+below 30 percent this afternoon, at least briefly. Near critical 
+winds and RH values continue to pose an elevated fire risk through
+this afternoon but are not expected to rise to the level of fire 
+danger statement criteria.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 61. 
+Min humidity........28 percent. 
+Wind (20 ft)........Northwest winds 5 to 7 mph. 
+Mixing height.......6600 ft AGL. 
+Transport winds.....Northwest 9 to 16 mph. 
+LVORI...............3. 
+ADI.................10 early in the morning increasing to 116 in 
+                    the afternoon. 
+
+TIME (EST)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........21  2   4   2   6   2   3   1   1   5   8   
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   
+Temp............45  45  51  55  57  59  59  60  61  60  59  
+RH..............73  76  61  51  43  37  31  30  28  30  33  
+Aparnt tmp (F)..43  42  51  55  57  59  59  60  61  60  59  
+20 FT wind dir..W   NW  NW  NW  NW  W   W   W   W   W   W   
+20 FT wind dir..290 300 300 300 300 290 290 290 290 290 290 
+20 FT wind spd..5   6   6   6   6   6   6   7   7   7   6   
+20 FT wind gust.12  13  14  14  13  14  14  15  15  15  15  
+Mix hgt (kft)...0.5 0.8 2.1 3.6 4.5 5.2 5.8 6.3 6.5 6.6 2.8 
+Transp wind dir.NW  NW  NW  NW  NW  NW  W   W   W   NW  NW  
+Transp wind dir.300 300 310 310 300 300 290 290 290 300 300 
+Transp wind spd.9   10  14  14  13  13  14  15  16  16  14  
+LVORI...........4   4   3   1   1   1   1   1   1   1   1   
+ADI.............10  11  37  61  67  75  90  103 115 116 48  
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+Chance of pcpn......0 percent. 
+Min temperature.....Around 36. 
+Max humidity........92 percent. 
+Wind (20 ft)........Northwest winds 5 to 6 mph in the evening 
+                    becoming light. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Northwest 9 to 13 mph. 
+LVORI...............4. 
+ADI.................4 to 6. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........16  14  19  19  12  7   4   2   1   2   0   2   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............55  51  48  47  45  44  43  41  40  39  38  38  
+RH..............40  48  54  58  63  60  65  70  73  79  79  82  
+Aparnt tmp (F)..55  51  45  44  43  41  41  39  38  37  36  36  
+20 FT wind dir..W   W   W   NW  NW  NW  NW  NW  NW  NW  NW  NW  
+20 FT wind dir..290 290 290 300 320 320 320 330 320 330 330 330 
+20 FT wind spd..6   6   6   6   5   5   3   3   3   3   3   3   
+20 FT wind gust.15  15  15  14  13  12  11  11  11  11  9   9   
+Mix hgt (kft)...1.2 0.5 0.5 0.5 0.5 0.4 0.5 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  NW  
+Transp wind dir.300 300 300 310 320 330 320 320 320 330 330 330 
+Transp wind spd.12  13  13  12  12  10  10  9   10  10  9   9   
+LVORI...........2   2   3   3   3   3   3   3   4   4   5   5   
+ADI.............5   6   6   5   5   5   5   4   5   5   4   4   
+
+.SATURDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Chance of pcpn......0 percent. 
+Max temperature.....Around 59. 
+Min humidity........27 percent. 
+Wind (20 ft)........Light winds becoming north around 5 mph in the 
+                    late morning and afternoon, then becoming light 
+                    late in the afternoon. 
+Mixing height.......6600 ft AGL. 
+Transport winds.....North 8 to 13 mph. 
+LVORI...............3. 
+ADI.................8 early in the morning increasing to 83 in the 
+                    afternoon. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   5   3   2   2   3   4   3   2   1   3   2   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............37  36  39  46  50  54  56  57  58  58  59  56  
+RH..............85  92  85  71  61  48  42  32  30  28  27  31  
+Aparnt tmp (F)..37  36  37  45  48  54  56  57  58  58  59  56  
+20 FT wind dir..NW  NW  N   N   N   N   N   N   NW  NW  NW  NW  
+20 FT wind dir..330 330 340 340 000 350 340 340 330 330 330 330 
+20 FT wind spd..2   2   3   3   5   5   5   5   5   5   5   2   
+20 FT wind gust.8   8   9   9   11  11  11  12  12  12  11  7   
+Mix hgt (kft)...0.4 0.4 1.0 1.9 3.3 4.6 5.5 6.1 6.6 6.6 6.2 2.2 
+Transp wind dir.N   N   N   N   N   N   N   NW  NW  NW  NW  NW  
+Transp wind dir.340 340 000 010 000 350 340 330 320 320 330 330 
+Transp wind spd.8   9   12  13  12  12  10  12  12  12  12  8   
+LVORI...........5   5   4   3   1   1   1   1   1   1   1   1   
+ADI.............8   10  16  31  46  62  65  78  83  82  79  22  
+
+$$
+Forecaster...Rohrbach
+Requested by...Kevin Pope
+Type of request...PRESCRIBED
+.TAG 2625894.0/CAE
+.DELDT 11/13/26
+.FormatterVersion 2.0.0
+.EMAIL kevin.pope@usda.gov
+
