@@ -112,12 +112,22 @@ jobs:
 
             git pull --rebase origin cache-data
 
+            push_succeeded=false
+
             for i in 1 2 3; do
-              git push origin HEAD:cache-data && break
+              if git push origin HEAD:cache-data; then
+                push_succeeded=true
+                break
+              fi
 
               echo "Push failed. Retrying in $((i * 10)) seconds..."
               sleep $((i * 10))
 
               git pull --rebase origin cache-data
             done
+
+            if [ "$push_succeeded" != "true" ]; then
+              echo "ERROR: Failed to push spot cache after 3 attempts."
+              exit 1
+            fi
           fi
