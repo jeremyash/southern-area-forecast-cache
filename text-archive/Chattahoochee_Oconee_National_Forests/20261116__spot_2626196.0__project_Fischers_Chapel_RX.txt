@@ -1,0 +1,133 @@
+
+000
+FNUS72 KFFC 161815
+FWSFFC
+
+Spot Forecast for Fischers Chapel RX...USFS
+National Weather Service Peachtree City GA
+115 PM EST Mon Nov 16 2026
+
+Forecast is based on ignition time of 1000 EST on November 17. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Dry conditions and mostly clear skies continue through at least
+mid-week. On Tuesday, light 20ft winds in the morning increase to
+around 5 mph in the afternoon out of the E, with transport winds
+around 10 mph. Min RH values will be near 35% in the afternoon, 
+with mixing heights peaking around 4kft. Conditions look similar 
+on Wednesday, aside from min RH values falling into the upper 20s.
+
+.TUESDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 64. 
+Min humidity........35 percent. 
+Wind (20 ft)........Light winds becoming east around 5 mph in 
+                    the afternoon. 
+Mixing height.......4000 ft AGL. 
+Transport winds.....East 8 to 12 mph. 
+Smoke dispersal.....Poor (10700 knot-ft) early in the morning 
+                    increasing to good (37200 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................16 to 51. 
+CEILING (KFT).......25. 
+
+TIME (EST)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........2   3   3   3   3   3   3   3   
+Weather cov.....                                
+Weather type....                                
+Tstm cov........                                
+Temp............48  53  57  59  61  63  61  59  
+RH..............62  54  46  42  40  38  39  46  
+20 FT wind dir..E   E   E   E   E   E   E   E   
+20 FT wind spd..2   3   5   5   5   5   3   2   
+20 FT wind gust.10  12  13  14  14  14  13  10  
+Mix hgt (kft)...1.8 2.4 2.8 3.1 3.8 4.0 3.4 1.4 
+Transp wind dir.E   E   E   E   E   E   E   E   
+Transp wind spd.10  10  12  10  10  10  10  8   
+LVORI...........2   1   1   1   1   1   1   2   
+ADI.............23  32  39  41  49  51  43  16  
+Vrate kt-ft/1K..16  22  28  29  36  37  31  11  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  
+
+.TUESDAY NIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+Min temperature.....Around 35. 
+Max humidity........88 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Transport winds.....East 6 to 8 mph. 
+Smoke dispersal.....Poor (1600 knot-ft). 
+LVORI...............4. 
+ADI.................3 to 4. 
+CEILING (KFT).......25. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........3   4   3   3   3   3   2   3   3   2   3   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............54  50  47  45  44  42  41  40  39  38  37  35  
+RH..............54  63  70  74  77  79  80  80  82  83  84  87  
+20 FT wind dir..E   E   NE  E   E   E   E   E   E   E   E   E   
+20 FT wind spd..2   1   1   1   1   1   1   1   1   1   1   1   
+20 FT wind gust.9   8   7   6   7   6   7   7   7   7   7   7   
+Mix hgt (kft)...0.8 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.3 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.7   8   7   8   8   8   8   8   7   7   6   6   
+LVORI...........2   3   3   3   4   4   4   5   5   5   5   6   
+ADI.............3   3   3   3   4   4   4   4   3   3   3   3   
+Vrate kt-ft/1K..5   3   3   3   3   3   3   3   3   2   2   2   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  25  
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+Max temperature.....Around 67. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds becoming east around 5 mph in 
+                    the afternoon. 
+Mixing height.......3300 ft AGL. 
+Transport winds.....East 6 to 12 mph. 
+Smoke dispersal.....Poor (1400 knot-ft) early in the morning 
+                    increasing to good (32200 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................5 to 45. 
+CEILING (KFT).......25 early in the morning. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........5   8   7   5   3   2   2   2   2   2   2   5   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............35  36  39  44  50  55  59  62  65  66  66  64  
+RH..............88  85  76  66  55  46  39  34  32  31  33  37  
+20 FT wind dir..NE  NE  NE  E   E   E   E   E   E   E   E   E   
+20 FT wind spd..1   1   1   2   2   3   3   5   5   5   5   3   
+20 FT wind gust.7   7   8   9   9   10  10  12  13  13  13  13  
+Mix hgt (kft)...0.3 0.4 0.7 1.1 1.5 2.0 2.6 2.9 3.2 3.3 3.1 2.5 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.6   6   7   8   9   10  10  12  12  12  10  10  
+LVORI...........5   5   4   3   2   2   1   1   1   1   1   1   
+ADI.............5   5   7   11  19  27  35  41  45  45  41  32  
+Vrate kt-ft/1K..1   2   4   7   13  18  24  29  32  32  29  22  
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25                                              
+
+$$
+Forecaster...Culver
+Requested by...Jake Hauser
+Type of request...PRESCRIBED
+.TAG 2626196.0/FFC
+.DELDT 11/16/26
+.FormatterVersion 2.0.0
+.EMAIL jake.hauser@usda.gov
+
