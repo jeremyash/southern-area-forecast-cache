@@ -601,6 +601,29 @@ merge_forecast_caches <- function(previous, incoming, today_val,
     ordering <- order(result$forecast_df$issuanceTime, decreasing = TRUE)
     result$forecast_df <- result$forecast_df[ordering, , drop = FALSE]
     result$sfog_tables <- result$sfog_tables[ordering]
+    # Refresh Today/Yesterday labels for both new and retained forecasts.
+    result$forecast_df$issued <- vapply(
+      seq_len(nrow(result$forecast_df)),
+      function(i) {
+        tz <- as.character(result$forecast_df$issuance_tz[i])
+
+        local_issued <- as.Date(
+          result$forecast_df$issuanceTime[i],
+          tz = tz
+        )
+
+        local_today <- lubridate::today(tzone = tz)
+
+        if (local_issued == local_today) {
+          "Today"
+        } else if (local_issued == local_today - 1L) {
+          "Yesterday"
+        } else {
+          NA_character_
+        }
+      },
+      character(1)
+    )
   }
   result$last_successful_fetch <- if (fetched_successfully) Sys.time() else previous_success
   result
