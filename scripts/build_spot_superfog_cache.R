@@ -26,6 +26,16 @@ log_msg <- function(...) {
   )
 }
 
+# Track individual NWS product retrieval failures.
+api_failures <- character()
+
+record_api_failure <- function(product_type, url, message) {
+  api_failures <<- c(
+    api_failures,
+    paste(product_type, url, message, sep = " | ")
+  )
+}
+
 log_msg("Starting cache update")
 
 # -------------------------------
@@ -95,28 +105,29 @@ spot_df_fun <- function(SPOT_URL) {
     spot_api_ls <- request(SPOT_URL) %>%
       req_perform() %>%
       resp_body_json()
-    
+
     if (is.null(spot_api_ls$productText) || length(spot_api_ls$productText) == 0) {
       log_msg("FWS missing productText:", SPOT_URL)
       return(tibble())
     }
-    
+
     out <- as.data.frame(spot_api_ls[2:9]) %>%
       mutate(
         spot_id = str_extract(productText, "(?<=\\.TAG\\s)[0-9.]+"),
         usda = str_detect(productText, regex("\\busda\\.gov\\b|\\busfs\\b", ignore_case = TRUE)),
         issuanceTime = ymd_hms(issuanceTime, tz = "UTC"),
-        date_issued = as.Date(with_tz(issuanceTime, "America/New_York"))
+        date_issued = as.Date(issuanceTime, tz = "America/New_York")
       ) %>%
       filter(usda == TRUE)
-    
+
     if (nrow(out) == 0) {
       log_msg("FWS parsed but no USDA records:", SPOT_URL)
     }
-    
+
     out
   }, error = function(e) {
     log_msg("FWS parse failed:", SPOT_URL, "::", e$message)
+    record_api_failure("FWS", SPOT_URL, e$message)
     tibble()
   })
 }
@@ -126,12 +137,12 @@ stq_df_fun <- function(STQ_URL) {
     stq_api_ls <- request(STQ_URL) %>%
       req_perform() %>%
       resp_body_json()
-    
+
     if (is.null(stq_api_ls$productText) || length(stq_api_ls$productText) == 0) {
       log_msg("STQ missing productText:", STQ_URL)
       return(tibble())
     }
-    
+
     out <- as.data.frame(stq_api_ls[2:9]) %>%
       mutate(
         spot_id = str_match(productText, "OFILE:\\s*([0-9.]+)")[, 2],
@@ -143,14 +154,15 @@ stq_df_fun <- function(STQ_URL) {
         time = str_match(productText, "TIME:\\s*(\\d{4})")[, 2]
       ) %>%
       filter(!is.na(spot_id))
-    
+
     if (nrow(out) == 0) {
       log_msg("STQ parsed but no valid OFILE spot_id:", STQ_URL)
     }
-    
+
     out
   }, error = function(e) {
     log_msg("STQ parse failed:", STQ_URL, "::", e$message)
+    record_api_failure("STQ", STQ_URL, e$message)
     tibble()
   })
 }
@@ -161,24 +173,24 @@ stq_df_fun <- function(STQ_URL) {
 
 convert_to_24hr <- function(time_str) {
   if (length(time_str) != 1 || is.na(time_str)) return(NA_character_)
-  
+
   x <- toupper(trimws(as.character(time_str)))
   if (!nzchar(x)) return(NA_character_)
-  
+
   x <- gsub("^MID(NGT|NIGHT)?$", "12AM", x)
   x <- gsub("^NOON$", "12PM", x)
   x <- gsub("^([0-9]{1,2})\\s*A(M)?$", "\\1AM", x)
   x <- gsub("^([0-9]{1,2})\\s*P(M)?$", "\\1PM", x)
   x <- gsub("^([0-9]{1,2})A$", "\\1AM", x)
   x <- gsub("^([0-9]{1,2})P$", "\\1PM", x)
-  
+
   if (!grepl("^[0-9]{1,2}(AM|PM)$", x)) return(NA_character_)
-  
+
   hour <- as.integer(sub("^([0-9]{1,2})(AM|PM)$", "\\1", x))
   period <- sub("^([0-9]{1,2})(AM|PM)$", "\\2", x)
-  
+
   if (is.na(hour) || hour < 1 || hour > 12) return(NA_character_)
-  
+
   if (period == "AM") {
     if (hour == 12) "00" else sprintf("%02d", hour)
   } else {
@@ -198,7 +210,7 @@ extract_fws_base_date <- function(product_text, issuance_time) {
       length(issuance_time) != 1 || is.na(issuance_time)) {
     return(as.Date(NA))
   }
-  
+
   ignition_line <- stringr::str_extract(
     product_text,
     stringr::regex(
@@ -206,9 +218,9 @@ extract_fws_base_date <- function(product_text, issuance_time) {
       ignore_case = TRUE
     )
   )
-  
+
   if (is.na(ignition_line)) return(as.Date(NA))
-  
+
   date_text <- stringr::str_match(
     ignition_line,
     stringr::regex(
@@ -216,9 +228,9 @@ extract_fws_base_date <- function(product_text, issuance_time) {
       ignore_case = TRUE
     )
   )[, 2]
-  
+
   if (is.na(date_text)) return(as.Date(NA))
-  
+
   issuance_date <- as.Date(issuance_time, tz = "UTC")
   issuance_year <- as.integer(format(issuance_date, "%Y"))
   candidate_years <- issuance_year + c(-1, 0, 1)
@@ -226,9 +238,9 @@ extract_fws_base_date <- function(product_text, issuance_time) {
     paste(date_text, candidate_years),
     format = "%B %d %Y"
   )
-  
+
   if (all(is.na(candidate_dates))) return(as.Date(NA))
-  
+
   differences <- abs(as.numeric(candidate_dates - issuance_date))
   differences[is.na(differences)] <- Inf
   candidate_dates[which.min(differences)]
@@ -240,26 +252,26 @@ extract_fws_base_date <- function(product_text, issuance_time) {
 
 parse_spot_forecasts <- function(df) {
   if (nrow(df) == 0) return(list())
-  
+
   map(seq_len(nrow(df)), function(i) {
     tryCatch({
       spot_txt  <- df$productText[i]
       spot_info <- df[i, ]
-      
+
       spot_chunks <- strsplit(spot_txt, "\n\n")[[1]]
       time_chunks <- spot_chunks[grepl("(^TIME\\s|\\nTIME\\s)", spot_chunks)]
-      
+
       if (length(time_chunks) == 0) return(NULL)
-      
+
       parse_time_chunk <- function(chunk) {
         lines <- strsplit(chunk, "\n")[[1]]
         lines <- lines[nzchar(trimws(lines))]
         lines_trim <- trimws(lines)
-        
+
         time_line <- lines_trim[grepl("^TIME", lines_trim)]
         if (length(time_line) == 0) return(NULL)
         time_line <- time_line[1]
-        
+
         time_line_norm <- toupper(time_line)
         time_line_norm <- gsub("\\(.*?\\)", " ", time_line_norm)
         time_line_norm <- gsub("MIDNGT", "12AM", time_line_norm, ignore.case = TRUE)
@@ -268,16 +280,16 @@ parse_spot_forecasts <- function(df) {
         time_line_norm <- gsub("([0-9]{1,2})\\s+(AM|PM)\\b", "\\1\\2", time_line_norm, ignore.case = TRUE)
         time_line_norm <- gsub("\\b([0-9]{1,2})A\\b", "\\1AM", time_line_norm, ignore.case = TRUE)
         time_line_norm <- gsub("\\b([0-9]{1,2})P\\b", "\\1PM", time_line_norm, ignore.case = TRUE)
-        
+
         time_vals <- stringr::str_extract_all(
           time_line_norm,
           "\\b\\d{1,2}(AM|PM)\\b"
         )[[1]]
-        
+
         if (length(time_vals) == 0) return(NULL)
-        
+
         out <- tibble(TIME = time_vals)
-        
+
         strip_label <- function(x, type) {
           switch(
             type,
@@ -298,36 +310,36 @@ parse_spot_forecasts <- function(df) {
             x
           )
         }
-        
+
         split_cells <- function(x, n_expected = NULL, allow_single_space_fallback = FALSE) {
           x <- gsub("\\s+$", "", x)
           x <- trimws(x)
-          
+
           if (!nzchar(x)) return(character(0))
-          
+
           vals <- unlist(strsplit(x, "\\s{2,}"))
           vals <- trimws(vals)
           vals <- vals[nzchar(vals)]
-          
+
           if (allow_single_space_fallback &&
               !is.null(n_expected) &&
               length(vals) != n_expected) {
             vals2 <- unlist(strsplit(x, "\\s+"))
             vals2 <- trimws(vals2)
             vals2 <- vals2[nzchar(vals2)]
-            
+
             if (length(vals2) == n_expected) {
               vals <- vals2
             }
           }
-          
+
           vals
         }
-        
+
         split_sky_cells <- function(x, n_expected) {
           x <- trimws(x)
           if (!nzchar(x)) return(rep(NA_character_, n_expected))
-          
+
           if (grepl("[A-Za-z]", x)) {
             vals <- unlist(strsplit(x, "\\s+"))
             vals <- trimws(vals)
@@ -336,7 +348,7 @@ parse_spot_forecasts <- function(df) {
             vals <- unlist(strsplit(x, "\\s{2,}"))
             vals <- trimws(vals)
             vals <- vals[nzchar(vals)]
-            
+
             if (length(vals) != n_expected) {
               vals2 <- unlist(strsplit(x, "\\s+"))
               vals2 <- trimws(vals2)
@@ -344,19 +356,19 @@ parse_spot_forecasts <- function(df) {
               if (length(vals2) == n_expected) vals <- vals2
             }
           }
-          
+
           if (length(vals) < n_expected) vals <- c(vals, rep(NA_character_, n_expected - length(vals)))
           if (length(vals) > n_expected) vals <- vals[seq_len(n_expected)]
           vals
         }
-        
+
         pad_vals <- function(vals, n) {
           vals <- as.character(vals)
           if (length(vals) < n) vals <- c(vals, rep(NA_character_, n - length(vals)))
           if (length(vals) > n) vals <- vals[seq_len(n)]
           vals
         }
-        
+
         sky_line <- lines_trim[
           grepl("^Sky\\s*\\(\\s*%\\s*\\)", lines_trim, ignore.case = TRUE) |
             grepl("^Sky cover", lines_trim, ignore.case = TRUE)
@@ -365,7 +377,7 @@ parse_spot_forecasts <- function(df) {
           sky_raw <- strip_label(sky_line[1], "SKY")
           out$SKY <- split_sky_cells(sky_raw, length(time_vals))
         }
-        
+
         temp_line <- lines_trim[grepl("^Temp", lines_trim, ignore.case = TRUE)]
         if (length(temp_line) > 0) {
           temp_raw <- strip_label(temp_line[1], "TEMP")
@@ -376,7 +388,7 @@ parse_spot_forecasts <- function(df) {
           )
           out$TEMP <- pad_vals(temp_vals, length(time_vals))
         }
-        
+
         rh_line <- lines_trim[grepl("^RH", lines_trim, ignore.case = TRUE)]
         if (length(rh_line) > 0) {
           rh_raw <- strip_label(rh_line[1], "RH")
@@ -385,7 +397,7 @@ parse_spot_forecasts <- function(df) {
           rh_vals <- rh_vals[nzchar(rh_vals)]
           out$RH <- pad_vals(rh_vals, length(time_vals))
         }
-        
+
         wind_line <- lines_trim[
           grepl("^Surface\\s*(wnd|wind)\\s*spd", lines_trim, ignore.case = TRUE) |
             grepl("^20\\s*ft\\s*wind\\s*spd", lines_trim, ignore.case = TRUE) |
@@ -393,7 +405,7 @@ parse_spot_forecasts <- function(df) {
             (grepl("^20\\s*ft\\s*wind", lines_trim, ignore.case = TRUE) &
                !grepl("^20\\s*ft\\s*wind\\s*(dir|gust)", lines_trim, ignore.case = TRUE))
         ]
-        
+
         if (length(wind_line) > 0) {
           wind_raw <- strip_label(wind_line[1], "WIND")
           wind_cells <- split_cells(
@@ -405,17 +417,17 @@ parse_spot_forecasts <- function(df) {
           wind_vals <- stringr::str_extract(wind_cells, "\\d+")
           out$WIND <- wind_vals
         }
-        
+
         out
       }
-      
+
       chunk_dfs <- purrr::map(time_chunks, parse_time_chunk)
       chunk_dfs <- purrr::compact(chunk_dfs)
       if (length(chunk_dfs) == 0) return(NULL)
-      
+
       t_all_times_df <- dplyr::bind_rows(chunk_dfs)
       if (nrow(t_all_times_df) == 0) return(NULL)
-      
+
       t_all_times_df <- t_all_times_df %>%
         mutate(
           TIME = as.character(TIME),
@@ -423,29 +435,29 @@ parse_spot_forecasts <- function(df) {
           hour_num = suppressWarnings(as.integer(TIME_24))
         ) %>%
         filter(!is.na(TIME_24))
-      
+
       if (nrow(t_all_times_df) == 0) return(NULL)
-      
+
       # Use the FWS forecast start date, not the possibly older STQ request date.
       # Fall back to STQ date, then local FWS issuance date if needed.
       base_date <- extract_fws_base_date(
         product_text = spot_info$productText,
         issuance_time = spot_info$issuanceTime_utc
       )
-      
+
       if (is.na(base_date)) {
         base_date <- as.Date(spot_info$date, format = "%m/%d/%y")
       }
-      
+
       if (is.na(base_date)) {
         base_date <- as.Date(spot_info$issuanceTime_utc, tz = spot_info$tz)
       }
-      
+
       if (is.na(base_date)) {
         log_msg("parse_spot_forecasts row", i, ": base_date is NA")
         return(NULL)
       }
-      
+
       forecast_dates <- rep(base_date, nrow(t_all_times_df))
       if (nrow(t_all_times_df) > 1) {
         for (j in 2:nrow(t_all_times_df)) {
@@ -455,17 +467,17 @@ parse_spot_forecasts <- function(df) {
           }
         }
       }
-      
+
       filter_start <- as.POSIXct(
         paste(base_date, "18:00:00"),
         tz = spot_info$tz
       )
-      
+
       filter_end <- as.POSIXct(
         paste(base_date + 1, "08:00:00"),
         tz = spot_info$tz
       )
-      
+
       time_all_times_df <- t_all_times_df %>%
         mutate(
           TEMP = suppressWarnings(as.numeric(TEMP)),
@@ -482,9 +494,9 @@ parse_spot_forecasts <- function(df) {
         filter(DATETIME >= filter_start, DATETIME <= filter_end) %>%
         arrange(DATETIME) %>%
         select(DATETIME, TEMP, RH, WIND, SKY = SKY_RAW, SKY_NUM)
-      
+
       rownames(time_all_times_df) <- NULL
-      
+
       sfog_df <- time_all_times_df %>%
         mutate(
           sky_screen = case_when(
@@ -500,7 +512,7 @@ parse_spot_forecasts <- function(df) {
           wind_screen = ifelse(WIND <= 4, "critical", ifelse(WIND > 7, "minimal", "watch_out"))
         ) %>%
         select(DATETIME, TEMP, RH, WIND, SKY, sky_screen, temp_screen, rh_screen, wind_screen)
-      
+
       sfog_df
     }, error = function(e) {
       log_msg("parse_spot_forecasts failed for row", i, ":", e$message)
@@ -542,10 +554,31 @@ merge_forecast_caches <- function(previous, incoming, today_val,
     }
     needed <- c("spot_id", "issuanceTime")
     if (!all(needed %in% names(df))) stop("Missing cache identity columns")
-    valid <- !is.na(df$spot_id) & !is.na(df$issuanceTime) &
-      as.Date(lubridate::with_tz(as.POSIXct(df$issuanceTime),
-                                "America/New_York")) %in%
-      c(today_val, today_val - 1)
+    # Retain forecasts issued today or yesterday in their local time zone.
+    valid <- vapply(seq_len(nrow(df)), function(i) {
+      if (is.na(df$spot_id[i]) || is.na(df$issuanceTime[i])) {
+        return(FALSE)
+      }
+
+      tz <- if ("issuance_tz" %in% names(df)) {
+        as.character(df$issuance_tz[i])
+      } else {
+        "America/New_York"
+      }
+
+      if (is.na(tz) || !nzchar(tz) || !tz %in% OlsonNames()) {
+        stop("Missing or invalid forecast issuance time zone")
+      }
+
+      local_issued <- as.Date(
+        lubridate::with_tz(df$issuanceTime[i], tz),
+        tz = tz
+      )
+
+      local_today <- lubridate::today(tzone = tz)
+
+      local_issued %in% c(local_today, local_today - 1L)
+    }, logical(1))
     for (i in which(valid)) {
       key <- version_key(df[i, , drop = FALSE])
       if (is.na(key) || !nzchar(key)) next
@@ -577,60 +610,68 @@ merge_forecast_caches <- function(previous, incoming, today_val,
 
 build_cache <- function() {
   today_val <- today(tzone = "America/New_York")
-  
+
   fws_ls <- request(fws_nws_base_url) %>%
     req_perform() %>%
     resp_body_json()
-  
+
   stq_ls <- request(stq_nws_base_url) %>%
     req_perform() %>%
     resp_body_json()
-  
+
   fws_df <- bind_rows(fws_ls$`@graph`) %>%
     mutate(
       issuingOffice = str_sub(issuingOffice, 2),
-      date_issued = as.Date(with_tz(ymd_hms(issuanceTime, tz = "UTC"), "America/New_York"))
+      date_issued = as.Date(
+        ymd_hms(issuanceTime, tz = "UTC"),
+        tz = "America/New_York"
+      )
     ) %>%
     filter(issuingOffice %in% wfo$WFO) %>%
     filter(productName == "Suppression Forecast") %>%
     rename(api_url = "@id") %>%
-    filter(date_issued %in% c(today_val, today_val - 1))
-  
+    # Include an extra day for forecasts near Eastern/Central date boundaries.
+    # Final retention is determined using each forecast's local time zone.
+    filter(date_issued %in% c(today_val, today_val - 1, today_val - 2))
+
   stq_df <- bind_rows(stq_ls$`@graph`) %>%
     mutate(
       issuingOffice = str_sub(issuingOffice, 2),
-      date_issued = as.Date(with_tz(ymd_hms(issuanceTime, tz = "UTC"), "America/New_York"))
+      date_issued = as.Date(
+        ymd_hms(issuanceTime, tz = "UTC"),
+        tz = "America/New_York"
+      )
     ) %>%
     filter(issuingOffice %in% wfo$WFO) %>%
     filter(productName == "Spot Forecast Request") %>%
     rename(api_url = "@id") %>%
     filter(date_issued %in% c(today_val, today_val - 1, today_val - 2))
-  
+
   log_msg("FWS products found:", nrow(fws_df))
   log_msg("STQ products found:", nrow(stq_df))
-  
+
   if (nrow(fws_df) == 0 || nrow(stq_df) == 0) {
     log_msg("No FWS or STQ products found. Writing empty cache.")
     return(empty_cache())
   }
-  
+
   log_msg("Starting FWS parse on", nrow(fws_df), "records")
-  
+
   spot_api_df <- purrr::imap_dfr(fws_df$api_url, function(u, i) {
     log_msg("Parsing FWS", i, "of", nrow(fws_df))
     spot_df_fun(u)
   }) %>%
     distinct(spot_id, issuanceTime, .keep_all = TRUE)
-  
+
   log_msg("FWS spot forecasts retained:", nrow(spot_api_df))
-  
+
   if (nrow(spot_api_df) == 0) {
     log_msg("No spot forecasts returned from FWS products. Writing empty cache.")
     return(empty_cache())
   }
-  
+
   log_msg("Starting STQ parse on", nrow(stq_df), "records")
-  
+
   request_api_df <- purrr::imap_dfr(stq_df$api_url, function(u, i) {
     log_msg("Parsing STQ", i, "of", nrow(stq_df))
     stq_df_fun(u)
@@ -640,14 +681,14 @@ build_cache <- function() {
     arrange(desc(issuanceTime)) %>%
     distinct(spot_id, .keep_all = TRUE) %>%
     select(-issuanceTime)
-  
+
   log_msg("Matching STQ requests retained:", nrow(request_api_df))
-  
+
   if (nrow(request_api_df) == 0) {
     log_msg("No matching STQ requests found. Writing empty cache.")
     return(empty_cache())
   }
-  
+
   request_api_df <- request_api_df %>%
     mutate(
       tz = purrr::pmap_chr(
@@ -674,29 +715,30 @@ build_cache <- function() {
       )
     ) %>%
     ungroup()
-  
+
   forecast_df <- left_join(request_api_df, spot_api_df, by = "spot_id") %>%
     mutate(
       spot_id_clean = gsub("\\..*$", "", spot_id),
-      nws_spot_url = paste0("https://spot.weather.gov/forecasts/", spot_id_clean),
-      issued = ifelse(date_issued == today_val, "Today", "Yesterday")
-    ) %>% 
+      nws_spot_url = paste0("https://spot.weather.gov/forecasts/", spot_id_clean)
+    ) %>%
     filter(str_to_upper(str_trim(project_type)) == "PRESCRIBED") %>%
     distinct(spot_id, issuanceTime, .keep_all = TRUE)
-  
+
+
+
   log_msg("Joined forecast rows:", nrow(forecast_df))
-  
+
   if (nrow(forecast_df) == 0) {
     log_msg("Joined forecast data is empty. Writing empty cache.")
     return(empty_cache())
   }
-  
+
   # -------------------------------------------------
   # FILTER TO REGION 8
   # -------------------------------------------------
-  
+
   r8_bbox <- st_bbox(r8)
-  
+
   forecast_df_bbox <- forecast_df %>%
     filter(
       lon >= r8_bbox["xmin"],
@@ -704,24 +746,25 @@ build_cache <- function() {
       lat >= r8_bbox["ymin"],
       lat <= r8_bbox["ymax"]
     )
-  
+
   log_msg("After bbox filter:", nrow(forecast_df_bbox))
-  
+
   if (nrow(forecast_df_bbox) == 0) {
     log_msg("No forecasts inside Region 8 bounding box. Writing empty cache.")
     return(empty_cache())
   }
-  
+
   spots_sf <- st_as_sf(
     forecast_df_bbox,
     coords = c("lon", "lat"),
     crs = 4326,
     remove = FALSE
   )
-  
+
   spots_sf <- spots_sf[lengths(st_intersects(spots_sf, r8)) > 0, ]
-  forecast_df <- st_drop_geometry(spots_sf) 
-  
+  forecast_df <- st_drop_geometry(spots_sf)
+
+  # Assign local issuance time zones and display values.
   forecast_df <- forecast_df %>%
     rowwise() %>%
     mutate(
@@ -736,35 +779,51 @@ build_cache <- function() {
       )
     ) %>%
     ungroup()
-  
+
+  # Label forecasts using their individual local issuance time zones.
+  forecast_df$issued <- vapply(seq_len(nrow(forecast_df)), function(i) {
+    tz <- as.character(forecast_df$issuance_tz[i])
+
+    local_issued <- as.Date(forecast_df$issuanceTime[i], tz = tz)
+    local_today <- lubridate::today(tzone = tz)
+
+    if (local_issued == local_today) {
+      "Today"
+    } else if (local_issued == local_today - 1L) {
+      "Yesterday"
+    } else {
+      NA_character_
+    }
+  }, character(1))
+
   log_msg("Inside Region 8 polygon:", nrow(forecast_df))
-  
+
   if (nrow(forecast_df) == 0) {
     log_msg("No forecasts inside Region 8 polygon. Writing empty cache.")
     return(empty_cache())
   }
-  
+
   # -------------------------------------------------
   # CREATE PARSED SPOT TABLES
   # -------------------------------------------------
-  
+
   sfog_tables <- parse_spot_forecasts(forecast_df)
-  
+
   parsed_ok <- purrr::map_lgl(sfog_tables, ~ !is.null(.x) && nrow(.x) > 0)
   log_msg("Parsed sfog tables retained:", sum(parsed_ok), "of", length(sfog_tables))
-  
+
   forecast_df <- forecast_df[parsed_ok, , drop = FALSE]
   sfog_tables <- sfog_tables[parsed_ok]
-  
+
   if (nrow(forecast_df) == 0 || length(sfog_tables) == 0) {
     log_msg("No parsed spot forecast tables retained. Writing empty cache.")
     return(empty_cache())
   }
-  
+
   # -------------------------------------------------
   # COMBINE OUTPUTS
   # -------------------------------------------------
-  
+
   list(
     forecast_df = forecast_df,
     sfog_tables = sfog_tables,
@@ -792,6 +851,18 @@ api_result <- tryCatch(
 # Empty results are not evidence of a successful forecast retrieval.
 usable_new_data <- api_result$succeeded &&
   nrow(api_result$cache$forecast_df) > 0
+
+# Prevent publication of an empty cache after an incomplete API retrieval.
+if (
+  nrow(api_result$cache$forecast_df) == 0L &&
+  (!api_result$succeeded || length(api_failures) > 0L)
+) {
+  stop(
+    "Refusing empty cache after failed or incomplete NWS retrieval. ",
+    "Individual product failures: ", length(api_failures)
+  )
+}
+
 
 cache_obj <- merge_forecast_caches(
   previous = previous_cache,

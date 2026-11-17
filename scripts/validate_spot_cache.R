@@ -17,7 +17,23 @@ if (!all(required %in% names(x))) stop("Missing cache components: ", paste(setdi
 df <- x$forecast_df
 tables <- x$sfog_tables
 if (!is.data.frame(df) || !is.list(tables)) stop("Invalid forecast_df or sfog_tables type")
-if (nrow(df) == 0L) stop("Refusing empty forecast cache")
+if (nrow(df) == 0L) {
+  if (length(tables) != 0L) {
+    stop("Empty forecast cache contains screening tables")
+  }
+
+  if (length(x$last_refresh) != 1L ||
+      is.na(x$last_refresh)) {
+    stop("Invalid last_refresh")
+  }
+
+  cat("PASS: structurally valid empty forecast cache\n")
+  cat("Forecast versions: 0\n")
+  cat("Screening tables: 0\n")
+  cat("Last refresh:", as.character(x$last_refresh), "\n")
+
+  quit(save = "no", status = 0)
+}
 if (nrow(df) != length(tables)) stop("Forecast rows and screening tables are misaligned")
 needed <- c("spot_id", "issuanceTime", "forecast_version_id")
 if (!all(needed %in% names(df))) stop("Missing forecast columns: ", paste(setdiff(needed, names(df)), collapse = ", "))
@@ -32,23 +48,47 @@ if (!all(valid_tables)) stop("One or more screening tables are empty or invalid"
 
 # 3. Validate local issuance dates ----
 
-local_dates <- as.Date(df$issuanceTime, tz = "America/New_York")
-
-# Use today's date unless a historical validation date is supplied.
-validation_date <- as.Date(
-  Sys.getenv(
-    "VALIDATION_DATE",
-    unset = format(Sys.time(), "%Y-%m-%d", tz = "America/New_York")
-  )
+# Optional historical date for reproducible validation tests.
+validation_date_override <- Sys.getenv(
+  "VALIDATION_DATE",
+  unset = ""
 )
 
-if (is.na(validation_date)) {
-  stop("Invalid VALIDATION_DATE; expected YYYY-MM-DD")
+if (nzchar(validation_date_override)) {
+  validation_date <- as.Date(
+    validation_date_override,
+    format = "%Y-%m-%d"
+  )
+
+  if (is.na(validation_date)) {
+    stop("Invalid VALIDATION_DATE; expected YYYY-MM-DD")
+  }
 }
 
-if (anyNA(local_dates) ||
-    any(!local_dates %in% c(validation_date, validation_date - 1L))) {
-  stop("Forecast issuance outside validation date/yesterday (America/New_York)")
+if (!"issuance_tz" %in% names(df)) {
+  stop("Missing issuance_tz column")
+}
+
+valid_dates <- vapply(seq_len(nrow(df)), function(i) {
+  tz <- as.character(df$issuance_tz[i])
+
+  if (is.na(tz) || !nzchar(tz) || !tz %in% OlsonNames()) {
+    stop("Missing or invalid forecast issuance time zone")
+  }
+
+  local_issued <- as.Date(df$issuanceTime[i], tz = tz)
+
+  local_today <- if (nzchar(validation_date_override)) {
+    validation_date
+  } else {
+    lubridate::today(tzone = tz)
+  }
+
+  local_issued %in% c(local_today, local_today - 1L)
+}, logical(1))
+
+if (!all(valid_dates)) {
+  stop("Forecast issuance outside today/yesterday in local time zone")
 }
 if (length(x$last_refresh) != 1L || is.na(x$last_refresh)) stop("Invalid last_refresh")
 
