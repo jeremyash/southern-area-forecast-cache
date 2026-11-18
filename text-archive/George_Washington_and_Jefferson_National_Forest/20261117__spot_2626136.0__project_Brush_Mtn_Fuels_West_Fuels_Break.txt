@@ -1,0 +1,131 @@
+
+000
+FNUS71 KRNK 170925
+FWSRNK
+
+Spot Forecast for Brush Mtn Fuels West Fuels Break...USFS/Eastern Divide RD
+National Weather Service Blacksburg VA
+425 AM EST Tue Nov 17 2026
+
+Forecast is based on ignition time of 0700 EST on November 17. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Morning inversion will break around 9 AM or so. Strong high
+pressure system over the area will keep the winds light, less than
+5 mph, through the day, and skies mostly clear. Given the light
+winds, expecting smoke dispersal to be poor. Minimum RH will be in
+the low 30 percent range today, and in the mid to upper 20 percent
+range tomorrow/Wednesday as temperatures will be higher. 
+Temperatures increase under full sunshine to above seasonal 
+normals, near 60 degrees today and a few degrees warmer 
+tomorrow/Wednesday at the burn site.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (15-25 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 59. 
+Min humidity........33 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......2700 ft AGL. 
+Mixing winds........South 3 to 5 mph in the morning shifting 
+                    to the southwest 2 to 5 mph through 
+                    afternoon.
+Smoke dispersal.....Poor (1000 knot-ft). 
+LVORI...............4. 
+ADI.................3 to 12. 
+
+TIME (EST)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........34  23  9   3   2   3   10  9   13  4   9   
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+CWR.............0   0   0   0   0   0   0   0   0   0   0   
+Temp............30  32  39  44  49  54  56  57  58  57  53  
+RH..............86  87  75  65  55  44  39  36  33  34  39  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..0   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.2   2   2   2   4   4   2   2   2   2   2   
+Mix hgt (kft)...0.3 0.3 0.4 1.0 1.6 2.0 2.7 2.7 2.7 1.9 0.9 
+Mixng wind dir..S   NE  S   SW  SW  SW  SW  SW  SW  SW  SW  
+Mixng wind spd..3   3   3   5   5   5   3   3   2   2   2   
+LVORI...........6   6   4   3   2   2   2   2   2   2   2   
+ADI.............4   4   4   6   10  12  12  12  8   6   3   
+VRate mph-ft/1K.1   1   1   4   7   9   9   9   6   4   2   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-5 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 32. 
+Max humidity........77 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Mixing winds........Northeast 3 to 5 mph shifting to the northwest 
+                    around 5 mph overnight. 
+Smoke dispersal.....Poor (900 knot-ft). 
+LVORI...............3. 
+ADI.................2. 
+
+TIME (EST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........3      1      2      3      2      2      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............49     43     40     37     35     33     
+RH..............44     60     67     70     74     77     
+20 ft wind......N 0    N 0    N 0    N 0    N 0    N 0    
+20 ft wind gust.2      2      2      2      2      2      
+Mix hgt (ft)....500    400    300    300    300    400    
+Mixing wind......E 3    E 5    E 3    NE 5   NW 5   W 5    
+LVORI...........2      3      3      3      3      4      
+ADI.............2      2      2      2      2      2      
+VRate mph-ft/1K.2      2      1      1      1      2      
+
+.WEDNESDAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 62. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......2200 ft AGL. 
+Mixing winds........West 3 to 5 mph shifting to the south 5 to 6 
+                    mph in the late morning and afternoon, then 
+                    shifting to the east around 5 mph late in the 
+                    afternoon. 
+Smoke dispersal.....Poor (800 knot-ft). 
+LVORI...............3. 
+ADI.................4 to 16. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........1   5   3   2   3   3   4   3   4   2   4   3   
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............32  32  34  41  47  52  58  60  61  62  60  55  
+RH..............77  76  77  64  54  43  33  29  27  26  29  33  
+20 FT wind dir..N   N   N   N   N   N   N   N   N   N   N   N   
+20 FT wind spd..0   0   0   0   0   0   0   0   0   0   0   0   
+20 FT wind gust.2   2   2   2   2   2   2   2   2   2   2   4   
+Mix hgt (kft)...0.4 0.3 0.3 0.3 0.7 1.2 1.7 2.1 2.2 1.9 1.2 0.5 
+Mixng wind dir..W   W   W   W   S   S   S   S   S   S   SE  E   
+Mixng wind spd..5   5   3   5   5   5   5   5   6   6   5   5   
+LVORI...........4   4   4   3   2   2   2   2   2   2   2   2   
+ADI.............5   5   4   5   5   7   10  12  16  14  7   5   
+VRate mph-ft/1K.2   1   1   2   3   6   8   9   13  11  5   2   
+
+$$
+Forecaster...Sava
+Requested by...Brian Theiler
+Type of request...PRESCRIBED
+.TAG 2626136.0/RNK
+.DELDT 11/17/26
+.FormatterVersion 2.0.0
+.EMAIL brian.theiler@usda.gov,William.brimm@usda.gov,joshua.orr@usda.gov,bradley.duncan@usda.gov
+
