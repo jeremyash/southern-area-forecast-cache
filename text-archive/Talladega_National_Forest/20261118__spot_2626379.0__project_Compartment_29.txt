@@ -1,0 +1,153 @@
+
+000
+FNUS74 KBMX 180950
+FWSBMX
+
+Spot Forecast for Compartment 29...USFS
+National Weather Service Birmingham AL
+350 AM CST Wed Nov 18 2026
+
+Forecast is based on ignition time of 0500 CST on November 18. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Rain-free conditions are expected at the burn site today. Min RHs
+will fall to around 35% this afternoon before increasing to near
+80% overnight into Thursday morning. Easterly winds will gradually
+increase today with gusts up to 20 MPH likely at times. Moisture
+will increase as we head into Thursday with min RH values around
+55% and a low (10%) chance of rain. 
+
+
+.REST OF TONIGHT...
+
+Sky/weather.........Clear (0-5 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 44. 
+Max humidity........66 percent. 
+Wind (20 ft)........East winds around 6 mph. 
+Mixing height.......400 ft AGL. 
+Transport winds.....East around 14 mph. 
+Dispersion index....6. 
+LVORI...............3. 
+
+TIME (CST)      5 AM   
+Sky (%).........2      
+Weather cov.....       
+Weather type....NONE   
+Tstm cov........       
+CWR.............0      
+Temp............47     
+RH..............58     
+20 FT wind......E 6    
+20 FT wind gust.14     
+20 FT wind dir..080    
+Mix hgt (ft)....400    
+Transport wind..E 14   
+Dispersion idx..6      
+LVORI...........3      
+
+.TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Max temperature.....Around 71. 
+Min humidity........36 percent. 
+Wind (20 ft)........East winds 6 to 7 mph. Gusts up to 16 mph early 
+                    in the morning. 
+Mixing height.......3300 ft AGL. 
+Transport winds.....East 10 to 16 mph. 
+Dispersion index....9 increasing to 31 late in the morning, then 
+                    increasing to 45 early in the afternoon 
+                    increasing to 56 late in the afternoon 
+                    decreasing to 25 decreasing to 10 late in the 
+                    afternoon. 
+LVORI...............2. 
+
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........2      4      11     13     3      2      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............46     49     59     67     70     69     
+RH..............58     54     42     37     36     40     
+20 FT wind......E 6    E 7    E 7    E 7    E 7    E 6    
+20 FT wind gust.14     16     14     12     13     12     
+20 FT wind dir..080    080    090    090    090    080    
+Mix hgt (ft)....400    900    1800   2500   3200   1600   
+Transport wind..E 14   E 16   E 15   E 14   E 14   E 12   
+Dispersion idx..6      11     10     44     46     25     
+LVORI...........2      2      2      1      1      2      
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (5-15 percent). 
+CWR.................0 percent. 
+Min temperature.....Around 50. 
+Max humidity........80 percent. 
+Wind (20 ft)........East winds around 5 mph early in the evening 
+                    becoming light, then becoming east 5 to 6 mph 
+                    overnight. 
+Mixing height.......400 ft AGL. 
+Transport winds.....East 10 to 13 mph. 
+Dispersion index....6. 
+LVORI...............3. 
+
+TIME (CST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........1      2      1      2      5      16     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............61     56     54     52     52     51     
+RH..............62     72     71     71     71     74     
+20 FT wind......NE 5   E 5    E 3    E 3    E 5    E 5    
+20 FT wind gust.12     13     13     13     13     14     
+20 FT wind dir..060    080    080    080    070    070    
+Mix hgt (ft)....400    400    400    500    400    400    
+Transport wind..E 10   E 12   E 13   E 13   E 12   E 12   
+Dispersion idx..6      7      7      6      5      5      
+LVORI...........3      3      3      3      3      3      
+
+.THURSDAY...
+
+Sky/weather.........Mostly sunny (30-40 percent). 
+CWR.................10 percent. 
+Max temperature.....Around 70. 
+Min humidity........57 percent. 
+Wind (20 ft)........East winds 6 to 7 mph. Gusts up to 16 mph early 
+                    in the morning. 
+Mixing height.......3300 ft AGL. 
+Transport winds.....East 10 to 17 mph. 
+Dispersion index....9 increasing to 40 late in the morning, then 
+                    increasing to 55 late in the afternoon 
+                    decreasing to 33 late in the afternoon 
+                    decreasing to 18. 
+LVORI...............3. 
+
+TIME (CST)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........27     32     29     38     39     35     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............10     10     10     10     10     10     
+Temp............51     53     61     66     68     69     
+RH..............74     77     67     61     59     57     
+20 FT wind......E 6    E 7    E 7    E 7    E 7    E 7    
+20 FT wind gust.14     16     14     13     14     13     
+20 FT wind dir..070    070    070    080    080    070    
+Mix hgt (ft)....700    1300   1700   2300   2500   2000   
+Transport wind..E 12   E 16   E 16   E 14   E 15   E 13   
+Dispersion idx..5      11     11     38     43     33     
+LVORI...........4      4      3      1      1      1      
+
+$$
+Forecaster...Castillo
+Requested by...Karel Williams
+Type of request...PRESCRIBED
+.TAG 2626379.0/BMX
+.DELDT 11/18/26
+.FormatterVersion 2.0.0
+

@@ -1,0 +1,126 @@
+
+000
+FNUS71 KRNK 181253
+FWSRNK
+
+Spot Forecast for Brush Mtn Fuels West Fuels Break...USFS/Eastern Divide RD
+National Weather Service Blacksburg VA
+753 AM EST Wed Nov 18 2026
+
+Forecast is based on ignition time of 0835 EST on November 18. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Clear skies and calm to light wind expected today as a surface high pressure system 
+remains over the region. It will be a little warmer than previous days with
+a high in the lower 60s. Most notably, the air will be dry with dew points 
+in the upper 20s and relative humidity values as low as between 25-30%. Conditions
+on Thursday will be similar with a gradual increase in mid and upper level clouds.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-5 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 63. 
+Min humidity........26 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......2600 ft AGL. 
+Mixing winds........West 3 to 5 mph shifting to the south in the 
+                    late morning, then shifting to the southeast 
+around 5 mph late in the afternoon. 
+Smoke dispersal.....Poor (800 knot-ft). 
+LVORI...............3. 
+ADI.................4 to 15. 
+
+TIME (EST)      8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   0   0   0   0   0   0   0   0   0   
+Weather cov.....                                        
+Weather type....                                        
+Tstm cov........                                        
+CWR.............0   0   0   0   0   0   0   0   0   0   
+Temp............40  45  50  53  56  59  60  61  60  57  
+RH..............61  55  49  43  37  30  28  26  28  31  
+20 FT wind dir..SW  N   N   N   N   N   S   S   S   S   
+20 FT wind spd..1   0   0   0   0   0   1   1   1   1   
+20 FT wind gust.2   2   2   2   2   2   2   2   2   4   
+Mix hgt (kft)...0.3 0.3 0.6 1.2 1.8 2.6 2.6 2.6 1.5 0.7 
+Mixng wind dir..W   W   SW  S   S   S   S   S   SE  E   
+Mixng wind spd..5   3   3   5   5   5   5   3   5   5   
+LVORI...........3   3   2   2   2   2   2   2   2   2   
+ADI.............5   4   4   7   11  15  15  11  9   5   
+VRate mph-ft/1K.1   1   2   5   8   12  12  9   7   3   
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-10 percent). 
+CWR (0.01 in).......0 percent. 
+Min temperature.....Around 33. 
+Max humidity........63 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......300 ft AGL. 
+Mixing winds........Southeast 5 to 6 mph shifting to the west after 
+                    3 am. 
+Smoke dispersal.....Poor (1200 knot-ft). 
+LVORI...............3. 
+ADI.................2 to 3. 
+
+TIME (EST)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........0      0      0      0      0      7      
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+Temp............54     44     41     39     37     35     
+RH..............35     51     57     59     62     61     
+20 ft wind......S 1    N 0    N 0    N 0    SW 1   SW 1   
+20 ft wind gust.4      2      2      2      2      4      
+Mix hgt (ft)....400    400    300    300    300    400    
+Mixing wind......E 6    SE 5   S 5    S 5    SW 5   W 5    
+LVORI...........2      2      3      3      3      3      
+ADI.............3      2      2      2      2      2      
+VRate mph-ft/1K.2      2      2      1      1      2      
+
+.THURSDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+CWR (0.01 in).......0 percent. 
+Max temperature.....Around 63. 
+Min humidity........27 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......1800 ft AGL. 
+Mixing winds........Southwest 5 to 7 mph shifting to the southeast 
+                    around 5 mph late in the afternoon. 
+Smoke dispersal.....Poor (1000 knot-ft). 
+LVORI...............3. 
+ADI.................5 to 16. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........0   0   0   0   9   15  18  23  23  24  25  30  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............34  34  36  43  48  55  59  61  62  61  60  57  
+RH..............60  63  63  54  46  37  32  28  27  28  32  34  
+20 FT wind dir..SW  SW  S   S   S   SW  SW  N   N   N   N   N   
+20 FT wind spd..1   1   1   1   1   1   1   0   0   0   0   0   
+20 FT wind gust.4   4   4   2   2   2   2   2   2   2   2   2   
+Mix hgt (kft)...0.4 0.3 0.3 0.3 0.6 1.0 1.3 1.6 1.8 1.6 1.0 0.3 
+Mixng wind dir..W   W   W   W   W   SW  SW  SW  SW  SW  S   SE  
+Mixng wind spd..6   6   5   5   6   6   7   7   7   6   5   5   
+LVORI...........3   3   3   2   2   2   2   2   2   2   2   2   
+ADI.............6   6   5   5   6   7   12  15  16  12  6   5   
+VRate mph-ft/1K.2   2   1   1   4   6   9   11  12  9   4   1   
+
+$$
+Forecaster...Grover
+Requested by...Brian Theiler
+Type of request...PRESCRIBED
+.TAG 2626136.1/RNK
+.DELDT 11/18/26
+.FormatterVersion 2.0.0
+.EMAIL brian.theiler@usda.gov,William.brimm@usda.gov,bradley.duncan@usda.gov,joshua.orr@usda.gov
+
