@@ -1,0 +1,101 @@
+
+000
+FNUS72 KCAE 190933
+FWSCAE
+
+Spot Forecast for CPT 35 Site Prep...US Forest Service
+National Weather Service Columbia SC
+433 AM EST Thu Nov 19 2026
+
+Forecast is based on ignition time of 0900 EST on November 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...High pressure remains off to the north of the burn
+site again today, which will keep low-level and surface winds
+out of the northeast to east through the day.  There will be a
+low-level inversion to start the day, and it will begin to lift
+between 9 and 10 am. Wind speeds above the inversion will be
+around 25 mph, and those winds will be mixing down to the surface
+after 10 am.  Wind gusts between 15-20 mph can be expected from
+late morning through much of the afternoon hours.  Do expect to
+see a good amount of cloud cover moving up from the south today, 
+so sunshine may be limited.  Rain should remain well south of 
+the burn site, and generally expecting a dry day.  MinRH readings
+drop only down to around 50 percent. With the increase in clouds
+through tonight, along with the expectation that winds will not
+go calm overnight and into Friday morning, do not anticipate
+fog formation at this time.
+
+.REST OF TODAY...
+TIME (EST)      9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........79  87  90  81  91  91  84  79  80  
+Weather cov.....                                    
+Weather type....                                    
+Tstm cov........                                    
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   
+Temp............57  61  64  67  69  70  71  71  70  
+RH..............69  65  60  56  55  53  51  51  53  
+Aparnt tmp (F)..57  61  64  67  69  70  71  71  70  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind dir..050 050 060 060 060 060 060 060 050 
+20 FT wind spd..6   6   7   7   7   7   7   6   6   
+20 FT wind gust.15  15  15  15  16  16  16  15  15  
+Mix hgt (kft)...1.3 1.4 1.9 2.4 3.2 3.8 3.7 3.8 1.7 
+Transp wind dir.E   E   E   E   E   E   E   E   NE  
+Transp wind dir.070 070 070 070 080 080 080 070 060 
+Transp wind spd.20  18  17  17  17  16  16  16  13  
+LVORI...........3   1   1   1   1   1   1   1   2   
+ADI.............32  34  41  52  69  74  71  73  28  
+
+.TONIGHT...
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........84  74  66  65  67  76  79  67  71  65  67  62  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............68  65  62  61  60  59  58  58  57  57  56  56  
+RH..............59  65  70  72  75  78  77  77  77  77  77  77  
+Aparnt tmp (F)..68  65  62  61  60  59  58  58  57  57  56  56  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind dir..050 050 050 050 060 050 050 050 050 040 040 040 
+20 FT wind spd..6   6   6   5   5   5   5   5   5   6   6   6   
+20 FT wind gust.15  15  15  14  13  13  13  13  13  14  14  14  
+Mix hgt (kft)...0.7 0.4 0.5 0.4 0.5 0.6 0.5 0.5 0.9 0.8 1.1 0.9 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind dir.050 060 060 060 060 060 060 060 050 050 050 050 
+Transp wind spd.12  12  12  13  13  13  13  14  13  14  13  13  
+LVORI...........3   3   3   3   4   4   4   4   4   4   4   4   
+ADI.............8   8   8   8   8   8   8   9   8   9   8   8   
+
+.FRIDAY...
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........68  77  78  76  76  70  73  77  69  71  71  72  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Chc of pcpn (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............55  54  56  59  63  67  70  72  72  74  72  72  
+RH..............77  80  77  75  65  59  55  49  49  46  48  48  
+Aparnt tmp (F)..55  54  56  59  63  67  70  72  72  74  72  72  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind dir..040 040 040 050 050 050 050 060 060 060 060 060 
+20 FT wind spd..6   6   6   6   6   7   7   7   7   7   6   6   
+20 FT wind gust.15  15  15  15  15  15  16  16  18  16  15  15  
+Mix hgt (kft)...0.9 0.8 1.2 1.4 1.6 2.0 2.5 3.0 3.2 3.8 3.5 1.7 
+Transp wind dir.NE  NE  NE  NE  NE  NE  E   E   E   E   E   NE  
+Transp wind dir.050 050 050 060 060 060 070 070 070 070 070 060 
+Transp wind spd.14  13  15  17  16  16  16  17  16  17  16  12  
+LVORI...........4   4   3   3   3   1   1   1   1   1   1   2   
+ADI.............16  13  24  31  34  41  51  64  64  79  69  26  
+
+$$
+Forecaster...Liscinsky
+Requested by...Daniel Olney
+Type of request...PRESCRIBED
+.TAG 2626551.0/CAE
+.DELDT 11/19/26
+.FormatterVersion 2.0.0
+.EMAIL daniel.olney@usda.gov
+

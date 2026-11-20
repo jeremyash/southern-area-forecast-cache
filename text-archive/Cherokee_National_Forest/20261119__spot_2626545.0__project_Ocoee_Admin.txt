@@ -1,0 +1,106 @@
+
+000
+FNUS74 KMRX 191045
+FWSMRX
+
+Spot Forecast for Ocoee Admin...USFS
+National Weather Service Morristown TN
+545 AM EST Thu Nov 19 2026
+
+Forecast is based on ignition time of 0700 EST on November 19. 
+
+If conditions become unrepresentative,contact the National Weather
+Service...at 1-800-697-0075. If possible, please provide feedback
+for every spot forecast request.
+
+.DISCUSSION...
+
+Dry with pleasantly warm temperatures today. Minimum relative 
+humidity values will again dip into low values. Light winds are 
+forecast today, but may follow the downriver drainage of the Ocoee
+into the afternoon and develop more of an easterly component. 
+Winds will return to both light and highly variable this evening. 
+Any gust should be 10 mph or less.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+Max temperature.....Around 71. 
+Min humidity........28 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4000 ft AGL. 
+Transport winds.....East 5 to 9 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EST)      7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........3   2   8   12  11  8   14  7   9   22  10  
+Weather cov.....                                            
+Weather type....                                            
+Tstm cov........                                            
+Temp............39  40  49  55  61  66  68  69  71  69  66  
+RH..............76  70  54  45  39  34  32  30  28  28  30  
+20 FT wind dir..NE  NE  NE  NE  NE  E   NE  NE  E   E   NE  
+20 FT wind spd..3   3   2   2   2   2   2   2   2   2   1   
+20 FT wind gust.7   6   6   6   6   6   6   7   7   6   6   
+Mix hgt (kft)...0.4 0.4 0.5 0.7 1.4 2.5 3.6 3.9 4.0 3.1 1.1 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   NE  
+Transp wind spd.9   8   8   8   7   6   6   7   7   6   5   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent) then becoming 
+                    mostly cloudy (50-60 percent). 
+Min temperature.....Around 44. 
+Max humidity........82 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....East 5 to 8 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........22  11  8   6   16  23  25  23  22  34  41  54  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............60  53  51  50  48  48  47  46  45  45  45  45  
+RH..............37  48  52  56  63  65  71  76  79  82  82  79  
+20 FT wind dir..NE  E   E   NE  NE  E   NE  NE  NE  NE  NE  NE  
+20 FT wind spd..1   1   1   1   1   1   1   1   1   1   2   2   
+20 FT wind gust.6   5   5   4   5   5   5   5   5   5   6   6   
+Mix hgt (kft)...0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.5   6   6   7   8   8   8   8   8   8   7   7   
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent). 
+Max temperature.....Around 72. 
+Min humidity........32 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......3500 ft AGL. 
+Transport winds.....East 5 to 8 mph. 
+Rainfall amount.....0.00 inches. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........53  49  40  33  40  48  52  57  47  39  45  45  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............44  44  44  53  58  63  67  70  71  71  72  68  
+RH..............82  79  79  59  49  41  36  34  32  32  33  36  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  N   N   N   N   N   N   
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   1   
+20 FT wind gust.6   6   6   6   6   6   6   7   7   7   6   6   
+Mix hgt (kft)...0.4 0.4 0.4 0.5 0.9 1.6 2.3 3.0 3.5 3.4 2.7 0.8 
+Transp wind dir.E   E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.7   7   7   7   7   6   6   7   8   8   7   5   
+
+$$
+Forecaster...Nathan Wellington
+Requested by...Robert Culp
+Type of request...PRESCRIBED
+.TAG 2626545.0/MRX
+.DELDT 11/19/26
+.FormatterVersion 2.0.0
+.EMAIL brian.matoy@usda.gov,matthew.derstine@usda.gov,robert.culp@usda.gov
+

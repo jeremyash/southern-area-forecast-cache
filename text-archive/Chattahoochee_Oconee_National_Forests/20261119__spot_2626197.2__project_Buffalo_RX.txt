@@ -1,0 +1,137 @@
+
+000
+FNUS72 KFFC 190953
+FWSFFC
+
+Spot Forecast for Buffalo RX...US Forest Service
+National Weather Service Peachtree City GA
+453 AM EST Thu Nov 19 2026
+
+Forecast is based on ignition time of 0600 EST on November 19. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Good morning! While skies should remain mostly clear today, a few
+passing high clouds will be possible with cloud cover starting to
+increase into the overnight. Still, mostly clear skies and dry 
+air remaining in place means mixing should bring RHs into the 
+upper to mid 20s by late afternoon. Winds at 20ft will once again 
+have the potential to be a bit higher than listed below given the 
+elevation of the location, but will be east at 5-10 mph. Transport
+winds will be east at 5-10 mph and mixing heights will rise to 
+around 4000 ft making for fair smoke dispersion and ADI values in 
+the 30s. Overnight, smoke fog potential is low but sharp inversion
+will have potential to capture any smoke at the surface.
+
+.TODAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Max temperature.....Around 69. 
+Min humidity........29 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4100 ft AGL. 
+Transport winds.....East 5 to 9 mph. 
+Smoke dispersal.....Poor (3000 knot-ft) early in the morning 
+                    increasing to fair (23700 knot-ft) in the 
+                    afternoon. 
+LVORI...............2. 
+ADI.................5 to 33. 
+CEILING (KFT).......25. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........6   8   6   11  12  12  11  11  11  15  22  16  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............44  44  44  52  57  61  65  67  68  69  68  65  
+RH..............49  48  50  44  38  34  30  29  29  30  33  39  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   E   E   E   
+20 FT wind spd..2   3   2   2   2   2   2   2   2   2   2   1   
+20 FT wind gust.8   8   8   8   7   7   8   8   8   8   8   6   
+Mix hgt (kft)...0.4 0.4 0.4 0.4 0.9 1.7 2.8 3.8 4.1 4.1 3.1 1.0 
+Transp wind dir.SE  E   E   E   E   E   E   E   E   E   E   E   
+Transp wind spd.8   9   8   9   8   7   6   5   6   7   6   5   
+LVORI...........2   2   2   2   2   2   2   2   2   1   2   2   
+ADI.............9   9   9   9   10  16  21  23  28  33  23  5   
+Vrate kt-ft/1K..3   3   3   3   7   11  14  16  21  24  16  4   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  25  25  25  25  25  
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (20-30 percent) then becoming 
+                    mostly cloudy (50-60 percent). 
+Min temperature.....Around 46. 
+Max humidity........78 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....East 5 to 9 mph. 
+Smoke dispersal.....Poor (2000 knot-ft). 
+LVORI...............3. 
+ADI.................2 to 4. 
+CEILING (KFT).......25 decreasing to 10 overnight. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........26  15  9   6   18  22  28  27  31  41  47  53  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............59  53  52  51  50  50  49  49  48  48  47  47  
+RH..............47  60  64  64  67  69  70  71  74  75  76  77  
+20 FT wind dir..E   E   E   E   E   E   E   E   E   E   E   E   
+20 FT wind spd..1   2   2   2   2   1   1   1   1   1   2   2   
+20 FT wind gust.6   6   6   6   6   6   6   6   6   6   7   7   
+Mix hgt (kft)...0.5 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.E   E   E   E   E   E   E   SE  E   SE  SE  SE  
+Transp wind spd.5   6   6   7   8   9   8   8   8   8   8   8   
+LVORI...........2   3   3   3   3   3   3   3   3   4   4   4   
+ADI.............2   3   3   3   4   4   4   4   4   4   4   4   
+Vrate kt-ft/1K..2   2   2   3   3   3   3   3   3   3   3   3   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  25  25  25  25  25  25  12  12  12  10  10  
+
+.FRIDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent). 
+Max temperature.....Around 71. 
+Min humidity........37 percent. 
+Wind (20 ft)........Light winds. 
+Mixing height.......4000 ft AGL. 
+Transport winds.....East 3 to 8 mph. 
+Smoke dispersal.....Poor (2300 knot-ft) early in the morning 
+                    increasing to fair (25500 knot-ft) in the 
+                    afternoon. 
+LVORI...............3. 
+ADI.................5 to 35. 
+CEILING (KFT).......12. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........55  56  46  42  45  53  54  57  46  40  47  46  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............47  47  48  55  59  63  67  69  70  71  70  67  
+RH..............78  77  77  66  57  48  42  39  38  37  39  42  
+20 FT wind dir..E   E   E   NE  NE  NE  NE  NE  NE  NE  NE  N   
+20 FT wind spd..2   2   2   1   1   2   2   2   1   1   1   0   
+20 FT wind gust.7   7   6   6   6   7   8   8   8   7   7   6   
+Mix hgt (kft)...0.4 0.4 0.4 0.5 1.0 1.8 2.6 3.2 4.0 3.7 2.7 1.2 
+Transp wind dir.E   E   E   E   E   E   E   E   SE  SE  E   E   
+Transp wind spd.8   8   7   8   7   7   7   7   7   7   6   3   
+LVORI...........4   4   4   3   2   2   2   2   1   1   2   2   
+ADI.............8   8   7   8   9   15  22  28  35  32  22  5   
+Vrate kt-ft/1K..3   3   2   3   6   10  15  20  26  23  15  3   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...12  12  12  12  12  12  12  12  12  12  12  12  
+
+$$
+Forecaster...Lusk
+Requested by...Jake Hauser
+Type of request...PRESCRIBED
+.TAG 2626197.2/FFC
+.DELDT 11/18/26
+.FormatterVersion 2.0.0
+.EMAIL jake.hauser@usda.gov
+
