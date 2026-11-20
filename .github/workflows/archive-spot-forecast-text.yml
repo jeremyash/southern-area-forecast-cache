@@ -59,7 +59,6 @@ jobs:
             any::sf
             any::lubridate
             any::fs
-            any::openxlsx
 
       - name: Sync cache branch before archive
         working-directory: cache-repo
@@ -85,14 +84,20 @@ jobs:
           ls -lh spreadsheet-archive || true
 
           if [ ! -f spreadsheet-archive/spot_forecast_archive.csv ]; then
-            echo "ERROR: spreadsheet-archive/spot_forecast_archive.csv was not created"
+            echo "ERROR: Master archive CSV is missing"
             exit 1
           fi
 
-          if [ ! -f spreadsheet-archive/spot_forecast_archive.xlsx ]; then
-            echo "ERROR: spreadsheet-archive/spot_forecast_archive.xlsx was not created"
+          if ! find spreadsheet-archive \
+            -maxdepth 1 \
+            -name 'spot_forecasts_????_??.csv' \
+            -type f | grep -q .; then
+            echo "ERROR: No monthly archive CSV files were created"
             exit 1
           fi
+
+          echo "Master and monthly CSV archives verified."
+
 
       - name: Show git status
         working-directory: cache-repo
