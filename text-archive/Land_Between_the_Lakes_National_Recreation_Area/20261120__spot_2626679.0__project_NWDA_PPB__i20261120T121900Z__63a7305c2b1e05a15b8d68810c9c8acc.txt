@@ -1,0 +1,121 @@
+
+000
+FNUS73 KPAH 201219
+FWSPAH
+
+Spot Forecast for NWDA PPB...USFS LBL NAT REC AREA
+National Weather Service Paducah KY
+619 AM CST Fri Nov 20 2026
+
+Forecast is based on ignition time of 1100 CST on November 20. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+Minimum afternoon relative humidity should be in the 30-35% range 
+today. With mixing heights up to 4300' AGL and easterly transport
+winds at 10-12 mph, there will be a couple of hours of fair smoke
+dispersion this afternoon. The dispersion model output will follow
+in about 10 minutes.
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (0-10 percent). 
+CWR.................0 percent. 
+Temperature.........69 at ignition...Max 72. 
+RH..................37 percent at ignition...Min 31 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Winds east at 3 mph at ignition...otherwise 
+                    Light winds becoming east 5 to 6 mph in 
+                    the afternoon, then becoming light late in the 
+                    afternoon. 
+Mixing height.......3700 ft AGL at ignition...max 4300 ft AGL. 
+Transport winds.....East 8 to 12 mph. 
+Smoke dispersal.....Poor /12600 knot-ft/ at ignition. Max...fair 
+                    /43100 knot-ft/. 
+
+TIME (CST)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+CWR.............0   0   0   0   0   0   0   
+Temp............66  69  71  71  72  69  63  
+RH..............42  37  34  34  31  35  44  
+20 FT wind dir..E   E   E   E   E   E   E   
+20 FT wind spd..3   3   6   6   6   5   3   
+20 FT wind gust.8   10  10  10  10  8   7   
+Mix hgt (kft)...1.8 3.7 4.3 4.3 3.8 1.7 0.5 
+Transp wind dir.E   E   E   E   E   E   E   
+Transp wind spd.8   12  12  12  12  9   9   
+Vrate kt-ft/1K..13  37  43  43  38  14  4   
+Ventrate Cat....PR  PR  FR  FR  PR  PR  PR  
+
+.TONIGHT...
+
+Sky/weather.........Clear (0-5 percent). 
+CWR.................0 percent. 
+Temperature.........Min 44. 
+RH..................Max 76 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....Southeast 9 to 10 mph shifting to the south 
+                    around 10 mph overnight. 
+Smoke dispersal.....Poor (3300 knot-ft). 
+
+TIME (CST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR CLR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............59  54  52  51  49  48  48  47  46  46  46  44  
+RH..............51  61  66  68  74  74  71  71  71  71  71  76  
+20 FT wind dir..E   E   E   E   SE  SE  SE  SE  SE  SE  SE  SE  
+20 FT wind spd..2   2   2   2   2   2   2   2   2   2   2   2   
+20 FT wind gust.6   5   5   5   5   5   5   5   5   6   6   7   
+Mix hgt (kft)...0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+Transp wind dir.E   E   E   SE  SE  SE  SE  SE  S   S   S   S   
+Transp wind spd.10  9   9   9   10  9   9   10  10  10  10  10  
+Vrate kt-ft/1K..4   3   3   3   4   3   3   4   4   4   4   4   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+.SATURDAY...
+
+Sky/weather.........Sunny (5-15 percent). 
+CWR.................0 percent. 
+Temperature.........Max 71. 
+RH..................Min 44 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Light winds. 
+Mixing height.......3300 ft AGL. 
+Transport winds.....South 7 to 12 mph. 
+Smoke dispersal.....Poor (3600 knot-ft). 
+
+TIME (CST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......CLR CLR CLR CLR CLR CLR CLR CLR MCR MCR MCR MCR 
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............46  46  51  58  63  67  69  70  71  70  69  65  
+RH..............71  73  71  57  50  45  45  46  44  47  49  56  
+20 FT wind dir..SE  S   S   S   S   S   S   S   S   S   S   SE  
+20 FT wind spd..2   2   2   2   2   3   3   3   3   2   2   1   
+20 FT wind gust.7   8   9   9   10  10  10  10  9   9   6   5   
+Mix hgt (kft)...0.4 0.4 0.6 1.0 1.4 1.9 2.4 2.9 3.3 3.2 1.6 0.6 
+Transp wind dir.S   S   S   S   S   S   S   S   S   S   S   S   
+Transp wind spd.10  10  10  12  10  10  9   9   9   8   7   7   
+Vrate kt-ft/1K..4   4   5   10  13  17  19  23  26  23  10  4   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+
+$$
+Forecaster...SPAETH
+Requested by...DOUG PHELPS
+Type of request...PRESCRIBED
+.TAG 2626679.0/PAH
+.DELDT 11/20/26
+.FormatterVersion 2.0.0
+.EMAIL douglas.phelps@usda.gov
+
