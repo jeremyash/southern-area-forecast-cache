@@ -1,4 +1,210 @@
 archive_key,issuance_date,issuance_time_utc,issuance_time_local,timezone,project_name,project_type,forest,latitude,longitude,issuing_office,forecast_url,forecast_product_id,request_product_id,archive_file,forecast_text,coordinate_source,spot_id
+https://api.weather.gov/products/3aa20ea9-37c4-484b-8941-90d13e4ac508__v_7a101fec02a472310c5017d9d29a92a7,2026-11-24,2026-11-24 03:21:00 UTC,2026-11-23 22:21:00 EST,America/New_York,Ceilometer Research IH,PRESCRIBED,Chattahoochee-Oconee National Forests,33.727,-83.301,KFFC,https://spot.weather.gov/forecasts/2626471,https://api.weather.gov/products/3aa20ea9-37c4-484b-8941-90d13e4ac508,https://api.weather.gov/products/4b18596e-4d84-4ad7-8896-a2cb22fedc5a,Chattahoochee_Oconee_National_Forests/20261124__spot_2626471.5__project_Ceilometer_Research_IH__i20261124T032100Z__7a101fec02a472310c5017d9d29a92a7.txt,"
+000
+FNUS72 KFFC 240321
+FWSFFC
+
+Spot Forecast for Ceilometer Research IH...USFS
+National Weather Service Peachtree City GA
+1021 PM EST Mon Nov 23 2026
+
+Forecast is based on ignition time of 0000 EST on November 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Good evening. Skies have trended mostly clear this evening and will 
+largely persist through the night. However, lower ceilings in the
+2500-3500 ft range are expected by around sunrise as easterly flow
+returns amid a building ""wedge"". Mostly cloudy to overcast skies will
+then persist tomorrow. Mixing heights will reach around 2500-2600 ft 
+Tuesday afternoon. Winds will be on the increase through the day 
+up to 6-10 mph with gusts up to 20 mph or higher by afternoon. Rain
+chances will hold off until Wednesday. RH values will dip into the
+45-50 percent range Tuesday afternoon.
+
+.REST OF TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 50. 
+Max humidity........100 percent. 
+Dewpoint............53. 
+Wind (20 ft)........Light winds. 
+Mixing height.......400 ft AGL. 
+Transport winds.....North 8 to 10 mph. 
+Smoke dispersal.....Poor (3000 knot-ft). 
+LVORI...............9. 
+ADI.................4. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......25 decreasing to 4.0. 
+
+TIME (EST)      MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........25  24  30  37  38  40  
+Weather cov.....                        
+Weather type....                        
+Tstm cov........                        
+CWR.............0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   
+Temp............54  53  53  52  52  52  
+Dewpoint........54  53  53  52  52  52  
+RH..............100 100 100 100 100 99  
+20 FT wind dir..NW  N   N   N   N   N   
+20 FT wind spd..2   1   2   2   2   3   
+20 FT wind gust.9   8   9   9   12  13  
+Mix hgt (kft)...0.5 0.4 0.5 0.5 0.5 0.5 
+Transp wind dir.N   N   N   N   NE  NE  
+Transp wind spd.9   8   8   9   9   10  
+LVORI...........9   9   9   9   9   9   
+ADI.............4   4   4   4   4   4   
+Vrate kt-ft/1K..4   3   3   4   4   4   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...25  12  10  10  10  4.0 
+
+.TUESDAY...
+
+Sky/weather.........Mostly cloudy (65-75 percent). 
+CWR.................0 percent. 
+Chance of thunder...1 percent. 
+Max temperature.....Around 61. 
+Min humidity........46 percent. 
+Dewpoint............49 decreasing to 39. 
+Wind (20 ft)........Northeast winds 5 to 9 mph. Gusts up to 21 mph 
+                    in the late morning and afternoon. 
+Mixing height.......2600 ft AGL. 
+Transport winds.....Northeast 10 to 17 mph shifting to the east 13 
+                    to 21 mph in the late morning and afternoon. 
+Smoke dispersal.....Poor (4800 knot-ft) early in the morning 
+                    increasing to good (40800 knot-ft) in the 
+                    afternoon. 
+LVORI...............5. 
+ADI.................8 to 42. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......5.0 decreasing to 2.5 early in the morning, 
+                    increasing to 3.5 late in the morning. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........79  74  77  72  75  72  68  62  68  73  70  71  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............51  52  52  54  56  58  59  59  59  60  59  59  
+Dewpoint........51  50  50  48  46  44  42  40  40  39  39  39  
+RH..............100 93  94  80  69  60  54  50  48  46  48  47  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  E   NE  NE  NE  NE  
+20 FT wind spd..5   6   7   8   8   9   9   8   8   8   8   8   
+20 FT wind gust.14  16  18  20  21  21  21  20  20  20  20  20  
+Mix hgt (kft)...0.5 0.7 0.9 1.6 2.1 2.3 2.5 2.5 2.6 2.4 2.4 1.6 
+Transp wind dir.NE  NE  NE  E   E   E   E   E   E   E   E   NE  
+Transp wind spd.10  12  13  17  21  21  18  18  17  16  16  13  
+LVORI...........8   5   5   4   3   1   1   1   1   1   1   2   
+ADI.............8   13  16  30  42  42  40  41  38  35  34  21  
+Vrate kt-ft/1K..5   7   10  24  39  40  40  41  38  34  33  17  
+Ventrate Cat....PR  PR  PR  PR  PR  FR  PR  FR  PR  PR  PR  PR  
+Ceiling (kft)...4.0 2.5 2.5 2.5 2.5 3.5 3.5 3.5 3.5 3.5 3.5 3.5 
+
+.TUESDAY NIGHT...
+
+Sky/weather.........Mostly cloudy (70-80 percent). 
+CWR.................0 percent. 
+Chance of thunder...0 percent. 
+Min temperature.....Around 38. 
+Max humidity........77 percent. 
+Dewpoint............38 decreasing to 32 overnight. 
+Wind (20 ft)........Northeast winds 6 to 9 mph. Gusts up to 20 mph 
+                    early in the evening then 24 mph early in the 
+                    evening. 
+Mixing height.......600 ft AGL. 
+Transport winds.....Northeast 13 to 17 mph. 
+Smoke dispersal.....Good (33000 knot-ft) early in the evening 
+                    decreasing to poor (6000 knot-ft) late in the 
+                    night. 
+LVORI...............3. 
+ADI.................8 to 23. 
+Pcpn amount.........0.00 inches. 
+CEILING (KFT).......3.0 decreasing to 2.5 in the late evening and 
+                    overnight. 
+
+TIME (EST)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........77  72  67  76  79  77  75  75  76  80  82  85  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............0   0   0   0   0   0   0   0   0   0   0   0   
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............56  53  52  50  49  48  47  46  45  44  41  40  
+Dewpoint........39  39  39  40  39  38  36  34  33  31  31  30  
+RH..............52  57  62  67  68  67  67  65  64  62  65  67  
+20 FT wind dir..E   NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..7   6   6   7   7   7   7   7   8   8   9   9   
+20 FT wind gust.20  18  20  21  21  21  22  22  23  24  24  24  
+Mix hgt (kft)...1.0 0.6 1.1 1.5 2.0 2.3 2.2 2.2 2.1 1.0 1.0 0.6 
+Transp wind dir.NE  NE  NE  E   E   E   E   E   E   E   NE  NE  
+Transp wind spd.13  13  14  14  16  16  16  17  17  16  15  15  
+LVORI...........2   3   3   3   3   3   3   2   2   2   2   3   
+ADI.............11  8   9   9   11  22  22  23  23  15  14  13  
+Vrate kt-ft/1K..11  6   13  19  28  33  31  33  31  15  13  8   
+Ventrate Cat....PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  PR  
+Ceiling (kft)...3.0 3.0 3.0 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 
+
+.WEDNESDAY...
+
+Sky/weather.........Mostly cloudy (80-90 percent). Slight chance of 
+                    rain showers in the morning. Rain showers 
+                    likely in the afternoon. 
+CWR.................10 percent increasing to 60 percent. 
+Chance of thunder...2 percent. 
+Max temperature.....Around 52. 
+Min humidity........62 percent. 
+Dewpoint............31 increasing to 45. 
+Wind (20 ft)........Northeast winds 9 to 12 mph with gusts to 
+                    around 26 mph. 
+Mixing height.......2400 ft AGL. 
+Transport winds.....Northeast 16 to 23 mph. 
+Smoke dispersal.....Poor (11500 knot-ft) early in the morning 
+                    increasing to good (42400 knot-ft) in the 
+                    afternoon. 
+LVORI...............4. 
+ADI.................14 early in the morning increasing to 58 in the 
+                    afternoon. 
+Pcpn amount.........0.12 inches. 
+CEILING (KFT).......2.5 decreasing to 1.2. 
+
+TIME (EST)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........84  82  82  85  88  89  90  92  92  92  92  92  
+Weather cov.....    SCH SCH SCH SCH SCH SCH LKY LKY LKY LKY LKY 
+Weather type....    RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                                                
+CWR.............10  20  20  20  20  20  20  60  60  60  60  60  
+Chc of thdr (%).0   0   0   0   0   0   0   0   0   0   0   0   
+Temp............40  38  38  40  43  46  48  49  49  50  50  49  
+Dewpoint........30  30  32  35  38  40  41  42  43  44  45  46  
+RH..............69  71  77  82  82  78  77  76  77  80  83  87  
+20 FT wind dir..NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+20 FT wind spd..9   10  10  12  12  12  12  12  12  12  12  12  
+20 FT wind gust.24  25  25  25  25  25  25  25  25  26  26  26  
+Mix hgt (kft)...0.8 1.1 2.1 2.3 2.1 2.1 2.1 2.2 2.3 2.4 2.3 2.1 
+Transp wind dir.NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  NE  
+Transp wind spd.16  18  20  22  22  23  22  22  21  20  20  18  
+LVORI...........3   3   3   3   3   3   3   3   3   3   3   4   
+ADI.............14  25  50  58  56  57  57  56  56  55  52  47  
+Vrate kt-ft/1K..12  17  36  42  40  41  41  41  42  41  39  34  
+Ventrate Cat....PR  PR  PR  FR  FR  FR  FR  FR  FR  FR  PR  PR  
+Ceiling (kft)...2.5 2.5 2.5 2.5 2.5 1.8 1.2                     
+
+$$
+Forecaster...Willis
+Requested by...Benjamin Thigpen
+Type of request...PRESCRIBED
+.TAG 2626471.5/FFC
+.DELDT 11/24/26
+.FormatterVersion 2.0.0
+.EMAIL benjamin.thigpen@uga.edu
+",,2626471.5
 https://api.weather.gov/products/52bd9734-582f-418e-8b55-dd8d62a04d7b__v_e27a94dc1bda7676d12e469c101a4072,2026-11-23,2026-11-23 03:15:00 UTC,2026-11-22 22:15:00 EST,America/New_York,Ceilometer Research IH,PRESCRIBED,Chattahoochee-Oconee National Forests,33.727,-83.301,KFFC,https://spot.weather.gov/forecasts/2626471,https://api.weather.gov/products/52bd9734-582f-418e-8b55-dd8d62a04d7b,https://api.weather.gov/products/ed0ea8be-9733-4bf1-a7dd-095581507447,Chattahoochee_Oconee_National_Forests/20261123__spot_2626471.4__project_Ceilometer_Research_IH__i20261123T031500Z__e27a94dc1bda7676d12e469c101a4072.txt,"
 000
 FNUS72 KFFC 230315
