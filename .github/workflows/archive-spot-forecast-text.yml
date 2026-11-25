@@ -138,6 +138,11 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.SPOT_ARCHIVE_DISPATCH_TOKEN }}
         run: |
+          ARCHIVE_COMPLETED_UTC=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+
           gh workflow run update-archive.yml \
             --repo jeremyash/spot-forecast-archive \
-            --ref main
+            --ref main \
+            -f archive_completed_utc="$ARCHIVE_COMPLETED_UTC"
+
+          echo "Archive completed at: $ARCHIVE_COMPLETED_UTC"
