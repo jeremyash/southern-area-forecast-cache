@@ -133,3 +133,11 @@ jobs:
               git pull --rebase origin cache-data
             done
           fi
+
+      - name: Trigger Spot Forecast Archive website update
+        env:
+          GH_TOKEN: ${{ secrets.SPOT_ARCHIVE_DISPATCH_TOKEN }}
+        run: |
+          gh workflow run update-archive.yml \
+            --repo jeremyash/spot-forecast-archive \
+            --ref main
